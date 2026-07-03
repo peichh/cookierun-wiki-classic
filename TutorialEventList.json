@@ -1,0 +1,952 @@
+[
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "TutorialStart",
+    "TextContent": "\uc548\ub155\ud558\uc138\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "12",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0",
+    "_key": "1"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub0b4 \uc810\uc218\uac00 \ub420 \uc824\ub9ac~",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10004",
+    "TriggerValue2": "360",
+    "_key": "10"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774\uac74 \uc880\ub354 \uc810\uc218\uac00 \ub192\uc740",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10005",
+    "TriggerValue2": "0",
+    "_key": "11"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uacf0\uc824\ub9ac~",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10005",
+    "TriggerValue2": "360",
+    "_key": "12"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774\uac74 \ucf54\uc778\uc774\uc5d0\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10006",
+    "TriggerValue2": "0",
+    "_key": "13"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "TutorialPrologueEnd",
+    "TextContent": "\ub2e4\ub978 \ucfe0\ud0a4\ub4e4\uc744 \uc0b4 \uc218 \uc788\uc5b4\uc694 ^^",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10006",
+    "TriggerValue2": "360",
+    "_key": "14"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557, \uc7a5\uc560\ubb3c\uc774\ub2e4!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "100",
+    "_key": "15"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc810\ud504\ud574\uc11c \ub118\uc5b4\uc57c\uaca0\uc5b4\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "100",
+    "_key": "16"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uc9c0\uae08! \uc810\ud504!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "295",
+    "_key": "17"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc640!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "400",
+    "_key": "18"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc798\ud558\uc2dc\ub294\ub370\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100",
+    "_key": "19"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6a9\uac10\ud55c \ucfe0\ud0a4\uc785\ub2c8\ub2e4",
+    "TextHideDistance": "0",
+    "TriggerType": "12",
+    "TriggerValue1": "0",
+    "TriggerValue2": "360",
+    "_key": "2"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557! \ud070 \uc7a5\uc560\ubb3c!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100",
+    "_key": "20"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uadf8\ub807\ub2e4\uba74 \uc774\ub2e8\uc810\ud504!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100",
+    "_key": "21"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uc9c0\uae08! \uc810\ud504!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "230",
+    "_key": "22"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uacf5\uc911\uc5d0\uc11c! \ud55c\ubc88 \ub354!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "300",
+    "_key": "23"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc640! \uba4b\uc9c4\ub370\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "400",
+    "_key": "24"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557! \uc774\uac74 \ub108\ubb34 \ud070\ub370!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10009",
+    "TriggerValue2": "0",
+    "_key": "25"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc5b4? \ubc11\uc73c\ub85c \uacf5\uac04\uc774 \uc788\ub124\uc694\n\uc774\ub7f0\uac74 \uc2ac\ub77c\uc774\ub4dc\ub85c~",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10009",
+    "TriggerValue2": "0",
+    "_key": "26"
+  },
+  {
+    "\ufeffEventType": "202",
+    "FlurryEvent": "z",
+    "TextContent": "\uc9c0\uae08! \uc624\ub978\ucabd \uc2ac\ub77c\uc774\ub4dc \uafb8\uc6b1~!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10009",
+    "TriggerValue2": "120",
+    "_key": "27"
+  },
+  {
+    "\ufeffEventType": "202",
+    "FlurryEvent": "z",
+    "TextContent": "\ud1b5\uacfc\ud560\ub54c\uae4c\uc9c0 \uacc4\uc18d \ub20c\ub7ec\uc8fc\uc138\uc694",
+    "TextHideDistance": "1",
+    "TriggerType": "30",
+    "TriggerValue1": "10009",
+    "TriggerValue2": "490",
+    "_key": "28"
+  },
+  {
+    "\ufeffEventType": "101",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc640! \uc644\ubcbd\ud574\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10009",
+    "TriggerValue2": "500",
+    "_key": "29"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc624\ube10\uc18d\uc740 \uc815\ub9d0\u2026",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "3"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ubc8c\uc368 \uc870\uc791\ubc95\uc744 \ub2e4 \uc775\ud788\uc2dc\ub2e4\ub2c8",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "30"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "TutorialControlEnd",
+    "TextContent": "\uc815\ub9d0 \ub300\ub2e8\ud574\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360",
+    "_key": "31"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc815\ub9d0 \uac04\ub2e8\ud558\uc8e0?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "0",
+    "_key": "32"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uadf8\ub7fc, \uccb4\ub825\uc744 \uc54c\ub824\ub4dc\ub9ac\uc8e0",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "360",
+    "_key": "33"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc67c\ucabd\uc704 \uccb4\ub825\ubc14\uac00 \ubcf4\uc774\uc2dc\uc8e0?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "0",
+    "_key": "34"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub2ec\ub9b4\ub54c\ub294 \uccb4\ub825\uc774 \uc18c\ubaa8\ub429\ub2c8\ub2e4",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "360",
+    "_key": "35"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ubd80\ub52a\ud788\uba74 \ub9ce\uc774 \uae4e\uc774\uad6c\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "36"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub124? \ubd80\ub52a\ud600 \ubcf4\ub77c\uad6c\uc694?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360",
+    "_key": "37"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "(\uc544\ud50c\ud150\ub370...)",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100",
+    "_key": "38"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc545!",
+    "TextHideDistance": "1",
+    "TriggerType": "20",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0",
+    "_key": "39"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub365\ub124\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360",
+    "_key": "4"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc544\ud30c\uc694 \u315c\u315c",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "400",
+    "_key": "40"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uccb4\ub825\uc774 \uac70\uc758 \uc5c6\ub124\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "41"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uace7 \ud68c\ubcf5\ubb3c\uc57d\uc774 \ub098\uc62c\uac70\uc5d0\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360",
+    "_key": "42"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557\uc2f8! \ud68c\ubcf5\ubb3c\uc57d!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10012",
+    "TriggerValue2": "300",
+    "_key": "43"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\ud734~ \uccb4\ub825 \ud68c\ubcf5 \uc644\ub8cc!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10012",
+    "TriggerValue2": "600",
+    "_key": "44"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "TutorialHealthEnd",
+    "TextContent": "\ud68c\ubcf5\ubb3c\uc57d\uae4c\uc9c0\uc758 \uac70\ub9ac\ub294\n\uc67c\ucabd \uc704\uc5d0 \uc788\uc5b4\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10012",
+    "TriggerValue2": "600",
+    "_key": "45"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557, \uc870\uc2ec! \uad6c\uba4d\uc774\uc5d0\uc694!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "80",
+    "_key": "46"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\ubd80\ub514 \uc870\uc2ec\ud574\uc8fc\uc138\uc694",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "80",
+    "_key": "47"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uad6c\uba4d\uc5d0 \ube60\uc9c0\uba74 \n\uadf8\ub300\ub85c \ub05d\uc774\ub2c8\uae4c\uc694!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "80",
+    "_key": "48"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uadf8\ub7fc \uc774\uac83\ub3c4, \uc810\ud504!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "180",
+    "_key": "49"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uac8c\uc784\ubc29\ubc95\uc744 \ubaa8\ub450 \uc775\ud600",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "0",
+    "_key": "5"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557, \ud55c\ubc88 \ub354!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "280",
+    "_key": "50"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc624! \ud655\uc2e4\ud788 \uc798\ud558\uc2dc\ub124\uc694!",
+    "TextHideDistance": "240",
+    "TriggerType": "10",
+    "TriggerValue1": "10013",
+    "TriggerValue2": "400",
+    "_key": "51"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774 \uc824\ub9ac\ub294 \uc54c\ud30c\ubcb3\uc824\ub9ac!",
+    "TextHideDistance": "240",
+    "TriggerType": "10",
+    "TriggerValue1": "10014",
+    "TriggerValue2": "0",
+    "_key": "52"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "BONUSTIME\u2026 ?",
+    "TextHideDistance": "240",
+    "TriggerType": "10",
+    "TriggerValue1": "10014",
+    "TriggerValue2": "0",
+    "_key": "53"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\ub2e4 \uba39\uc5b4\ubcfc\uae4c\uc694?",
+    "TextHideDistance": "240",
+    "TriggerType": "10",
+    "TriggerValue1": "10014",
+    "TriggerValue2": "0",
+    "_key": "54"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\uac00\ubccd\uac8c \uc810\ud504!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10014",
+    "TriggerValue2": "80",
+    "_key": "55"
+  },
+  {
+    "\ufeffEventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "\ud55c\ubc88 \ub354!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10014",
+    "TriggerValue2": "150",
+    "_key": "56"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc653! \ub2e4 \uba39\uc5b4\ubc84\ub838\ub124!",
+    "TextHideDistance": "300",
+    "TriggerType": "40",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0",
+    "_key": "57"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc624! \uc774\uacf3\uc740?",
+    "TextHideDistance": "1",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "360",
+    "_key": "58"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "h",
+    "TextContent": "\ubcf4\ub108\uc2a4\ud0c0\uc784\uc5d0 \uc62c\ub77c\uc654\uc5b4\uc694!",
+    "TextHideDistance": "1",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "380",
+    "_key": "59"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uaf2d \ud0c8\ucd9c\uc2dc\ucf1c\uc8fc\uc138\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "360",
+    "_key": "6"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "h",
+    "TextContent": "\uc5ec\uae30\uc120 \ub0a0\uc544\ub2e4\ub2d0 \uc218 \uc788\uc5b4\uc694.",
+    "TextHideDistance": "1",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "380",
+    "_key": "60"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "h",
+    "TextContent": "\uc544\ubb34\uacf3\uc774\ub098 \ub204\ub974\uba74 \uc62c\ub77c\uac00\uace0",
+    "TextHideDistance": "1",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "380",
+    "_key": "61"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "h",
+    "TextContent": "\ub5bc\uba74 \ub0b4\ub824\uac00\uace0~",
+    "TextHideDistance": "1",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "380",
+    "_key": "62"
+  },
+  {
+    "\ufeffEventType": "300",
+    "FlurryEvent": "h",
+    "TextContent": "\ud55c\ubc88 \ud574 \ubcf4\uc138\uc694",
+    "TextHideDistance": "300",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "380",
+    "_key": "63"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "e",
+    "TextContent": "\ub20c\ub800\ub2e4~ \ub9d0\uc558\ub2e4~",
+    "TextHideDistance": "600",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "600",
+    "_key": "64"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "e",
+    "TextContent": "\uc57c\ud638~~~ \uc2e0\ub09c\ub2e4~~~!",
+    "TextHideDistance": "400",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "1200",
+    "_key": "65"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "e",
+    "TextContent": "\uc557! \ubc8c\uc368 \uc2dc\uac04\uc774\u2026",
+    "TextHideDistance": "0",
+    "TriggerType": "11",
+    "TriggerValue1": "0",
+    "TriggerValue2": "2200",
+    "_key": "66"
+  },
+  {
+    "\ufeffEventType": "301",
+    "FlurryEvent": "e",
+    "TextContent": "\ub0b4\ub824\uac04\ub2e4\uc544\uc544\uc544~~",
+    "TextHideDistance": "300",
+    "TriggerType": "41",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0",
+    "_key": "67"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "TutorialBonusTimeEnd",
+    "TextContent": "\ub9c8\uc9c0\ub9c9\uc73c\ub85c \uc544\uc774\ud15c\uc774\uc5d0\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "68"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "e",
+    "TextContent": "\uc800\uae30 \uac70\ub300\ud654 \ubb3c\uc57d\uc774 \uc788\ub124\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "500",
+    "_key": "69"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ubc29\ubc95\uc740 \uac04\ub2e8\ud574\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "0",
+    "_key": "7"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ud6c4\ud6d7!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10015",
+    "TriggerValue2": "0",
+    "_key": "70"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc640! \ubab8\uc774 \ucee4\uc84c\ub2e4",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10015",
+    "TriggerValue2": "200",
+    "_key": "71"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc7a5\uc560\ubb3c\ub4e4\uc544 \ub2e4 \uaebc\uc838\ub77c!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10015",
+    "TriggerValue2": "500",
+    "_key": "72"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uba4b\uc9c4\ub370? \u314e\u314e",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "73"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774\ubc88\uc5d4  \uad11\uc18d\uc9c8\uc8fc\uc5d0\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "500",
+    "_key": "74"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ubc14\ub78c\ucc98\ub7fc \ube60\ub974\uac8c!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10016",
+    "TriggerValue2": "60",
+    "_key": "75"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ubc14\uc704\ucc98\ub7fc \ub2e8\ub2e8\ud558\uac8c!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10016",
+    "TriggerValue2": "500",
+    "_key": "76"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc0b4\uc544\uc788\ub124?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10017",
+    "TriggerValue2": "200",
+    "_key": "77"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc544\ub2c8 \uc800\uac83\uc740",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "78"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uacf0\uc824\ub9ac \ud30c\ud2f0 \uc544\uc774\ud15c\uc774\ub124\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "500",
+    "_key": "79"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub9db\uc788\ub294 \uc824\ub9ac\ub97c \uba39\uc73c\uba74\uc11c\n\ub2ec\ub9ac\uba74 \ub418\uc8e0",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "360",
+    "_key": "8"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc77c\ubc18\uc824\ub9ac\uac00 \uacf0\uc824\ub9ac\ub85c \ubcc0\uc2e0!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10018",
+    "TriggerValue2": "60",
+    "_key": "80"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uacf0\uc824\ub9ac\ub294 \uc810\uc218\uac00 \uc81c\uc77c \ub192\uc8e0",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10018",
+    "TriggerValue2": "300",
+    "_key": "81"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc640\uc6b0! \uaf64 \ub9ce\uc774 \ubc14\ub00c\uc8e0?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10023",
+    "TriggerValue2": "0",
+    "_key": "82"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\uc557! \uc790\uc11d\uc544\uc774\ud15c!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10023",
+    "TriggerValue2": "500",
+    "_key": "83"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc6b0\uc653! \ub300\ubc15!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10019",
+    "TriggerValue2": "60",
+    "_key": "84"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ud788\ud788",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10019",
+    "TriggerValue2": "360",
+    "_key": "85"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ub9c8\uc9c0\ub9c9 \uc544\uc774\ud15c\uc740",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "86"
+  },
+  {
+    "\ufeffEventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "\ucf54\uc778\ub9c8\ubc95 \uc544\uc774\ud15c\uc774\uc5d0\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "500",
+    "_key": "87"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc7a5\uc560\ubb3c\ub4e4\uc774 \ubaa8\ub450",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10020",
+    "TriggerValue2": "60",
+    "_key": "88"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ucf54\uc778\uc73c\ub85c \ubcc0\ud588\uc5b4\uc694!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10020",
+    "TriggerValue2": "360",
+    "_key": "89"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc9c0\uae08\uba39\uace0 \uc788\ub294\uac8c",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10004",
+    "TriggerValue2": "0",
+    "_key": "9"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774\uc81c \ubaa8\ub4e0 \uc900\ube44\uac00 \ub05d\ub0ac\uc5b4\uc694",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0",
+    "_key": "90"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ud6c4\ud6d7",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360",
+    "_key": "91"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\ud29c\ud1a0\ub9ac\uc5bc\uc744 \ub2e4\uc2dc \ubcf4\uc2dc\ub824\uba74",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "0",
+    "_key": "92"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc124\uc815\uc5d0 \uc788\ub294 \ud29c\ud1a0\ub9ac\uc5bc \n\ubc84\ud2bc\uc744 \ub20c\ub974\uc2dc\uba74 \ub429\ub2c8\ub2e4",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "360",
+    "_key": "93"
+  },
+  {
+    "\ufeffEventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "\uc774\uc81c \uc808 \ud0c8\ucd9c\uc2dc\ucf1c...\uc557!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "0",
+    "_key": "94"
+  },
+  {
+    "\ufeffEventType": "999",
+    "FlurryEvent": "TutorialEnd",
+    "TextContent": "\uc544\uc57c! \u3160\u3160",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "305",
+    "_key": "95"
+  }
+]

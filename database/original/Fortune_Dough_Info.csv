@@ -1,0 +1,53 @@
+﻿doughSeq,rewardDesc,rewardIconFrame,rewardIconPlist,rewardName,_key
+80001,Brown/Silver,reward_icon_dough.png,bc_reward_icon.plist,Fortune Dough,1001
+80001,5-20,reward_icon_heart_small.png,bc_reward_icon.plist,Lives,1002
+80001,100-300,reward_icon_gift_small.png,bc_reward_icon.plist,Gift Points,1003
+80001,1-3,reward_icon_boostset.png,bc_reward_icon.plist,Boost Set,1004
+80001,S/M,reward_icon_xp_small.png,bc_reward_icon.plist,XP-Elixir,1005
+80001,3-5,reward_icon_key_small.png,bc_reward_icon.plist,Keys,1006
+80001,100-800,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,1007
+80001,1,event_mt_S_set.png,bc_reward_icon.plist,S Ingredient,1008
+80001,3-5,reward_icon_inven_plus.png,bc_reward_icon.plist,Extension,1009
+80001,1,reward_icon_trTicketS_small.png,bc_reward_icon.plist,Great Ticket,1010
+80001,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Ticket,1011
+80001,"1,000-10,000",reward_icon_coin_small.png,bc_reward_icon.plist,Coins,1012
+80001,1-5,reward_icon_crystal_small.png,bc_reward_icon.plist,Crystal,1013
+80002,Brown-Gold,reward_icon_dough.png,bc_reward_icon.plist,Fortune Dough,2001
+80002,10-30,reward_icon_heart_small.png,bc_reward_icon.plist,Lives,2002
+80002,200-500,reward_icon_gift_small.png,bc_reward_icon.plist,Gift Points,2003
+80002,1-5,reward_icon_boostset.png,bc_reward_icon.plist,Boost Set,2004
+80002,S-L,reward_icon_xp_small.png,bc_reward_icon.plist,XP-Elixir,2005
+80002,3-10,reward_icon_key_small.png,bc_reward_icon.plist,Keys,2006
+80002,"400-3,000",reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,2007
+80002,1,event_mt_S_set.png,bc_reward_icon.plist,S Ingredient,2008
+80002,1,event_mt_SS_set.png,bc_reward_icon.plist,S+ Ingredient,2009
+80002,3-10,reward_icon_inven_plus.png,bc_reward_icon.plist,Extension,2010
+80002,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Ticket,2011
+80002,1,reward_icon_treasure_set_small.png,bc_reward_icon.plist,S Treasure,2012
+80002,"3,000-20,000",reward_icon_coin_small.png,bc_reward_icon.plist,Coins,2013
+80002,3-15,reward_icon_crystal_small.png,bc_reward_icon.plist,Crystal,2014
+80003,Brown-Rainbow,reward_icon_dough.png,bc_reward_icon.plist,Fortune Dough,3001
+80003,20-50,reward_icon_heart_small.png,bc_reward_icon.plist,Lives,3002
+80003,30-800,reward_icon_gift_small.png,bc_reward_icon.plist,Gift Points,3003
+80003,3-7,reward_icon_boostset.png,bc_reward_icon.plist,Boost Set,3004
+80003,M-XL,reward_icon_xp_small.png,bc_reward_icon.plist,XP-Elixir,3005
+80003,5-15,reward_icon_key_big.png,bc_reward_icon.plist,Keys,3006
+80003,"500-5,000",reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,3007
+80003,1,event_mt_S_set.png,bc_reward_icon.plist,S Ingredient,3008
+80003,1,event_mt_SS_set.png,bc_reward_icon.plist,S+ Ingredient,3009
+80003,3-10,reward_icon_inven_plus.png,bc_reward_icon.plist,Extension,3010
+80003,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Ticket,3011
+80003,1-3,reward_icon_treasure_set_small.png,bc_reward_icon.plist,S Treasure,3012
+80003,"5,000-30,000",reward_icon_coin_big.png,bc_reward_icon.plist,Coins,3013
+80003,5-30,reward_icon_crystal_small.png,bc_reward_icon.plist,Crystal,3014
+80004,Brown-Rainbow,reward_icon_dough.png,bc_reward_icon.plist,Fortune Dough,4001
+80004,"500-1,000",reward_icon_gift_small.png,bc_reward_icon.plist,Gift Points,4002
+80004,L-XXL,reward_icon_xp_small.png,bc_reward_icon.plist,XP-Elixir,4003
+80004,10-20,reward_icon_key_big.png,bc_reward_icon.plist,Keys,4004
+80004,"2,000-8,000",reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,4005
+80004,1,event_mt_SS_set.png,bc_reward_icon.plist,S+ Ingredient,4006
+80004,3-15,reward_icon_inven_plus.png,bc_reward_icon.plist,Extension,4007
+80004,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Ticket,4008
+80004,1-7,reward_icon_treasure_set_small.png,bc_reward_icon.plist,S Treasure,4009
+80004,"10,000-50,000",reward_icon_coin_big.png,bc_reward_icon.plist,Coins,4010
+80004,10-100,reward_icon_crystal_big.png,bc_reward_icon.plist,Crystal,4011

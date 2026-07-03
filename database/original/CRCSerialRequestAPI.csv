@@ -1,0 +1,11 @@
+﻿name,_key
+member/getEpisodeLeagueMemberInfo.ds,1
+shop/useTicket.ds,10
+member/episodeDefaultMemberInfo.ds,2
+member/initMember3.ds,3
+service.api.ListTimeDealsRequest,4
+game/episodeBeforePlay.ds,5
+game/acceptLifeMail4.ds,6
+member/getEpisodeFriendInfo2.ds,7
+game/sendLifeMail2.ds,8
+member/iceTowerInfo.ds,9

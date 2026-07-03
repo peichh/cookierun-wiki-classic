@@ -1,0 +1,639 @@
+[
+  {
+    "id": "100100",
+    "name": "GingerBrave",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "110"
+  },
+  {
+    "id": "100200",
+    "name": "Strawberry Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "135"
+  },
+  {
+    "id": "100300",
+    "name": "GingerBright",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "110"
+  },
+  {
+    "id": "100400",
+    "name": "GingerBrave",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "100500",
+    "name": "Cloud Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "135"
+  },
+  {
+    "id": "100600",
+    "name": "Buttercream Choco Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "135"
+  },
+  {
+    "id": "100700",
+    "name": "Ninja Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "100800",
+    "name": "Princess Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "100900",
+    "name": "Knight Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "101000",
+    "name": "Coffee Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "101100",
+    "name": "Skater Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "101200",
+    "name": "Angel Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "101300",
+    "name": "Zombie Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "101400",
+    "name": "Cream Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "135"
+  },
+  {
+    "id": "101500",
+    "name": "Muscle Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "150"
+  },
+  {
+    "id": "101600",
+    "name": "Pirate Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "101800",
+    "name": "Skating Queen Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "101900",
+    "name": "Hero Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102000",
+    "name": "Cheerleader Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102100",
+    "name": "Special Force Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102200",
+    "name": "Rebel Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "180"
+  },
+  {
+    "id": "102300",
+    "name": "Devil Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102400",
+    "name": "Kumiho Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102500",
+    "name": "Wizard Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102600",
+    "name": "Fairy Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "180"
+  },
+  {
+    "id": "102700",
+    "name": "Rockstar Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102800",
+    "name": "Cherry Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "102900",
+    "name": "Carol Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103000",
+    "name": "Snow Sugar Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103100",
+    "name": "Pink Coco Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103200",
+    "name": "Prophet Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103300",
+    "name": "Pistachio Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103400",
+    "name": "Alchemist Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103500",
+    "name": "Vampire Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103600",
+    "name": "Apple Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103700",
+    "name": "Cheesecake Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103800",
+    "name": "Adventurer Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "103900",
+    "name": "Soda Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104000",
+    "name": "Tiger Lily Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "104100",
+    "name": "Fire Spirit Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "104200",
+    "name": "Blackberry Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104300",
+    "name": "Kiwi Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104400",
+    "name": "Werewolf Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104500",
+    "name": "Cocoa Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104600",
+    "name": "Mint Choco Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104700",
+    "name": "Red Pepper Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104800",
+    "name": "Cream Puff Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "104900",
+    "name": "Moonlight Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "105000",
+    "name": "Gumball Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105100",
+    "name": "Cherry Blossom Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105200",
+    "name": "Lemon Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105300",
+    "name": "Orange Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105400",
+    "name": "Lime Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105500",
+    "name": "Peppermint Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105600",
+    "name": "Peach Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105700",
+    "name": "General Jujube Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105800",
+    "name": "Onion Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "105900",
+    "name": "Macaron Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106000",
+    "name": "Cinnamon Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106100",
+    "name": "Red Bean Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106200",
+    "name": "White Choco Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106300",
+    "name": "Herb Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106400",
+    "name": "Dino-Sour Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106500",
+    "name": "Sea Fairy Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "106600",
+    "name": "Cotton Candy Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106700",
+    "name": "Roll Cake Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106800",
+    "name": "Banana Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "106900",
+    "name": "Pancake Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107000",
+    "name": "Wind Archer Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "107100",
+    "name": "Moon Rabbit Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107200",
+    "name": "Strawberry Shortcake Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107300",
+    "name": "Gulab Jamun Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107400",
+    "name": "Kaju Katli Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107500",
+    "name": "Marshmallow Bunny Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107700",
+    "name": "Cucumber Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107800",
+    "name": "Sikhye Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "107900",
+    "name": "Sujeonggwa Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108000",
+    "name": "Barley Sentry Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108100",
+    "name": "Princess Bari Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "170"
+  },
+  {
+    "id": "108200",
+    "name": "Potato Salad Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108300",
+    "name": "Scallion Kimchi Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108400",
+    "name": "White Kimchi Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108500",
+    "name": "Admiral Gimbap Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "170"
+  },
+  {
+    "id": "108600",
+    "name": "Manggaetteok Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108700",
+    "name": "Blooming Dancheong Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "185"
+  },
+  {
+    "id": "108800",
+    "name": "Garaetteok Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "108900",
+    "name": "Choco Pistachio Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "109000",
+    "name": "Dandelion Fairy Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "109100",
+    "name": "Kaymak Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  },
+  {
+    "id": "109200",
+    "name": "Pine Monk Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "170"
+  },
+  {
+    "id": "109300",
+    "name": "Lotus Root Phantom Cookie",
+    "grade": "0",
+    "unlock": "Default",
+    "max_hp": "160"
+  }
+]

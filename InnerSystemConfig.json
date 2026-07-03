@@ -1,0 +1,2000 @@
+[
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Abusing_AppPermission_Crash_Off"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Abusing_AppPermission_PopUp_Off"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Abusing_TimeModified_Crash_Off"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "84",
+    "Value_2": "",
+    "_key": "Abusing_TimeModified_FPS_High"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Abusing_TimeModified_PopUp_Off"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Abusing_UseExceptionDevice"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "ActivtyPointGiftAgainButtonOn"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "AngelSpecialEvent"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100000",
+    "Value_2": "",
+    "_key": "AngleCookieRewardAmount"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "crc_event_12anniversary.ccbi",
+    "Value_2": "",
+    "_key": "AnniversaryRewardEventTargetCCB"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "ArtifactSpecialEvent"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2099-12-31 23:59:59",
+    "Value_2": "",
+    "_key": "ArtifactTakeCookieEventEndDate"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2024-03-01 00:00:01",
+    "Value_2": "",
+    "_key": "ArtifactTakeCookieEventStartDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "500007",
+    "Value_2": "",
+    "_key": "ArtifactTakeCookieEventStuffId"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4345",
+    "Value_2": "",
+    "_key": "BardObstacleJellyType"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "20",
+    "Value_2": "",
+    "_key": "Bard_Obstacle_NumOfJelly"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "20",
+    "Value_2": "",
+    "_key": "BariPrincess_MakeFlowerJellyAmount"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "BlockGameJustHackInstallOff"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "BlockGameJustHackRunningOff"
+  },
+  {
+    "\ufeffTag_1": "value1",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "CRCCookiePassHardCloseBufferSecs"
+  },
+  {
+    "\ufeffTag_1": "value1",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3600",
+    "Value_2": "",
+    "_key": "CRCCookiePassSoftCloseBufferSecs"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-140",
+    "Value_2": "-60",
+    "_key": "Camera_Offset_From_Character"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "86400",
+    "Value_2": "",
+    "_key": "ChangeNickNameWaitTime"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "CharHpOverHealOff"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-7",
+    "Value_2": "10",
+    "_key": "Character_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "20",
+    "Value_2": "52",
+    "_key": "Character_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "Accel",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "0.03",
+    "Value_2": "",
+    "_key": "Character_ComboAccelSpeed"
+  },
+  {
+    "\ufeffTag_1": "Time",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "Character_CrashImmotalTime"
+  },
+  {
+    "\ufeffTag_1": "Time",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Character_CrashRollingTime"
+  },
+  {
+    "\ufeffTag_1": "Rate",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "0.5",
+    "Value_2": "",
+    "_key": "Character_CrashSpeedRate"
+  },
+  {
+    "\ufeffTag_1": "Height",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "85",
+    "Value_2": "",
+    "_key": "Character_DoubleJumpHeight"
+  },
+  {
+    "\ufeffTag_1": "Quantity",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "40",
+    "Value_2": "",
+    "_key": "Character_EnergyDamage"
+  },
+  {
+    "\ufeffTag_1": "Quantity",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "Character_EnergyDiminishValueNew"
+  },
+  {
+    "\ufeffTag_1": "Quantity",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "Character_EnergyMax"
+  },
+  {
+    "\ufeffTag_1": "Quantity",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "Character_EnergyStart"
+  },
+  {
+    "\ufeffTag_1": "Speed",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "-180",
+    "Value_2": "",
+    "_key": "Character_FeverDownSpeed"
+  },
+  {
+    "\ufeffTag_1": "Speed",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "Character_FeverGravity"
+  },
+  {
+    "\ufeffTag_1": "Speed",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "170",
+    "Value_2": "",
+    "_key": "Character_FeverJumpSpeed"
+  },
+  {
+    "\ufeffTag_1": "Time",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "0.2f",
+    "Value_2": "",
+    "_key": "Character_FeverJumpUpTime"
+  },
+  {
+    "\ufeffTag_1": "Rate",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Character_FeverRunSpeedRate"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-10",
+    "Value_2": "24",
+    "_key": "Character_GetJellyEffectOffset"
+  },
+  {
+    "\ufeffTag_1": "Height",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "80",
+    "Value_2": "",
+    "_key": "Character_JumpHeight"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "150",
+    "Value_2": "",
+    "_key": "Character_JumpWidth"
+  },
+  {
+    "\ufeffTag_1": "Speed",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "Character_RunSpeed"
+  },
+  {
+    "\ufeffTag_1": "Count",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "Character_ShieldMax"
+  },
+  {
+    "\ufeffTag_1": "Count",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Character_ShieldStart"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-20",
+    "Value_2": "0",
+    "_key": "Character_SlideColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "40",
+    "Value_2": "27",
+    "_key": "Character_SlideColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "ScaleX",
+    "Tag_2": "ScaleY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "1.4",
+    "Value_2": "1.4",
+    "_key": "Character_SpriteScale"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "CheckRestoreLoadTryCountOff"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "14000",
+    "Value_2": "",
+    "_key": "ChoucreamJellyDist"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "50",
+    "Value_2": "",
+    "_key": "ComboCollectionMaxSize"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2026-02-25 23:59:59",
+    "Value_2": "",
+    "_key": "CookieSeasonalSaleEndDate"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2026-02-14 00:00:01",
+    "Value_2": "",
+    "_key": "CookieSeasonalSaleStartDate"
+  },
+  {
+    "\ufeffTag_1": "Id",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "20002",
+    "Value_2": "",
+    "_key": "CookieTrialPetId"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "CustomJellyResource"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "DebugGameSpeedMode"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "140",
+    "Value_2": "",
+    "_key": "DevilSoulJellyProbValue"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "DisableCrashlyticsInitWithStringShadowStrokeLog"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4267",
+    "Value_2": "",
+    "_key": "DoremiPassiveCenterJelly1"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4267",
+    "Value_2": "",
+    "_key": "DoremiPassiveCenterJelly2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4267",
+    "Value_2": "",
+    "_key": "DoremiPassiveCenterJelly3"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4267",
+    "Value_2": "",
+    "_key": "DoremiPassiveCenterJelly4"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4267",
+    "Value_2": "",
+    "_key": "DoremiPassiveCenterJelly5"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "DoremiPassiveObstacleOn"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "EnumHackForceCrashOff"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "EnumHackShowWarningPopupOn"
+  },
+  {
+    "\ufeffTag_1": "AppleAppStore",
+    "Tag_2": "GooglePlayStore",
+    "Type_1": "string",
+    "Type_2": "string",
+    "Value_1": "2.3.0",
+    "Value_2": "2.3.0",
+    "_key": "FBLikeButtonOnOffVersion"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int ",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "FastGetHeart"
+  },
+  {
+    "\ufeffTag_1": "AppleAppStore",
+    "Tag_2": "GooglePlayStore",
+    "Type_1": "string",
+    "Type_2": "string",
+    "Value_1": "9.99.0",
+    "Value_2": "9.99.0",
+    "_key": "FirstPurchaseEventOnOff"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2016-04-01 23:59:59",
+    "Value_2": "",
+    "_key": "FoolTutorialEndDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "FoolTutorialMinLevel"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2016-03-28 00:00:00",
+    "Value_2": "",
+    "_key": "FoolTutorialStartDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "FortuneDoughBakeUnlockPossible"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "20",
+    "Value_2": "",
+    "_key": "FrameFalsificationFPSHigh"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "85",
+    "Value_2": "",
+    "_key": "FrameFalsificationFPSLow"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "600",
+    "Value_2": "",
+    "_key": "FrameFalsificationFrameCount"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "Freeze_Discount"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3000",
+    "Value_2": "",
+    "_key": "Freeze_Discount_Max"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "10000",
+    "Value_2": "",
+    "_key": "Freeze_Multiplier"
+  },
+  {
+    "\ufeffTag_1": "Minute",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "5",
+    "Value_2": "",
+    "_key": "FriendRefreshCoolTimeGameEnd"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "60",
+    "Value_2": "",
+    "_key": "FriendRefreshCoolTimeGameEndWithSeconds"
+  },
+  {
+    "\ufeffTag_1": "Minute",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "5",
+    "Value_2": "",
+    "_key": "FriendRefreshCoolTimePullDown"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "10",
+    "Value_2": "",
+    "_key": "FriendRefreshCoolTimePullDownWithSeconds"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "15000",
+    "Value_2": "",
+    "_key": "GRPC_CONNECTION_DEADLINE_MS"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2000",
+    "Value_2": "",
+    "_key": "GameFriendCountLimit"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "-1",
+    "Value_2": "",
+    "_key": "GameResultStoryFeedOnOff"
+  },
+  {
+    "\ufeffTag_1": "Time",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "Game_Running_Time_Limit"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "GumballColorCount"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "55000",
+    "Value_2": "",
+    "_key": "GumballShotPosX"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "50000",
+    "Value_2": "",
+    "_key": "GumballShotPosXVer2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "19000",
+    "Value_2": "",
+    "_key": "GumballShotPosY"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "45000",
+    "Value_2": "",
+    "_key": "GumballShotPosYVer2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "Hide_InGame_HUD"
+  },
+  {
+    "\ufeffTag_1": "Min",
+    "Tag_2": "Max",
+    "Type_1": "int",
+    "Type_2": "int",
+    "Value_1": "77",
+    "Value_2": "77",
+    "_key": "House_Range"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "295",
+    "Value_2": "",
+    "_key": "IceTowerTableViewYOffset_NoMoreUpdate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "IceTower_HasUpdate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "IceTower_TotalStageNumber"
+  },
+  {
+    "\ufeffTag_1": "AppleAppStore",
+    "Tag_2": "GooglePlayStore",
+    "Type_1": "string",
+    "Type_2": "string",
+    "Value_1": "9.99.0",
+    "Value_2": "9.99.0",
+    "_key": "InactvieUserOnOffVersionNew"
+  },
+  {
+    "\ufeffTag_1": "Version",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "InviteEventActivityPointLimitOnOffVersion"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "255080204",
+    "Value_2": "",
+    "_key": "Jackson2LaserColorRGB1"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "255230068",
+    "Value_2": "",
+    "_key": "Jackson2LaserColorRGB2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "080170255",
+    "Value_2": "",
+    "_key": "Jackson2LaserColorRGB3"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "Jackson2LaserDuration"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "150",
+    "Value_2": "",
+    "_key": "Jackson2LaserDurationVer2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4609",
+    "Value_2": "",
+    "_key": "Jackson2LaserJelly1"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4610",
+    "Value_2": "",
+    "_key": "Jackson2LaserJelly2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4611",
+    "Value_2": "",
+    "_key": "Jackson2LaserJelly3"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "50",
+    "Value_2": "",
+    "_key": "Jackson2LaserTargetMinusOffsetX"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "BONUS",
+    "Value_2": "",
+    "_key": "Jelly_Alphabet_String"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "28",
+    "Value_2": "22",
+    "_key": "Jelly_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "Count",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "10",
+    "Value_2": "",
+    "_key": "Jelly_LineCount"
+  },
+  {
+    "\ufeffTag_1": "GapY",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "12",
+    "Value_2": "",
+    "_key": "Jelly_LineGapY"
+  },
+  {
+    "\ufeffTag_1": "PosY",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "12",
+    "Value_2": "",
+    "_key": "Jelly_LineLowest_PosY"
+  },
+  {
+    "\ufeffTag_1": "ScaleX",
+    "Tag_2": "ScaleY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "1.2",
+    "Value_2": "1.2",
+    "_key": "Jelly_SpriteScale"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "JellychoCoin_GoldCoinBoost"
+  },
+  {
+    "\ufeffTag_1": "value1",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "10",
+    "Value_2": "",
+    "_key": "KickPartyRunWaitTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "5",
+    "Value_2": "",
+    "_key": "KiwiLisenceGap"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "104300",
+    "Value_2": "",
+    "_key": "KiwiLisenceGroupId"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "lisence_kiwi.png",
+    "Value_2": "",
+    "_key": "KiwiLisenceImageSource"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4612",
+    "Value_2": "",
+    "_key": "KongKongJellycho_JellyType"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "5,8,10,15",
+    "Value_2": "",
+    "_key": "LineAdsPopupTargetLevel"
+  },
+  {
+    "\ufeffTag_1": "startTime",
+    "Tag_2": "endTime",
+    "Type_1": "int",
+    "Type_2": "int",
+    "Value_1": "7",
+    "Value_2": "25",
+    "_key": "LocalNotificationTimePeriod"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "MacroRetryCount"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "25",
+    "Value_2": "",
+    "_key": "MaxDeltaTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "MinDeltaTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "250",
+    "Value_2": "",
+    "_key": "MiniJackson2Interval"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "11",
+    "Value_2": "",
+    "_key": "MixChallJellyMaxScenarioSet_Ep_1"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "10",
+    "Value_2": "",
+    "_key": "MixChallJellyMaxScenarioSet_Ep_2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "8",
+    "Value_2": "",
+    "_key": "MixChallJellyMaxScenarioSet_Ep_3"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2025-03-12 23:59:59",
+    "Value_2": "",
+    "_key": "MixChallengeEventEndDate"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2025-02-27 11:00:01",
+    "Value_2": "",
+    "_key": "MixChallengeEventStartDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Network_CacheBusting_Enabled"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "300",
+    "Value_2": "",
+    "_key": "Network_CacheBusting_Period"
+  },
+  {
+    "\ufeffTag_1": "Count",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "NoticePopupLimit"
+  },
+  {
+    "\ufeffTag_1": "value1",
+    "Tag_2": "value2",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "100",
+    "Value_2": "300",
+    "_key": "NoticeStreamRetryDelay"
+  },
+  {
+    "\ufeffTag_1": "value1",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "NotifyMessageDuratoin"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "Package_Shop_Version"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "PassiveAbilityOnOffSwitchOn"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "PauseTrueLogSettingOff"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2026-02-25 23:59:59",
+    "Value_2": "",
+    "_key": "PetSeasonalSaleEndDate"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2026-02-14 00:00:01",
+    "Value_2": "",
+    "_key": "PetSeasonalSaleStartDate"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-30",
+    "Value_2": "0",
+    "_key": "Platform_Large_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "26",
+    "Value_2": "80",
+    "_key": "Platform_Large_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "ScaleX",
+    "Tag_2": "ScaleY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "1",
+    "Value_2": "1",
+    "_key": "Platform_Large_SpriteScale"
+  },
+  {
+    "\ufeffTag_1": "Height",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "170",
+    "Value_2": "",
+    "_key": "Platform_RailCharHeightLimit"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "0",
+    "Value_2": "-200",
+    "_key": "Platform_RailEnd_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "20",
+    "Value_2": "320",
+    "_key": "Platform_RailEnd_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-20",
+    "Value_2": "-100",
+    "_key": "Platform_RailMover_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "40",
+    "Value_2": "40",
+    "_key": "Platform_RailMover_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "GapY",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "60",
+    "Value_2": "",
+    "_key": "Platform_RailMover_GapY"
+  },
+  {
+    "\ufeffTag_1": "Length",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "120",
+    "Value_2": "",
+    "_key": "Platform_RailMover_Length"
+  },
+  {
+    "\ufeffTag_1": "Rate",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "Platform_RailRunSpeedRate"
+  },
+  {
+    "\ufeffTag_1": "Speed",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "240",
+    "Value_2": "",
+    "_key": "Platform_RailUpSpeed"
+  },
+  {
+    "\ufeffTag_1": "PosY",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "340",
+    "Value_2": "",
+    "_key": "Platform_Rail_PosY"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-30",
+    "Value_2": "0",
+    "_key": "Platform_Slide_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "60",
+    "Value_2": "90",
+    "_key": "Platform_Slide_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "PosY",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "35",
+    "Value_2": "",
+    "_key": "Platform_Slide_PosY"
+  },
+  {
+    "\ufeffTag_1": "ScaleX",
+    "Tag_2": "ScaleY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "1",
+    "Value_2": "1.3",
+    "_key": "Platform_Slide_SpriteScale"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-10",
+    "Value_2": "0",
+    "_key": "Platform_Small_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "Width",
+    "Tag_2": "Height",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "20",
+    "Value_2": "40",
+    "_key": "Platform_Small_ColBoxSize"
+  },
+  {
+    "\ufeffTag_1": "ScaleX",
+    "Tag_2": "ScaleY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "1",
+    "Value_2": "1",
+    "_key": "Platform_Small_SpriteScale"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2014-07-20 23:59:59",
+    "Value_2": "",
+    "_key": "PlayFriendEventEndDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "PlayFriendEventPlayAfterAllRewarded"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2014-07-16 00:00:06",
+    "Value_2": "",
+    "_key": "PlayFriendEventStartDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4349",
+    "Value_2": "",
+    "_key": "PoppingCandyJelly"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "60",
+    "Value_2": "",
+    "_key": "REPLAY_DEBUG_PERIOD"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "RepurchaseTreasure"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "200",
+    "Value_2": "",
+    "_key": "RequestLoadingETShowDelay"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "2",
+    "Value_2": "",
+    "_key": "RescuedByUsingGemCountMax"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "ReviveOnlyMagic_EffectedByRecoveryRate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "RockStarBgm"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "RunAppCheckWhenEnterLobbyOff"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "RunningAppCheckOff"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "SaveMiniGameSwitch"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "SelectPathEarlyOffHeadBlastDistance"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "85",
+    "Value_2": "",
+    "_key": "SelectPathHeight"
+  },
+  {
+    "\ufeffTag_1": "Count",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "20",
+    "Value_2": "",
+    "_key": "SendFriendPassPushCount"
+  },
+  {
+    "\ufeffTag_1": "startTime",
+    "Tag_2": "endTime",
+    "Type_1": "int",
+    "Type_2": "int",
+    "Value_1": "21",
+    "Value_2": "23",
+    "_key": "SendFriendPassPushTimePeriod"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "SendGooglePlayCrystalGiftOn"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "SendGooglePlayCrystalGiftOnNew"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "99999.0.0",
+    "Value_2": "",
+    "_key": "ShowMyBestScoreVersion"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "ShowProperJelly"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "ShowRelayIcon"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "5",
+    "Value_2": "",
+    "_key": "SlideJellyMaxPerLine"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "22",
+    "Value_2": "",
+    "_key": "SlideMaxAngle"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "-10",
+    "Value_2": "",
+    "_key": "SlideMinAngle"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "SnowmanEventOff"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "",
+    "Value_2": "",
+    "_key": "SpotlightMagnet"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "TooManyCoinCheckOff"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2014-08-19 00:30:00",
+    "Value_2": "",
+    "_key": "TreasureEventEndDate"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "2014-07-25 00:00:01",
+    "Value_2": "",
+    "_key": "TreasureEventStartDate"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4000",
+    "Value_2": "",
+    "_key": "TreasureSlotLimit"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "400",
+    "Value_2": "",
+    "_key": "UnRipeJellyInitDistance"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "0.5",
+    "Value_2": "",
+    "_key": "UnRipeJellyMovingDuration"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "UnRipeMaxBonusTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "UnRipeMinBonusTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "30",
+    "Value_2": "",
+    "_key": "UnRipeNumberOfBonusTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "UnripeAppleBalloonDistance"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "150",
+    "Value_2": "",
+    "_key": "UnripeAppleBalloonMaxHeight"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "-40",
+    "Value_2": "",
+    "_key": "UnripeAppleBalloonMinHeight"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "float",
+    "Type_2": "",
+    "Value_1": "15",
+    "Value_2": "",
+    "_key": "UnripeAppleJellyXMargin"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "150",
+    "Value_2": "",
+    "_key": "UnripeAppleJellyYVariation"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4",
+    "Value_2": "",
+    "_key": "UnripeAppleMaxNumberOfJelly"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "3",
+    "Value_2": "",
+    "_key": "UnripeAppleMinNumberOfJelly"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "UnripeAppleUseEmptyWaterDrop"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "UseLifeRecoveryRealNumber"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "30",
+    "Value_2": "",
+    "_key": "VariousChallengeUiFadeOutTime"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "VariousChallengeUiOpacityCompleteMin"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "200",
+    "Value_2": "",
+    "_key": "VariousChallengeUiOpacityMax"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "100",
+    "Value_2": "",
+    "_key": "VariousChallengeUiOpacityMin"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "WeeklyRankEndDuringGameRecoverActivePoint"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "WorldSpeedRateWhenGiantBugFix"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "109201",
+    "Value_2": "",
+    "_key": "adsCookieId2"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "0",
+    "Value_2": "",
+    "_key": "checkInGameEnumOff"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "checkInGameOff"
+  },
+  {
+    "\ufeffTag_1": "State",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "installAppCheckOff"
+  },
+  {
+    "\ufeffTag_1": "OffsetX",
+    "Tag_2": "OffsetY",
+    "Type_1": "float",
+    "Type_2": "float",
+    "Value_1": "-11",
+    "Value_2": "-11",
+    "_key": "jelly_ColBoxOffset"
+  },
+  {
+    "\ufeffTag_1": "String",
+    "Tag_2": "",
+    "Type_1": "string",
+    "Type_2": "",
+    "Value_1": "4",
+    "Value_2": "",
+    "_key": "protocolAcceptableEncryptionVersion"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "4",
+    "Value_2": "",
+    "_key": "protocolEncryptionVersion_after_v11_6"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "treasureShopContinueousBuy"
+  },
+  {
+    "\ufeffTag_1": "value",
+    "Tag_2": "",
+    "Type_1": "int",
+    "Type_2": "",
+    "Value_1": "1",
+    "Value_2": "",
+    "_key": "useKeyLog"
+  }
+]

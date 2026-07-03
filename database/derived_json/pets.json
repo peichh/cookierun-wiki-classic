@@ -1,0 +1,7173 @@
+[
+  {
+    "id": "200100",
+    "name": "Choco Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200100"
+      },
+      {
+        "level": "1",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200101"
+      },
+      {
+        "level": "2",
+        "price_coin": "500",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200102"
+      },
+      {
+        "level": "3",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200103"
+      },
+      {
+        "level": "4",
+        "price_coin": "1000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200104"
+      },
+      {
+        "level": "5",
+        "price_coin": "1300",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200105"
+      },
+      {
+        "level": "6",
+        "price_coin": "1600",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200106"
+      },
+      {
+        "level": "7",
+        "price_coin": "1900",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200107"
+      },
+      {
+        "level": "8",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200108"
+      }
+    ]
+  },
+  {
+    "id": "200200",
+    "name": "Cheese Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200200"
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200201"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200202"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200203"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200204"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200205"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200206"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200207"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200208"
+      }
+    ]
+  },
+  {
+    "id": "200300",
+    "name": "Hand of Liker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200300"
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200301"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200302"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200303"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200304"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200305"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200306"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200307"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200308"
+      }
+    ]
+  },
+  {
+    "id": "200400",
+    "name": "Double Bubble",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200400"
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200401"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200402"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200403"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200404"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200405"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200406"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200407"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200408"
+      }
+    ]
+  },
+  {
+    "id": "200500",
+    "name": "Dust Unicorn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200500"
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200501"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200502"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200503"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200504"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200505"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200506"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200507"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200508"
+      }
+    ]
+  },
+  {
+    "id": "200600",
+    "name": "Merry Hat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200600"
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200601"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200602"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200603"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200604"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200605"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200606"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200607"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200608"
+      }
+    ]
+  },
+  {
+    "id": "200700",
+    "name": "Rainbow's End",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200700"
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "skill_value": "2000",
+        "internal_key": "200701"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "2200",
+        "internal_key": "200702"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "skill_value": "2400",
+        "internal_key": "200703"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "skill_value": "2600",
+        "internal_key": "200704"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "2800",
+        "internal_key": "200705"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "skill_value": "3000",
+        "internal_key": "200706"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "skill_value": "3500",
+        "internal_key": "200707"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "200708"
+      }
+    ]
+  },
+  {
+    "id": "200800",
+    "name": "Holiday Stocking",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200800"
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "skill_value": "1030",
+        "internal_key": "200801"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "skill_value": "1040",
+        "internal_key": "200802"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "skill_value": "1050",
+        "internal_key": "200803"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "skill_value": "1060",
+        "internal_key": "200804"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "skill_value": "1070",
+        "internal_key": "200805"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "skill_value": "1080",
+        "internal_key": "200806"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "skill_value": "1090",
+        "internal_key": "200807"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "skill_value": "1100",
+        "internal_key": "200808"
+      }
+    ]
+  },
+  {
+    "id": "200900",
+    "name": "Electric Beat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "200900"
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200901"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200902"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200903"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200904"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200905"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200906"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200907"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "200908"
+      }
+    ]
+  },
+  {
+    "id": "201000",
+    "name": "Rare Garlic",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201000"
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201001"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201002"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201003"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201004"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201005"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201006"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201007"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201008"
+      }
+    ]
+  },
+  {
+    "id": "201100",
+    "name": "Flowercopter",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201100"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "1450",
+        "internal_key": "201101"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "201102"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "1550",
+        "internal_key": "201103"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "1600",
+        "internal_key": "201104"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "1650",
+        "internal_key": "201105"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1700",
+        "internal_key": "201106"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1750",
+        "internal_key": "201107"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "1800",
+        "internal_key": "201108"
+      }
+    ]
+  },
+  {
+    "id": "201200",
+    "name": "Little Ghost",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "201201"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "2",
+        "internal_key": "201202"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "201203"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "201204"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "5",
+        "internal_key": "201205"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "6",
+        "internal_key": "201206"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "7",
+        "internal_key": "201207"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "8",
+        "internal_key": "201208"
+      }
+    ]
+  },
+  {
+    "id": "201300",
+    "name": "Giggle Bomb",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201300"
+      },
+      {
+        "level": "1",
+        "price_coin": "60",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201301"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201302"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201303"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201304"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201305"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201306"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201307"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201308"
+      }
+    ]
+  },
+  {
+    "id": "201400",
+    "name": "Cozy Yarn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201400"
+      },
+      {
+        "level": "1",
+        "price_coin": "50",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201401"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201402"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201403"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201404"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201405"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201406"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201407"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201408"
+      }
+    ]
+  },
+  {
+    "id": "201500",
+    "name": "Lucky Dice Bros",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201500"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201501"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201502"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201503"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201504"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201505"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201506"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201507"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201508"
+      }
+    ]
+  },
+  {
+    "id": "201600",
+    "name": "Princess's Locket",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201600"
+      },
+      {
+        "level": "1",
+        "price_coin": "77",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201601"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201602"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201603"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201604"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201605"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201606"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201607"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201608"
+      }
+    ]
+  },
+  {
+    "id": "201700",
+    "name": "Dragon's Tail",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201700"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201701"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201702"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201703"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201704"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201705"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201706"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201707"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "201708"
+      }
+    ]
+  },
+  {
+    "id": "201800",
+    "name": "Brain Gum",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201800"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "920",
+        "internal_key": "201801"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "910",
+        "internal_key": "201802"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "900",
+        "internal_key": "201803"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "890",
+        "internal_key": "201804"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "880",
+        "internal_key": "201805"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "870",
+        "internal_key": "201806"
+      },
+      {
+        "level": "7",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "860",
+        "internal_key": "201807"
+      },
+      {
+        "level": "8",
+        "price_coin": "42000",
+        "price_crystal": "10000",
+        "skill_value": "850",
+        "internal_key": "201808"
+      }
+    ]
+  },
+  {
+    "id": "201900",
+    "name": "Mocha Delight",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "201900"
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201901"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201902"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201903"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201904"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201905"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201906"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201907"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "201908"
+      }
+    ]
+  },
+  {
+    "id": "202000",
+    "name": "Wishing Star",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202000"
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "skill_value": "70",
+        "internal_key": "202001"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "80",
+        "internal_key": "202002"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "90",
+        "internal_key": "202003"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "100",
+        "internal_key": "202004"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "110",
+        "internal_key": "202005"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "120",
+        "internal_key": "202006"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "130",
+        "internal_key": "202007"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "140",
+        "internal_key": "202008"
+      }
+    ]
+  },
+  {
+    "id": "202100",
+    "name": "Dumbbell Twins",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202100"
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202101"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202102"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202103"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202104"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202105"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202106"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202107"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202108"
+      }
+    ]
+  },
+  {
+    "id": "202300",
+    "name": "Snow Blossom",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "400",
+        "internal_key": "202301"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "450",
+        "internal_key": "202302"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "500",
+        "internal_key": "202303"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "550",
+        "internal_key": "202304"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "600",
+        "internal_key": "202305"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "650",
+        "internal_key": "202306"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "700",
+        "internal_key": "202307"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "750",
+        "internal_key": "202308"
+      }
+    ]
+  },
+  {
+    "id": "202400",
+    "name": "Jellyco Cube",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "3700",
+        "internal_key": "202401"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "202402"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4200",
+        "internal_key": "202403"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "4500",
+        "internal_key": "202404"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4700",
+        "internal_key": "202405"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "202406"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "5200",
+        "internal_key": "202407"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "5500",
+        "internal_key": "202408"
+      }
+    ]
+  },
+  {
+    "id": "202600",
+    "name": "Glitter Ball",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "3000",
+        "internal_key": "202601"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "3300",
+        "internal_key": "202602"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "3600",
+        "internal_key": "202603"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "3900",
+        "internal_key": "202604"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4200",
+        "internal_key": "202605"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "4500",
+        "internal_key": "202606"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "4700",
+        "internal_key": "202607"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "202608"
+      }
+    ]
+  },
+  {
+    "id": "202700",
+    "name": "AWOL Cracker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202701"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202702"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202703"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202704"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202705"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202706"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202707"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202708"
+      }
+    ]
+  },
+  {
+    "id": "202800",
+    "name": "Flame Bat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202801"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202802"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202803"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202804"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202805"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202806"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202807"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "202808"
+      }
+    ]
+  },
+  {
+    "id": "202900",
+    "name": "Golden Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "202900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202901"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202902"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202903"
+      },
+      {
+        "level": "4",
+        "price_coin": "24000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202904"
+      },
+      {
+        "level": "5",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202905"
+      },
+      {
+        "level": "6",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202906"
+      },
+      {
+        "level": "7",
+        "price_coin": "42000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202907"
+      },
+      {
+        "level": "8",
+        "price_coin": "50000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "202908"
+      }
+    ]
+  },
+  {
+    "id": "203000",
+    "name": "Windy",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "203001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "2",
+        "internal_key": "203002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "203003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "203004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "5",
+        "internal_key": "203005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "6",
+        "internal_key": "203006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "7",
+        "internal_key": "203007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "8",
+        "internal_key": "203008"
+      }
+    ]
+  },
+  {
+    "id": "203100",
+    "name": "Fox Bead",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203108"
+      }
+    ]
+  },
+  {
+    "id": "203200",
+    "name": "Luck-o'-lantern",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203200"
+      },
+      {
+        "level": "1",
+        "price_coin": "31",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203208"
+      }
+    ]
+  },
+  {
+    "id": "203300",
+    "name": "Book of Wizdom",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "7600",
+        "internal_key": "203301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "7800",
+        "internal_key": "203302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "8000",
+        "internal_key": "203303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "8200",
+        "internal_key": "203304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "8400",
+        "internal_key": "203305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "8600",
+        "internal_key": "203306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "8800",
+        "internal_key": "203307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "9000",
+        "internal_key": "203308"
+      }
+    ]
+  },
+  {
+    "id": "203400",
+    "name": "Flower Pod",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203408"
+      }
+    ]
+  },
+  {
+    "id": "203500",
+    "name": "Spotlight Fan",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "203508"
+      }
+    ]
+  },
+  {
+    "id": "203600",
+    "name": "Rocket Firecracker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "203608"
+      }
+    ]
+  },
+  {
+    "id": "203700",
+    "name": "Yule Log Cake",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203708"
+      }
+    ]
+  },
+  {
+    "id": "203800",
+    "name": "Snow Globe",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "203808"
+      }
+    ]
+  },
+  {
+    "id": "203900",
+    "name": "Lucky Pouch",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "203900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "280",
+        "internal_key": "203908"
+      }
+    ]
+  },
+  {
+    "id": "204000",
+    "name": "Pink Candy",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "12500",
+        "internal_key": "204001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "12000",
+        "internal_key": "204002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "11500",
+        "internal_key": "204003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "11000",
+        "internal_key": "204004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "10500",
+        "internal_key": "204005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "10000",
+        "internal_key": "204006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "9500",
+        "internal_key": "204007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "9000",
+        "internal_key": "204008"
+      }
+    ]
+  },
+  {
+    "id": "204100",
+    "name": "Purple Candle",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "26000",
+        "internal_key": "204101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "204102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "204103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "204104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "204105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "204106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "204107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "204108"
+      }
+    ]
+  },
+  {
+    "id": "204200",
+    "name": "Pistachio Firefly",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204208"
+      }
+    ]
+  },
+  {
+    "id": "204300",
+    "name": "Jelly Scale",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "200000",
+        "internal_key": "204308"
+      }
+    ]
+  },
+  {
+    "id": "204400",
+    "name": "Coin Scale",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "250",
+        "internal_key": "204408"
+      }
+    ]
+  },
+  {
+    "id": "204500",
+    "name": "Oak Barrel",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204508"
+      }
+    ]
+  },
+  {
+    "id": "204600",
+    "name": "Apple Rabbit",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "3700",
+        "internal_key": "204601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4100",
+        "internal_key": "204602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "4500",
+        "internal_key": "204603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4900",
+        "internal_key": "204604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "5300",
+        "internal_key": "204605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "5700",
+        "internal_key": "204606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "6100",
+        "internal_key": "204607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "6500",
+        "internal_key": "204608"
+      }
+    ]
+  },
+  {
+    "id": "204700",
+    "name": "Fluffy Cheese Cat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "204708"
+      }
+    ]
+  },
+  {
+    "id": "204800",
+    "name": "Backpacky",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "204801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "204802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "204803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "204804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "204805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "204806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "204807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "204808"
+      }
+    ]
+  },
+  {
+    "id": "204900",
+    "name": "King Choco Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "204900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99999",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204901"
+      },
+      {
+        "level": "2",
+        "price_coin": "37700",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204902"
+      },
+      {
+        "level": "3",
+        "price_coin": "43400",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204903"
+      },
+      {
+        "level": "4",
+        "price_coin": "51000",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204904"
+      },
+      {
+        "level": "5",
+        "price_coin": "61200",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204905"
+      },
+      {
+        "level": "6",
+        "price_coin": "64600",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204906"
+      },
+      {
+        "level": "7",
+        "price_coin": "75200",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204907"
+      },
+      {
+        "level": "8",
+        "price_coin": "84000",
+        "price_crystal": "10000",
+        "skill_value": "1500",
+        "internal_key": "204908"
+      }
+    ]
+  },
+  {
+    "id": "205000",
+    "name": "Lemon Slice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205008"
+      }
+    ]
+  },
+  {
+    "id": "205100",
+    "name": "Ghost Butler",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205108"
+      }
+    ]
+  },
+  {
+    "id": "205200",
+    "name": "Kiwi Bird",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205208"
+      }
+    ]
+  },
+  {
+    "id": "205300",
+    "name": "Furball Pup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "4",
+        "internal_key": "205308"
+      }
+    ]
+  },
+  {
+    "id": "205400",
+    "name": "Paprika Punching Bag",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205408"
+      }
+    ]
+  },
+  {
+    "id": "205600",
+    "name": "Marshmallow Hamster",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "205601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "205602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "205603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "205604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "205605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "205606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "205607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "205608"
+      }
+    ]
+  },
+  {
+    "id": "205700",
+    "name": "Ms. Do-Re-Mi",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "29000",
+        "internal_key": "205701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "27000",
+        "internal_key": "205702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "205703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "205704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "205705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "205706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "205707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "205708"
+      }
+    ]
+  },
+  {
+    "id": "205800",
+    "name": "Mr. Fa-Sol-La-Si",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205808"
+      }
+    ]
+  },
+  {
+    "id": "205900",
+    "name": "Owlcorn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "205900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "205908"
+      }
+    ]
+  },
+  {
+    "id": "206000",
+    "name": "Mini Jackson No.2",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "206001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "206002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "206003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "206004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "206005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "206006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "206007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "206008"
+      }
+    ]
+  },
+  {
+    "id": "206100",
+    "name": "Tea Cup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "45000",
+        "internal_key": "206101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "43000",
+        "internal_key": "206102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "41000",
+        "internal_key": "206103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "39000",
+        "internal_key": "206104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "37000",
+        "internal_key": "206105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "35000",
+        "internal_key": "206106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "33000",
+        "internal_key": "206107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "31000",
+        "internal_key": "206108"
+      }
+    ]
+  },
+  {
+    "id": "206200",
+    "name": "Bean Drop Duo",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206200"
+      },
+      {
+        "level": "1",
+        "price_coin": "22",
+        "price_crystal": "10000",
+        "skill_value": "2900",
+        "internal_key": "206201"
+      },
+      {
+        "level": "2",
+        "price_coin": "4000",
+        "price_crystal": "10000",
+        "skill_value": "2800",
+        "internal_key": "206202"
+      },
+      {
+        "level": "3",
+        "price_coin": "8000",
+        "price_crystal": "10000",
+        "skill_value": "2700",
+        "internal_key": "206203"
+      },
+      {
+        "level": "4",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "skill_value": "2600",
+        "internal_key": "206204"
+      },
+      {
+        "level": "5",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "2500",
+        "internal_key": "206205"
+      },
+      {
+        "level": "6",
+        "price_coin": "64000",
+        "price_crystal": "10000",
+        "skill_value": "2400",
+        "internal_key": "206206"
+      },
+      {
+        "level": "7",
+        "price_coin": "128000",
+        "price_crystal": "10000",
+        "skill_value": "2300",
+        "internal_key": "206207"
+      },
+      {
+        "level": "8",
+        "price_coin": "256000",
+        "price_crystal": "10000",
+        "skill_value": "2200",
+        "internal_key": "206208"
+      }
+    ]
+  },
+  {
+    "id": "206300",
+    "name": "Electro Lemon",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "206301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "206302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "206303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "206304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "206305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "206306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "13000",
+        "internal_key": "206307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "12000",
+        "internal_key": "206308"
+      }
+    ]
+  },
+  {
+    "id": "206400",
+    "name": "Mini Orange Mouse",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "4800",
+        "internal_key": "206401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "5300",
+        "internal_key": "206402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "5800",
+        "internal_key": "206403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "6300",
+        "internal_key": "206404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "6800",
+        "internal_key": "206405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "7300",
+        "internal_key": "206406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "7800",
+        "internal_key": "206407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "8300",
+        "internal_key": "206408"
+      }
+    ]
+  },
+  {
+    "id": "206500",
+    "name": "Platinum Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206508"
+      }
+    ]
+  },
+  {
+    "id": "206600",
+    "name": "Mr. Limeguard",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "206608"
+      }
+    ]
+  },
+  {
+    "id": "206700",
+    "name": "Paper Boat Sailor",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "206701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "206702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "206703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "206704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "206705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "206706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "206707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "206708"
+      }
+    ]
+  },
+  {
+    "id": "206800",
+    "name": "Wave Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "1000",
+        "internal_key": "206808"
+      }
+    ]
+  },
+  {
+    "id": "206900",
+    "name": "Panda Dumpling",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "206900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "206901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "206902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "206903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "206904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "206905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "206906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "206907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "206908"
+      }
+    ]
+  },
+  {
+    "id": "207000",
+    "name": "Uncooling Teacup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "6500",
+        "internal_key": "207001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "7000",
+        "internal_key": "207002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "7500",
+        "internal_key": "207003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "8000",
+        "internal_key": "207004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "8500",
+        "internal_key": "207005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "9000",
+        "internal_key": "207006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "9500",
+        "internal_key": "207007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "10000",
+        "internal_key": "207008"
+      }
+    ]
+  },
+  {
+    "id": "207100",
+    "name": "Onion Fish",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "26000",
+        "internal_key": "207101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "207102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "207106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "207107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "12000",
+        "internal_key": "207108"
+      }
+    ]
+  },
+  {
+    "id": "207200",
+    "name": "Castanets",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "207203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "207204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "207205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "13000",
+        "internal_key": "207206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "12000",
+        "internal_key": "207207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "11000",
+        "internal_key": "207208"
+      }
+    ]
+  },
+  {
+    "id": "207300",
+    "name": "Cinnamon Bunny",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "207301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "207302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207308"
+      }
+    ]
+  },
+  {
+    "id": "207400",
+    "name": "Sweet Rice Seal",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "130",
+        "internal_key": "207401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "120",
+        "internal_key": "207402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "110",
+        "internal_key": "207403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "100",
+        "internal_key": "207404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "90",
+        "internal_key": "207405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "80",
+        "internal_key": "207406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "70",
+        "internal_key": "207407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "60",
+        "internal_key": "207408"
+      }
+    ]
+  },
+  {
+    "id": "207500",
+    "name": "Pocket Watch Referee",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "207501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "207508"
+      }
+    ]
+  },
+  {
+    "id": "207600",
+    "name": "Herb Teapot",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "207607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "207608"
+      }
+    ]
+  },
+  {
+    "id": "207700",
+    "name": "Dino Egg",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "207701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "207702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "207703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207708"
+      }
+    ]
+  },
+  {
+    "id": "207800",
+    "name": "Cotton Candy Bird",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "207801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "207802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207808"
+      }
+    ]
+  },
+  {
+    "id": "207900",
+    "name": "Light Bros",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "207900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "207901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "207902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "207903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "207904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "207905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "207906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "207907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "207908"
+      }
+    ]
+  },
+  {
+    "id": "208000",
+    "name": "Banana Lion",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "5000",
+        "internal_key": "208001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "4850",
+        "internal_key": "208002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "4700",
+        "internal_key": "208003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "4550",
+        "internal_key": "208004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "4400",
+        "internal_key": "208005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "4250",
+        "internal_key": "208006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "4100",
+        "internal_key": "208007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "4000",
+        "internal_key": "208008"
+      }
+    ]
+  },
+  {
+    "id": "208100",
+    "name": "Pancake Frisbee",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "208101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "208102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "208103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "208105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "208106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "208107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "208108"
+      }
+    ]
+  },
+  {
+    "id": "208200",
+    "name": "Moon Mortar",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208208"
+      }
+    ]
+  },
+  {
+    "id": "208300",
+    "name": "Tiny Cake Hound",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "6100",
+        "internal_key": "208301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "6300",
+        "internal_key": "208302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "6500",
+        "internal_key": "208303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "6700",
+        "internal_key": "208304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "6900",
+        "internal_key": "208305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "7100",
+        "internal_key": "208306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "7300",
+        "internal_key": "208307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "7500",
+        "internal_key": "208308"
+      }
+    ]
+  },
+  {
+    "id": "208400",
+    "name": "Tiny Tabla",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "208401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "208402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "208403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "208405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "208406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "208407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "208408"
+      }
+    ]
+  },
+  {
+    "id": "208500",
+    "name": "Parrot Dada",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "6100",
+        "internal_key": "208501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "6300",
+        "internal_key": "208502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "6500",
+        "internal_key": "208503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "6700",
+        "internal_key": "208504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "6900",
+        "internal_key": "208505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "7100",
+        "internal_key": "208506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "7300",
+        "internal_key": "208507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "7500",
+        "internal_key": "208508"
+      }
+    ]
+  },
+  {
+    "id": "208700",
+    "name": "Soft Egg Bunny",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "208701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "208702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "208703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "208704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "208706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "208707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "208708"
+      }
+    ]
+  },
+  {
+    "id": "208900",
+    "name": "Cucu-dding",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "208900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "208901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "208902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "208903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "208904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "208905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "208906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "208907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "208908"
+      }
+    ]
+  },
+  {
+    "id": "209000",
+    "name": "Elder Black Rice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209008"
+      }
+    ]
+  },
+  {
+    "id": "209100",
+    "name": "Elder White Rice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209108"
+      }
+    ]
+  },
+  {
+    "id": "209200",
+    "name": "Pegaplush",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "3",
+        "internal_key": "209208"
+      }
+    ]
+  },
+  {
+    "id": "209300",
+    "name": "Ghoul Cake",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209308"
+      }
+    ]
+  },
+  {
+    "id": "209400",
+    "name": "Tater Trader",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209408"
+      }
+    ]
+  },
+  {
+    "id": "209500",
+    "name": "Lady Mudang",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209500"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "209501"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "209502"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "209503"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209504"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209505"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209506"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209507"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209508"
+      }
+    ]
+  },
+  {
+    "id": "209600",
+    "name": "Kimchi Bell",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209600"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "209601"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209602"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209603"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209604"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209605"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209606"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209607"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209608"
+      }
+    ]
+  },
+  {
+    "id": "209700",
+    "name": "Chronicles of Run",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209700"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "37000",
+        "internal_key": "209701"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "36000",
+        "internal_key": "209702"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "35000",
+        "internal_key": "209703"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "34000",
+        "internal_key": "209704"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "33000",
+        "internal_key": "209705"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "32000",
+        "internal_key": "209706"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "31000",
+        "internal_key": "209707"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "30000",
+        "internal_key": "209708"
+      }
+    ]
+  },
+  {
+    "id": "209800",
+    "name": "Manggae Snail",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209800"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209801"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209802"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209803"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209804"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209805"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209806"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209807"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "209808"
+      }
+    ]
+  },
+  {
+    "id": "209900",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "209900"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "209901"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "209902"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "209903"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "209904"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "209905"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "209906"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "209907"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "209908"
+      }
+    ]
+  },
+  {
+    "id": "210000",
+    "name": "Choco Hedgehog",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "210000"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "25000",
+        "internal_key": "210001"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "24000",
+        "internal_key": "210002"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "210003"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "210004"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "210005"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "210006"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "210007"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "210008"
+      }
+    ]
+  },
+  {
+    "id": "210100",
+    "name": "Baby Spore",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "210100"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "23000",
+        "internal_key": "210101"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "22000",
+        "internal_key": "210102"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "210103"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "210104"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "210105"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "210106"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "210107"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "210108"
+      }
+    ]
+  },
+  {
+    "id": "210200",
+    "name": "Honey Gourd",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "210200"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "210201"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "210202"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "210203"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "210204"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "210205"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "210206"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "210207"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "210208"
+      }
+    ]
+  },
+  {
+    "id": "210300",
+    "name": "White Dragon Horsie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "210300"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "210301"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "210302"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "210303"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "210304"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "210305"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "210306"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "210307"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "210308"
+      }
+    ]
+  },
+  {
+    "id": "210400",
+    "name": "Lotus Sitter",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "210400"
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "skill_value": "21000",
+        "internal_key": "210401"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "20000",
+        "internal_key": "210402"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "skill_value": "19000",
+        "internal_key": "210403"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "skill_value": "18000",
+        "internal_key": "210404"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "skill_value": "17000",
+        "internal_key": "210405"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "skill_value": "16000",
+        "internal_key": "210406"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "skill_value": "15000",
+        "internal_key": "210407"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "skill_value": "14000",
+        "internal_key": "210408"
+      }
+    ]
+  },
+  {
+    "id": "290100",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "290100"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290101"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290102"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290103"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290104"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290105"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290106"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290107"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290108"
+      }
+    ]
+  },
+  {
+    "id": "290200",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "skill_value": null,
+        "internal_key": "290200"
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290201"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290202"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290203"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290204"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290205"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290206"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290207"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "skill_value": "1",
+        "internal_key": "290208"
+      }
+    ]
+  }
+]

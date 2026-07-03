@@ -1,0 +1,225 @@
+﻿CompleteCheckNode_1,CompleteCheckNode_2,CompleteCheckNode_3,CompleteCheckNode_4,CompleteCheckNode_5,CompleteCheckNode_6,CompleteCheckNode_7,CompleteCheckNode_8,CondTimeEnd,CondTimeStart,LobbyButtonActionName,LobbyButtonCcbiFileName,OpenNoticeButton_1,OpenPopupButton_1,OpenPopupButton_2,PopupCcbiFileName,RewardImageGuide_1,RewardImageGuide_2,RewardImageGuide_3,RewardImageGuide_4,RewardImageGuide_5,RewardImageGuide_6,RewardImageGuide_7,RewardImageGuide_8,RewardQtyText_1,RewardQtyText_2,RewardQtyText_3,RewardQtyText_4,RewardQtyText_5,RewardQtyText_6,RewardQtyText_7,RewardQtyText_8,ScrollTableHorizontal,ScrollTableVertical,ShowCountText_1,ShowCountText_2,ShowCountText_3,ShowCountText_4,ShowCountText_5,ShowCountText_6,ShowCountText_7,ShowCountText_8,ShowFixedImage_1,ShowFixedImage_2,ShowFixedImage_3,ShowFixedImage_4,ShowFixedImage_5,ShowFixedImage_6,ShowFixedImage_7,ShowFixedImage_8,ShowFixedText_1,ShowFixedText_10,ShowFixedText_11,ShowFixedText_2,ShowFixedText_3,ShowFixedText_4,ShowFixedText_5,ShowFixedText_6,ShowFixedText_7,ShowFixedText_8,ShowFixedText_9,ShowLocalText_1,ShowLocalText_2,ShowLocalText_3,ShowLocalText_4,ShowLocalText_5,ShowLocalText_6,ShowLocalText_7,ShowLocalText_8,_key
+5731,5732,5733,5734,5735,5736,5737,5738,2016-12-12 00:00:00,2016-12-05 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5731,5732,5733,5734,5735,5736,5737,5738,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"보더맛 쿠키로 Ep.1의 
+6스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","팬케이크맛 쿠키로 Ep.5의 
+5스테이지 도달",13000 코인 획득,800만점 달성,2500만점 달성,7000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_161205
+5739,5740,5741,5742,5743,5744,5745,5746,2016-12-19 00:00:00,2016-12-12 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5739,5740,5741,5742,5743,5744,5745,5746,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"공주맛 쿠키로 Ep.2의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","코코아맛 쿠키로 Ep.3의 
+5스테이지 도달",15000 코인 획득,900만점 달성,2000만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_161212
+5747,5748,5749,5750,5751,5752,5753,5754,2016-12-26 00:00:00,2016-12-19 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5747,5748,5749,5750,5751,5752,5753,5754,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"구름맛 쿠키로 
+1500코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","연금술사맛 쿠키로 
+1700만점 획득",21000 코인 획득,700만점 달성,3000만점 달성,8000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_161219
+5755,5756,5757,5758,5759,5760,5761,5762,2017-01-02 00:00:00,2016-12-26 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5755,5756,5757,5758,5759,5760,5761,5762,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"뱀파이어맛 쿠키로 Ep.4의 
+7스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","체리맛 쿠키로 
+2000만점 획득",14000 코인 획득,400만점 달성,2500만점 달성,9000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_161226
+5763,5764,5765,5766,5767,5768,5769,5770,2017-01-09 00:00:00,2017-01-02 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5763,5764,5765,5766,5767,5768,5769,5770,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"천사맛 쿠키로 
+6000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","악마맛 쿠키로 Ep.1의 
+4스테이지 도달",16000 코인 획득,900만점 달성,2000만점 달성,8000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170102
+5771,5772,5773,5774,5775,5776,5777,5778,2017-01-16 00:00:00,2017-01-09 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5771,5772,5773,5774,5775,5776,5777,5778,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"닌자맛 쿠키로 
+1000만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","허브맛 쿠키로 Ep.5의 
+6스테이지 도달",16000 코인 획득,900만점 달성,3500만점 달성,6000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170109
+5779,5780,5781,5782,5783,5784,5785,5786,2017-01-23 00:00:00,2017-01-16 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5779,5780,5781,5782,5783,5784,5785,5786,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"풋사과맛 쿠키로 Ep.2의 
+6스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","다이노사워 쿠키로 
+3000만점 획득",21000 코인 획득,500만점 달성,2500만점 달성,5000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170116
+5787,5788,5789,5790,5791,5792,5793,5794,2017-01-30 00:00:00,2017-01-23 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5787,5788,5789,5790,5791,5792,5793,5794,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"눈설탕맛 쿠키로 Ep.2의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","웨어울프맛 쿠키로 Ep.4의 
+7스테이지 도달",13000 코인 획득,400만점 달성,3500만점 달성,7000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170123
+5795,5796,5797,5798,5799,5800,5801,5802,2017-02-06 00:00:00,2017-01-30 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5795,5796,5797,5798,5799,5800,5801,5802,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"락스타맛 쿠키로 Ep.4의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","민트초코쿠키로 
+2000만점 획득",14000 코인 획득,900만점 달성,3500만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170130
+5803,5804,5805,5806,5807,5808,5809,5810,2017-02-13 00:00:00,2017-02-06 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5803,5804,5805,5806,5807,5808,5809,5810,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"딸기맛 쿠키로 Ep.2의 
+2스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","롤케이크맛 쿠키로 
+3300만점 획득",10000 코인 획득,800만점 달성,3000만점 달성,5000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170206
+5811,5812,5813,5814,5815,5816,5817,5818,2017-02-20 00:00:00,2017-02-13 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5811,5812,5813,5814,5815,5816,5817,5818,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"키위맛 쿠키로 Ep.1의 
+7스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","마법사맛 쿠키로 Ep.2의 
+7스테이지 도달",21000 코인 획득,900만점 달성,3500만점 달성,8000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170213
+5819,5820,5821,5822,5823,5824,5825,5826,2017-02-27 00:00:00,2017-02-20 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5819,5820,5821,5822,5823,5824,5825,5826,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"명랑한 쿠키양으로 
+2500코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","벚꽃맛 쿠키로 
+3000만점 획득",18000 코인 획득,800만점 달성,2000만점 달성,8000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170220
+5827,5828,5829,5830,5831,5832,5833,5834,2017-03-06 00:00:00,2017-02-27 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5827,5828,5829,5830,5831,5832,5833,5834,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"버터크림 초코쿠키로 
+7000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","화이트초코 쿠키로 Ep.1의 
+6스테이지 도달",22000 코인 획득,800만점 달성,3000만점 달성,7000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170227
+5835,5836,5837,5838,5839,5840,5841,5842,2017-03-13 00:00:00,2017-03-06 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5835,5836,5837,5838,5839,5840,5841,5842,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"근육맛 쿠키로 
+700만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","요정맛 쿠키로 Ep.2의 
+6스테이지 도달",24000 코인 획득,600만점 달성,2000만점 달성,6000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170306
+5843,5844,5845,5846,5847,5848,5849,5850,2017-03-20 00:00:00,2017-03-13 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5843,5844,5845,5846,5847,5848,5849,5850,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"치즈케이크맛 쿠키로 
+30000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","블랙베리맛 쿠키로 
+2500만점 획득",22000 코인 획득,300만점 달성,3500만점 달성,9000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170313
+5851,5852,5853,5854,5855,5856,5857,5858,2017-03-27 00:00:00,2017-03-20 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5851,5852,5853,5854,5855,5856,5857,5858,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"커피맛 쿠키로 Ep.1의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","라임맛 쿠키로 
+3000만점 획득",11000 코인 획득,700만점 달성,2000만점 달성,6000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170320
+5859,5860,5861,5862,5863,5864,5865,5866,2017-04-03 00:00:00,2017-03-27 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5859,5860,5861,5862,5863,5864,5865,5866,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"해적맛 쿠키로 Ep.1의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","솜사탕맛 쿠키로 Ep.5의 
+6스테이지 도달",15000 코인 획득,400만점 달성,3500만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170327
+5867,5868,5869,5870,5871,5872,5873,5874,2017-04-10 00:00:00,2017-04-03 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5867,5868,5869,5870,5871,5872,5873,5874,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"쿠키앤크림 쿠키로 Ep.2의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","박하사탕맛 쿠키로 Ep.1의 
+6스테이지 도달",11000 코인 획득,200만점 달성,3500만점 달성,8000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170403
+5875,5876,5877,5878,5879,5880,5881,5882,2017-04-17 00:00:00,2017-04-10 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5875,5876,5877,5878,5879,5880,5881,5882,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"좀비맛 쿠키로 Ep.3의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","바나나맛 쿠키로 
+40000코인 획득",23000 코인 획득,400만점 달성,3500만점 달성,7000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170410
+5883,5884,5885,5886,5887,5888,5889,5890,2017-04-24 00:00:00,2017-04-17 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5883,5884,5885,5886,5887,5888,5889,5890,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"천사맛 쿠키로 
+1000만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","레몬맛 쿠키로 Ep.3의 
+5스테이지 도달",17000 코인 획득,500만점 달성,3000만점 달성,6000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170417
+5891,5892,5893,5894,5895,5896,5897,5898,2017-05-01 00:00:00,2017-04-24 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5891,5892,5893,5894,5895,5896,5897,5898,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"구름맛 쿠키로 Ep.1의 
+3스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","탐험가맛 쿠키로 
+15000코인 획득",23000 코인 획득,300만점 달성,3000만점 달성,5000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170424
+5899,5900,5901,5902,5903,5904,5905,5906,2017-05-08 00:00:00,2017-05-01 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5899,5900,5901,5902,5903,5904,5905,5906,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"풋사과맛 쿠키로 
+7000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","대추맛 쿠키로 
+2000만점 획득",14000 코인 획득,700만점 달성,3500만점 달성,8000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170501
+5907,5908,5909,5910,5911,5912,5913,5914,2017-05-15 00:00:00,2017-05-08 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5907,5908,5909,5910,5911,5912,5913,5914,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"닌자맛 쿠키로 
+1200만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","특전사맛 쿠키로 Ep.3의 
+4스테이지 도달",19000 코인 획득,500만점 달성,2000만점 달성,7000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170508
+5915,5916,5917,5918,5919,5920,5921,5922,2017-05-22 00:00:00,2017-05-15 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5915,5916,5917,5918,5919,5920,5921,5922,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"눈설탕맛 쿠키로 Ep.3의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","치어리더맛 쿠키로 Ep.3의 
+4스테이지 도달",11000 코인 획득,800만점 달성,2500만점 달성,5000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170515
+5923,5924,5925,5926,5927,5928,5929,5930,2017-05-29 00:00:00,2017-05-22 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5923,5924,5925,5926,5927,5928,5929,5930,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"딸기맛 쿠키로 
+700만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","음유시인맛 쿠키로 
+1500만점 획득",24000 코인 획득,900만점 달성,2500만점 달성,6000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170522
+5931,5932,5933,5934,5935,5936,5937,5938,2017-06-05 00:00:00,2017-05-29 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5931,5932,5933,5934,5935,5936,5937,5938,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"보더맛 쿠키로 Ep.2의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","피겨여왕맛 쿠키로 Ep.3의 
+4스테이지 도달",17000 코인 획득,600만점 달성,2500만점 달성,9000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170529
+5939,5940,5941,5942,5943,5944,5945,5946,2017-06-12 00:00:00,2017-06-05 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5939,5940,5941,5942,5943,5944,5945,5946,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"공주맛 쿠키로 
+500만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","소다맛 쿠키로 
+1200만점 획득",17000 코인 획득,400만점 달성,2500만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170605
+5947,5948,5949,5950,5951,5952,5953,5954,2017-06-19 00:00:00,2017-06-12 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5947,5948,5949,5950,5951,5952,5953,5954,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"뱀파이어맛 쿠키로 
+2000만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","복숭아맛 쿠키로 
+2000만점 획득",23000 코인 획득,400만점 달성,2500만점 달성,7000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170612
+5955,5956,5957,5958,5959,5960,5961,5962,2017-06-26 00:00:00,2017-06-19 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5955,5956,5957,5958,5959,5960,5961,5962,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"커피맛 쿠키로 
+700만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","마카롱맛 쿠키로 Ep.5의 
+6스테이지 도달",10000 코인 획득,500만점 달성,3500만점 달성,8000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170619
+5963,5964,5965,5966,5967,5968,5969,5970,2017-07-03 00:00:00,2017-06-26 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5963,5964,5965,5966,5967,5968,5969,5970,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"좀비맛 쿠키로 Ep.2의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","예언자맛 쿠키로 Ep.5의 
+3스테이지 도달",12000 코인 획득,300만점 달성,3000만점 달성,6000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170626
+5971,5972,5973,5974,5975,5976,5977,5978,2017-07-10 00:00:00,2017-07-03 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5971,5972,5973,5974,5975,5976,5977,5978,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"락스타맛 쿠키로 
+1500만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","마법사맛 쿠키로 Ep.4의 
+6스테이지 도달",12000 코인 획득,500만점 달성,3500만점 달성,6000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170703
+5979,5980,5981,5982,5983,5984,5985,5986,2017-07-17 00:00:00,2017-07-10 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5979,5980,5981,5982,5983,5984,5985,5986,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"해적맛 쿠키로 Ep.2의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","팬케이크맛 쿠키로 
+3000만점 획득",21000 코인 획득,600만점 달성,3000만점 달성,7000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170710
+5987,5988,5989,5990,5991,5992,5993,5994,2017-07-24 00:00:00,2017-07-17 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5987,5988,5989,5990,5991,5992,5993,5994,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"명랑한 쿠키양으로 Ep.1의 
+3스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","달토끼맛 쿠키로 
+3500만점 획득",22000 코인 획득,700만점 달성,2500만점 달성,9000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170717
+5995,5996,5997,5998,5999,6000,6001,6002,2017-07-31 00:00:00,2017-07-24 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,5995,5996,5997,5998,5999,6000,6001,6002,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"버터크림 초코쿠키로 
+5000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","악마맛 쿠키로 
+2200만점 획득",13000 코인 획득,400만점 달성,3500만점 달성,8000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170724
+6003,6004,6005,6006,6007,6008,6009,6010,2017-08-07 00:00:00,2017-07-31 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6003,6004,6005,6006,6007,6008,6009,6010,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"근육맛 쿠키로 Ep.2의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","체리맛 쿠키로 Ep.2의 
+4스테이지 도달",10000 코인 획득,900만점 달성,2500만점 달성,7000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170731
+6011,6012,6013,6014,6015,6016,6017,6018,2017-08-14 00:00:00,2017-08-07 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6011,6012,6013,6014,6015,6016,6017,6018,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"키위맛 쿠키로 Ep.5의 
+7스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","코코아맛 쿠키로 Ep.2의 
+6스테이지 도달",24000 코인 획득,900만점 달성,3500만점 달성,8000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170807
+6019,6020,6021,6022,6023,6024,6025,6026,2017-08-21 00:00:00,2017-08-14 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6019,6020,6021,6022,6023,6024,6025,6026,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"치즈케이크맛 쿠키로 
+25000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","버블껌맛 쿠키로 
+2500만점 획득",24000 코인 획득,600만점 달성,3500만점 달성,9000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170814
+6027,6028,6029,6030,6031,6032,6033,6034,2017-08-28 00:00:00,2017-08-21 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6027,6028,6029,6030,6031,6032,6033,6034,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"천사맛 쿠키로 Ep.1의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","웨어울프맛 쿠키로 
+2500만점 획득",19000 코인 획득,700만점 달성,2000만점 달성,7000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170821
+6035,6036,6037,6038,6039,6040,6041,6042,2017-09-04 00:00:00,2017-08-28 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6035,6036,6037,6038,6039,6040,6041,6042,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"구름맛 쿠키로 
+300만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","벚꽃맛 쿠키로 Ep.4의 
+5스테이지 도달",20000 코인 획득,400만점 달성,3000만점 달성,9000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170828
+6043,6044,6045,6046,6047,6048,6049,6050,2017-09-11 00:00:00,2017-09-04 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6043,6044,6045,6046,6047,6048,6049,6050,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"공주맛 쿠키로 
+1700코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","단팥맛 쿠키로 Ep.5의 
+7스테이지 도달",20000 코인 획득,900만점 달성,3500만점 달성,8000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170904
+6051,6052,6053,6054,6055,6056,6057,6058,2017-09-18 00:00:00,2017-09-11 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6051,6052,6053,6054,6055,6056,6057,6058,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"닌자맛 쿠키로 Ep.3의 
+3스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","민트초코쿠키로 
+40000코인 획득",11000 코인 획득,600만점 달성,2500만점 달성,7000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170911
+6059,6060,6061,6062,6063,6064,6065,6066,2017-09-25 00:00:00,2017-09-18 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6059,6060,6061,6062,6063,6064,6065,6066,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"쿠키앤크림 쿠키로 
+500만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","치어리더맛 쿠키로 
+700만점 획득",20000 코인 획득,300만점 달성,3500만점 달성,6000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170918
+6067,6068,6069,6070,6071,6072,6073,6074,2017-10-02 00:00:00,2017-09-25 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6067,6068,6069,6070,6071,6072,6073,6074,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"뱀파이어맛 쿠키로 Ep.3의 
+6스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","탐험가맛 쿠키로 
+20000코인 획득",11000 코인 획득,400만점 달성,2000만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_170925
+6075,6076,6077,6078,6079,6080,6081,6082,2017-10-09 00:00:00,2017-10-02 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6075,6076,6077,6078,6079,6080,6081,6082,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"눈설탕맛 쿠키로 
+2200만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","박하사탕맛 쿠키로 
+3000만점 획득",14000 코인 획득,800만점 달성,2500만점 달성,5000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171002
+6083,6084,6085,6086,6087,6088,6089,6090,2017-10-16 00:00:00,2017-10-09 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6083,6084,6085,6086,6087,6088,6089,6090,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"보더맛 쿠키로 
+600만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","양파맛 쿠키로 
+2500만점 획득",16000 코인 획득,500만점 달성,3500만점 달성,5000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171009
+6091,6092,6093,6094,6095,6096,6097,6098,2017-10-23 00:00:00,2017-10-16 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6091,6092,6093,6094,6095,6096,6097,6098,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"락스타맛 쿠키로 Ep.1의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","소다맛 쿠키로 Ep.2의 
+6스테이지 도달",21000 코인 획득,500만점 달성,2500만점 달성,7000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171016
+6099,6100,6101,6102,6103,6104,6105,6106,2017-10-30 00:00:00,2017-10-23 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6099,6100,6101,6102,6103,6104,6105,6106,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"풋사과맛 쿠키로 
+1500만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","레몬맛 쿠키로 
+2700만점 획득",16000 코인 획득,900만점 달성,2000만점 달성,9000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171023
+6107,6108,6109,6110,6111,6112,6113,6114,2017-11-06 00:00:00,2017-10-30 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6107,6108,6109,6110,6111,6112,6113,6114,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"해적맛 쿠키로 
+5000코인 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","요정맛 쿠키로 
+1000만점 획득",13000 코인 획득,400만점 달성,2000만점 달성,9000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171030
+6115,6116,6117,6118,6119,6120,6121,6122,2017-11-13 00:00:00,2017-11-06 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6115,6116,6117,6118,6119,6120,6121,6122,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"좀비맛 쿠키로 Ep.1의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","블랙베리맛 쿠키로 
+2000만점 획득",10000 코인 획득,800만점 달성,2000만점 달성,6000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171106
+6123,6124,6125,6126,6127,6128,6129,6130,2017-11-20 00:00:00,2017-11-13 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6123,6124,6125,6126,6127,6128,6129,6130,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"커피맛 쿠키로 
+500만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","핑크초코쿠키로 Ep.4의 
+5스테이지 도달",19000 코인 획득,400만점 달성,2500만점 달성,6000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171113
+6131,6132,6133,6134,6135,6136,6137,6138,2017-11-27 00:00:00,2017-11-20 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6131,6132,6133,6134,6135,6136,6137,6138,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"키위맛 쿠키로 Ep.2의 
+8스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","오렌지맛 쿠키로 
+3000만점 획득",23000 코인 획득,700만점 달성,3500만점 달성,5000만점 달성,"Ep.2의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171120
+6139,6140,6141,6142,6143,6144,6145,6146,2017-12-04 00:00:00,2017-11-27 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6139,6140,6141,6142,6143,6144,6145,6146,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"근육맛 쿠키로 Ep.1의 
+5스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","피겨여왕맛 쿠키로 Ep.4의 
+5스테이지 도달",20000 코인 획득,900만점 달성,3500만점 달성,5000만점 달성,"Ep.3의 
+스테이지8 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171127
+6147,6148,6149,6150,6151,6152,6153,6154,2017-12-11 00:00:00,2017-12-04 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6147,6148,6149,6150,6151,6152,6153,6154,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"명랑한 쿠키양으로 
+300만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","피스타치오맛 쿠키로 Ep.4의 
+8스테이지 도달",21000 코인 획득,800만점 달성,2000만점 달성,9000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171204
+6155,6156,6157,6158,6159,6160,6161,6162,2017-12-18 00:00:00,2017-12-11 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6155,6156,6157,6158,6159,6160,6161,6162,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"버터크림 초코쿠키로 Ep.1의 
+3스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","예언자맛 쿠키로 
+1000만점 획득",16000 코인 획득,400만점 달성,2500만점 달성,5000만점 달성,"Ep.4의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171211
+6163,6164,6165,6166,6167,6168,6169,6170,2017-12-25 00:00:00,2017-12-18 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6163,6164,6165,6166,6167,6168,6169,6170,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"치즈케이크맛 쿠키로 Ep.5의 
+4스테이지 도달",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","특전사맛 쿠키로 
+2000만점 획득",17000 코인 획득,800만점 달성,3000만점 달성,9000만점 달성,"Ep.1의 
+스테이지11 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171218
+6171,6172,6173,6174,6175,6176,6177,6178,2018-01-01 00:00:00,2017-12-25 00:00:01,actionCollectableEvent2,s_event_btn_today_mission8.ccbi,,,,bc_event_today_mission8.ccbi,7770005,7770005,7400100,8003000,7400100,7770005,8003000,80003,2,3,200,5000,300,5,10000,1,,,6171,6172,6173,6174,6175,6176,6177,6178,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,event_mission_epN01.png,"산타맛 쿠키로 
+300만점 획득",제시된 조건에 따라 이번주의 목표를 달성하면 선물을 드려요!,"*스페셜 에피소드 1, 2는 포함되지 않습니다. *쿠키가 조건인 경우 이어달리기를 사용할 수 없습니다.","시나몬맛 쿠키로 
+3000만점 획득",24000 코인 획득,200만점 달성,2500만점 달성,9000만점 달성,"Ep.5의 
+스테이지10 도달",게임 20판 하기,이벤트 기간: 일요일 자정까지,,,,,,,,,8MissionEvery_171225

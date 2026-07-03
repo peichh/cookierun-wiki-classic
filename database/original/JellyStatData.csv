@@ -1,0 +1,19 @@
+﻿ItemValue,JellyChar,JellyName,ReqLevel_0,ReqLevel_1,ReqLevel_2,ResourceKeyString,Score_0,Score_1,Score_2,UnlockedDescription,_key
+49,,House Jelly,1,0,0,item00,20,0,0,보통의 젤리,400
+0,,Shield Jelly,1,0,0,item01,20,0,0,방패 : 장애물에 부딪히면 1회 방어해줌,401
+0,C,Bonus Jelly,1,0,0,item02,300,0,0,보너스타임 : 보너스타임으로 직행!,402
+2200,D,Blast Jelly,1,0,0,item03,300,0,0,블래스트 : 무적으로 빨리 달리기,403
+3400,E,Giant Jelly,1,0,0,item04,300,0,0,거대화 : 거인이 되며 무적이 됨,404
+2800,F,Magnet Jelly,1,0,0,item05,300,0,0,자석 : 펫이 자석이 되어 젤리들을 끌어당김,405
+0,G,Obstacle Coin Jelly,1,0,0,item06,300,0,0,코인화 : 장애물들을 코인으로 변신!,406
+3400,H,All-Bear Jelly,1,0,0,item07,300,0,0,곰젤리파티 : 기본젤리들이 곰젤리로 변신!,407
+10,M,Small Energy Jelly,1,0,0,item01,2000,0,0,작은 회복물약 : 체력이 10회복됨,408
+40,N,Large Energy Jelly,1,0,0,item01,5000,0,0,큰 회복물약 : 체력이 40회복됨,409
+0,1,Basic JellyBean,1,0,0,jellybean_01,0,0,0,기본 젤리,500
+0,,Red JellyBean,1,5,25,jelly_2,30,45,60,빨간 기본 젤리,501
+0,,BlueJellyBean,1,10,30,jelly_1,30,45,60,파란 기본 젤리,502
+0,3,Yellow Bear Jelly,1,15,51,jelly_3,564,588,610,노란 곰젤리,503
+0,I,Pink Bear Jelly,1,20,51,jelly_4,858,874,910,핑크 곰젤리,504
+0,,Alphabet Jelly,1,0,0,jelly_alphabet,437,0,0,알파벳젤리,551
+0,4,Coin Jelly,1,0,0,jelly_coin,120,0,0,1코인 ,552
+0,P,Gold Coin Jelly,1,0,0,jelly_coin2,372,0,0,10코인의 가치를 가진 금화,553

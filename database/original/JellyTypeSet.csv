@@ -1,0 +1,7 @@
+﻿AlphabetJellyProb,BearBeanProb,CoinJellyProb,ItemJellyProb,Item_402,Item_403,Item_404,Item_405,Item_406,Item_407,Item_408,Item_409,Item_4105,Item_4106,Item_4107,Item_4108,Item_4109,Item_4110,Item_4111,Item_4112,Item_4113,Item_4117,Item_4119,Item_500,Item_503,Item_504,Item_552,Item_553,itemJellyProbSum,_key
+0,0,0,0,0,5,5,0,10,50,0,0,0,0,0,0,0,0,0,0,0,0,0,300,1000,1000,100,0,2470,BackPetJelly
+0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,30,30,5,0,79,BackPetJellyMaxium
+500,50,50,500,0,200,200,200,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000,Jelly_Chance
+0,0,0,0,0,10,10,0,20,100,0,0,0,300,300,300,300,300,300,300,0,0,0,300,1000,1000,1000,100,5640,KingChocoJelly
+0,0,0,0,0,1,1,0,1,1,0,0,0,10,10,10,10,10,10,10,0,0,0,10,10,10,10,5,119,KingChocoJellyMaxium
+0,0,0,0,2,8,8,6,2,15,11,0,9,0,0,0,0,0,0,0,15,15,9,0,0,0,0,0,100,SpecialJellyItem

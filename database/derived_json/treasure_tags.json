@@ -1,0 +1,2381 @@
+[
+  {
+    "id": "1100400",
+    "name": "산타맛 쿠키의 선물보따리",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1103200",
+    "name": "예언자맛 쿠키의 바삭한 수염",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1105100",
+    "name": "벚꽃맛 쿠키의 벚꽃잼 비스킷 가방",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1203800",
+    "name": "스노우 글로브의 크리스탈 왕관",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1204900",
+    "name": "초코왕방울의 왕젤리 왕관",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1205300",
+    "name": "털뭉치 멍뭉이의 뼈다귀 비스킷",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1208300",
+    "name": "작은 케이크들개 전용 컵케이크",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1300400",
+    "name": "레어 크리스탈 사파이어",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1300500",
+    "name": "자루만 남은 검",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1300600",
+    "name": "젤리가 되기 전의 핑크곰",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1301300",
+    "name": "진주 크리스탈 귀걸이",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1301400",
+    "name": "활활 타오르는 순간의 해조각",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1301500",
+    "name": "선물 포장용 고급 리본",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1302400",
+    "name": "긴박한 순간에 유용한 구급상자",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1302500",
+    "name": "과자집 지붕 장식용 바람개비",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1302600",
+    "name": "의문의 재료로 만든 소시지",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1302700",
+    "name": "행운의 다섯잎 클로버",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1302800",
+    "name": "푸른붉은 용의 이빨",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1303700",
+    "name": "바톤터치용 당근",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1303800",
+    "name": "포장이 벗겨진 각설탕",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1303900",
+    "name": "씨를 발라 절인 올리브",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1304000",
+    "name": "머리가 좋아지는 호두",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1304100",
+    "name": "큰머리 송이송이 버섯",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1306300",
+    "name": "희귀한 크리스탈 조개",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1306400",
+    "name": "커다란 크리스탈 원석",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1307000",
+    "name": "궁극의 달리기를 위한 폭죽세트",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1308600",
+    "name": "빠른 발바닥 막대사탕",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1308700",
+    "name": "녹아버린 회중시계",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1308800",
+    "name": "미디엄레어 미트파이",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1308900",
+    "name": "찍어먹는 초코스틱",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1309000",
+    "name": "탁상용 별빛 전등",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1309500",
+    "name": "최고급 크리스탈 보석함",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1310700",
+    "name": "청명한 크리스탈 자명종",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1311400",
+    "name": "왕 크리스탈 보석반지",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1313300",
+    "name": "장식용 크리스탈 포크스푼",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1314100",
+    "name": "마음에 품은 신성한 크리스탈 검",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1500300",
+    "name": "첫번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1500400",
+    "name": "Lv.50 골든 쿠키스 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1500500",
+    "name": "Lv.60 레전드 쿠키스 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1500700",
+    "name": "크리스탈을 부르는 수요일의 종",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1500800",
+    "name": "두번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1500900",
+    "name": "2014 황금 다이어리",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1501200",
+    "name": "Lv.70 나는 쿠키다 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1501300",
+    "name": "오리지널 진저브래드",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1501600",
+    "name": "2014 여름한정 크리스탈 팥빙수",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1501800",
+    "name": "격변 전 100만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1501900",
+    "name": "격변 전 200만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502000",
+    "name": "격변 전 300만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502100",
+    "name": "격변 전 400만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502200",
+    "name": "격변 전 500만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502300",
+    "name": "격변 전 600만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502400",
+    "name": "격변 전 700만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502500",
+    "name": "격변 전 800만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502600",
+    "name": "격변 전 900만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502700",
+    "name": "격변 전 1,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502800",
+    "name": "격변 전 2,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1502900",
+    "name": "격변 전 3,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503000",
+    "name": "격변 전 4,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503100",
+    "name": "격변 전 5,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503200",
+    "name": "격변 전 6,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503300",
+    "name": "격변 전 7,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503400",
+    "name": "격변 전 8,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503500",
+    "name": "격변 전 9,000만점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503600",
+    "name": "격변 전 1억점의 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1503700",
+    "name": "미니 크리스탈 룰렛",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1504100",
+    "name": "세번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1504200",
+    "name": "네번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1504300",
+    "name": "격변 전 함께해준 증표",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1504400",
+    "name": "달토끼의 마법 절구",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1504700",
+    "name": "호랑이 기운 시리얼",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1504800",
+    "name": "달달한 호박사탕 바구니",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1504900",
+    "name": "깜찍한 미니 크리스탈 쿠션",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1505000",
+    "name": "소원을 들어주는 꽃",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1505100",
+    "name": "4000만 기념 챔피언 벨트",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1505200",
+    "name": "다람쥐의 가루 솔솔 솔방울",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1505500",
+    "name": "화목한 눈사람 가족사진",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1505600",
+    "name": "최종병기 눈사람 미니어처",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1505700",
+    "name": "2015 황금 캘린더",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1505800",
+    "name": "Lv.80 프리미엄 쿠키스 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1505900",
+    "name": "다섯번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1506200",
+    "name": "다람쥐의 가루 솔솔 마법한과",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1506600",
+    "name": "쓰다 만 몽당 크레파스",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1506800",
+    "name": "용감한 쿠키의 물총",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1506900",
+    "name": "미니 크리스탈 피규어",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1507000",
+    "name": "황금빛 프리미엄 초대장",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1507200",
+    "name": "버블껌맛 쿠키의 왕 버블껌볼",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1507300",
+    "name": "2015 여름한정 크리스탈 망고빙수",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1507400",
+    "name": "프리코인 콜라보 하트보물",
+    "effect_types": [
+      "L"
+    ],
+    "tags": [
+      "life_heart"
+    ],
+    "tag_labels_th": [
+      "หัวใจหรือชีวิต"
+    ]
+  },
+  {
+    "id": "1507500",
+    "name": "신나게 달려라! 5000만 기념 폭죽",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1507600",
+    "name": "다람쥐의 마법모래 유리병(라인용)",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1507900",
+    "name": "여섯번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1508500",
+    "name": "다람쥐의 마법모래 유리병",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1508800",
+    "name": "보름달을 품은 신비한 등불",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1508900",
+    "name": "2015 할로윈 파티 단체 사진",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1509000",
+    "name": "따끈따끈 군침도는 군고구마",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1509100",
+    "name": "어딘가 낯익은 푸른빛 목걸이",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1509200",
+    "name": "다람쥐 모형 스노우볼",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1509700",
+    "name": "2016 크리스탈 원숭이",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1509800",
+    "name": "복많이 더많이 짱짱많이 복어",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1510400",
+    "name": "일곱번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1510500",
+    "name": "새싹1 등급의 소중한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1510600",
+    "name": "새싹2 등급의 소중한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1510700",
+    "name": "새싹3 등급의 소중한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1510800",
+    "name": "새싹4 등급의 소중한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1510900",
+    "name": "새싹5 등급의 소중한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511000",
+    "name": "중수1 등급의 대단한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511100",
+    "name": "중수2 등급의 대단한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511200",
+    "name": "중수3 등급의 대단한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511300",
+    "name": "중수4 등급의 대단한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511400",
+    "name": "중수5 등급의 대단한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511500",
+    "name": "고수1 등급의 엄청난 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511600",
+    "name": "고수2 등급의 엄청난 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511700",
+    "name": "고수3 등급의 엄청난 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511800",
+    "name": "고수4 등급의 엄청난 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1511900",
+    "name": "고수5 등급의 엄청난 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512000",
+    "name": "영웅1 등급의 히어로 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512100",
+    "name": "영웅2 등급의 히어로 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512200",
+    "name": "영웅3 등급의 히어로 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512300",
+    "name": "영웅4 등급의 히어로 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512400",
+    "name": "영웅5 등급의 히어로 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512500",
+    "name": "초인1 등급의 위대한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512600",
+    "name": "초인2 등급의 위대한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512700",
+    "name": "초인3 등급의 위대한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512800",
+    "name": "초인4 등급의 위대한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1512900",
+    "name": "초인5 등급의 위대한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513000",
+    "name": "제왕1 등급의 환상적인 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513100",
+    "name": "제왕2 등급의 환상적인 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513200",
+    "name": "제왕3 등급의 환상적인 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513300",
+    "name": "제왕4 등급의 환상적인 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513400",
+    "name": "제왕5 등급의 환상적인 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513500",
+    "name": "전설1 등급의 레전드 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513600",
+    "name": "전설2 등급의 레전드 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513700",
+    "name": "전설3 등급의 레전드 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513800",
+    "name": "전설4 등급의 레전드 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1513900",
+    "name": "전설5 등급의 레전드 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1514000",
+    "name": "신 등급의 휘황찬란한 영광 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1514100",
+    "name": "행복가득 찰랑찰랑 물병",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1514200",
+    "name": "미니 크리스탈 피규어 2nd",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1514400",
+    "name": "Lv.90 VIP 쿠키스 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1514500",
+    "name": "Lv.100 꿈을 이룬 쿠키스 클럽 트로피",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1514600",
+    "name": "여덟번째 쿠키군단 완성 기념 액자",
+    "effect_types": [
+      "A"
+    ],
+    "tags": [
+      "score_bonus"
+    ],
+    "tag_labels_th": [
+      "โบนัสคะแนน"
+    ]
+  },
+  {
+    "id": "1514700",
+    "name": "6000만",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1514800",
+    "name": "다람쥐의 잘 익은 전통 곶감",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1515100",
+    "name": "반짝이는 할로윈 호박컵케이크",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1515200",
+    "name": "반짝이는 크리스탈 눈꽃 브로치",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1515300",
+    "name": "새해 복많이 더많이 짱짱많이 복어",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1515400",
+    "name": "11주년 기념 골드 액자",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1515700",
+    "name": "다람쥐의 반짝이는 크리스탈 보석함",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1515800",
+    "name": "다람쥐의 진심어린 축하 폭죽",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1515900",
+    "name": "11주년 기념 크리스탈 액자",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516000",
+    "name": "2024 여름한정 크리스탈 딸기빙수",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516100",
+    "name": "생일 기념! 영롱한 딸기 보석캔디",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516200",
+    "name": "용감한 쿠키군을 위한 생일 케이크",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516300",
+    "name": "카드 게임 전용 스페셜 크리스탈 카드",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516400",
+    "name": "다람쥐의 크리스탈 에이드 디스펜서",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516500",
+    "name": "영양듬뿍 크리스탈 뚝배기 삼계탕",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516600",
+    "name": "찰랑찰랑 감칠맛 식혜",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1516700",
+    "name": "천하를 품은 자의 크리스탈 장식 부채",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1516800",
+    "name": "다람쥐의 크리스탈 별 오너먼트",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1517100",
+    "name": "2025 크리스탈 푸른뱀",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1517200",
+    "name": "다람쥐의 반짝반짝 크리스탈 윷",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1517500",
+    "name": "정성가득 버터 오곡밥",
+    "effect_types": [
+      "BS"
+    ],
+    "tags": [
+      "boost_set"
+    ],
+    "tag_labels_th": [
+      "ชุดบูสต์"
+    ]
+  },
+  {
+    "id": "1517800",
+    "name": "호화로운 코인 팰리스 기념 액자",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1518100",
+    "name": "마시멜로 별똥별 조각",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1518200",
+    "name": "12주년 기념 골드 액자",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1518300",
+    "name": "12주년 기념 크리스탈 액자",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1518600",
+    "name": "허브맛 쿠키가 소중히 간직해온 황금화분",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1518700",
+    "name": "미스터리박스 모음",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1518800",
+    "name": "용감한 쿠키군의 첫 발자국",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1518900",
+    "name": "뒤집기 좋은 장난감",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1519000",
+    "name": "영롱한 크리스탈 토끼 키링",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1519100",
+    "name": "단추 부자 눈사람",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1519200",
+    "name": "오래전 예언을 기록해둔 액자",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1519300",
+    "name": "성격을 보여주는 액자",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1519400",
+    "name": "반짝반짝 용감한 쿠키군의 생일 케이크",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1519700",
+    "name": "신묘한 생명의 약수병",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1519800",
+    "name": "파티런 크리스탈 기념 티켓 1",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1519900",
+    "name": "파티런 크리스탈 기념 티켓 2",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1520000",
+    "name": "보름달을 품은 달항아리",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  },
+  {
+    "id": "1520100",
+    "name": "다람쥐의 크리스탈 노리개",
+    "effect_types": [
+      "E"
+    ],
+    "tags": [
+      "energy"
+    ],
+    "tag_labels_th": [
+      "พลังงาน"
+    ]
+  },
+  {
+    "id": "1600400",
+    "name": "레몬맛 쿠키의 매직큐브 열쇠고리",
+    "effect_types": [
+      "PW"
+    ],
+    "tags": [
+      "powder_material"
+    ],
+    "tag_labels_th": [
+      "ผงหรือวัสดุ"
+    ]
+  },
+  {
+    "id": "1600600",
+    "name": "체리초코 아이스크림 케이크",
+    "effect_types": [
+      "B"
+    ],
+    "tags": [
+      "boost_item"
+    ],
+    "tag_labels_th": [
+      "บูสต์เดี่ยว"
+    ]
+  },
+  {
+    "id": "1600700",
+    "name": "믿음직한 황금 나침반",
+    "effect_types": [
+      "I"
+    ],
+    "tags": [
+      "item_collectible"
+    ],
+    "tag_labels_th": [
+      "ไอเทมหรือของสะสม"
+    ]
+  }
+]

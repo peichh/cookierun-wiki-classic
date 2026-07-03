@@ -1,0 +1,569 @@
+[
+  {
+    "code": "A",
+    "label_en": "score bonus",
+    "label_th": "โบนัสคะแนน",
+    "description": "เพิ่มคะแนนหรือแต้มที่ได้จากเอฟเฟกต์ของสมบัติ",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1100400",
+      "1100401",
+      "1100402"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "1000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "1500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "2000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "2300",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "2500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "2600",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "2900",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "3000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "100",
+        "prob": "3200",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "B",
+    "label_en": "boost item",
+    "label_th": "บูสต์เดี่ยว",
+    "description": "ให้บูสต์ชิ้นเดียว เช่น Fast Start หรือ Double XP",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1302400",
+      "1302401",
+      "1302402"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "211",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "212",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "213",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "214",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "215",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1100",
+        "reward_stuff_seq": "211",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1100",
+        "reward_stuff_seq": "212",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1100",
+        "reward_stuff_seq": "213",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1100",
+        "reward_stuff_seq": "214",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "BS",
+    "label_en": "boost set",
+    "label_th": "ชุดบูสต์",
+    "description": "ให้บูสต์จากชุดตัวเลือกหลายชิ้น",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1105100",
+      "1105101",
+      "1105102"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1700",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1900",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "2000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "2100",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "2200",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "2300",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "2400",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "211 | 212 | 213 | 214 | 215",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "E",
+    "label_en": "energy",
+    "label_th": "พลังงาน",
+    "description": "เกี่ยวกับการฟื้นฟูหรือเพิ่มพลังงาน/HP",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1103200",
+      "1103201",
+      "1103202"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": "WED"
+      },
+      {
+        "qty": "1",
+        "prob": "1000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "10000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": "WED"
+      },
+      {
+        "qty": "1",
+        "prob": "1200",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1300",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1450",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1600",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "1",
+        "prob": "1750",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "I",
+    "label_en": "item/collectible",
+    "label_th": "ไอเทมหรือของสะสม",
+    "description": "ให้ไอเทมหรือวัตถุสะสมจากเอฟเฟกต์ของสมบัติ",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1300500",
+      "1300501",
+      "1300502"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1050",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1100",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1150",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1200",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1350",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "1750",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "10000",
+        "prob": "2000",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "L",
+    "label_en": "life/heart",
+    "label_th": "หัวใจหรือชีวิต",
+    "description": "เกี่ยวกับหัวใจหรือจำนวนชีวิต",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1507400",
+      "1507401",
+      "1507402"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  },
+  {
+    "code": "PW",
+    "label_en": "powder/material",
+    "label_th": "ผงหรือวัสดุ",
+    "description": "ให้ผงหรือวัตถุดิบเฉพาะทางในปริมาณคงที่",
+    "inferred_from_fields": [
+      "reward",
+      "qty",
+      "reward_stuff_seq",
+      "reward_stuff_seq_set",
+      "reward_condition"
+    ],
+    "sample_rows": [
+      "1205300",
+      "1205301",
+      "1205302"
+    ],
+    "observed_patterns": [
+      {
+        "qty": "0",
+        "prob": "0",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "2500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "2700",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "2900",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "3200",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "3500",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "3800",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "4100",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "4400",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      },
+      {
+        "qty": "150",
+        "prob": "4700",
+        "reward_stuff_seq": "0",
+        "reward_stuff_seq_set": "",
+        "reward_condition": ""
+      }
+    ]
+  }
+]

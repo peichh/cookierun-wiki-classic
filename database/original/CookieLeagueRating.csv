@@ -1,0 +1,24 @@
+﻿crystal_count,icon_grade,max_percentage,medal_count,min_percentage,name,rating_seq,_key
+0,-,0,0,0,-,0,1
+5,bc_weelkyReward_IconGrade_13.png,30,80,25,Expert 3,9,10
+6,bc_weelkyReward_IconGrade_16.png,25,85,20,Master 1,10,11
+6,bc_weelkyReward_IconGrade_17.png,20,90,15,Hero 2,11,12
+7,bc_weelkyReward_IconGrade_18.png,15,120,12,Master 3,12,13
+8,bc_weelkyReward_IconGrade_21.png,12,125,10,Hero 1,13,14
+8,bc_weelkyReward_IconGrade_22.png,10,130,7,Hero 2,14,15
+9,bc_weelkyReward_IconGrade_23.png,7,135,5,Hero 3,15,16
+10,bc_weelkyReward_IconGrade_26.png,5,140,3,Champ 1,16,17
+10,bc_weelkyReward_IconGrade_27.png,3,145,2,Champ 2,17,18
+11,bc_weelkyReward_IconGrade_28.png,2,150,1,Champ 3,18,19
+0,bc_weelkyReward_IconGrade_1.png,100,30,90,Sprout 1,1,2
+12,bc_weelkyReward_IconGrade_31.png,1,155,0.5,Legend 1,19,20
+13,bc_weelkyReward_IconGrade_32.png,0.5,160,0.3,Legend 2,20,21
+14,bc_weelkyReward_IconGrade_33.png,0.3,165,0.1,Legend 3,21,22
+15,bc_weelkyReward_IconGrade_36.png,0.1,170,0,Myth,22,23
+0,bc_weelkyReward_IconGrade_2.png,90,35,80,Sprout 2,2,3
+1,bc_weelkyReward_IconGrade_3.png,80,40,70,Sprout 3,3,4
+2,bc_weelkyReward_IconGrade_6.png,70,50,60,Rookie 1,4,5
+2,bc_weelkyReward_IconGrade_7.png,60,55,50,Rookie 2,5,6
+3,bc_weelkyReward_IconGrade_8.png,50,60,40,Rookie 3,6,7
+4,bc_weelkyReward_IconGrade_11.png,40,70,35,Expert 1,7,8
+4,bc_weelkyReward_IconGrade_12.png,35,75,30,Expert 2,8,9

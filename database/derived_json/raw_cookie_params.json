@@ -1,0 +1,1847 @@
+[
+  {
+    "id": "AlchemistBalanceOff",
+    "name": null,
+    "stats": {
+      "resource_key": "ch34",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "AlchemistCenterEnergyType",
+    "name": null,
+    "stats": {
+      "resource_key": "ch34",
+      "value": "4257",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_CoinCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "8",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_CoinCountWithKingCoin",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "12",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_MagnetSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_ProjectileStartOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "20,40",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_StoneHeightLimit",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "130",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Baduk_StoneSpeed",
+    "name": null,
+    "stats": {
+      "resource_key": "ch78,ch79",
+      "value": "350",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BananaCoinJellyCountMax",
+    "name": null,
+    "stats": {
+      "resource_key": "ch68",
+      "value": "200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BananaGoldCoinRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch68",
+      "value": "970",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BardDoubleJumpCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch29",
+      "value": "7",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_AttackCooltime",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "400",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_BariRunColArea",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "0,0,180,180",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_BariRunGiantSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "1500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_BigSoulAttackCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "7",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_BigSoulColArea",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect_ghost",
+      "value": "-100,-100,200,200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_BigSoulMovement",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect_ghost",
+      "value": "100,160",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_MagnetSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_MakeNormalSoulJellyAmount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_MakeSpecialSoulJellyAmount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "15",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_NormalSoulAttackCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_NormalSoulColArea",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect_ghost",
+      "value": "-50,-50,100,100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_SpecialSoulAttackCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_SpecialSoulColArea",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect_ghost",
+      "value": "-50,-50,100,100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_SpecialSoulIndex",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_SwordColArea",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect",
+      "value": "-70,-80,100,120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BariPrincess_SwordSpeed",
+    "name": null,
+    "stats": {
+      "resource_key": "ch81_effect",
+      "value": "1200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BoriGiantCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch80",
+      "value": "4",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BoriGiantSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch80",
+      "value": "1200,1600,2000,2500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "BoriRecovery",
+    "name": null,
+    "stats": {
+      "resource_key": "ch80",
+      "value": "10",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ChainLightning_NumOfJelly",
+    "name": null,
+    "stats": {
+      "resource_key": "ch25_effect",
+      "value": "15",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "CheerleaderCookieGoldProbValue",
+    "name": null,
+    "stats": {
+      "resource_key": "ch20",
+      "value": "200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "CheeseCakeJellyProbValue",
+    "name": null,
+    "stats": {
+      "resource_key": "ch37",
+      "value": "200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "CherryBomb_Max_Additional_Number",
+    "name": null,
+    "stats": {
+      "resource_key": "ch28",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "CherryBomb_Recovery",
+    "name": null,
+    "stats": {
+      "resource_key": "ch28",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Chungmu_Cannon",
+    "name": null,
+    "stats": {
+      "resource_key": "ch85",
+      "value": "3000,274,300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Chungmu_Jellycho",
+    "name": null,
+    "stats": {
+      "resource_key": "ch85",
+      "value": "300,1,450,90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Chungmu_Soldiers",
+    "name": null,
+    "stats": {
+      "resource_key": "ch85",
+      "value": "0,70,80,540,270,130",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Chungmu_TransformMagnetRange",
+    "name": null,
+    "stats": {
+      "resource_key": "ch85",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Chungmu_Transform_Speed",
+    "name": null,
+    "stats": {
+      "resource_key": "ch85",
+      "value": "1400",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "CocoaColBoxRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch45",
+      "value": "1600",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Cucumber_FishJellyCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch77",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DANDELION_JELLY_COUNT",
+    "name": null,
+    "stats": {
+      "resource_key": "ch90_effect_front",
+      "value": "9",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DANDELION_LAST_SEED_DELAY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch90",
+      "value": "1500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DANDELION_POMPOM_MAX_Y",
+    "name": null,
+    "stats": {
+      "resource_key": "ch90_effect_front",
+      "value": "140",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DANDELION_POMPOM_MIN_Y",
+    "name": null,
+    "stats": {
+      "resource_key": "ch90_effect_front",
+      "value": "-20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DANDELION_TRANSFORM_SPEED",
+    "name": null,
+    "stats": {
+      "resource_key": "ch90",
+      "value": "1300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DUBAI_SPREAD_SPAWN_DISTANCE",
+    "name": null,
+    "stats": {
+      "resource_key": "ch89",
+      "value": "420",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DUBAI_SPREAD_SPAWN_INTERVAL",
+    "name": null,
+    "stats": {
+      "resource_key": "ch89",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "DUBAI_SPREAD_SPAWN_MAX_COUNT",
+    "name": null,
+    "stats": {
+      "resource_key": "ch89",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ExercisesBlastBonus",
+    "name": null,
+    "stats": {
+      "resource_key": "ch18",
+      "value": "1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ExercisesCriticalMulti",
+    "name": null,
+    "stats": {
+      "resource_key": "ch18",
+      "value": "5",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ExercisesCriticalProb",
+    "name": null,
+    "stats": {
+      "resource_key": "ch18",
+      "value": "400",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "FireSpiritSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch41",
+      "value": "3500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "FoolHoldRangeWithColBoxOn",
+    "name": null,
+    "stats": {
+      "resource_key": "ch44",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GARAE_JELLY_AMOUNT",
+    "name": null,
+    "stats": {
+      "resource_key": "ch88",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GARAE_OBSTACLE_JELLY_AMOUNT",
+    "name": null,
+    "stats": {
+      "resource_key": "ch88",
+      "value": "2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GARAE_OBSTACLE_JELLY_LIMIT_AMOUNT",
+    "name": null,
+    "stats": {
+      "resource_key": "ch88",
+      "value": "70",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GARAE_TRANSFORM_MAGNET_SIZE",
+    "name": null,
+    "stats": {
+      "resource_key": "ch88",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GARAE_TRANSFORM_SPEED",
+    "name": null,
+    "stats": {
+      "resource_key": "ch88",
+      "value": "1800",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "GEUMGANG_GHOST_GENERATE_COOLTIME",
+    "name": null,
+    "stats": {
+      "resource_key": "ch92",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Guardian4JellyEP4",
+    "name": null,
+    "stats": {
+      "resource_key": "ch49",
+      "value": "4268",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeAttackColBoxOffsetX",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "value": "250",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeAttackColBoxOffsetY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "value": "-20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeAttackColBoxX",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "value": "550",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeAttackColBoxY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "value": "150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeDrawAttackColBox",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JujubeObstacleSmallInterval",
+    "name": null,
+    "stats": {
+      "resource_key": "ch57",
+      "value": "180",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "JungleWarriorHeartCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch40",
+      "value": "11",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_CLONE_COOLTIME",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "100,250",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_CLONE_CRASH_DELAY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_CLONE_DEFAULT_POSITION",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "315,80,180",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_CLONE_FAR_OBSTACLE_TEST_AREA",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "180,0,240,240,3,2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_CLONE_NEAR_OBSTACLE_TEST_AREA",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "0,0,180,240,2,1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KAYMAK_TRANSFORM_SPEED",
+    "name": null,
+    "stats": {
+      "resource_key": "ch91",
+      "value": "1200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_CreationDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "0.3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_DisappearenceDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "2.0",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_DustEffectScale",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "1000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinAniScale",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "1300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinColBoxHeight",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "250",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinCrashMaxDistanceFromCookie",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "10",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "3.0",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpinOffsetX",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpinOffsetY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpinScale",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "3000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpinScaleMax",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "3600",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinSpinWidth",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinStartOffsetX",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KajuKatli_JavelinStartOffsetY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch74",
+      "value": "70",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "KiwiFuelBoostDuration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch43",
+      "value": "300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LOTUSROOT_SKELETON_JELLY_COUNT_OBSTACLE",
+    "name": null,
+    "stats": {
+      "resource_key": "ch93_effect",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LOTUSROOT_SMALL_WAVE_SPEED",
+    "name": null,
+    "stats": {
+      "resource_key": "ch93_effect",
+      "value": "1700",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LOTUSROOT_WAVE_SPEED",
+    "name": null,
+    "stats": {
+      "resource_key": "ch93",
+      "value": "1500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LimeBigBoomDist",
+    "name": null,
+    "stats": {
+      "resource_key": "ch54",
+      "value": "14",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LimeBoomJellyCountBig",
+    "name": null,
+    "stats": {
+      "resource_key": "ch54",
+      "value": "75",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LimeBoomJellyCountNormal",
+    "name": null,
+    "stats": {
+      "resource_key": "ch54",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LimeNormalBoomDist",
+    "name": null,
+    "stats": {
+      "resource_key": "ch54",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "LimeTransformSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch54",
+      "value": "1200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MANGGAE_TRANSFORM_MAGNET_RANGE",
+    "name": null,
+    "stats": {
+      "resource_key": "ch86",
+      "value": "100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MANGGAE_TRANSFORM_SCALE_FACTOR",
+    "name": null,
+    "stats": {
+      "resource_key": "ch86",
+      "value": "750",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MagicalGirlCenterJelly",
+    "name": null,
+    "stats": {
+      "resource_key": "ch31",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MagicalGirlCenterJellyPerCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch31",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MagicianJelly",
+    "name": null,
+    "stats": {
+      "resource_key": "ch25",
+      "value": "4339",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalExplosionCoinJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalExplosionGoldJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalExplosionKingCoinRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalExplosionPosY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalKingCoinInterval",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_CoinPortalRatio",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "0.1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_JellyPortalCoinJellyCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "10",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_JellyPortalExplosionCoinJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_JellyPortalExplosionJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_JellyPortalExplosionPosY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalColAreaOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "10,-100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalColAreaSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "20,200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalCrashAreaOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "-130,-150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalCrashAreaSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "200,300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalExplosionCoinJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalExplosionGoldCoinRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalExplosionJellyRadius",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalExplosionLowerEffectPosY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "-50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalExplosionPosY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalJellyMaxCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "900",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalRatio",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "0.2,0.05",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_LargePortalRecovery",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "7",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_MarshmallowBearJellyYRange",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalBuffLowerEffectFadeDuration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalBuffLowerEffectInitCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "10",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalBuffLowerEffectInterval",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalBuffLowerEffectMoveSpeed",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalExplosionColAreaOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "-50,-50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalExplosionColAreaSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "100,100",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_PortalMagnetSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "80",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SlowMotion",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "500,200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalCoinJellyMaxCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalColAreaOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "10,-50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalColAreaSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "20,80",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalCrashAreaOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "-125,-150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalCrashAreaSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "190,300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalJellyMaxCount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "130",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SmallPortalRecovery",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_SpecialBgFadeRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "7",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "MallowBunny_UpperPortalJudge",
+    "name": null,
+    "stats": {
+      "resource_key": "ch75",
+      "value": "80",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeBallBoostXDiff",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "94000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeBallBoostYdiff",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "39000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeBallXDiff",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "32000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeBallYdiff",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "30000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeSmashJumpAniDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeSmashRunAniDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeSmashSlideAniDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "OrangeSpikeAniDelay",
+    "name": null,
+    "stats": {
+      "resource_key": "ch53",
+      "value": "145",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachBamBooLeafJellyDist",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "200",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachEndGenObstacleBufferTime",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "1500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPhaseWeight1",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "40",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPhaseWeight2",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPhaseWeight3",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "20",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPlatformCount1",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPlatformCount2",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachObstacleGenPlatformCount3",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PeachTransformSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch56",
+      "value": "1500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PineMonkCookieSutraCoinForGold",
+    "name": null,
+    "stats": {
+      "resource_key": "ch92",
+      "value": "3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PineMonkCookieTransformSpeed",
+    "name": null,
+    "stats": {
+      "resource_key": "ch92",
+      "value": "1300",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_CarpetFadeOutTime",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "1.2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_CarpetGravity",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "700",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_GoldCoinExplosionWeight",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "0.4",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_KingCoinExplosionWeight",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "0.1",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_MakeCoinAngle",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "0,50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_MakeCoinLineDistance",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "40",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_MakeCoinOffset",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "20,40",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_MayoMakeCoinLine",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "4,5",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_PotatoMakeCoinLine",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "3,4",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "PotatoSalad_SilverCoinExplosionWeight",
+    "name": null,
+    "stats": {
+      "resource_key": "ch82",
+      "value": "0.5",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeHammerEffectOffsetX",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "120",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeHammerEffectOffsetY",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "-60",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeMaterialFlyingJellyEnd",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "4363",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeMaterialFlyingJellyStart",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "4359",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeMaterialJellyEnd",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "4358",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "RollCakeMaterialJellyStart",
+    "name": null,
+    "stats": {
+      "resource_key": "ch67",
+      "value": "4354",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SeaFairyJelly",
+    "name": null,
+    "stats": {
+      "resource_key": "ch65",
+      "value": "4348",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarJellyCoolTime",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "50",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarLifeCoolTime",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "6000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarLifeValue",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "5",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "1000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarSummon1Distance",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "1000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarSummon1Jelly",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SnowSugarSummon1Velocity",
+    "name": null,
+    "stats": {
+      "resource_key": "ch30",
+      "value": "500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SodaSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch39",
+      "value": "1800",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Soda_WaveStart_Daration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch39_effect",
+      "value": "720",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "StrawberryShortcakeRunMagnetSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch72",
+      "value": "170",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "StrawberryShortcakeRunOffImmortal",
+    "name": null,
+    "stats": {
+      "resource_key": "ch72",
+      "value": "2",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "StrawberryShortcakeTransformMagnetSize",
+    "name": null,
+    "stats": {
+      "resource_key": "ch72",
+      "value": "150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "StrawberryShortcakeTransformOffImmortal",
+    "name": null,
+    "stats": {
+      "resource_key": "ch72",
+      "value": "1.3",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SuperDevilRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch23",
+      "value": "2000",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "SuperHeroRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch19",
+      "value": "3500",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ViolinistColBoxHeight",
+    "name": null,
+    "stats": {
+      "resource_key": "ch46",
+      "value": "90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "ViolinistColBoxWidth",
+    "name": null,
+    "stats": {
+      "resource_key": "ch46",
+      "value": "90",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WerewolfColBoxRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch44",
+      "value": "1700",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WerewolfWorldSpeedRate",
+    "name": null,
+    "stats": {
+      "resource_key": "ch44",
+      "value": "1350",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "Werewolf_Effect_Claw_Offset_Y",
+    "name": null,
+    "stats": {
+      "resource_key": "ch44",
+      "value": "30",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolateIncompleteAuraEffectDuration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "350",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolateIncompleteRateMin",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "150",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolateMaxAuraEffectDuration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "400",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolateSliceEffectDuration",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "320",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolatemIncompleteJellyDiscount",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "10",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolatemSubgaugeComplete",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "ch62_effect2_gage1.png",
+      "unlock_condition_text": "Available by default"
+    }
+  },
+  {
+    "id": "WhiteChocolatemSubgaugeIncomplete",
+    "name": null,
+    "stats": {
+      "resource_key": "ch62",
+      "value": "ch62_effect2_gage0.png",
+      "unlock_condition_text": "Available by default"
+    }
+  }
+]

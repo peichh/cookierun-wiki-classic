@@ -1,0 +1,2 @@
+﻿CcbiFileName,CollectEventStrId,EventEndTime,EventStartTime,MissionCond_1,MissionCond_2,MissionCond_3,MissionCond_4,MissionCond_5,MissionCond_6,MissionCond_7,MissionId_1,MissionId_2,MissionId_3,MissionId_4,MissionId_5,MissionId_6,MissionId_7,NumOfReward,_key
+c_event_mailbox_life.ccbi,LifeReceiveEvent,2015-10-05 23:59:59,2015-09-25 00:00:01,30,60,100,150,200,0,0,3194,3195,3196,3197,3198,0,0,5,1

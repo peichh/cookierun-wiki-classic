@@ -1,0 +1,3432 @@
+{
+  "upgrades": {
+    "energy": [
+      {
+        "level": "1",
+        "price": "0",
+        "stat_value": "0"
+      },
+      {
+        "level": "2",
+        "price": "800",
+        "stat_value": "3"
+      },
+      {
+        "level": "3",
+        "price": "1300",
+        "stat_value": "4"
+      },
+      {
+        "level": "4",
+        "price": "1800",
+        "stat_value": "6"
+      },
+      {
+        "level": "5",
+        "price": "2300",
+        "stat_value": "8"
+      },
+      {
+        "level": "6",
+        "price": "2800",
+        "stat_value": "9"
+      },
+      {
+        "level": "7",
+        "price": "3300",
+        "stat_value": "11"
+      },
+      {
+        "level": "8",
+        "price": "3800",
+        "stat_value": "13"
+      },
+      {
+        "level": "9",
+        "price": "4300",
+        "stat_value": "14"
+      },
+      {
+        "level": "10",
+        "price": "4800",
+        "stat_value": "16"
+      },
+      {
+        "level": "11",
+        "price": "5300",
+        "stat_value": "17"
+      },
+      {
+        "level": "12",
+        "price": "5800",
+        "stat_value": "19"
+      },
+      {
+        "level": "13",
+        "price": "6300",
+        "stat_value": "21"
+      },
+      {
+        "level": "14",
+        "price": "6800",
+        "stat_value": "22"
+      },
+      {
+        "level": "15",
+        "price": "7300",
+        "stat_value": "24"
+      },
+      {
+        "level": "16",
+        "price": "7800",
+        "stat_value": "26"
+      },
+      {
+        "level": "17",
+        "price": "8300",
+        "stat_value": "27"
+      },
+      {
+        "level": "18",
+        "price": "8800",
+        "stat_value": "29"
+      },
+      {
+        "level": "19",
+        "price": "9300",
+        "stat_value": "31"
+      },
+      {
+        "level": "20",
+        "price": "9800",
+        "stat_value": "32"
+      },
+      {
+        "level": "21",
+        "price": "10300",
+        "stat_value": "34"
+      },
+      {
+        "level": "22",
+        "price": "10800",
+        "stat_value": "36"
+      },
+      {
+        "level": "23",
+        "price": "11300",
+        "stat_value": "37"
+      },
+      {
+        "level": "24",
+        "price": "11800",
+        "stat_value": "39"
+      },
+      {
+        "level": "25",
+        "price": "12300",
+        "stat_value": "41"
+      },
+      {
+        "level": "26",
+        "price": "12800",
+        "stat_value": "42"
+      },
+      {
+        "level": "27",
+        "price": "13300",
+        "stat_value": "44"
+      },
+      {
+        "level": "28",
+        "price": "13800",
+        "stat_value": "46"
+      },
+      {
+        "level": "29",
+        "price": "14300",
+        "stat_value": "47"
+      },
+      {
+        "level": "30",
+        "price": "14800",
+        "stat_value": "49"
+      },
+      {
+        "level": "31",
+        "price": "15400",
+        "stat_value": "52"
+      },
+      {
+        "level": "32",
+        "price": "16000",
+        "stat_value": "55"
+      },
+      {
+        "level": "33",
+        "price": "16600",
+        "stat_value": "58"
+      },
+      {
+        "level": "34",
+        "price": "17200",
+        "stat_value": "61"
+      },
+      {
+        "level": "35",
+        "price": "17800",
+        "stat_value": "64"
+      },
+      {
+        "level": "36",
+        "price": "18400",
+        "stat_value": "67"
+      },
+      {
+        "level": "37",
+        "price": "19000",
+        "stat_value": "70"
+      },
+      {
+        "level": "38",
+        "price": "19600",
+        "stat_value": "73"
+      },
+      {
+        "level": "39",
+        "price": "20200",
+        "stat_value": "76"
+      },
+      {
+        "level": "40",
+        "price": "20800",
+        "stat_value": "79"
+      },
+      {
+        "level": "41",
+        "price": "21200",
+        "stat_value": "81"
+      },
+      {
+        "level": "42",
+        "price": "21600",
+        "stat_value": "83"
+      },
+      {
+        "level": "43",
+        "price": "22000",
+        "stat_value": "85"
+      },
+      {
+        "level": "44",
+        "price": "22400",
+        "stat_value": "87"
+      },
+      {
+        "level": "45",
+        "price": "22800",
+        "stat_value": "89"
+      },
+      {
+        "level": "46",
+        "price": "23200",
+        "stat_value": "91"
+      },
+      {
+        "level": "47",
+        "price": "23600",
+        "stat_value": "93"
+      },
+      {
+        "level": "48",
+        "price": "24000",
+        "stat_value": "95"
+      },
+      {
+        "level": "49",
+        "price": "24400",
+        "stat_value": "97"
+      },
+      {
+        "level": "50",
+        "price": "24800",
+        "stat_value": "99"
+      },
+      {
+        "level": "51",
+        "price": "25200",
+        "stat_value": "101"
+      },
+      {
+        "level": "52",
+        "price": "25600",
+        "stat_value": "103"
+      },
+      {
+        "level": "53",
+        "price": "26000",
+        "stat_value": "105"
+      },
+      {
+        "level": "54",
+        "price": "26400",
+        "stat_value": "107"
+      },
+      {
+        "level": "55",
+        "price": "26800",
+        "stat_value": "109"
+      },
+      {
+        "level": "56",
+        "price": "27200",
+        "stat_value": "111"
+      },
+      {
+        "level": "57",
+        "price": "27600",
+        "stat_value": "113"
+      },
+      {
+        "level": "58",
+        "price": "28000",
+        "stat_value": "115"
+      },
+      {
+        "level": "59",
+        "price": "28400",
+        "stat_value": "117"
+      },
+      {
+        "level": "60",
+        "price": "28800",
+        "stat_value": "119"
+      }
+    ],
+    "jelly": [
+      {
+        "level": "1",
+        "price": "0",
+        "stat_value": "0"
+      },
+      {
+        "level": "2",
+        "price": "800",
+        "stat_value": "3"
+      },
+      {
+        "level": "3",
+        "price": "1300",
+        "stat_value": "4"
+      },
+      {
+        "level": "4",
+        "price": "1800",
+        "stat_value": "6"
+      },
+      {
+        "level": "5",
+        "price": "2300",
+        "stat_value": "8"
+      },
+      {
+        "level": "6",
+        "price": "2800",
+        "stat_value": "9"
+      },
+      {
+        "level": "7",
+        "price": "3300",
+        "stat_value": "11"
+      },
+      {
+        "level": "8",
+        "price": "3800",
+        "stat_value": "13"
+      },
+      {
+        "level": "9",
+        "price": "4300",
+        "stat_value": "14"
+      },
+      {
+        "level": "10",
+        "price": "4800",
+        "stat_value": "16"
+      },
+      {
+        "level": "11",
+        "price": "5300",
+        "stat_value": "17"
+      },
+      {
+        "level": "12",
+        "price": "5800",
+        "stat_value": "19"
+      },
+      {
+        "level": "13",
+        "price": "6300",
+        "stat_value": "21"
+      },
+      {
+        "level": "14",
+        "price": "6800",
+        "stat_value": "22"
+      },
+      {
+        "level": "15",
+        "price": "7300",
+        "stat_value": "24"
+      },
+      {
+        "level": "16",
+        "price": "7800",
+        "stat_value": "26"
+      },
+      {
+        "level": "17",
+        "price": "8300",
+        "stat_value": "27"
+      },
+      {
+        "level": "18",
+        "price": "8800",
+        "stat_value": "29"
+      },
+      {
+        "level": "19",
+        "price": "9300",
+        "stat_value": "31"
+      },
+      {
+        "level": "20",
+        "price": "9800",
+        "stat_value": "32"
+      },
+      {
+        "level": "21",
+        "price": "9900",
+        "stat_value": "33"
+      },
+      {
+        "level": "22",
+        "price": "10000",
+        "stat_value": "33"
+      },
+      {
+        "level": "23",
+        "price": "11500",
+        "stat_value": "38"
+      },
+      {
+        "level": "24",
+        "price": "13000",
+        "stat_value": "43"
+      },
+      {
+        "level": "25",
+        "price": "15000",
+        "stat_value": "50"
+      },
+      {
+        "level": "26",
+        "price": "18000",
+        "stat_value": "59"
+      },
+      {
+        "level": "27",
+        "price": "21000",
+        "stat_value": "69"
+      },
+      {
+        "level": "28",
+        "price": "24000",
+        "stat_value": "79"
+      },
+      {
+        "level": "29",
+        "price": "27000",
+        "stat_value": "89"
+      },
+      {
+        "level": "30",
+        "price": "29800",
+        "stat_value": "98"
+      },
+      {
+        "level": "31",
+        "price": "30300",
+        "stat_value": "100"
+      },
+      {
+        "level": "32",
+        "price": "30800",
+        "stat_value": "102"
+      },
+      {
+        "level": "33",
+        "price": "31300",
+        "stat_value": "103"
+      },
+      {
+        "level": "34",
+        "price": "31800",
+        "stat_value": "105"
+      },
+      {
+        "level": "35",
+        "price": "32300",
+        "stat_value": "107"
+      },
+      {
+        "level": "36",
+        "price": "32800",
+        "stat_value": "108"
+      },
+      {
+        "level": "37",
+        "price": "33300",
+        "stat_value": "110"
+      },
+      {
+        "level": "38",
+        "price": "33800",
+        "stat_value": "112"
+      },
+      {
+        "level": "39",
+        "price": "34300",
+        "stat_value": "113"
+      },
+      {
+        "level": "40",
+        "price": "34800",
+        "stat_value": "115"
+      },
+      {
+        "level": "41",
+        "price": "35300",
+        "stat_value": "117"
+      },
+      {
+        "level": "42",
+        "price": "35800",
+        "stat_value": "119"
+      },
+      {
+        "level": "43",
+        "price": "36300",
+        "stat_value": "121"
+      },
+      {
+        "level": "44",
+        "price": "36800",
+        "stat_value": "123"
+      },
+      {
+        "level": "45",
+        "price": "37300",
+        "stat_value": "125"
+      },
+      {
+        "level": "46",
+        "price": "37800",
+        "stat_value": "127"
+      },
+      {
+        "level": "47",
+        "price": "38300",
+        "stat_value": "129"
+      },
+      {
+        "level": "48",
+        "price": "38800",
+        "stat_value": "131"
+      },
+      {
+        "level": "49",
+        "price": "39300",
+        "stat_value": "133"
+      },
+      {
+        "level": "50",
+        "price": "39800",
+        "stat_value": "135"
+      },
+      {
+        "level": "51",
+        "price": "40300",
+        "stat_value": "137"
+      },
+      {
+        "level": "52",
+        "price": "40800",
+        "stat_value": "139"
+      },
+      {
+        "level": "53",
+        "price": "41300",
+        "stat_value": "141"
+      },
+      {
+        "level": "54",
+        "price": "41800",
+        "stat_value": "143"
+      },
+      {
+        "level": "55",
+        "price": "42300",
+        "stat_value": "145"
+      },
+      {
+        "level": "56",
+        "price": "42800",
+        "stat_value": "147"
+      },
+      {
+        "level": "57",
+        "price": "43300",
+        "stat_value": "149"
+      },
+      {
+        "level": "58",
+        "price": "43800",
+        "stat_value": "151"
+      },
+      {
+        "level": "59",
+        "price": "44300",
+        "stat_value": "153"
+      },
+      {
+        "level": "60",
+        "price": "44800",
+        "stat_value": "155"
+      },
+      {
+        "level": "61",
+        "price": "45300",
+        "stat_value": "157"
+      },
+      {
+        "level": "62",
+        "price": "45800",
+        "stat_value": "159"
+      },
+      {
+        "level": "63",
+        "price": "46300",
+        "stat_value": "161"
+      },
+      {
+        "level": "64",
+        "price": "46800",
+        "stat_value": "163"
+      },
+      {
+        "level": "65",
+        "price": "47300",
+        "stat_value": "165"
+      },
+      {
+        "level": "66",
+        "price": "47800",
+        "stat_value": "167"
+      },
+      {
+        "level": "67",
+        "price": "48300",
+        "stat_value": "169"
+      },
+      {
+        "level": "68",
+        "price": "48800",
+        "stat_value": "171"
+      },
+      {
+        "level": "69",
+        "price": "49300",
+        "stat_value": "173"
+      },
+      {
+        "level": "70",
+        "price": "49800",
+        "stat_value": "175"
+      }
+    ],
+    "bonus_time": [
+      {
+        "level": "1",
+        "price": "0",
+        "stat_value": "0"
+      },
+      {
+        "level": "2",
+        "price": "800",
+        "stat_value": "3"
+      },
+      {
+        "level": "3",
+        "price": "1300",
+        "stat_value": "4"
+      },
+      {
+        "level": "4",
+        "price": "1800",
+        "stat_value": "6"
+      },
+      {
+        "level": "5",
+        "price": "2300",
+        "stat_value": "8"
+      },
+      {
+        "level": "6",
+        "price": "2800",
+        "stat_value": "9"
+      },
+      {
+        "level": "7",
+        "price": "3300",
+        "stat_value": "11"
+      },
+      {
+        "level": "8",
+        "price": "3800",
+        "stat_value": "13"
+      },
+      {
+        "level": "9",
+        "price": "4300",
+        "stat_value": "14"
+      },
+      {
+        "level": "10",
+        "price": "4800",
+        "stat_value": "16"
+      },
+      {
+        "level": "11",
+        "price": "5300",
+        "stat_value": "17"
+      },
+      {
+        "level": "12",
+        "price": "5800",
+        "stat_value": "19"
+      },
+      {
+        "level": "13",
+        "price": "6300",
+        "stat_value": "21"
+      },
+      {
+        "level": "14",
+        "price": "6800",
+        "stat_value": "22"
+      },
+      {
+        "level": "15",
+        "price": "7300",
+        "stat_value": "24"
+      },
+      {
+        "level": "16",
+        "price": "7800",
+        "stat_value": "26"
+      },
+      {
+        "level": "17",
+        "price": "8300",
+        "stat_value": "27"
+      },
+      {
+        "level": "18",
+        "price": "8800",
+        "stat_value": "29"
+      },
+      {
+        "level": "19",
+        "price": "9300",
+        "stat_value": "31"
+      },
+      {
+        "level": "20",
+        "price": "9800",
+        "stat_value": "32"
+      },
+      {
+        "level": "21",
+        "price": "10300",
+        "stat_value": "34"
+      },
+      {
+        "level": "22",
+        "price": "10800",
+        "stat_value": "36"
+      },
+      {
+        "level": "23",
+        "price": "11300",
+        "stat_value": "37"
+      },
+      {
+        "level": "24",
+        "price": "11800",
+        "stat_value": "39"
+      },
+      {
+        "level": "25",
+        "price": "12300",
+        "stat_value": "41"
+      },
+      {
+        "level": "26",
+        "price": "12800",
+        "stat_value": "42"
+      },
+      {
+        "level": "27",
+        "price": "13300",
+        "stat_value": "44"
+      },
+      {
+        "level": "28",
+        "price": "13800",
+        "stat_value": "46"
+      },
+      {
+        "level": "29",
+        "price": "14300",
+        "stat_value": "47"
+      },
+      {
+        "level": "30",
+        "price": "14800",
+        "stat_value": "49"
+      },
+      {
+        "level": "31",
+        "price": "15300",
+        "stat_value": "51"
+      },
+      {
+        "level": "32",
+        "price": "15800",
+        "stat_value": "53"
+      },
+      {
+        "level": "33",
+        "price": "16300",
+        "stat_value": "55"
+      },
+      {
+        "level": "34",
+        "price": "16800",
+        "stat_value": "57"
+      },
+      {
+        "level": "35",
+        "price": "17300",
+        "stat_value": "59"
+      },
+      {
+        "level": "36",
+        "price": "17800",
+        "stat_value": "61"
+      },
+      {
+        "level": "37",
+        "price": "18300",
+        "stat_value": "63"
+      },
+      {
+        "level": "38",
+        "price": "18800",
+        "stat_value": "65"
+      },
+      {
+        "level": "39",
+        "price": "19300",
+        "stat_value": "67"
+      },
+      {
+        "level": "40",
+        "price": "19800",
+        "stat_value": "69"
+      },
+      {
+        "level": "41",
+        "price": "20300",
+        "stat_value": "71"
+      },
+      {
+        "level": "42",
+        "price": "20800",
+        "stat_value": "73"
+      },
+      {
+        "level": "43",
+        "price": "21300",
+        "stat_value": "75"
+      },
+      {
+        "level": "44",
+        "price": "21800",
+        "stat_value": "77"
+      },
+      {
+        "level": "45",
+        "price": "22300",
+        "stat_value": "79"
+      },
+      {
+        "level": "46",
+        "price": "22800",
+        "stat_value": "81"
+      },
+      {
+        "level": "47",
+        "price": "23300",
+        "stat_value": "83"
+      },
+      {
+        "level": "48",
+        "price": "23800",
+        "stat_value": "85"
+      },
+      {
+        "level": "49",
+        "price": "24300",
+        "stat_value": "87"
+      },
+      {
+        "level": "50",
+        "price": "24800",
+        "stat_value": "89"
+      },
+      {
+        "level": "51",
+        "price": "25300",
+        "stat_value": "91"
+      },
+      {
+        "level": "52",
+        "price": "25800",
+        "stat_value": "93"
+      },
+      {
+        "level": "53",
+        "price": "26300",
+        "stat_value": "95"
+      },
+      {
+        "level": "54",
+        "price": "26800",
+        "stat_value": "97"
+      },
+      {
+        "level": "55",
+        "price": "27300",
+        "stat_value": "99"
+      },
+      {
+        "level": "56",
+        "price": "27800",
+        "stat_value": "101"
+      },
+      {
+        "level": "57",
+        "price": "28300",
+        "stat_value": "103"
+      },
+      {
+        "level": "58",
+        "price": "28800",
+        "stat_value": "105"
+      },
+      {
+        "level": "59",
+        "price": "29300",
+        "stat_value": "107"
+      },
+      {
+        "level": "60",
+        "price": "29800",
+        "stat_value": "109"
+      },
+      {
+        "level": "61",
+        "price": "30300",
+        "stat_value": "111"
+      },
+      {
+        "level": "62",
+        "price": "30800",
+        "stat_value": "113"
+      },
+      {
+        "level": "63",
+        "price": "31300",
+        "stat_value": "115"
+      },
+      {
+        "level": "64",
+        "price": "31800",
+        "stat_value": "117"
+      },
+      {
+        "level": "65",
+        "price": "32300",
+        "stat_value": "119"
+      },
+      {
+        "level": "66",
+        "price": "32800",
+        "stat_value": "121"
+      },
+      {
+        "level": "67",
+        "price": "33300",
+        "stat_value": "123"
+      },
+      {
+        "level": "68",
+        "price": "33800",
+        "stat_value": "125"
+      },
+      {
+        "level": "69",
+        "price": "34300",
+        "stat_value": "127"
+      },
+      {
+        "level": "70",
+        "price": "34800",
+        "stat_value": "129"
+      }
+    ]
+  },
+  "jellies": [
+    {
+      "name": "House Jelly",
+      "base_score": "20",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item00"
+    },
+    {
+      "name": "Shield Jelly",
+      "base_score": "20",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item01"
+    },
+    {
+      "name": "Bonus Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item02"
+    },
+    {
+      "name": "Blast Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item03"
+    },
+    {
+      "name": "Giant Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item04"
+    },
+    {
+      "name": "Magnet Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item05"
+    },
+    {
+      "name": "Obstacle Coin Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item06"
+    },
+    {
+      "name": "All-Bear Jelly",
+      "base_score": "300",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item07"
+    },
+    {
+      "name": "Small Energy Jelly",
+      "base_score": "2000",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item01"
+    },
+    {
+      "name": "Large Energy Jelly",
+      "base_score": "5000",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "item01"
+    },
+    {
+      "name": "Basic JellyBean",
+      "base_score": "0",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "jellybean_01"
+    },
+    {
+      "name": "Red JellyBean",
+      "base_score": "30",
+      "score_lvl1": "45",
+      "score_lvl2": "60",
+      "resource": "jelly_2"
+    },
+    {
+      "name": "BlueJellyBean",
+      "base_score": "30",
+      "score_lvl1": "45",
+      "score_lvl2": "60",
+      "resource": "jelly_1"
+    },
+    {
+      "name": "Yellow Bear Jelly",
+      "base_score": "564",
+      "score_lvl1": "588",
+      "score_lvl2": "610",
+      "resource": "jelly_3"
+    },
+    {
+      "name": "Pink Bear Jelly",
+      "base_score": "858",
+      "score_lvl1": "874",
+      "score_lvl2": "910",
+      "resource": "jelly_4"
+    },
+    {
+      "name": "Alphabet Jelly",
+      "base_score": "437",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "jelly_alphabet"
+    },
+    {
+      "name": "Coin Jelly",
+      "base_score": "120",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "jelly_coin"
+    },
+    {
+      "name": "Gold Coin Jelly",
+      "base_score": "372",
+      "score_lvl1": "0",
+      "score_lvl2": "0",
+      "resource": "jelly_coin2"
+    }
+  ],
+  "master_config": {
+    "BonusTimeUpgradeLevel": "70",
+    "CustomRoomMaxPlayers": "16",
+    "EnergyUpgradeLevel": "50",
+    "GamePingInterval": "1",
+    "GameServerMessageBufferSize": "20",
+    "GameTempScoreSendInterval": "0.5",
+    "IngameBotEntryDelaySec": "40",
+    "IngameBotLoadingDelaySec": "17",
+    "IngameStartCustomDelaySec": "20",
+    "IngameStartDelaySec": "60",
+    "JellyUpgradeLevel": "70",
+    "MatchingMaxTimeSec": "40",
+    "MaxEarnableLobbyCoin": "720",
+    "PartyPingInterval": "3",
+    "PartyRunClosedDuration": "18000",
+    "PartyRunClosedFlag": "0",
+    "PartyRunClosedTime": "02:00:00",
+    "StateChangeDelay": "6",
+    "isMaintenanceOngoing": "0"
+  },
+  "episode_1_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "181"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "181"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "181"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "181"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "182"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "182"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "182"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "182"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "101"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "4",
+      "speed": "910",
+      "theme": "102"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "4",
+      "speed": "940",
+      "theme": "103"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "4",
+      "speed": "960",
+      "theme": "104"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "4",
+      "speed": "1080",
+      "theme": "105"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "4",
+      "speed": "1020",
+      "theme": "106"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "107"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "4",
+      "speed": "1080",
+      "theme": "108"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "4",
+      "speed": "1120",
+      "theme": "109"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "4",
+      "speed": "1160",
+      "theme": "110"
+    },
+    {
+      "stage": "11",
+      "health_drain_mod": "5",
+      "speed": "1220",
+      "theme": "111"
+    },
+    {
+      "stage": "11",
+      "health_drain_mod": "6",
+      "speed": "1300",
+      "theme": "111"
+    },
+    {
+      "stage": "11",
+      "health_drain_mod": "7",
+      "speed": "1400",
+      "theme": "111"
+    }
+  ],
+  "physics_and_config": {
+    "gravity": 0.8,
+    "jump_force": 14.5,
+    "double_jump_force": 12.0,
+    "hp_drain_tick_ms": 1000,
+    "hp_loss_per_tick": 1.0,
+    "collision_hp_loss": 20.0,
+    "collision_iframe_duration_ms": 1500,
+    "base_scroll_speed": 1200,
+    "bonus_time_speed_multiplier": 1.5
+  },
+  "episode_2_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "281"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "281"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "281"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "281"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "282"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "282"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "282"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "282"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "201"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "202"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "4",
+      "speed": "1120",
+      "theme": "203"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "4",
+      "speed": "1140",
+      "theme": "204"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "4",
+      "speed": "1160",
+      "theme": "205"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "4",
+      "speed": "1180",
+      "theme": "206"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "4",
+      "speed": "1200",
+      "theme": "207"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "4",
+      "speed": "1250",
+      "theme": "208"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "4",
+      "speed": "1300",
+      "theme": "209"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "4",
+      "speed": "1350",
+      "theme": "210"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "4",
+      "speed": "1400",
+      "theme": "211"
+    }
+  ],
+  "episode_3_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "381"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "381"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "381"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "381"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "382"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "382"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "382"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "382"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "321"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "4",
+      "speed": "1150",
+      "theme": "322"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "4",
+      "speed": "1200",
+      "theme": "323"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "4",
+      "speed": "1250",
+      "theme": "324"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "4",
+      "speed": "1300",
+      "theme": "325"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1350",
+      "theme": "326"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "5",
+      "speed": "1400",
+      "theme": "327"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "6",
+      "speed": "1500",
+      "theme": "328"
+    }
+  ],
+  "episode_4_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "481"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "481"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "481"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "481"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "482"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "482"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "482"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "482"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "401"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "402"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "4",
+      "speed": "1120",
+      "theme": "403"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "4",
+      "speed": "1140",
+      "theme": "404"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "4",
+      "speed": "1160",
+      "theme": "405"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "4",
+      "speed": "1200",
+      "theme": "406"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "4",
+      "speed": "1250",
+      "theme": "407"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "4",
+      "speed": "1300",
+      "theme": "408"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "4",
+      "speed": "1325",
+      "theme": "409"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "4",
+      "speed": "1350",
+      "theme": "410"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "4",
+      "speed": "1400",
+      "theme": "411"
+    }
+  ],
+  "episode_5_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "581"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "582"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "5",
+      "speed": "1000",
+      "theme": "501"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "5",
+      "speed": "1025",
+      "theme": "502"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "5",
+      "speed": "1050",
+      "theme": "503"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "5",
+      "speed": "1075",
+      "theme": "504"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "5",
+      "speed": "1100",
+      "theme": "505"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1125",
+      "theme": "506"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1150",
+      "theme": "507"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1175",
+      "theme": "506"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "5",
+      "speed": "1200",
+      "theme": "508"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "5",
+      "speed": "1225",
+      "theme": "509"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1250",
+      "theme": "510"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1275",
+      "theme": "511"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1300",
+      "theme": "512"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1325",
+      "theme": "511"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1350",
+      "theme": "512"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1375",
+      "theme": "511"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1400",
+      "theme": "512"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1400",
+      "theme": "511"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "5",
+      "speed": "1400",
+      "theme": "512"
+    }
+  ],
+  "episode_6_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "681"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "681"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "681"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "682"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "682"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "682"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "601"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "4",
+      "speed": "1025",
+      "theme": "602"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "15",
+      "speed": "1050",
+      "theme": "603"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "12",
+      "speed": "1075",
+      "theme": "604"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "5",
+      "speed": "1100",
+      "theme": "605"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "10",
+      "speed": "1125",
+      "theme": "606"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "5",
+      "speed": "1200",
+      "theme": "607"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "5",
+      "speed": "1225",
+      "theme": "608"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1100",
+      "theme": "609"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1150",
+      "theme": "609"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1200",
+      "theme": "609"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1300",
+      "theme": "609"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "5",
+      "speed": "1400",
+      "theme": "609"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "6",
+      "speed": "1600",
+      "theme": "609"
+    }
+  ],
+  "special_episode_1_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "81"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "82"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "6",
+      "speed": "850",
+      "theme": "50101"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1050",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1050",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1050",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1100",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1150",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "50102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "50102"
+    }
+  ],
+  "special_episode_2_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "50281"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "50282"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "3",
+      "speed": "870",
+      "theme": "502001"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502005"
+    },
+    {
+      "stage": "11",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502001"
+    },
+    {
+      "stage": "12",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502002"
+    },
+    {
+      "stage": "13",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502003"
+    },
+    {
+      "stage": "14",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502004"
+    },
+    {
+      "stage": "15",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502005"
+    },
+    {
+      "stage": "16",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502001"
+    },
+    {
+      "stage": "17",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502002"
+    },
+    {
+      "stage": "18",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502003"
+    },
+    {
+      "stage": "19",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502004"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "3",
+      "speed": "870",
+      "theme": "502002"
+    },
+    {
+      "stage": "20",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502005"
+    },
+    {
+      "stage": "21",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502001"
+    },
+    {
+      "stage": "22",
+      "health_drain_mod": "4",
+      "speed": "930",
+      "theme": "502002"
+    },
+    {
+      "stage": "23",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502003"
+    },
+    {
+      "stage": "24",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502004"
+    },
+    {
+      "stage": "25",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502005"
+    },
+    {
+      "stage": "26",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502001"
+    },
+    {
+      "stage": "27",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502002"
+    },
+    {
+      "stage": "28",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502003"
+    },
+    {
+      "stage": "29",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502004"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "3",
+      "speed": "870",
+      "theme": "502003"
+    },
+    {
+      "stage": "30",
+      "health_drain_mod": "4",
+      "speed": "930",
+      "theme": "502030"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "3",
+      "speed": "930",
+      "theme": "502004"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502005"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502001"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502002"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502003"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "3",
+      "speed": "900",
+      "theme": "502004"
+    },
+    {
+      "stage": "31",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502031"
+    },
+    {
+      "stage": "40",
+      "health_drain_mod": "4",
+      "speed": "850",
+      "theme": "502035"
+    },
+    {
+      "stage": "41",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502031"
+    },
+    {
+      "stage": "42",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502032"
+    },
+    {
+      "stage": "43",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502033"
+    },
+    {
+      "stage": "44",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502034"
+    },
+    {
+      "stage": "45",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502035"
+    },
+    {
+      "stage": "46",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502031"
+    },
+    {
+      "stage": "47",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502032"
+    },
+    {
+      "stage": "48",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502033"
+    },
+    {
+      "stage": "49",
+      "health_drain_mod": "8",
+      "speed": "1000",
+      "theme": "502034"
+    },
+    {
+      "stage": "32",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502032"
+    },
+    {
+      "stage": "50",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502050"
+    },
+    {
+      "stage": "51",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502031"
+    },
+    {
+      "stage": "52",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "502032"
+    },
+    {
+      "stage": "53",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "502033"
+    },
+    {
+      "stage": "54",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "502034"
+    },
+    {
+      "stage": "55",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502035"
+    },
+    {
+      "stage": "56",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502031"
+    },
+    {
+      "stage": "57",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "502032"
+    },
+    {
+      "stage": "58",
+      "health_drain_mod": "5",
+      "speed": "1050",
+      "theme": "502033"
+    },
+    {
+      "stage": "59",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "502034"
+    },
+    {
+      "stage": "33",
+      "health_drain_mod": "2",
+      "speed": "1000",
+      "theme": "502033"
+    },
+    {
+      "stage": "60",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502060"
+    },
+    {
+      "stage": "34",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502034"
+    },
+    {
+      "stage": "35",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502035"
+    },
+    {
+      "stage": "36",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502031"
+    },
+    {
+      "stage": "37",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502032"
+    },
+    {
+      "stage": "38",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502033"
+    },
+    {
+      "stage": "39",
+      "health_drain_mod": "4",
+      "speed": "1140",
+      "theme": "502034"
+    },
+    {
+      "stage": "61",
+      "health_drain_mod": "4",
+      "speed": "1200",
+      "theme": "502061"
+    },
+    {
+      "stage": "70",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "502070"
+    },
+    {
+      "stage": "71",
+      "health_drain_mod": "3",
+      "speed": "1030",
+      "theme": "502061"
+    },
+    {
+      "stage": "72",
+      "health_drain_mod": "4",
+      "speed": "920",
+      "theme": "502062"
+    },
+    {
+      "stage": "73",
+      "health_drain_mod": "5",
+      "speed": "820",
+      "theme": "502063"
+    },
+    {
+      "stage": "74",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502064"
+    },
+    {
+      "stage": "75",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502065"
+    },
+    {
+      "stage": "76",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502061"
+    },
+    {
+      "stage": "77",
+      "health_drain_mod": "8",
+      "speed": "1500",
+      "theme": "502062"
+    },
+    {
+      "stage": "78",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502063"
+    },
+    {
+      "stage": "79",
+      "health_drain_mod": "4",
+      "speed": "1040",
+      "theme": "502064"
+    },
+    {
+      "stage": "62",
+      "health_drain_mod": "4",
+      "speed": "1150",
+      "theme": "502062"
+    },
+    {
+      "stage": "80",
+      "health_drain_mod": "6",
+      "speed": "1020",
+      "theme": "502080"
+    },
+    {
+      "stage": "81",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502061"
+    },
+    {
+      "stage": "82",
+      "health_drain_mod": "8",
+      "speed": "970",
+      "theme": "502062"
+    },
+    {
+      "stage": "83",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502063"
+    },
+    {
+      "stage": "84",
+      "health_drain_mod": "9",
+      "speed": "1000",
+      "theme": "502064"
+    },
+    {
+      "stage": "85",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502085"
+    },
+    {
+      "stage": "86",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502061"
+    },
+    {
+      "stage": "87",
+      "health_drain_mod": "9",
+      "speed": "1000",
+      "theme": "502062"
+    },
+    {
+      "stage": "88",
+      "health_drain_mod": "1",
+      "speed": "1060",
+      "theme": "502063"
+    },
+    {
+      "stage": "89",
+      "health_drain_mod": "1",
+      "speed": "1080",
+      "theme": "502064"
+    },
+    {
+      "stage": "63",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502063"
+    },
+    {
+      "stage": "90",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502090"
+    },
+    {
+      "stage": "64",
+      "health_drain_mod": "4",
+      "speed": "1150",
+      "theme": "502064"
+    },
+    {
+      "stage": "65",
+      "health_drain_mod": "4",
+      "speed": "900",
+      "theme": "502065"
+    },
+    {
+      "stage": "66",
+      "health_drain_mod": "9",
+      "speed": "1050",
+      "theme": "502061"
+    },
+    {
+      "stage": "67",
+      "health_drain_mod": "3",
+      "speed": "830",
+      "theme": "502062"
+    },
+    {
+      "stage": "68",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502063"
+    },
+    {
+      "stage": "69",
+      "health_drain_mod": "4",
+      "speed": "1100",
+      "theme": "502064"
+    },
+    {
+      "stage": "91",
+      "health_drain_mod": "17",
+      "speed": "1000",
+      "theme": "502091"
+    },
+    {
+      "stage": "92",
+      "health_drain_mod": "2",
+      "speed": "1150",
+      "theme": "502092"
+    },
+    {
+      "stage": "93",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502093"
+    },
+    {
+      "stage": "94",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502094"
+    },
+    {
+      "stage": "95",
+      "health_drain_mod": "1",
+      "speed": "980",
+      "theme": "502095"
+    },
+    {
+      "stage": "96",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502091"
+    },
+    {
+      "stage": "97",
+      "health_drain_mod": "4",
+      "speed": "950",
+      "theme": "502092"
+    },
+    {
+      "stage": "98",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502098"
+    },
+    {
+      "stage": "99",
+      "health_drain_mod": "1",
+      "speed": "1160",
+      "theme": "502099"
+    },
+    {
+      "stage": "100",
+      "health_drain_mod": "4",
+      "speed": "1000",
+      "theme": "502100"
+    }
+  ],
+  "special_episode_3_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "581"
+    },
+    {
+      "stage": "9003",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9005",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9007",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "581"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1150",
+      "theme": "582"
+    },
+    {
+      "stage": "9004",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "9006",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "9008",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "582"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1250",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "5",
+      "speed": "850",
+      "theme": "50301"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "5",
+      "speed": "870",
+      "theme": "106"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "5",
+      "speed": "870",
+      "theme": "107"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "5",
+      "speed": "1000",
+      "theme": "105"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "5",
+      "speed": "1000",
+      "theme": "205"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "5",
+      "speed": "1050",
+      "theme": "50302"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "5",
+      "speed": "1050",
+      "theme": "502"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "5",
+      "speed": "1100",
+      "theme": "109"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "5",
+      "speed": "1100",
+      "theme": "204"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1150",
+      "theme": "50301"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "5",
+      "speed": "1150",
+      "theme": "305"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "5",
+      "speed": "1200",
+      "theme": "202"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "5",
+      "speed": "1200",
+      "theme": "111"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "5",
+      "speed": "1300",
+      "theme": "50303"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "5",
+      "speed": "1300",
+      "theme": "50304"
+    }
+  ],
+  "mini_game_episode_stages": [
+    {
+      "stage": "9001",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "81"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "3",
+      "speed": "1200",
+      "theme": "83"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "2",
+      "speed": "870",
+      "theme": "701001"
+    },
+    {
+      "stage": "10",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701011"
+    },
+    {
+      "stage": "11",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701008"
+    },
+    {
+      "stage": "12",
+      "health_drain_mod": "2",
+      "speed": "920",
+      "theme": "701021"
+    },
+    {
+      "stage": "13",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701035"
+    },
+    {
+      "stage": "14",
+      "health_drain_mod": "2",
+      "speed": "920",
+      "theme": "701028"
+    },
+    {
+      "stage": "15",
+      "health_drain_mod": "2",
+      "speed": "920",
+      "theme": "701010"
+    },
+    {
+      "stage": "16",
+      "health_drain_mod": "2",
+      "speed": "920",
+      "theme": "701008"
+    },
+    {
+      "stage": "17",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701042"
+    },
+    {
+      "stage": "18",
+      "health_drain_mod": "30",
+      "speed": "920",
+      "theme": "701027"
+    },
+    {
+      "stage": "19",
+      "health_drain_mod": "2",
+      "speed": "920",
+      "theme": "701060"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "2",
+      "speed": "870",
+      "theme": "701052"
+    },
+    {
+      "stage": "20",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701018"
+    },
+    {
+      "stage": "21",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701050"
+    },
+    {
+      "stage": "22",
+      "health_drain_mod": "2",
+      "speed": "930",
+      "theme": "701046"
+    },
+    {
+      "stage": "23",
+      "health_drain_mod": "2",
+      "speed": "930",
+      "theme": "701034"
+    },
+    {
+      "stage": "24",
+      "health_drain_mod": "2",
+      "speed": "950",
+      "theme": "701007"
+    },
+    {
+      "stage": "25",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701005"
+    },
+    {
+      "stage": "26",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701043"
+    },
+    {
+      "stage": "27",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701056"
+    },
+    {
+      "stage": "28",
+      "health_drain_mod": "3",
+      "speed": "1250",
+      "theme": "701024"
+    },
+    {
+      "stage": "29",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701060"
+    },
+    {
+      "stage": "3",
+      "health_drain_mod": "2",
+      "speed": "870",
+      "theme": "701030"
+    },
+    {
+      "stage": "30",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701005"
+    },
+    {
+      "stage": "31",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701020"
+    },
+    {
+      "stage": "32",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701013"
+    },
+    {
+      "stage": "33",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701041"
+    },
+    {
+      "stage": "34",
+      "health_drain_mod": "3",
+      "speed": "1200",
+      "theme": "701053"
+    },
+    {
+      "stage": "35",
+      "health_drain_mod": "3",
+      "speed": "1200",
+      "theme": "701049"
+    },
+    {
+      "stage": "36",
+      "health_drain_mod": "3",
+      "speed": "1200",
+      "theme": "701060"
+    },
+    {
+      "stage": "37",
+      "health_drain_mod": "8",
+      "speed": "1250",
+      "theme": "701021"
+    },
+    {
+      "stage": "38",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701059"
+    },
+    {
+      "stage": "39",
+      "health_drain_mod": "4",
+      "speed": "1140",
+      "theme": "701028"
+    },
+    {
+      "stage": "4",
+      "health_drain_mod": "2",
+      "speed": "930",
+      "theme": "701022"
+    },
+    {
+      "stage": "40",
+      "health_drain_mod": "4",
+      "speed": "1200",
+      "theme": "701051"
+    },
+    {
+      "stage": "41",
+      "health_drain_mod": "28",
+      "speed": "1140",
+      "theme": "701027"
+    },
+    {
+      "stage": "42",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "701040"
+    },
+    {
+      "stage": "43",
+      "health_drain_mod": "28",
+      "speed": "800",
+      "theme": "701021"
+    },
+    {
+      "stage": "44",
+      "health_drain_mod": "4",
+      "speed": "1150",
+      "theme": "701010"
+    },
+    {
+      "stage": "45",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "701023"
+    },
+    {
+      "stage": "46",
+      "health_drain_mod": "4",
+      "speed": "1150",
+      "theme": "701039"
+    },
+    {
+      "stage": "47",
+      "health_drain_mod": "4",
+      "speed": "1250",
+      "theme": "701060"
+    },
+    {
+      "stage": "48",
+      "health_drain_mod": "4",
+      "speed": "1050",
+      "theme": "701011"
+    },
+    {
+      "stage": "49",
+      "health_drain_mod": "25",
+      "speed": "900",
+      "theme": "701027"
+    },
+    {
+      "stage": "5",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701060"
+    },
+    {
+      "stage": "50",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701012"
+    },
+    {
+      "stage": "51",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701048"
+    },
+    {
+      "stage": "52",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701042"
+    },
+    {
+      "stage": "53",
+      "health_drain_mod": "2",
+      "speed": "930",
+      "theme": "701034"
+    },
+    {
+      "stage": "54",
+      "health_drain_mod": "2",
+      "speed": "930",
+      "theme": "701053"
+    },
+    {
+      "stage": "55",
+      "health_drain_mod": "2",
+      "speed": "950",
+      "theme": "701009"
+    },
+    {
+      "stage": "56",
+      "health_drain_mod": "2",
+      "speed": "950",
+      "theme": "701043"
+    },
+    {
+      "stage": "57",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701059"
+    },
+    {
+      "stage": "58",
+      "health_drain_mod": "3",
+      "speed": "950",
+      "theme": "701060"
+    },
+    {
+      "stage": "59",
+      "health_drain_mod": "2",
+      "speed": "1000",
+      "theme": "701053"
+    },
+    {
+      "stage": "6",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701007"
+    },
+    {
+      "stage": "60",
+      "health_drain_mod": "2",
+      "speed": "1000",
+      "theme": "701033"
+    },
+    {
+      "stage": "61",
+      "health_drain_mod": "70",
+      "speed": "1200",
+      "theme": "701026"
+    },
+    {
+      "stage": "62",
+      "health_drain_mod": "3",
+      "speed": "1050",
+      "theme": "701007"
+    },
+    {
+      "stage": "63",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701015"
+    },
+    {
+      "stage": "64",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701052"
+    },
+    {
+      "stage": "65",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701048"
+    },
+    {
+      "stage": "66",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701043"
+    },
+    {
+      "stage": "67",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701030"
+    },
+    {
+      "stage": "68",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701060"
+    },
+    {
+      "stage": "69",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701059"
+    },
+    {
+      "stage": "7",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701044"
+    },
+    {
+      "stage": "70",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701054"
+    },
+    {
+      "stage": "71",
+      "health_drain_mod": "70",
+      "speed": "1400",
+      "theme": "701026"
+    },
+    {
+      "stage": "72",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701046"
+    },
+    {
+      "stage": "73",
+      "health_drain_mod": "10",
+      "speed": "1300",
+      "theme": "701001"
+    },
+    {
+      "stage": "74",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701050"
+    },
+    {
+      "stage": "75",
+      "health_drain_mod": "3",
+      "speed": "1050",
+      "theme": "701020"
+    },
+    {
+      "stage": "76",
+      "health_drain_mod": "3",
+      "speed": "1200",
+      "theme": "701020"
+    },
+    {
+      "stage": "77",
+      "health_drain_mod": "60",
+      "speed": "1100",
+      "theme": "701060"
+    },
+    {
+      "stage": "78",
+      "health_drain_mod": "3",
+      "speed": "1000",
+      "theme": "701053"
+    },
+    {
+      "stage": "79",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701061"
+    },
+    {
+      "stage": "8",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701059"
+    },
+    {
+      "stage": "80",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701061"
+    },
+    {
+      "stage": "81",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701061"
+    },
+    {
+      "stage": "82",
+      "health_drain_mod": "3",
+      "speed": "1100",
+      "theme": "701061"
+    },
+    {
+      "stage": "9",
+      "health_drain_mod": "2",
+      "speed": "900",
+      "theme": "701060"
+    }
+  ],
+  "event_episode_1_stages": [
+    {
+      "stage": "1",
+      "health_drain_mod": "6",
+      "speed": "850",
+      "theme": "60101"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "900",
+      "theme": "60102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "950",
+      "theme": "60102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1000",
+      "theme": "60102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1050",
+      "theme": "60102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1100",
+      "theme": "60102"
+    },
+    {
+      "stage": "2",
+      "health_drain_mod": "6",
+      "speed": "1200",
+      "theme": "60102"
+    },
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "81"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "82"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    }
+  ],
+  "event_episode_2_stages": [
+    {
+      "stage": "1",
+      "health_drain_mod": "5",
+      "speed": "850",
+      "theme": "60201"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "6",
+      "speed": "900",
+      "theme": "60201"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "7",
+      "speed": "950",
+      "theme": "60201"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "8",
+      "speed": "1000",
+      "theme": "60201"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "9",
+      "speed": "1050",
+      "theme": "60201"
+    },
+    {
+      "stage": "1",
+      "health_drain_mod": "10",
+      "speed": "1100",
+      "theme": "60201"
+    },
+    {
+      "stage": "9001",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "81"
+    },
+    {
+      "stage": "9002",
+      "health_drain_mod": "",
+      "speed": "1200",
+      "theme": "82"
+    },
+    {
+      "stage": "10001",
+      "health_drain_mod": "",
+      "speed": "1300",
+      "theme": "83"
+    }
+  ]
+}

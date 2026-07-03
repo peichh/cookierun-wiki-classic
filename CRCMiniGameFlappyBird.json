@@ -1,0 +1,106 @@
+[
+  {
+    "\ufeffvalue": "502",
+    "_key": "Background_ThemeId"
+  },
+  {
+    "\ufeffvalue": "%s_128,%s_126,%s_127",
+    "_key": "Cookie_AniNameFormat"
+  },
+  {
+    "\ufeffvalue": "480,-100",
+    "_key": "Cookie_BoundaryY"
+  },
+  {
+    "\ufeffvalue": "40,60",
+    "_key": "Cookie_ColArea"
+  },
+  {
+    "\ufeffvalue": "600",
+    "_key": "Cookie_GravityRate"
+  },
+  {
+    "\ufeffvalue": "60",
+    "_key": "Cookie_Hp"
+  },
+  {
+    "\ufeffvalue": "50,60,70,80,90,100,110,120,108600",
+    "_key": "Cookie_HpBonus"
+  },
+  {
+    "\ufeffvalue": "1,5,50000",
+    "_key": "Cookie_HpDecrease"
+  },
+  {
+    "\ufeffvalue": "10",
+    "_key": "Cookie_HpRecovery"
+  },
+  {
+    "\ufeffvalue": "100",
+    "_key": "Cookie_InitialY"
+  },
+  {
+    "\ufeffvalue": "ch86",
+    "_key": "Cookie_ResourceKey"
+  },
+  {
+    "\ufeffvalue": "800,2700,90000",
+    "_key": "Cookie_RunSpeedRate"
+  },
+  {
+    "\ufeffvalue": "800",
+    "_key": "Cookie_Scale"
+  },
+  {
+    "\ufeffvalue": "4420",
+    "_key": "Pattern_JellyId"
+  },
+  {
+    "\ufeffvalue": "60",
+    "_key": "Pattern_JellyMinDistance"
+  },
+  {
+    "\ufeffvalue": "100,300,120000",
+    "_key": "Pattern_PlatformDistanceX"
+  },
+  {
+    "\ufeffvalue": "150,70,200,120,80000,10000",
+    "_key": "Pattern_PlatformDistanceY"
+  },
+  {
+    "\ufeffvalue": "500",
+    "_key": "Pattern_PlatformFirstX"
+  },
+  {
+    "\ufeffvalue": "1",
+    "_key": "Pattern_PlatformFlipLower"
+  },
+  {
+    "\ufeffvalue": "6004",
+    "_key": "Pattern_PlatformStatId"
+  },
+  {
+    "\ufeffvalue": "502",
+    "_key": "Pattern_PlatformThemeId"
+  },
+  {
+    "\ufeffvalue": "0,200,75",
+    "_key": "Pattern_PlatformY"
+  },
+  {
+    "\ufeffvalue": "5000",
+    "_key": "Pattern_SmallEnergyCooltime"
+  },
+  {
+    "\ufeffvalue": "101,502",
+    "_key": "Pattern_ThemeIdList"
+  },
+  {
+    "\ufeffvalue": "50,200,0,30",
+    "_key": "Platform_ColArea"
+  },
+  {
+    "\ufeffvalue": "SoundBgm_Game_epN01_1",
+    "_key": "Sound_BGM"
+  }
+]

@@ -1,0 +1,14 @@
+﻿grade,group_id,is_collab,is_sprite_only_on_buy,secondary_resource_key_string,skin_name,stuff_status,tag_file_name,tag_mini_file_name,_key
+E,100100,1,0,skin01,Celestial Emperor,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1800001
+E,104100,1,0,skin01,Imposing Flame Magistrate,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1800002
+E,104900,1,0,skin01,Veiled Lady of Moonlight,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1800003
+E,106500,1,0,skin01,Ethereal Satin,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1800004
+E,107000,1,0,skin01,Windward Marksman,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1800005
+S,107500,0,0,skin01,Starlight Marshmallow,1,,,1800006
+S,107500,0,0,skin02,Retro Marshmallow,1,,,1800007
+A,100100,0,0,skin02,Dilligent Worker,0,,,1800008
+S,104000,0,0,skin01,Baekho and the Celestial Sage,0,,,1800009
+S,108100,0,0,skin01,Netherworld Guide,0,,,1800010
+S,108200,0,0,skin01,Assorted Jeon Bundle,0,,,1800011
+S,108500,0,0,skin01,Captain of the Azure Storm,0,,,1800012
+E,200100,1,1,skin01,Loyal Cute Servant,1,crc_label_shop_skin_tag_collaboration.png,crc_label_shop_skin_tag_collaboration_mini.png,1850001

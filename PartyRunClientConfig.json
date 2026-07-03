@@ -1,0 +1,222 @@
+[
+  {
+    "\ufeffvalue1": "0.5",
+    "value2": "",
+    "_key": "DummyRuleRate"
+  },
+  {
+    "\ufeffvalue1": "1.5",
+    "value2": "",
+    "_key": "GameEndBoostSpeed"
+  },
+  {
+    "\ufeffvalue1": "50",
+    "value2": "",
+    "_key": "GameReadyOthersDist"
+  },
+  {
+    "\ufeffvalue1": "-1200",
+    "value2": "",
+    "_key": "GameReadyStartX"
+  },
+  {
+    "\ufeffvalue1": "1",
+    "value2": "",
+    "_key": "GameServerTimeMaxError"
+  },
+  {
+    "\ufeffvalue1": "2",
+    "value2": "",
+    "_key": "GameStartBoostDuration"
+  },
+  {
+    "\ufeffvalue1": "2",
+    "value2": "",
+    "_key": "GameStartBoostMaxSpeed"
+  },
+  {
+    "\ufeffvalue1": "1.5",
+    "value2": "",
+    "_key": "GameStartBoostMinSpeed"
+  },
+  {
+    "\ufeffvalue1": "3",
+    "value2": "",
+    "_key": "LobbyInviteCooldownTime"
+  },
+  {
+    "\ufeffvalue1": "120",
+    "value2": "",
+    "_key": "MatchMakingTimeoutSec"
+  },
+  {
+    "\ufeffvalue1": "0.3",
+    "value2": "",
+    "_key": "OthersCharOpacityRate"
+  },
+  {
+    "\ufeffvalue1": "1700",
+    "value2": "",
+    "_key": "PatternStartX"
+  },
+  {
+    "\ufeffvalue1": "10",
+    "value2": "",
+    "_key": "RematchResponseWaiting"
+  },
+  {
+    "\ufeffvalue1": "10",
+    "value2": "",
+    "_key": "RoundResultShowTime"
+  },
+  {
+    "\ufeffvalue1": "1.2",
+    "value2": "",
+    "_key": "SpectateFasterDtMult"
+  },
+  {
+    "\ufeffvalue1": "0.8",
+    "value2": "",
+    "_key": "SpectateSlowerDtMult"
+  },
+  {
+    "\ufeffvalue1": "1.5",
+    "value2": "",
+    "_key": "SpectateTriggerFasterDtThreshold"
+  },
+  {
+    "\ufeffvalue1": "4",
+    "value2": "",
+    "_key": "SpectateTriggerReinitThreshold"
+  },
+  {
+    "\ufeffvalue1": "0.7",
+    "value2": "",
+    "_key": "SpectateTriggerSlowerDtThreshold"
+  },
+  {
+    "\ufeffvalue1": "50",
+    "value2": "",
+    "_key": "StartMinigameRangeBegin"
+  },
+  {
+    "\ufeffvalue1": "200",
+    "value2": "",
+    "_key": "StartMinigameRangeEnd"
+  },
+  {
+    "\ufeffvalue1": "150",
+    "value2": "",
+    "_key": "StartMinigameRangeMiddle"
+  },
+  {
+    "\ufeffvalue1": "200",
+    "value2": "",
+    "_key": "StartMinigameTotalRangeLength"
+  },
+  {
+    "\ufeffvalue1": "5",
+    "value2": "",
+    "_key": "StreamResponseDeadline"
+  },
+  {
+    "\ufeffvalue1": "2",
+    "value2": "",
+    "_key": "WaitingRoomBoostDuration"
+  },
+  {
+    "\ufeffvalue1": "1",
+    "value2": "0",
+    "_key": "WaitingRoomBoostJelly"
+  },
+  {
+    "\ufeffvalue1": "2",
+    "value2": "",
+    "_key": "WaitingRoomBoostSpeedFactor"
+  },
+  {
+    "\ufeffvalue1": "6",
+    "value2": "",
+    "_key": "WaitingRoomCameraSmoothFactor"
+  },
+  {
+    "\ufeffvalue1": "1",
+    "value2": "",
+    "_key": "WaitingRoomCoinFireWorkGoldCount"
+  },
+  {
+    "\ufeffvalue1": "10",
+    "value2": "",
+    "_key": "WaitingRoomCoinFireWorkSilverCount"
+  },
+  {
+    "\ufeffvalue1": "1",
+    "value2": "2",
+    "_key": "WaitingRoomCoinFireworkJelly"
+  },
+  {
+    "\ufeffvalue1": "5",
+    "value2": "10",
+    "_key": "WaitingRoomGoldCoinJelly"
+  },
+  {
+    "\ufeffvalue1": "2",
+    "value2": "4",
+    "_key": "WaitingRoomKingCoinJelly"
+  },
+  {
+    "\ufeffvalue1": "5",
+    "value2": "",
+    "_key": "WaitingRoomMakeCoinFireworkCount"
+  },
+  {
+    "\ufeffvalue1": "0.5",
+    "value2": "",
+    "_key": "WaitingRoomMakeCoinFireworkDuration"
+  },
+  {
+    "\ufeffvalue1": "3",
+    "value2": "10",
+    "_key": "WaitingRoomMakeCoinJelly"
+  },
+  {
+    "\ufeffvalue1": "5",
+    "value2": "5",
+    "_key": "WaitingRoomMakeItemJelly"
+  },
+  {
+    "\ufeffvalue1": "200",
+    "value2": "",
+    "_key": "WaitingRoomRunSpeed"
+  },
+  {
+    "\ufeffvalue1": "10",
+    "value2": "20",
+    "_key": "WaitingRoomSilverCoinJelly"
+  },
+  {
+    "\ufeffvalue1": "5",
+    "value2": "",
+    "_key": "WaitingRoomSmallScaleDuration"
+  },
+  {
+    "\ufeffvalue1": "1",
+    "value2": "0",
+    "_key": "WaitingRoomSmallScaleJelly"
+  },
+  {
+    "\ufeffvalue1": "0.5",
+    "value2": "",
+    "_key": "WaitingRoomSmallScaleRate"
+  },
+  {
+    "\ufeffvalue1": "701998",
+    "value2": "",
+    "_key": "WaitingRoomThemeId"
+  },
+  {
+    "\ufeffvalue1": "1500",
+    "value2": "",
+    "_key": "WaitingRoomTotalWidth"
+  }
+]

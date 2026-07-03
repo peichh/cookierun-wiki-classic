@@ -1,0 +1,79 @@
+﻿UnlockId,activity_pointA,activity_pointB,bonus_qty,contentsVersion,group_seq,imageTag,item_id,moneyTypeA,moneyTypeB,money_stuff_seqA,money_stuff_seqB,priceA,priceB,qty,related_stuff_seq,slotPriority,stuffStatus,stuffType,stuff_name,tag,_key
+0,0,0,0,0,500001,artifact_epN00_01,,1,1,0,0,440,440,1,106500,0,0,AC,Warming Hearts,0,500001
+0,0,0,0,0,500002,artifact_epN00_02,,1,1,0,0,110,110,1,107200,0,0,AC,Sweety Berry Slices,0,500002
+0,0,0,0,0,500003,artifact_epN00_ch75,,1,1,0,0,110,110,1,107500,0,0,AC,Marshmallow Eggs,0,500003
+0,0,0,0,0,500004,artifact_epN00_ch81,,1,1,0,0,5000,5000,1,108100,0,0,AC,Princess Bari Cookie's Soulstones,0,500004
+0,0,0,0,0,500005,artifact_epN00_ch85,,1,1,0,0,5000,5000,1,108500,0,0,AC,Admiral Gimbap Cookie's Soulstones,0,500005
+0,0,0,0,0,500006,artifact_epN00_ch90,,1,1,0,0,110,110,1,109000,0,0,AC,Dandelion Seeds,0,500006
+0,0,0,0,0,500007,artifact_epN00_ch92,,1,1,0,0,110,110,1,109200,0,0,AC,Pine Monk Cookie's Soulstone,0,500007
+0,0,0,0,0,500101,artifact_epN01_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 1: Relic 1,0,500101
+0,0,0,0,0,500102,artifact_epN01_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 1: Relic 2,0,500102
+0,0,0,0,0,500103,artifact_epN01_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 1: Relic 3,0,500103
+0,0,0,0,0,500201,artifact_epN02_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 2: Relic 1,0,500201
+0,0,0,0,0,500202,artifact_epN02_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 2: Relic 2,0,500202
+0,0,0,0,0,500203,artifact_epN02_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 2: Relic 3,0,500203
+0,0,0,0,0,500204,artifact_epN02_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 2: Relic 4,0,500204
+0,0,0,0,0,500205,artifact_epN02_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 2: Relic 5,0,500205
+0,0,0,0,0,500301,artifact_epN03_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 1,0,500301
+0,0,0,0,0,500302,artifact_epN03_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 2,0,500302
+0,0,0,0,0,500303,artifact_epN03_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 3,0,500303
+0,0,0,0,0,500304,artifact_epN03_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 4,0,500304
+0,0,0,0,0,500305,artifact_epN03_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 5,0,500305
+0,0,0,0,0,500306,artifact_epN03_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 6,0,500306
+0,0,0,0,0,500307,artifact_epN03_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 3: Relic 7,0,500307
+0,0,0,0,0,500401,artifact_epN04_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 1,0,500401
+0,0,0,0,0,500402,artifact_epN04_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 2,0,500402
+0,0,0,0,0,500403,artifact_epN04_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 3,0,500403
+0,0,0,0,0,500404,artifact_epN04_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 4,0,500404
+0,0,0,0,0,500405,artifact_epN04_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 5,0,500405
+0,0,0,0,0,500406,artifact_epN04_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 6,0,500406
+0,0,0,0,0,500407,artifact_epN04_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 4: Relic 7,0,500407
+0,0,0,0,0,500501,artifact_epN05_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 1,0,500501
+0,0,0,0,0,500502,artifact_epN05_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 2,0,500502
+0,0,0,0,0,500503,artifact_epN05_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 3,0,500503
+0,0,0,0,0,500504,artifact_epN05_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 4,0,500504
+0,0,0,0,0,500505,artifact_epN05_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 5,0,500505
+0,0,0,0,0,500506,artifact_epN05_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 6,0,500506
+0,0,0,0,0,500507,artifact_epN05_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 5: Relic 7,0,500507
+0,0,0,0,0,500601,artifact_epN06_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 1,0,500601
+0,0,0,0,0,500602,artifact_epN06_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 2,0,500602
+0,0,0,0,0,500603,artifact_epN06_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 3,0,500603
+0,0,0,0,0,500604,artifact_epN06_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 4,0,500604
+0,0,0,0,0,500605,artifact_epN06_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 5,0,500605
+0,0,0,0,0,500606,artifact_epN06_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 6,0,500606
+0,0,0,0,0,500607,artifact_epN06_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Episode 6: Relic 7,0,500607
+0,0,0,0,0,540001,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Beta Season 1-1 Pass Points,0,540001
+0,0,0,0,0,540002,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Beta Season 1-2 Pass Points,0,540002
+0,0,0,0,0,540003,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 1 Pass Points,0,540003
+0,0,0,0,0,540004,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 2 Pass Points,0,540004
+0,0,0,0,0,540005,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 3 Pass Points,0,540005
+0,0,0,0,0,540006,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 4 Pass Points,0,540006
+0,0,0,0,0,540007,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 5 Pass Points,0,540007
+0,0,0,0,0,540008,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 6 Pass Points,0,540008
+0,0,0,0,0,540009,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 7 Pass Points,0,540009
+0,0,0,0,0,540010,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 8 Pass Points,0,540010
+0,0,0,0,0,540011,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 9 Pass Points,0,540011
+0,0,0,0,0,540012,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 10 Pass Points,0,540012
+0,0,0,0,0,540013,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 11 Pass Points,0,540013
+0,0,0,0,0,540014,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 12 Pass Points,0,540014
+0,0,0,0,0,540015,artifact_epN00_02,,1,1,0,0,100,100,1,0,0,0,AC,Party Run Season 13 Pass Points,0,540015
+0,0,0,0,0,550101,artifact_epS01_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 1,0,550101
+0,0,0,0,0,550102,artifact_epS01_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 2,0,550102
+0,0,0,0,0,550103,artifact_epS01_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 3,0,550103
+0,0,0,0,0,550104,artifact_epS01_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 4,0,550104
+0,0,0,0,0,550105,artifact_epS01_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 5,0,550105
+0,0,0,0,0,550106,artifact_epS01_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 6,0,550106
+0,0,0,0,0,550107,artifact_epS01_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 1: Relic 7,0,550107
+0,0,0,0,0,550201,artifact_epS02_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 1,0,550201
+0,0,0,0,0,550202,artifact_epS02_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 2,0,550202
+0,0,0,0,0,550203,artifact_epS02_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 3,0,550203
+0,0,0,0,0,550204,artifact_epS02_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 4,0,550204
+0,0,0,0,0,550205,artifact_epS02_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 5,0,550205
+0,0,0,0,0,550206,artifact_epS02_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 6,0,550206
+0,0,0,0,0,550207,artifact_epS02_07,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 2: Relic 7,0,550207
+0,0,0,0,0,550301,artifact_epS03_01,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 1,0,550301
+0,0,0,0,0,550302,artifact_epS03_02,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 2,0,550302
+0,0,0,0,0,550303,artifact_epS03_03,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 3,0,550303
+0,0,0,0,0,550304,artifact_epS03_04,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 4,0,550304
+0,0,0,0,0,550305,artifact_epS03_05,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 5,0,550305
+0,0,0,0,0,550306,artifact_epS03_06,,2,2,0,0,10000,10000,1,0,0,0,AT,Special 3: Relic 6,0,550306

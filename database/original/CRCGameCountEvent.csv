@@ -1,0 +1,6 @@
+﻿event_seq,mission_order,mission_seq,need_game_count,reward_image_file_name,reward_image_plist_file_name,reward_name,reward_qty,_key
+19,1,7740,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,1
+19,2,7741,3,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,2
+19,3,7742,5,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,3
+19,4,7743,7,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,4
+19,5,7744,10,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,5

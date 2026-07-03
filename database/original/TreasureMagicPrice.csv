@@ -1,0 +1,9 @@
+﻿abilitiy1_prob,ability2_prob,ability_group,buy_type,magic_group,price,_key
+9,1,mC1,0,mC,3600,1
+0,1,mC2,1,mC,3,2
+9,1,mB1,0,mB,6000,3
+0,1,mB2,1,mB,5,4
+9,1,mA1,0,mA,12000,5
+0,1,mA2,1,mA,10,6
+9,1,mS1,0,mS,24000,7
+0,1,mS2,1,mS,20,8

@@ -1,0 +1,142 @@
+[
+  {
+    "\ufeffresource_key": "pet100",
+    "value": "90",
+    "_key": "CHOCO_HEDGEHOG_JUMP_DISTANCE"
+  },
+  {
+    "\ufeffresource_key": "pet100",
+    "value": "60",
+    "_key": "CHOCO_HEDGEHOG_JUMP_HEIGHT"
+  },
+  {
+    "\ufeffresource_key": "pet100",
+    "value": "30",
+    "_key": "CHOCO_HEDGEHOG_MAX_FLOOR_COUNT"
+  },
+  {
+    "\ufeffresource_key": "pet100",
+    "value": "120",
+    "_key": "CHOCO_HEDGEHOG_MOVE_DISTANCE_BEFORE_JUMP"
+  },
+  {
+    "\ufeffresource_key": "pet100",
+    "value": "5",
+    "_key": "CHOCO_HEDGEHOG_TOTAL_JUMP_COUNT"
+  },
+  {
+    "\ufeffresource_key": "pet41",
+    "value": "1",
+    "_key": "CandleLifeProb"
+  },
+  {
+    "\ufeffresource_key": "pet87",
+    "value": "800",
+    "_key": "EggBunny_CreateJellyCoolTime"
+  },
+  {
+    "\ufeffresource_key": "pet93",
+    "value": "720,720",
+    "_key": "HoneyRiceCake_HoneyTearDrop"
+  },
+  {
+    "\ufeffresource_key": "pet93",
+    "value": "300",
+    "_key": "HoneyRiceCake_TearDrop"
+  },
+  {
+    "\ufeffresource_key": "pet93",
+    "value": "80,80",
+    "_key": "HoneyRiceCake_TearDropGravity"
+  },
+  {
+    "\ufeffresource_key": "pet93",
+    "value": "360,1440",
+    "_key": "HoneyRiceCake_TearDropPosX"
+  },
+  {
+    "\ufeffresource_key": "pet52",
+    "value": "4",
+    "_key": "KiwiBird_MAX_JELLY_PER_PLATFORM"
+  },
+  {
+    "\ufeffresource_key": "pet52",
+    "value": "0",
+    "_key": "KiwiBird_MIN_JELLY_PER_PLATFORM"
+  },
+  {
+    "\ufeffresource_key": "pet52",
+    "value": "46",
+    "_key": "KiwiBird_Obstacle_JellyMaxDist"
+  },
+  {
+    "\ufeffresource_key": "pet52",
+    "value": "5",
+    "_key": "KiwiBird_Obstacle_NumOfJelly"
+  },
+  {
+    "\ufeffresource_key": "pet104",
+    "value": "30,130,500,1600",
+    "_key": "LOTUSSEED_AREA_TO_SHOOT_JELLY"
+  },
+  {
+    "\ufeffresource_key": "pet98",
+    "value": "100",
+    "_key": "MANGGAE_SNAIL_DEW_PARTY_MAGNET_SIZE"
+  },
+  {
+    "\ufeffresource_key": "pet101",
+    "value": "720",
+    "_key": "PET_DANDELION_MOVE_DISTANCE"
+  },
+  {
+    "\ufeffresource_key": "pet94",
+    "value": "100",
+    "_key": "PetDasara_JellyRange"
+  },
+  {
+    "\ufeffresource_key": "pet50",
+    "value": "45",
+    "_key": "SodaPet_Obstacle_JellyMaxDist"
+  },
+  {
+    "\ufeffresource_key": "pet50",
+    "value": "5",
+    "_key": "SodaPet_Obstacle_NumOfJelly"
+  },
+  {
+    "\ufeffresource_key": "pet50",
+    "value": "1000",
+    "_key": "SodaWaveBuffImmortalDuration"
+  },
+  {
+    "\ufeffresource_key": "pet50",
+    "value": "3",
+    "_key": "Sodapet_MAX_JELLY_PER_PLATFORM"
+  },
+  {
+    "\ufeffresource_key": "pet50",
+    "value": "0",
+    "_key": "Sodapet_MIN_JELLY_PER_PLATFORM"
+  },
+  {
+    "\ufeffresource_key": "pet35",
+    "value": "0",
+    "_key": "SpotlightFadeInOutTime"
+  },
+  {
+    "\ufeffresource_key": "pet35",
+    "value": "0",
+    "_key": "SpotlightOffsetX"
+  },
+  {
+    "\ufeffresource_key": "pet35",
+    "value": "0",
+    "_key": "SpotlightOffsetY"
+  },
+  {
+    "\ufeffresource_key": "pet35",
+    "value": "120",
+    "_key": "SpotlightOpacity"
+  }
+]

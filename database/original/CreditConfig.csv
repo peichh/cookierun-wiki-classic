@@ -1,0 +1,19 @@
+﻿value,_key
+100101,CookieStuffId
+25,CreditDefaultHeight
+4,CreditRowCount
+50,CreditRowHeight
+0.35,CreditsAppearRate
+400,DefaultCreditsDistMax
+200,DefaultCreditsDistMin
+700,InitCreditOffset
+208301,PetStuffId
+480,RandCreditsDistMax
+320,RandCreditsDistMin
+SPECIAL THANKS TO,SpciealCreditsLine0
+           EUNJI LEE                       STUDIO KINGDOM,SpciealCreditsLine1
+                   KILHYEON CHO            TEAM DEVSISTERS,SpciealCreditsLine2
+                       YEOKYEONG SEO,SpciealCreditsLine3
+6,ThemeCount
+2000,ThemeLength
+40,WordSize

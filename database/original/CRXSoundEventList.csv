@@ -1,0 +1,1049 @@
+﻿FullPathforEvent,Notes,_key
+event:/music/SoundBgm_Game_Celebration,,13th_PartyRunMap
+event:/OutGame_Artifact/ArtifactOpen_Loading, ,ArtifactOpen_Loading
+event:/OutGame_Artifact/ArtifactOpen_Normal, ,ArtifactOpen_Normal
+event:/OutGame_Artifact/ArtifactOpen_Special, ,ArtifactOpen_Special
+event:/InGame_Ch68/Banana_CoinRain,,Banana_CoinRain
+event:/InGame_Ch68/Banana_DecorationFloor,,Banana_DecorationFloor
+event:/InGame_Ch68/Banana_FlowerExplosion,,Banana_FlowerExplosion
+event:/InGame_Ch68/Banana_PassingHulahoop,,Banana_PassingHulahoop
+event:/InGame_Ch68/Banana_TransformEnd,,Banana_TransformEnd
+event:/InGame_Ch68/Banana_TransformFlight,,Banana_TransformFlight
+event:/InGame_Ch68/Banana_TransformJump,,Banana_TransformJump
+event:/InGame_Ch68/Banana_TransformSlide,,Banana_TransformSlide
+event:/InGame_Ch68/Banana_TransformStart,,Banana_TransformStart
+event:/InGame_Ch81_BariPrincess/Bell,,BariPrincess_Bell
+event:/InGame_Ch81_BariPrincess/BossSoul_Extermination,,BariPrincess_BossSoul_Extermination
+event:/InGame_Ch81_BariPrincess/BossSoul_Strike,,BariPrincess_BossSoul_Strike
+event:/InGame_Ch81_BariPrincess/SoundEff_GetBasicSoulJelly,,BariPrincess_GetBasicSoulJelly
+event:/InGame_Ch81_BariPrincess/SoundEff_GetFlowerJelly,,BariPrincess_GetFlowerJelly
+event:/InGame_Ch81_BariPrincess/SoundEff_GetMysteryPotionJelly,,BariPrincess_GetMysteryPotionJelly
+event:/InGame_Ch81_BariPrincess/SoundEff_GetSpecialSoulJelly,,BariPrincess_GetSpecialSoulJelly
+event:/InGame_Ch81_BariPrincess/Run_Fast_Start,,BariPrincess_GetSpecialSoulJelly_Run_Fast
+event:/InGame_Ch81_BariPrincess/Make_BasicSoulJelly,,BariPrincess_MakeBasicSoulJelly
+event:/InGame_Ch81_BariPrincess/Make_Flower,,BariPrincess_MakeFlower
+event:/InGame_Ch81_BariPrincess/Start_Skill,,BariPrincess_StartSkill
+event:/InGame_Ch81_BariPrincess/Sword_Energy,,BariPrincess_SwordEnergy
+event:/InGame_Ch81_BariPrincess/Sword_Strike,,BariPrincess_SwordStrike
+event:/music/SoundBgm_BariPrincess_Skill,,BariPrincess_TransformBGM
+event:/InGame_Pet90_BlackStoneTeacher/SoundEff_ChangeStoneJelly,,BlackStoneTeacher_ChangeBlackStoneJelly
+event:/InGame_Pet90_BlackStoneTeacher/SoundEff_GetBlackRiceJelly,,BlackStoneTeacher_getBlackRiceJelly
+event:/InGame_Ch80_Bori/Destroy_Shield,,Bori_DestroyShield
+event:/InGame_Ch80_Bori/SoundEff_GetBarleyJelly,,Bori_GetBarleyJelly
+event:/InGame_Ch80_Bori/SoundEff_GetBeanBarleyJelly,,Bori_GetBeanBarleyJelly
+event:/InGame_Ch80_Bori/Make_Shield,,Bori_MakeShield
+event:/InGame_Ch80_Bori/Run_Fast,,Bori_Run_Fast
+event:/InGame_Ch80_Bori/Transform_Off,,Bori_TransformOff
+event:/InGame_Ch80_Bori/Transformation,,Bori_Transformation
+event:/InGame_Pet41/CandlePet_FireToNewDimension, ,CandlePet_FireToNewDimension
+event:/InGame_Ch66/CandyflossSoundBGM_BonusTime_Day,,CandyflossSoundBGM_BonusTime_Day
+event:/InGame_Ch66/CandyflossSoundBGM_BonusTime_Night,,CandyflossSoundBGM_BonusTime_Night
+event:/InGame_Ch66/CandyflossSound_LetterExplosion,,CandyflossSound_LetterExplosion
+event:/InGame_Ch66/CandyflossSound_ReadyToThrowLetter,,CandyflossSound_ReadyToThrowLetter
+event:/InGame_Ch66/CandyflossSound_ThrowLetter,,CandyflossSound_ThrowLetter
+event:/InGame_Ch66/CandyflossSound_TouchLetterBox,,CandyflossSound_TouchLetterBox
+event:/InGame_Pet72/Castanets_Shot,,Castanets_Shot
+event:/InGame_Pet72/Castanets_ShotStart,,Castanets_ShotStart
+event:/InGame_Common/Char_Jump_Gigantic,,Char_Jump_Gigantic
+event:/InGame_Ch01/Char_Jump_ch01, ,Char_Jump_ch01
+event:/InGame_Ch02/Char_Jump_ch02, ,Char_Jump_ch02
+event:/InGame_Ch03/Char_Jump_ch03, ,Char_Jump_ch03
+event:/InGame_Ch04/Char_Jump_ch04, ,Char_Jump_ch04
+event:/InGame_Ch05/Char_Jump_ch05, ,Char_Jump_ch05
+event:/InGame_Ch06/Char_Jump_ch06,,Char_Jump_ch06
+event:/InGame_Ch07/Char_Jump_ch07,,Char_Jump_ch07
+event:/InGame_Ch08/Char_Jump_ch08,,Char_Jump_ch08
+event:/InGame_Ch09/Char_Jump_ch09,,Char_Jump_ch09
+event:/InGame_Ch10/Char_Jump_ch10,,Char_Jump_ch10
+event:/InGame_Ch11/Char_Jump_ch11,,Char_Jump_ch11
+event:/InGame_Ch12/Char_Jump_ch12,,Char_Jump_ch12
+event:/InGame_Ch13/Char_Jump_ch13,,Char_Jump_ch13
+event:/InGame_Ch14/Char_Jump_ch14,,Char_Jump_ch14
+event:/InGame_Ch15/Char_Jump_ch15,,Char_Jump_ch15
+event:/InGame_Ch16/Char_Jump_ch16,,Char_Jump_ch16
+event:/InGame_Ch18/Char_Jump_ch18,,Char_Jump_ch18
+event:/InGame_Ch19/Char_Jump_ch19,,Char_Jump_ch19
+event:/InGame_Ch20/Char_Jump_ch20,,Char_Jump_ch20
+event:/InGame_Ch21/Char_Jump_ch21,,Char_Jump_ch21
+event:/InGame_Ch22/Char_Jump_ch22,,Char_Jump_ch22
+event:/InGame_Ch23/Char_Jump_ch23,,Char_Jump_ch23
+event:/InGame_Ch24/Char_Jump_ch24,,Char_Jump_ch24
+event:/InGame_Ch24/Char_Jump_ch24_Woman,,Char_Jump_ch24_Woman
+event:/InGame_Ch25/Char_Jump_ch25,,Char_Jump_ch25
+event:/InGame_Ch26/Char_Jump_ch26,,Char_Jump_ch26
+event:/InGame_Ch27/Char_Jump_ch27,,Char_Jump_ch27
+event:/InGame_Ch27/Char_Jump_ch27,,Char_Jump_ch27_1
+event:/InGame_Ch27/Char_Jump_ch27,,Char_Jump_ch27_2
+event:/InGame_Ch28/Char_Jump_ch28,,Char_Jump_ch28
+event:/InGame_Ch29/Char_Jump_ch29,,Char_Jump_ch29
+event:/InGame_Ch30/Char_Jump_ch30,,Char_Jump_ch30
+event:/InGame_Ch31/Char_Jump_ch31,,Char_Jump_ch31
+event:/InGame_Ch32/Char_Jump_ch32,,Char_Jump_ch32
+event:/InGame_Ch33/Char_Jump_ch33,,Char_Jump_ch33
+event:/InGame_Ch34/Char_Jump_ch34,,Char_Jump_ch34
+event:/InGame_Ch35/Char_Jump_ch35,,Char_Jump_ch35
+event:/InGame_Ch36/Char_Jump_ch36,,Char_Jump_ch36
+event:/InGame_Ch37/Char_Jump_ch37,,Char_Jump_ch37
+event:/InGame_Ch38/Char_Jump_ch38,,Char_Jump_ch38
+event:/InGame_Ch39/Char_Jump_ch39,,Char_Jump_ch39
+event:/InGame_Ch40/Char_Jump_ch40,,Char_Jump_ch40
+event:/InGame_Ch40/Char_Jump_ch40_lance,,Char_Jump_ch40_lance
+event:/InGame_Ch41/Char_Jump_ch41,,Char_Jump_ch41
+event:/InGame_Ch42/Char_Jump_ch42,,Char_Jump_ch42
+event:/InGame_Ch43/Char_Jump_ch43,,Char_Jump_ch43
+event:/InGame_Ch44/Char_Jump_ch44,,Char_Jump_ch44
+event:/InGame_Ch45/Char_Jump_ch45,,Char_Jump_ch45
+event:/InGame_Ch46/Char_Jump_ch46_00,,Char_Jump_ch46
+event:/InGame_Ch46/Char_Jump_ch46_01,,Char_Jump_ch46_1
+event:/InGame_Ch46/Char_Jump_ch46_02,,Char_Jump_ch46_2
+event:/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_00,,Char_Jump_ch46_Violinist_Sound
+event:/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_01,,Char_Jump_ch46_Violinist_Sound_1
+event:/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_02,,Char_Jump_ch46_Violinist_Sound_2
+event:/InGame_Ch46/Char_Jump_ch46_mid_00,,Char_Jump_ch46_mid
+event:/InGame_Ch46/Char_Jump_ch46_mid_01,,Char_Jump_ch46_mid_1
+event:/InGame_Ch46/Char_Jump_ch46_mid_02,,Char_Jump_ch46_mid_2
+event:/InGame_Ch47/Char_Jump_ch47,,Char_Jump_ch47
+event:/InGame_Ch48/Char_Jump_ch48,,Char_Jump_ch48
+event:/InGame_Ch49/Char_Jump_ch49,,Char_Jump_ch49
+event:/InGame_Ch50/Char_Jump_ch50,,Char_Jump_ch50
+event:/InGame_Ch51/Char_Jump_ch51,,Char_Jump_ch51
+event:/InGame_Ch52/Char_Jump_ch52,,Char_Jump_ch52
+event:/InGame_Ch53/Char_Jump_ch53,,Char_Jump_ch53
+event:/InGame_Ch54/Char_Jump_ch54,,Char_Jump_ch54
+event:/InGame_Ch55/Char_Jump_ch55,,Char_Jump_ch55
+event:/InGame_Ch56/Char_Jump_ch56,,Char_Jump_ch56
+event:/InGame_Ch57/Char_Jump_ch57,,Char_Jump_ch57
+event:/InGame_Ch58/Char_Jump_ch58,,Char_Jump_ch58
+event:/InGame_Ch59/Char_Jump_ch59,,Char_Jump_ch59
+event:/InGame_Ch60/Char_Jump_ch60,,Char_Jump_ch60
+event:/InGame_Ch61/Char_Jump_ch61,,Char_Jump_ch61
+event:/InGame_Ch62/Char_Jump_ch62,,Char_Jump_ch62
+event:/InGame_Ch63/Char_Jump_ch63,,Char_Jump_ch63
+event:/InGame_Ch64/Char_Jump_ch64,,Char_Jump_ch64
+event:/InGame_Ch65/Char_Jump_ch65,,Char_Jump_ch65
+event:/InGame_Ch66/Char_Jump_ch66,,Char_Jump_ch66
+event:/InGame_Ch67/Char_Jump_ch67,,Char_Jump_ch67
+event:/InGame_Ch68/Char_Jump_ch68,,Char_Jump_ch68
+event:/InGame_Ch69/Char_Jump_ch69,,Char_Jump_ch69
+event:/InGame_Ch70/Char_Jump_ch70,,Char_Jump_ch70
+event:/InGame_Ch71/Char_Jump_ch71,,Char_Jump_ch71
+event:/InGame_Ch72/Char_Jump_ch72,,Char_Jump_ch72
+event:/InGame_Ch73_Gulabjamun/Jump,,Char_Jump_ch73
+event:/InGame_Ch74_Kajukatli/Jump,,Char_Jump_ch74
+event:/InGame_Ch75_MallowBunny/Jump,,Char_Jump_ch75
+event:/InGame_Ch76_Cucumber/Jump,,Char_Jump_ch77
+event:/InGame_Ch78_Sikhye/Jump,,Char_Jump_ch78
+event:/InGame_Ch79_CinnamonPunch/Jump,,Char_Jump_ch79
+event:/InGame_Ch80_Bori/Jump,,Char_Jump_ch80
+event:/InGame_Ch81_BariPrincess/Jump,,Char_Jump_ch81
+event:/InGame_Ch82_PotatoSalad/Jump,,Char_Jump_ch82
+event:/InGame_Ch83_Pakimchi/Jump,,Char_Jump_ch83
+event:/InGame_Ch84_whitekimchi/Jump,,Char_Jump_ch84
+event:/InGame_Ch85_ChungmuKimbap/Jump,,Char_Jump_ch85
+event:/InGame_Ch86_Manggaetteok/Jump,,Char_Jump_ch86
+event:/InGame_Ch87_PlumBlossom/Jump,,Char_Jump_ch87
+event:/InGame_Ch88_Garaetteok/Jump,,Char_Jump_ch88
+event:/InGame_Ch89_Dubai/Jump,,Char_Jump_ch89
+event:/InGame_Ch90_Dandelion/Jump,,Char_Jump_ch90
+event:/InGame_Ch91_Kaymak/Jump,,Char_Jump_ch91
+event:/InGame_Ch92_PineMonk/Jump,,Char_Jump_ch92
+event:/InGame_Ch93_LotusRootPhantom/Jump,,Char_Jump_ch93
+event:/InGame_Common/Char_Land_Gigantic,,Char_Land_Gigantic
+event:/InGame_Ch01/Char_Slide_ch01,,Char_Slide_ch01
+event:/InGame_Ch02/Char_Slide_ch02,,Char_Slide_ch02
+event:/InGame_Ch03/Char_Slide_ch03,,Char_Slide_ch03
+event:/InGame_Ch04/Char_Slide_ch04,,Char_Slide_ch04
+event:/InGame_Ch05/Char_Slide_ch05,,Char_Slide_ch05
+event:/InGame_Ch06/Char_Slide_ch06,,Char_Slide_ch06
+event:/InGame_Ch07/Char_Slide_ch07,,Char_Slide_ch07
+event:/InGame_Ch08/Char_Slide_ch08,,Char_Slide_ch08
+event:/InGame_Ch09/Char_Slide_ch09,,Char_Slide_ch09
+event:/InGame_Ch10/Char_Slide_ch10,,Char_Slide_ch10
+event:/InGame_Ch11/Char_Slide_ch11,,Char_Slide_ch11
+event:/InGame_Ch12/Char_Slide_ch12,,Char_Slide_ch12
+event:/InGame_Ch13/Char_Slide_ch13,,Char_Slide_ch13
+event:/InGame_Ch14/Char_Slide_ch14,,Char_Slide_ch14
+event:/InGame_Ch15/Char_Slide_ch15,,Char_Slide_ch15
+event:/InGame_Ch16/Char_Slide_ch16,,Char_Slide_ch16
+event:/InGame_Ch18/Char_Slide_ch18,,Char_Slide_ch18
+event:/InGame_Ch19/Char_Slide_ch19,,Char_Slide_ch19
+event:/InGame_Ch20/Char_Slide_ch20,,Char_Slide_ch20
+event:/InGame_Ch21/Char_Slide_ch21,,Char_Slide_ch21
+event:/InGame_Ch22/Char_Slide_ch22,,Char_Slide_ch22
+event:/InGame_Ch23/Char_Slide_ch23,,Char_Slide_ch23
+event:/InGame_Ch24/Char_Slide_ch24,,Char_Slide_ch24
+event:/InGame_Ch24/Char_Slide_ch24_Woman,,Char_Slide_ch24_Woman
+event:/InGame_Ch25/Char_Slide_ch25,,Char_Slide_ch25
+event:/InGame_Ch26/Char_Slide_ch26,,Char_Slide_ch26
+event:/InGame_Ch27/Char_Slide_ch27,,Char_Slide_ch27
+event:/InGame_Ch27/Char_Slide_ch27,,Char_Slide_ch27_1
+event:/InGame_Ch27/Char_Slide_ch27,,Char_Slide_ch27_2
+event:/InGame_Ch28/Char_Slide_ch28,,Char_Slide_ch28
+event:/InGame_Ch29/Char_Slide_ch29,,Char_Slide_ch29
+event:/InGame_Ch30/Char_Slide_ch30,,Char_Slide_ch30
+event:/InGame_Ch31/Char_Slide_ch31,,Char_Slide_ch31
+event:/InGame_Ch32/Char_Slide_ch32,,Char_Slide_ch32
+event:/InGame_Ch33/Char_Slide_ch33,,Char_Slide_ch33
+event:/InGame_Ch34/Char_Slide_ch34,,Char_Slide_ch34
+event:/InGame_Ch35/Char_Slide_ch35,,Char_Slide_ch35
+event:/InGame_Ch36/Char_Slide_ch36,,Char_Slide_ch36
+event:/InGame_Ch37/Char_Slide_ch37,,Char_Slide_ch37
+event:/InGame_Ch38/Char_Slide_ch38,,Char_Slide_ch38
+event:/InGame_Ch39/Char_Slide_ch39,,Char_Slide_ch39
+event:/InGame_Ch40/Char_Slide_ch40,,Char_Slide_ch40
+event:/InGame_Ch40/Char_Slide_ch40_lance,,Char_Slide_ch40_lance
+event:/InGame_Ch41/Char_Slide_ch41,,Char_Slide_ch41
+event:/InGame_Ch42/Char_Slide_ch42,,Char_Slide_ch42
+event:/InGame_Ch43/Char_Slide_ch43,,Char_Slide_ch43
+event:/InGame_Ch44/Char_Slide_ch44,,Char_Slide_ch44
+event:/InGame_Ch45/Char_Slide_ch45,,Char_Slide_ch45
+event:/InGame_Ch46/Char_Slide_ch46_00,,Char_Slide_ch46
+event:/InGame_Ch46/Char_Slide_ch46_01,,Char_Slide_ch46_1
+event:/InGame_Ch46/Char_Slide_ch46_02,,Char_Slide_ch46_2
+event:/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_00,,Char_Slide_ch46_Violinist_Sound
+event:/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_01,,Char_Slide_ch46_Violinist_Sound_1
+event:/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_02,,Char_Slide_ch46_Violinist_Sound_2
+event:/InGame_Ch46/Char_Slide_ch46_mid_00,,Char_Slide_ch46_mid
+event:/InGame_Ch46/Char_Slide_ch46_mid_01,,Char_Slide_ch46_mid_1
+event:/InGame_Ch46/Char_Slide_ch46_mid_02,,Char_Slide_ch46_mid_2
+event:/InGame_Ch47/Char_Slide_ch47,,Char_Slide_ch47
+event:/InGame_Ch48/Char_Slide_ch48,,Char_Slide_ch48
+event:/InGame_Ch49/Char_Slide_ch49,,Char_Slide_ch49
+event:/InGame_Ch50/Char_Slide_ch50,,Char_Slide_ch50
+event:/InGame_Ch51/Char_Slide_ch51,,Char_Slide_ch51
+event:/InGame_Ch52/Char_Slide_ch52,,Char_Slide_ch52
+event:/InGame_Ch53/Char_Slide_ch53,,Char_Slide_ch53
+event:/InGame_Ch54/Char_Slide_ch54,,Char_Slide_ch54
+event:/InGame_Ch55/Char_Slide_ch55,,Char_Slide_ch55
+event:/InGame_Ch56/Char_Slide_ch56,,Char_Slide_ch56
+event:/InGame_Ch57/Char_Slide_ch57,,Char_Slide_ch57
+event:/InGame_Ch58/Char_Slide_ch58,,Char_Slide_ch58
+event:/InGame_Ch59/Char_Slide_ch59,,Char_Slide_ch59
+event:/InGame_Ch60/Char_Slide_ch60,,Char_Slide_ch60
+event:/InGame_Ch61/Char_Slide_ch61,,Char_Slide_ch61
+event:/InGame_Ch62/Char_Slide_ch62,,Char_Slide_ch62
+event:/InGame_Ch63/Char_Slide_ch63,,Char_Slide_ch63
+event:/InGame_Ch64/Char_Slide_ch64,,Char_Slide_ch64
+event:/InGame_Ch65/Char_Slide_ch65,,Char_Slide_ch65
+event:/InGame_Ch66/Char_Slide_ch66,,Char_Slide_ch66
+event:/InGame_Ch67/Char_Slide_ch67,,Char_Slide_ch67
+event:/InGame_Ch68/Char_Slide_ch68,,Char_Slide_ch68
+event:/InGame_Ch69/Char_Slide_ch69,,Char_Slide_ch69
+event:/InGame_Ch70/Char_Slide_ch70,,Char_Slide_ch70
+event:/InGame_Ch71/Char_Slide_ch71,,Char_Slide_ch71
+event:/InGame_Ch72/Char_Slide_ch72,,Char_Slide_ch72
+event:/InGame_Ch73_Gulabjamun/Slide,,Char_Slide_ch73
+event:/InGame_Ch74_Kajukatli/Slide,,Char_Slide_ch74
+event:/InGame_Ch75_MallowBunny/Slide,,Char_Slide_ch75
+event:/InGame_Ch76_Cucumber/Slide,,Char_Slide_ch77
+event:/InGame_Ch78_Sikhye/Slide,,Char_Slide_ch78
+event:/InGame_Ch79_CinnamonPunch/Slide,,Char_Slide_ch79
+event:/InGame_Ch80_Bori/Slide,,Char_Slide_ch80
+event:/InGame_Ch81_BariPrincess/Slide,,Char_Slide_ch81
+event:/InGame_Ch82_PotatoSalad/Slide,,Char_Slide_ch82
+event:/InGame_Ch83_Pakimchi/Slide,,Char_Slide_ch83
+event:/InGame_Ch84_whitekimchi/Slide,,Char_Slide_ch84
+event:/InGame_Ch85_ChungmuKimbap/Slide,,Char_Slide_ch85
+event:/InGame_Ch86_Manggaetteok/Slide,,Char_Slide_ch86
+event:/InGame_Ch87_PlumBlossom/Slide,,Char_Slide_ch87
+event:/InGame_Ch88_Garaetteok/Slide,,Char_Slide_ch88
+event:/InGame_Ch89_Dubai/Slide,,Char_Slide_ch89
+event:/InGame_Ch90_Dandelion/Slide,,Char_Slide_ch90
+event:/InGame_Ch91_Kaymak/Slide,,Char_Slide_ch91
+event:/InGame_Ch92_PineMonk/Slide,,Char_Slide_ch92
+event:/InGame_Ch93_LotusRootPhantom/Slide,,Char_Slide_ch93
+event:/InGame_Ch20/CheerLeader_CallFriends, ,CheerLeader_CallFriends
+event:/InGame_Ch20/CheerLeader_Friends, ,CheerLeader_Friends
+event:/InGame_Common/CheeseCakeFireworkExplosion, ,CheeseCakeFireworkExplosion
+event:/InGame_Common/CheeseCakeFireworkFire, ,CheeseCakeFireworkFire
+event:/InGame_Ch51/CherryBlossomMakeExplosion,,CherryBlossomMakeExplosion
+event:/InGame_Ch51/CherryBlossom_TransformEnd,,CherryBlossom_TransformEnd
+event:/InGame_Ch51/CherryBlossom_TransformFlight,,CherryBlossom_TransformFlight
+event:/InGame_Ch51/CherryBlossom_TransformStart,,CherryBlossom_TransformStart
+event:/InGame_Pet49/ChocoKing_RedCarpet, ,ChocoKing_RedCarpet
+event:/InGame_Ch48/Choucream_TransformEnd,,Choucream_TransformEnd
+event:/InGame_Ch48/Choucream_TransformJump,,Choucream_TransformJump
+event:/InGame_Ch48/Choucream_TransformSlide,,Choucream_TransformSlide
+event:/InGame_Ch48/Choucream_TransformStart,,Choucream_TransformStart
+event:/InGame_Ch85_ChungmuKimbap/BlackTortoise_Cannon,,ChungmuKimbap_BlackTortoiseCannon
+event:/InGame_Ch85_ChungmuKimbap/Cannon,,ChungmuKimbap_Cannon
+event:/InGame_Ch85_ChungmuKimbap/Fire_Arrow,,ChungmuKimbap_FireArrow
+event:/InGame_Ch85_ChungmuKimbap/SoundEff_GetChungmuKimbapJelly,,ChungmuKimbap_GetChungmuKimbapJelly
+event:/InGame_Ch85_ChungmuKimbap/Ghost_Start,,ChungmuKimbap_GhostStart
+event:/InGame_Ch85_ChungmuKimbap/Obstacle,,ChungmuKimbap_Obstacle
+event:/InGame_Ch85_ChungmuKimbap/Soldier,,ChungmuKimbap_Soldier
+event:/InGame_Ch85_ChungmuKimbap/ThunderBolt,,ChungmuKimbap_ThunderBolt
+event:/InGame_Ch85_ChungmuKimbap/Transform_End,,ChungmuKimbap_TransformEnd
+event:/InGame_Ch85_ChungmuKimbap/Transform_Start,,ChungmuKimbap_TransformStart
+event:/InGame_Ch85_ChungmuKimbap/Waves,,ChungmuKimbap_Waves
+event:/InGame_Ch78_Sikhye/Baduk_Defeat,,CinnamonPunch_Baduk_Defeat
+event:/InGame_Ch78_Sikhye/Baduk_Win,,CinnamonPunch_Baduk_Win
+event:/InGame_Ch78_Sikhye/Destruction,,CinnamonPunch_Destruction
+event:/InGame_Ch79_CinnamonPunch/SoundEff_GetAStrokeOfGeniusBlackBadukStoneJelly,,CinnamonPunch_GetAStrokeOfGeniusBlackBadukStoneJelly
+event:/InGame_Ch78_Sikhye/SoundEff_GetAuroraBadukStoneJelly,,CinnamonPunch_GetBlackAuroraBadukStoneJelly
+event:/InGame_Ch79_CinnamonPunch/SoundEff_GetBlackBadukStoneJelly,,CinnamonPunch_GetBlackBadukStoneJelly
+event:/InGame_Ch79_CinnamonPunch/Hit_the_BlackBadukStoneJelly,,CinnamonPunch_Hit_The_BadukStoneJelly
+event:/InGame_Ch78_Sikhye/Make_Coin,,CinnamonPunch_MakeCoin
+event:/InGame_Ch79_CinnamonPunch/Run_Fast_Start,,CinnamonPunch_Run_Fast_Start
+event:/InGame_Ch60/CinnamonSound_Magic1,,CinnamonSound_Magic1
+event:/InGame_Ch60/CinnamonSound_Magic2,,CinnamonSound_Magic2
+event:/InGame_Ch60/CinnamonSound_Magic3,,CinnamonSound_Magic3
+event:/InGame_Ch60/CinnamonSound_Magic4,,CinnamonSound_Magic4
+event:/InGame_Ch60/Cinnamon_JellyChange,,Cinnamon_JellyChange
+event:/InGame_Ch45/Cocoa_TransformEnd,,Cocoa_TransformEnd
+event:/InGame_Ch45/Cocoa_TransformFlight,,Cocoa_TransformFlight
+event:/InGame_Ch45/Cocoa_TransformStart,,Cocoa_TransformStart
+event:/InGame_Common/ColorStarJellyBomb,,ColorStarJellyBomb
+event:/InGame_Ch48/Coucream_shotBigMaigicJelly,,Coucream_shotBigMaigicJelly
+event:/InGame_Ch48/Coucream_shotSmallMaigicJelly,,Coucream_shotSmallMaigicJelly
+event:/InGame_Ch33/CrusaderFlightEnd, ,CrusaderFlightEnd
+event:/InGame_Ch33/CrusaderFlightRun, ,CrusaderFlightRun
+event:/InGame_Ch33/CrusaderFlightStart, ,CrusaderFlightStart
+event:/InGame_Ch76_Cucumber/Big_Fishing,,Cucumber_BigFishing
+event:/InGame_Ch76_Cucumber/Big_Fishing_Fail,,Cucumber_BigFishing_Fail
+event:/InGame_Ch76_Cucumber/Big_Fishing_Reel,,Cucumber_BigFishing_Reel
+event:/InGame_Ch76_Cucumber/Big_Fishing_Success,,Cucumber_BigFishing_Success
+event:/InGame_Ch76_Cucumber/Fishing,,Cucumber_Fishing
+event:/InGame_Ch76_Cucumber/Fishing_End,,Cucumber_Fishing_End
+event:/InGame_Ch90_Dandelion/Transform_End,,DandelionCookie_TransformEnd
+event:/InGame_Ch90_Dandelion/TransformFlight,,DandelionCookie_TransformFlight
+event:/InGame_Ch90_Dandelion/Transform_Start,,DandelionCookie_TransformStart
+event:/InGame_Ch90_Dandelion/pompomflower,,DandelionCookie_pompomflower
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly1,,DandelionCookie_pompomflower_Jelly1
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly2,,DandelionCookie_pompomflower_Jelly2
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly3,,DandelionCookie_pompomflower_Jelly3
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly4,,DandelionCookie_pompomflower_Jelly4
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly5,,DandelionCookie_pompomflower_Jelly5
+event:/InGame_Ch90_Dandelion/pompomflower_Jelly6,,DandelionCookie_pompomflower_Jelly6
+event:/InGame_Pet101_Dandelion/Jelly1,,DandelionPet_Jelly1
+event:/InGame_Pet101_Dandelion/Jelly2,,DandelionPet_Jelly2
+event:/InGame_Pet101_Dandelion/Jump,,DandelionPet_Jump
+event:/InGame_Pet94_DasaraBread/Shot,,DasaraBread_Shot
+event:/InGame_Pet94_DasaraBread/Coin,,DasaraBread_coin
+event:/InGame_Ch64/Dinosaur_TransformEnd,,Dinosaur_TransformEnd
+event:/InGame_Ch64/Dinosaur_TransformJump,,Dinosaur_TransformJump
+event:/InGame_Ch64/Dinosaur_TransformLanding, ,Dinosaur_TransformLanding
+event:/InGame_Ch64/Dinosaur_TransformSlide,,Dinosaur_TransformSlide
+event:/InGame_Ch64/Dinosaur_TransformStart,,Dinosaur_TransformStart
+event:/InGame_Ch89_Dubai/SoundEff_DubaiCookieJelly,,DubaiCookie_DubaiCookieJelly
+event:/InGame_Ch89_Dubai/SoundEff_Spread,,DubaiCookie_Spread
+event:/InGame_Ch89_Dubai/Transform_End,,DubaiCookie_TransformEnd
+event:/InGame_Ch89_Dubai/Transform_Start,,DubaiCookie_TransformStart
+event:/InGame_Ch89_Dubai/Transform_BigJumplanding,,DubaiCookie_Transform_BigJumplanding
+event:/InGame_Ch89_Dubai/Transform_Jump,,DubaiCookie_Transform_Jump
+event:/InGame_Ch89_Dubai/Transform_Jumplanding,,DubaiCookie_Transform_Jumplanding
+event:/InGame_Pet100_DubaiPet/CocoaPowder,,DubaiPet_CocoaPowder
+event:/InGame_Pet100_DubaiPet/SoundEff_GetSnailDubaiJelly,,DubaiPet_GetSnailDubaiJelly
+event:/InGame_Pet100_DubaiPet/Jump,,DubaiPet_Jump
+event:/InGame_Pet100_DubaiPet/Make_SnailDubaiJelly,,DubaiPet_Make_SnailDubaiJelly
+event:/InGame_Pet69/DumplingPanda_Splash,,DumplingPanda_Splash
+event:/OutGame_EnchantMagic/EnchantMagic_Best, ,EnchantMagic_Best
+event:/OutGame_EnchantMagic/EnchantMagic_Loading, ,EnchantMagic_Loading
+event:/OutGame_EnchantMagic/EnchantMagic_Normal, ,EnchantMagic_Normal
+event:/InGame_Ch38/EnterExplorerHole, ,EnterExplorerHole
+event:/InGame_Common/Platform_EventRun_Popup_Wide_Knives,,EventRun_Platform_PopOut
+event:/InGame_Common/Platform_EventRun_Swing_Giant_Axe,,EventRun_Platform_PopOut_slidewing
+event:/InGame_Common/Platform_EventRun_Popup_Grass,,EventRun_Platform_PopUpObstacle
+event:/InGame_Common/Platform_EventRun_Popup_Knives_After_Passing,,EventRun_Platform_PopUpObstacle_Knives
+event:/OutGame_Common/Loading_EventRun,,EventRun_ambience_Loading_EventRun
+event:/OutGame_EvolutionTreasure/EvolutionTreasure_BigSuccess, ,EvolutionTreasure_BigSuccess
+event:/OutGame_EvolutionTreasure/EvolutionTreasure_Fail, ,EvolutionTreasure_Fail
+event:/OutGame_EvolutionTreasure/EvolutionTreasure_Loading, ,EvolutionTreasure_Loading
+event:/OutGame_EvolutionTreasure/EvolutionTreasure_Start, ,EvolutionTreasure_Start
+event:/OutGame_EvolutionTreasure/EvolutionTreasure_Success, ,EvolutionTreasure_Success
+event:/InGame_Ch38/ExitExplorerHole, ,ExitExplorerHole
+event:/InGame_Common/ExtraNormalScore,,ExtraNormalScore
+event:/InGame_Ch18/Figure_CriticalScore, ,Figure_CriticalScore
+event:/InGame_Ch18/Figure_NormalScore, ,Figure_NormalScore
+event:/InGame_Common/FireProtectorExplosion,,FireProtectorExplosion
+event:/InGame_Ch41/FireSpirit_ReviveStart, ,FireSpirit_ReviveStart
+event:/InGame_Ch41/FireSpirit_TransformEnd, ,FireSpirit_TransformEnd
+event:/InGame_Ch41/FireSpirit_TransformFlight, ,FireSpirit_TransformFlight
+event:/InGame_Ch41/FireSpirit_TransformStart, ,FireSpirit_TransformStart
+event:/InGame_Ch32/FortuneCookie_CastingSkill, ,FortuneCookie_CastingSkill
+event:/OutGame_FortuneCookie/FortuneCookie_Done,,FortuneCookie_Done
+event:/OutGame_FortuneCookie/FortuneCookie_Loading,,FortuneCookie_Loading
+event:/OutGame_FortuneCookie/FortuneCookie_Result,,FortuneCookie_Result
+event:/OutGame_FortuneCookie/FortuneCookie_Result_Special,,FortuneCookie_Result_Special
+event:/OutGame_FortuneCookie/FortuneCookie_SecondPaper,,FortuneCookie_SecondPaper
+event:/InGame_Ch88_Garaetteok/SoundEff_GetGaraetteokJelly,,Garaetteok_Get_GaraetteokJelly
+event:/InGame_Ch88_Garaetteok/Jump_Erected,,Garaetteok_Jump_Erected
+event:/InGame_Ch88_Garaetteok/Jump_Summon_Jangseung,,Garaetteok_Jump_SummonJangseung
+event:/InGame_Ch88_Garaetteok/Ready,,Garaetteok_Ready
+event:/InGame_Ch88_Garaetteok/Transform_End,,Garaetteok_TransformEnd
+event:/InGame_Ch88_Garaetteok/Transform_Start,,Garaetteok_TransformStart
+event:/InGame_Common/GiganticTreasurePangSound,,GiganticTreasurePangSound
+event:/InGame_Ch49/Guardian4_TransformEnd,,Guardian4_TransformEnd
+event:/InGame_Ch49/Guardian4_TransformFlight,,Guardian4_TransformFlight
+event:/InGame_Ch49/Guardian4_TransformStart,,Guardian4_TransformStart
+event:/InGame_Ch70/Guardian5_BreakObstacle,,Guardian5_BreakObstacle
+event:/InGame_Ch70/Guardian5_ReadyBigArrow,,Guardian5_ReadyBigArrow
+event:/InGame_Ch70/Guardian5_ShotArrow,,Guardian5_ShotArrow
+event:/InGame_Ch70/Guardian5_ShotBigArrow,,Guardian5_ShotBigArrow
+event:/InGame_Ch70/Guardian5_TargetBigBoom,,Guardian5_TargetBigBoom
+event:/InGame_Ch70/Guardian5_TargetBoom,,Guardian5_TargetBoom
+event:/InGame_Ch70/Guardian5_TransformEnd,,Guardian5_TransformEnd
+event:/InGame_Ch70/Guardian5_TransformFlight,,Guardian5_TransformFlight
+event:/InGame_Ch70/Guardian5_TransformStart,,Guardian5_TransformStart
+event:/InGame_Ch73_Gulabjamun/Transform_End,,Gulabjamun_TransformEnd
+event:/InGame_Ch73_Gulabjamun/Transform_Start,,Gulabjamun_TransformStart
+event:/InGame_Ch50/GumballBomb,검 터짐,GumballBomb
+event:/InGame_Ch50/GumballBulletLoad,,GumballBulletLoad
+event:/InGame_Ch50/GumballShot,총발사,GumballShot
+event:/InGame_Ch50/GumballShotFullCombo, 콤보 완성,GumballShotFullCombo
+event:/InGame_Ch50/GumballShotOutOfBullet, 총알 없음,GumballShotOutOfBullet
+event:/InGame_Ch50/Gumball_Obstacle_Explosion,장애물 파괴,Gumball_Obstacle_Explosion
+event:/InGame_Ch24/GumihoTransToFox, ,GumihoTransToFox
+event:/InGame_Ch24/GumihoTransToWoman, ,GumihoTransToWoman
+event:/InGame_Pet74/HalfSeal_Bonus,,HalfSeal_Bonus
+event:/InGame_Pet74/HalfSeal_BonusFast,,HalfSeal_BonusFast
+event:/InGame_Ch63/Herb_GrassGrow,,Herb_GrassGrow
+event:/InGame_Ch63/Herb_RainRepeat,,Herb_RainRepeat
+event:/InGame_Ch63/Herb_RainStart,,Herb_RainStart
+event:/InGame_Ch63/Herb_Sprout,,Herb_Sprout
+event:/InGame_Ch63/Herb_SunRepeat,,Herb_SunRepeat
+event:/InGame_Ch63/Herb_SunStart,,Herb_SunStart
+event:/InGame_Pet102_HoneyPet/HoneyJellyParty,,HoneyPet_HoneyJellyParty
+event:/InGame_Pet93_HoneyTteock/SoundEff_GetHoneyTearsJelly,,HoneyTteok_GetHoneyTearsJelly
+event:/InGame_EpS02/Ice_Obstacle_Escape,,Ice_Obstacle_Escape
+event:/InGame_EpS02/Ice_Obstacle_Shake,,Ice_Obstacle_Shake
+event:/InGame_EpS02/Ice_Obstacle_Start,,Ice_Obstacle_Start
+event:/InGame_EpS02/Ice_Tower_Boss_Summon_Platform,,Ice_Tower_Boss_Summon_Platform
+event:/OutGame_Common/Ice_Tower_Locked,,Ice_Tower_Locked
+event:/music/SoundBgm_CucumberFrog_Skill,,InGame_SoundBgm_CucumberFrog
+event:/music/SoundBgm_GulabjamunTransformBgm,,InGame_SoundBgm_Gulabjamun
+event:/music/SoundBgm_MallowBunny_Skill,,InGame_SoundBgm_MallowBunny
+event:/InGame_Common/InviteNinja_TeleportSlide, ,InviteNinja_TeleportSlide
+event:/InGame_Ch57/Jujube_Attack,,Jujube_Attack
+event:/InGame_Ch57/Jujube_DestroyObstacle,,Jujube_DestroyObstacle
+event:/InGame_Ch57/Jujube_TransformEnd,,Jujube_TransformEnd
+event:/InGame_Ch57/Jujube_TransformJump,,Jujube_TransformJump
+event:/InGame_Ch57/Jujube_TransformStart,,Jujube_TransformStart
+event:/InGame_Ch40/JungleWarrior_JavelinCrash, ,JungleWarrior_JavelinCrash
+event:/InGame_Ch40/JungleWarrior_ThrowingJavelin, ,JungleWarrior_ThrowingJavelin
+event:/InGame_Ch40/JungleWarrior_TigerCrash, ,JungleWarrior_TigerCrash
+event:/InGame_Ch40/JungleWarrior_TransformEnd, ,JungleWarrior_TransformEnd
+event:/InGame_Ch40/JungleWarrior_TransformFlight, ,JungleWarrior_TransformFlight
+event:/InGame_Ch40/Char_Jump_ch40_lance_TigerForm,,JungleWarrior_TransformJump
+event:/InGame_Ch40/Char_Slide_ch40_TigerForm,,JungleWarrior_TransformSlide
+event:/InGame_Ch40/JungleWarrior_TransformStart, ,JungleWarrior_TransformStart
+event:/InGame_Common/SoundEff_CrashWithPower,,Kajukatli_Destruction
+event:/InGame_Ch74_Kajukatli/Javelin_Throw,,Kajukatli_Javelin
+event:/InGame_Ch74_Kajukatli/Javelin_Grab,,Kajukatli_JavelinJelly
+event:/InGame_Ch74_Kajukatli/Javelin_Galloping,,Kajukatli_galloping
+event:/InGame_Ch74_Kajukatli/Javelin_End,,Kajukatli_gallopingend
+event:/InGame_Ch91_Kaymak/Alterego,,KaymakCookie_Alterego
+event:/InGame_Ch91_Kaymak/Swinging_Sprint,,KaymakCookie_SwingingSprint
+event:/InGame_Ch91_Kaymak/Transform_End,,KaymakCookie_TransformEnd
+event:/InGame_Ch91_Kaymak/Transform_Start,,KaymakCookie_TransformStart
+event:/InGame_Ch91_Kaymak/Swinging0,,KaymakCookie_swinging0
+event:/InGame_Ch91_Kaymak/Swinging1,,KaymakCookie_swinging1
+event:/InGame_Ch91_Kaymak/Swinging2,,KaymakCookie_swinging2
+event:/InGame_Ch43/Kiwi_TransformEnd, ,Kiwi_TransformEnd
+event:/InGame_Ch43/Kiwi_TransformFlight,,Kiwi_TransformFlight
+event:/InGame_Ch43/Kiwi_TransformJump, ,Kiwi_TransformJump
+event:/InGame_Ch43/Kiwi_TransformSlide, ,Kiwi_TransformSlide
+event:/InGame_Ch43/Kiwi_TransformStart, ,Kiwi_TransformStart
+event:/InGame_Common/SoundEff_JellychoExplosion,,KongKongJellychoExplosion
+event:/InGame_Ch52/LemonProtectorExplosion,,LemonProtectorExplosion
+event:/InGame_Ch52/Lemon_InvincibleBoost,,Lemon_InvincibleBoost
+event:/InGame_Ch52/Lemon_Obstacle_Explosion,,Lemon_Obstacle_Explosion
+event:/InGame_Ch52/Lemon_TransformEnd,,Lemon_TransformEnd
+event:/InGame_Ch52/Lemon_TransformJump,,Lemon_TransformJump
+event:/InGame_Ch52/Lemon_TransformSlide,,Lemon_TransformSlide
+event:/InGame_Ch52/Lemon_TransformStart,,Lemon_TransformStart
+event:/InGame_Ch54/LimeBoom,,LimeBoom
+event:/InGame_Ch54/LimeGetBall,,LimeGetBall
+event:/InGame_Ch54/LimePowerSpike,,LimePowerSpike
+event:/InGame_Ch54/LimeSpike,,LimeSpike
+event:/InGame_Ch54/Lime_Obstacle_Explosion,,Lime_Obstacle_Explosion
+event:/InGame_Ch54/Lime_TransformEnd,,Lime_TransformEnd
+event:/InGame_Ch54/Lime_TransformJump,,Lime_TransformJump
+event:/InGame_Ch54/Lime_TransformStart,,Lime_TransformStart
+event:/InGame_Ch93_LotusRootPhantom/BigWave,,LotusRootPhantomCookie_BigWave
+event:/InGame_Ch93_LotusRootPhantom/Transform_End,,LotusRootPhantomCookie_TransformEnd
+event:/InGame_Ch93_LotusRootPhantom/Transform_Jump,,LotusRootPhantomCookie_TransformJump
+event:/InGame_Ch93_LotusRootPhantom/Transform_Slide,,LotusRootPhantomCookie_TransformSlide
+event:/InGame_Ch93_LotusRootPhantom/Transform_Wave,,LotusRootPhantomCookie_TransformWave
+event:/InGame_Ch93_LotusRootPhantom/Wave,,LotusRootPhantomCookie_Wave
+event:/InGame_Pet104_LotusSitter/WaterBomb_Jelly,,LotusSitter_waterbombJelly
+event:/InGame_Pet104_LotusSitter/WaterBomb_Jelly1,,LotusSitter_waterbombJelly1
+event:/InGame_Ch59/Macaron_Bbooing,,Macaron_Bbooing
+event:/InGame_Ch59/Macaron_JellyBoom,,Macaron_JellyBoom
+event:/InGame_Ch59/Macaron_Jump,,Macaron_Jump
+event:/InGame_Ch59/Macaron_SmallJump,,Macaron_SmallJump
+event:/InGame_Ch59/Macaron_TransformEnd,,Macaron_TransformEnd
+event:/InGame_Ch59/Macaron_TransformJump,,Macaron_TransformJump
+event:/InGame_Ch59/Macaron_TransformSlide,,Macaron_TransformSlide
+event:/InGame_Ch59/Macaron_TransformStart,,Macaron_TransformStart
+event:/InGame_Ch25/MagicianChainLightning, ,MagicianChainLightning
+event:/InGame_Ch25/MagicianObstacleExplosion, ,MagicianObstacleExplosion
+event:/InGame_Ch25/MagicianSpecialSpellEnd, ,MagicianSpecialSpellEnd
+event:/InGame_Ch25/MagicianSpecialSpellFlightStart, ,MagicianSpecialSpellFlightStart
+event:/InGame_Ch25/MagicianSpecialSpellStart, ,MagicianSpecialSpellStart
+event:/InGame_Ch75_MallowBunny/Coin_Portal_Explosion,,MallowBunny_CoinPortalExplosion
+event:/InGame_Ch75_MallowBunny/Jelly_Portal_Explosion,,MallowBunny_JellyPortalExplosion
+event:/InGame_Ch75_MallowBunny/Pass_Coin_Portal,,MallowBunny_PassCoinPortal
+event:/InGame_Ch75_MallowBunny/Pass_Jelly_Portal,,MallowBunny_PassJellyPortal
+event:/InGame_Pet98_ManggaeLeafSnail/SoundEff_GetDewJelly,,ManggaeLeafSnail_GetDewJelly
+event:/InGame_Pet98_ManggaeLeafSnail/SoundEff_GetSnailCreamJelly,,ManggaeLeafSnail_GetSnailCreamJelly
+event:/InGame_Pet98_ManggaeLeafSnail/Make_Dew,,ManggaeLeafSnail_MakeDew
+event:/InGame_Pet98_ManggaeLeafSnail/Make_SnailCream,,ManggaeLeafSnail_MakeSnailCream
+event:/InGame_Ch86_Manggaetteok/SoundEff_GetManggaetteokJelly,,Manggaetteok_GetManggaetteokJelly
+event:/InGame_Ch86_Manggaetteok/SoundEff_GetWindJelly,,Manggaetteok_GetWindJelly
+event:/InGame_Ch86_Manggaetteok/Transform_End,,Manggaetteok_TransformEnd
+event:/InGame_Ch86_Manggaetteok/Transform_Start,,Manggaetteok_TransformStart
+event:/InGame_Ch86_Manggaetteok/Transform_Jump,,Manggaetteok_Transform_Jump
+event:/InGame_Pet82/MoonMortar_GetJelly,,MoonMortar_GetJelly
+event:/InGame_Pet82/MoonMortar_MakeMoonJelly,,MoonMortar_MakeMoonJelly
+event:/InGame_Pet82/MoonMortar_MoonMortarExplosion,,MoonMortar_MoonMortarExplosion
+event:/InGame_Ch71/MoonRabbit_TransformEnd,,MoonRabbit_TransformEnd
+event:/InGame_Ch71/MoonRabbit_TransformJump,,MoonRabbit_TransformJump
+event:/InGame_Ch71/MoonRabbit_TransformLanding,,MoonRabbit_TransformLanding
+event:/InGame_Ch71/MoonRabbit_TransformSlide,,MoonRabbit_TransformSlide
+event:/InGame_Ch71/MoonRabbit_TransformStart,,MoonRabbit_TransformStart
+event:/InGame_Ch467/MuayThai_TransformEnd,,MuayThai_TransformEnd
+event:/InGame_Ch47/Char_Jump_ch47,,MuayThai_TransformJump
+event:/InGame_Ch47/Char_Slide_ch47,,MuayThai_TransformSlide
+event:/InGame_Ch47/MuayThai_TransformStart,,MuayThai_TransformStart
+event:/Common/mute_music_instantly,,Mute_Music_Instantly
+event:/OutGame_MysteryBox/MisteryBoxOpen_Best, ,MysteryBoxOpen_Best
+event:/OutGame_MysteryBox/MisteryBoxOpen_Good, ,MysteryBoxOpen_Good
+event:/OutGame_MysteryBox/MisteryBoxOpen_Normal, ,MysteryBoxOpen_Normal
+event:/InGame_Common/MysteryBox_Get_Best,,MysteryBox_Get_Best
+event:/InGame_Common/MysteryBox_Get_Good,,MysteryBox_Get_Good
+event:/InGame_Common/MysteryBox_Get_Normal,,MysteryBox_Get_Normal
+event:/InGame_Pet71/OnionFish_Activate,,OnionFish_Activate
+event:/InGame_Pet71/OnionFish_ObstacleTearing,,OnionFish_ObstacleTearing
+event:/InGame_Ch58/Onion_Chendelier_Fall,,Onion_Chendelier_Fall
+event:/InGame_Ch58/Onion_Chendelier_TurnOn,,Onion_Chendelier_TurnOn
+event:/InGame_Ch58/Onion_PassedObstacle,,Onion_PassedObstacle
+event:/InGame_Ch58/Onion_TransformJump,,Onion_TransformJump
+event:/InGame_Ch58/Onion_TransformSlide,,Onion_TransformSlide
+event:/InGame_Ch58/Onion_TransformStart,,Onion_TransformStart
+event:/InGame_Ch53/OrangeBallBoom,,OrangeBallBoom
+event:/InGame_Ch53/OrangeBallBoom,,OrangeBallPowerBoom
+event:/InGame_Ch53/OrangeBallPowerSpike,,OrangePowerSpike
+event:/InGame_Ch53/OrangeBallSmash,,OrangeSmash
+event:/InGame_Ch53/OrangeBallSpike,,OrangeSpike
+event:/InGame_Ch53/Orange_Obstacle_Explosion,,Orange_Obstacle_Explosion
+event:/InGame_Ch83_PaKimchi/Skill_01,,PaKimchiSound_skill1
+event:/InGame_Ch83_PaKimchi/Skill_02,,PaKimchiSound_skill2
+event:/InGame_Ch83_PaKimchi/SoundEff_GetBeanBarleyJelly,,PaKimchi_GetBeanBarleyJelly
+event:/InGame_Ch83_PaKimchi/Obstacle,,PaKimchi_Obstacle
+event:/InGame_Ch83_PaKimchi/Transform_End,,PaKimchi_TransformEnd
+event:/InGame_Ch83_PaKimchi/Transform_Start,,PaKimchi_TransformStart
+event:/InGame_Pet81/PanCakeFrisbeeSound_Flighting,,PanCakeFrisbeeSound_Flighting
+event:/InGame_Ch69/PanCake_JellyBoom,,PanCake_JellyBoom
+event:/InGame_Ch69/PanCake_TransformEnd,,PanCake_TransformEnd
+event:/InGame_Ch69/PanCake_TransformFlight,,PanCake_TransformFlight
+event:/InGame_Ch69/PanCake_TransformStart,,PanCake_TransformStart
+event:/InGame_Pet67/PaperShip_ShotBubble,,PaperShip_ShotBubble
+event:/OutGame_Common/Partyrun_Result_Show_Rank,파티런 게임 결과 순위 안내 사운드,Partyrun_Result_ShowRank
+event:/music/partyrun_waitingroom,파티런 대기실 BGM,Partyrun_WaitingRoom_BGM
+event:/jingle/partyrun_win,파티런 우승 축하화면 징글,Partyrun_Win_BGM
+event:/OutGame_Common/Partyrun_Win_Effect,파티런 최종 우승 WIN 연출 사운드,Partyrun_Win_Effect
+event:/InGame_Common/PartyRun_Countdown,파티런 인게임 숫자 카운트 다운 사운드,Partyrun_countdown
+event:/InGame_Common/PartyRun_Countdown_Start,파티런 인게임 스타트 사운드,Partyrun_countdown_start
+event:/music/partyrun_lobby,파티런 로비 BGM,Partyrun_lobby_BGM
+event:/OutGame_Ambience/PartyRun_Lobby_Fireworks,파티런 로비에서 폭죽 (불꽃놀이)이 터지는 연출,Partyrun_lobby_fireworks
+event:/OutGame_Common/Partyrun_Roulette,파티런 룰렛 돌아가는 연출,Partyrun_roulette
+event:/OutGame_Common/Partyrun_Roulette_Stop,파티런 맵 결정 사운드,Partyrun_roulette_stop
+event:/OutGame_Common/Partyrun_Round_Result_Live,라운드 생존 연출 사운드,Partyrun_round_live
+event:/OutGame_Common/Partyrun_Round_Result_Out,라운드 탈락 연출 사운드,Partyrun_round_out
+event:/OutGame_Common/Partyrun_Round_Result,파티런 라운드 결과화면 등장 연출 사운드,Partyrun_roundresult
+event:/InGame_Common/Partyrun_Survival,파티런 골인 (생존) 사운드,Partyrun_survival
+event:/InGame_Common/Partyrun_Tada,파티런 파이널 라운드 팡파레 사운드,Partyrun_tada
+event:/InGame_Common/Passive_ch20, ,Passive_ch20
+event:/InGame_Common/Passive_ch21, ,Passive_ch21
+event:/InGame_Common/Passive_ch26, ,Passive_ch26
+event:/InGame_Common/Passive_ch37, ,Passive_ch37
+event:/InGame_Common/Passive_ch40, ,Passive_ch40
+event:/InGame_Common/Passive_ch41, ,Passive_ch41
+event:/InGame_Common/Passive_ch49, ,Passive_ch49
+event:/InGame_Common/Passive_ch65, ,Passive_ch65
+event:/InGame_Common/Passive_ch70, ,Passive_ch70
+event:/InGame_Common/Passive_ch87,,Passive_ch87
+event:/InGame_Common/Passive_pet49, ,Passive_pet49
+event:/InGame_Common/Passive_pet57_pet58, ,Passive_pet57_pet58
+event:/InGame_Ch56/Peach_SmashObstacle,,Peach_SmashObstacle
+event:/InGame_Ch56/Peach_TrainingKillSound,,Peach_TrainingKillSound
+event:/InGame_Ch56/Peach_TransformEnd,,Peach_TransformEnd
+event:/InGame_Ch56/Peach_TransformJump,,Peach_TransformJump
+event:/InGame_Ch56/Peach_TransformSlide,,Peach_TransformSlide
+event:/InGame_Ch56/Peach_TransformStart,,Peach_TransformStart
+event:/InGame_Ch55/PepperMint_DolphinIn,,PepperMint_DolphinIn
+event:/InGame_Ch55/PepperMint_DolphinKikikick,,PepperMint_DolphinKikikick
+event:/InGame_Ch55/PepperMint_DolphinOut,,PepperMint_DolphinOut
+event:/InGame_Ch55/PepperMint_TransformEnd,,PepperMint_TransformEnd
+event:/InGame_Ch55/PepperMint_TransformFlight,,PepperMint_TransformFlight
+event:/InGame_Ch55/PepperMint_TransformStart,,PepperMint_TransformStart
+event:/InGame_Ch55/PepperMint_WhaleWaterSpray,,PepperMint_WhaleWaterSpray
+event:/InGame_Pet83/Get_Health_Potion,,Pet83_Get_Health_Potion
+event:/InGame_Pet83/Make_Health_Potion,,Pet83_Make_Health_Potion
+event:/InGame_Pet73/PetCinnamon_RabbitBounce,,PetCinnamon_RabbitBounce
+event:/InGame_Pet73/PetCinnamon_RabbitExplosion,,PetCinnamon_RabbitExplosion
+event:/InGame_Pet73/PetCinnamon_RabbitShoot,,PetCinnamon_RabbitShoot
+event:/InGame_Pet73/PetCinnamon_RabbitStart,,PetCinnamon_RabbitStart
+event:/InGame_Ch92_PineMonk/BigLaser,,PineMonkCookie_BigLaser
+event:/InGame_Ch92_PineMonk/Laser,,PineMonkCookie_Laser
+event:/InGame_Ch92_PineMonk/Monster,,PineMonkCookie_Monster
+event:/InGame_Ch92_PineMonk/Transform_End,,PineMonkCookie_TransformEnd
+event:/InGame_Ch92_PineMonk/Transform_Start,,PineMonkCookie_TransformStart
+event:/InGame_Ch92_PineMonk/scripture,,PineMonkCookie_scripture
+event:/InGame_Pet40/PinkCandyPet_AttractBearJellyMeteor, ,PinkCandyPet_AttractBearJellyMeteor
+event:/InGame_Pet40/PinkCandyPet_BearMeteorCrash, ,PinkCandyPet_BearMeteorCrash
+event:/InGame_Pet40/PinkCandyPet_BearMeteorExplosion, ,PinkCandyPet_BearMeteorExplosion
+event:/InGame_Pet40/PinkCandyPet_BearMeteorFall, ,PinkCandyPet_BearMeteorFall
+event:/InGame_EpN05/Platform_5_2_giraffe,,Platform_5_2_giraffe
+event:/InGame_EpN05/Platform_5_2_rabbit,,Platform_5_2_rabbit
+event:/InGame_EpN05/Platform_5_3_frog,,Platform_5_3_frog
+event:/InGame_EpN05/Platform_5_3_frog2,,Platform_5_3_frog2
+event:/InGame_EpN05/Platform_5_3_snake,,Platform_5_3_snake
+event:/InGame_EpN05/Platform_5_4_OneTwo,,Platform_5_4_OneTwo
+event:/InGame_EpN05/Platform_5_4_lime,,Platform_5_4_lime
+event:/InGame_EpN05/Platform_5_4_star,,Platform_5_4_star
+event:/InGame_EpN05/Platform_5_4_star_509,,Platform_5_4_star_509
+event:/InGame_EpN05/Platform_5_5_IceFall,,Platform_5_5_IceFall
+event:/InGame_EpN05/Platform_5_5_fish,,Platform_5_5_fish
+event:/InGame_EpN05/Platform_5_6_Chipmunk_507,,Platform_5_6_Chipmunk_507
+event:/InGame_EpN05/Platform_5_6_gift,,Platform_5_6_gift
+event:/InGame_EpN05/Platform_5_8_ComingGolem,,Platform_5_8_ComingGolem
+event:/InGame_EpN05/Platform_5_8_PopOut,,Platform_5_8_PopOut
+event:/InGame_EpN05/Platform_5_8_dino_crash,,Platform_5_8_dino_crash
+event:/InGame_EpN05/Platform_5_8_dino_down,,Platform_5_8_dino_down
+event:/InGame_EpN05/Platform_5_8_dino_up,,Platform_5_8_dino_up
+event:/InGame_EpN05/Platform_5_8_golem,,Platform_5_8_golem
+event:/InGame_EpN05/Platform_6048_506,,Platform_6048_506
+event:/InGame_EpN05/Platform_6057_506,,Platform_6057_506
+event:/InGame_Common/Platform_Jump3Times_epS03,,Platform_Jump3Times_epS03
+event:/InGame_Common/Platform_MoveDownFloor, ,Platform_MoveDownFloor
+event:/InGame_Common/Platform_MoveDownJump, ,Platform_MoveDownJump
+event:/InGame_Common/Platform_MoveDownSlide, ,Platform_MoveDownSlide
+event:/InGame_Common/Platform_OneBecomeTwo_epS03,,Platform_OneBecomeTwo_epS03
+event:/InGame_Common/Platform_PartyRun_OneStep,장애물 일회용 발판 사운드,Platform_Onestep
+event:/InGame_Common/Platform_PillarOfFire, ,Platform_PillarOfFire
+event:/InGame_Common/Platform_PartyRun_Pipingbear,장애물 짤주머니 밟는 사운드 (노랑 / 분홍),Platform_Pipingbear
+event:/InGame_Common/Platform_PopUpObstacle, ,Platform_PopUpObstacle
+event:/InGame_Common/Platform_PopUpObstacle_epS03,,Platform_PopUpObstacle_epS03
+event:/InGame_Common/Platform_SlowDownSlide, ,Platform_SlowDownSlide
+event:/InGame_Ch87_PlumBlossom/BigDragon_HpUp,,PlumBlossom_BigDragon_HpUp
+event:/InGame_Ch87_PlumBlossom/BigDragon_Launch,,PlumBlossom_BigDragon_Launch
+event:/InGame_Ch87_PlumBlossom/Branches_Spreadout,,PlumBlossom_Branches_Spreadout
+event:/InGame_Ch87_PlumBlossom/Get_CoinJelly,,PlumBlossom_Get_CoinJelly
+event:/InGame_Ch87_PlumBlossom/Get_PlumblossomJelly,,PlumBlossom_Get_PlumblossomJelly
+event:/InGame_Ch87_PlumBlossom/Levitation,,PlumBlossom_Levitation
+event:/InGame_Ch87_PlumBlossom/Lightning,,PlumBlossom_Lightning
+event:/InGame_Ch87_PlumBlossom/MagnetRush,,PlumBlossom_MagnetRush
+event:/InGame_Ch87_PlumBlossom/Make_CoinJelly,,PlumBlossom_Make_CoinJelly
+event:/InGame_Ch87_PlumBlossom/Make_PlumblossomJelly,,PlumBlossom_Make_PlumblossomJelly
+event:/InGame_Ch87_PlumBlossom/SmallDragon_Launch,,PlumBlossom_SmallDragon_Launch
+event:/InGame_Ch87_PlumBlossom/Transform_Start,,PlumBlossom_TransformStart
+event:/InGame_Pet77/PoppingCandy_Explosion, ,PoppingCandy_Explosion
+event:/InGame_Ch82_PotatoSalad/Skill_01,,PotatoSaladSound_skill1
+event:/InGame_Ch82_PotatoSalad/Skill_02,,PotatoSaladSound_skill2
+event:/InGame_Ch82_PotatoSalad/Transform_Jump,,PotatoSalad_Jump
+event:/InGame_Ch82_PotatoSalad/Smash_Mayonnaise,,PotatoSalad_Mayonnaise
+event:/InGame_Ch82_PotatoSalad/Smash_Potato,,PotatoSalad_Potato
+event:/InGame_Ch82_PotatoSalad/Coin_Appear,,PotatoSalad_PotatoCoin
+event:/InGame_Ch82_PotatoSalad/Transform_Slide,,PotatoSalad_Slide
+event:/music/SoundBgm_PotatoSalad_Skill,,PotatoSalad_TransformBGM
+event:/InGame_Ch82_PotatoSalad/Transform_Start,,PotatoSalad_TransformStart
+event:/OutGame_RandomPet/RandomPet_Born, ,RandomPet_Born
+event:/OutGame_RandomPet/RandomPet_Egg_Crack2, ,RandomPet_Egg_Crack2
+event:/OutGame_RandomPet/RandomPet_Result_A, ,RandomPet_Result_A
+event:/OutGame_RandomPet/RandomPet_Result_Coin, ,RandomPet_Result_Coin
+event:/OutGame_RandomPet/RandomPet_Result_S, ,RandomPet_Result_S
+event:/OutGame_RandomTreasure/RandomTreasure_Loading, ,RandomTreasure_Loading
+event:/OutGame_RandomTreasure/RandomTreasure_MoveBox, ,RandomTreasure_MoveBox
+event:/OutGame_RandomTreasure/RandomTreasure_OpenBox, ,RandomTreasure_OpenBox
+event:/OutGame_RandomTreasure/RandomTreasure_Result_A, ,RandomTreasure_Result_A
+event:/OutGame_RandomTreasure/RandomTreasure_Result_BC, ,RandomTreasure_Result_BC
+event:/OutGame_RandomTreasure/RandomTreasure_Result_S, ,RandomTreasure_Result_S
+event:/InGame_Ch21/Ranger_ShotRifle, ,Ranger_ShotRifle
+event:/InGame_Common/Ranger_StarCandyBomb, ,Ranger_StarCandyBomb
+event:/InGame_Ch61/Redbean_ShowFish,,Redbean_ShowFish
+event:/InGame_Ch61/Redbean_SpeedUp,,Redbean_SpeedUp
+event:/InGame_Ch61/Redbean_TransformEnd,,Redbean_TransformEnd
+event:/InGame_Ch61/Redbean_TransformJump,,Redbean_TransformJump
+event:/InGame_Ch61/Redbean_TransformSlide,,Redbean_TransformSlide
+event:/InGame_Ch61/Redbean_TransformStart,,Redbean_TransformStart
+event:/OutGame_Result/Result_AdditionalScore, ,Result_AdditionalScore
+event:/OutGame_Result/Result_DefeatFriend, ,Result_DefeatFriend
+event:/OutGame_Result/Result_LevelReward, ,Result_LevelReward
+event:/OutGame_Result/Result_LevelUnlock, ,Result_LevelUnlock
+event:/OutGame_Result/Result_LevelUp, ,Result_LevelUp
+event:/OutGame_Result/Result_Medal, ,Result_Medal
+event:/OutGame_Result/Result_MyScore, ,Result_MyScore
+event:/OutGame_Result/Result_NewRecord, ,Result_NewRecord
+event:/OutGame_Result/Result_ScreenChange, ,Result_ScreenChange
+event:/OutGame_Result/Result_Tip, ,Result_Tip
+event:/InGame_Ch27/RockStarMakeNoteJelly, ,RockStarMakeNoteJelly
+event:/InGame_Ch27/RockStarMakeNoteJellyMaxSliding, ,RockStarMakeNoteJellyMaxSliding
+event:/InGame_Ch27/RockStarMaxSliding, ,RockStarMaxSliding
+event:/InGame_Ch67/RollCakeSound_HammerReady,,RollCakeSound_HammerReady
+event:/InGame_Ch67/RollCakeSound_Hammering,,RollCakeSound_Hammering
+event:/InGame_Ch67/RollCakeSound_TransformEnd,,RollCakeSound_TransformEnd
+event:/InGame_Ch67/RollCakeSound_TransformFlight,,RollCakeSound_TransformFlight
+event:/InGame_Ch67/RollCakeSound_TransformJump,,RollCakeSound_TransformJump
+event:/InGame_Ch67/RollCakeSound_TransformStart,,RollCakeSound_TransformStart
+event:/InGame_Pet97_RunningDiary/Get_Final_Score,,RunningDiary_FinalScore
+event:/InGame_Pet97_RunningDiary/Get_Final_Score_Point,,RunningDiary_GetFinalScorePoint
+event:/InGame_Pet97_RunningDiary/Get_Score,,RunningDiary_GetScore
+event:/InGame_Pet97_RunningDiary/Get_Score_Point,,RunningDiary_GetScorePoint
+event:/InGame_Pet80/SavannanaSound_Explosion,,SavannanaSound_Explosion
+event:/InGame_Pet80/SavannanaSound_MakeCoin,,SavannanaSound_MakeCoin
+event:/InGame_Pet80/SavannanaSound_Shooting,,SavannanaSound_Shooting
+event:/InGame_Ch65/SeaFairy_Shooting,,SeaFairy_Shooting
+event:/InGame_Ch65/SeaFairy_ShootingExplosion, ,SeaFairy_ShootingExplosion
+event:/InGame_Ch65/SeaFairy_TransformEnd,,SeaFairy_TransformEnd
+event:/InGame_Ch65/SeaFairy_TransformFlight,,SeaFairy_TransformFlight
+event:/InGame_Ch65/SeaFairy_TransformStart,,SeaFairy_TransformStart
+event:/OutGame_Common/SeaFairy_Unlock,,SeaFairy_Unlock
+event:/OutGame_Common/Shop_Pet_Result_Pop, ,Shop_Pet_Result_Pop
+event:/OutGame_Common/Shop_Random_Boost, ,Shop_Random_Boost
+event:/OutGame_Common/Shop_buy_Success, ,Shop_buy_Success
+event:/InGame_Ch78_Sikhye/Baduk_Defeat,,Sikhye_Baduk_Defeat
+event:/InGame_Ch78_Sikhye/Baduk_Win,,Sikhye_Baduk_Win
+event:/InGame_Ch78_Sikhye/Destruction,,Sikhye_Destruction
+event:/InGame_Ch78_Sikhye/SoundEff_GetAStrokeOfGeniusWhiteBadukStoneJelly,,Sikhye_GetAStrokeOfGeniusWhiteBadukStoneJelly
+event:/InGame_Ch78_Sikhye/SoundEff_GetAuroraBadukStoneJelly,,Sikhye_GetWhiteAuroraBadukStoneJelly
+event:/InGame_Ch78_Sikhye/SoundEff_GetWhiteBadukStoneJelly,,Sikhye_GetWhiteBadukStoneJelly
+event:/InGame_Ch78_Sikhye/Hit_the_WhiteBadukStoneJelly,,Sikhye_Hit_The_BadukStoneJelly
+event:/InGame_Ch78_Sikhye/Make_Coin,,Sikhye_MakeCoin
+event:/InGame_Ch78_Sikhye/Run_Fast_Start,,Sikhye_Run_Fast_Start
+event:/InGame_Ch30/SnowSugar_Summon1Start, ,SnowSugar_Summon1Start
+event:/InGame_Ch30/SnowSugar_Summon2End, ,SnowSugar_Summon2End
+event:/InGame_Ch30/SnowSugar_Summon2Start, ,SnowSugar_Summon2Start
+event:/InGame_Ch39/Soda_TransformEnd, ,Soda_TransformEnd
+event:/InGame_Ch39/Soda_TransformFlight, ,Soda_TransformFlight
+event:/InGame_Ch39/Soda_TransformStart, ,Soda_TransformStart
+event:/InGame_Ch39/Soda_Wave_ObstacleBlowBack, ,Soda_Wave_ObstacleBlowBack
+event:/InGame_Pet88_SotdaeFamily/SoundEff_GetAmondJelly,,SotdaeFamily_Get_AmondJelly
+event:/InGame_Pet88_SotdaeFamily/Make_AmondJelly,,SotdaeFamily_Make_AmondJelly
+event:/InGame_Pet88_SotdaeFamily/Sotdae_Erected,,SotdaeFamily_Sotdae_Erected
+event:/OutGame_Ambience/Ep01,,SoundAmbience_Lobby_epN01
+event:/OutGame_Ambience/Ep02,,SoundAmbience_Lobby_epN02
+event:/OutGame_Ambience/Ep03,,SoundAmbience_Lobby_epN03
+event:/OutGame_Ambience/SoundAmbience_Lobby_epN05,,SoundAmbience_Lobby_epN05
+event:/InGame_BGM_epN01/SoundBgmChangeEff_epN01, ,SoundBgmChangeEff_epN01
+event:/InGame_BGM_epN02/SoundBgmChangeEff_epN02, ,SoundBgmChangeEff_epN02
+event:/InGame_BGM_epN03/SoundBgmChangeEff_epN03, ,SoundBgmChangeEff_epN03
+event:/InGame_BGM_epN04/SoundBgmChangeEff_epN04,,SoundBgmChangeEff_epN04
+event:/OutGame_BGM/SoundBgm_11th_Openning_Cutscene,,SoundBgm_11th_Openning_Cutscene
+event:/InGame_Ch46/SoundBgm_BonusTime_Day_Violinist, ,SoundBgm_BonusTime_Day_Violinist
+event:/InGame_BGM_epN01/SoundBgm_BonusTime_Day_epN01,bgm은 Sound_ID에 SoundBgm이 포함되어있어야한다,SoundBgm_BonusTime_Day_epN01
+event:/InGame_BGM_epN02/SoundBgm_BonusTime_Day_epN02, ,SoundBgm_BonusTime_Day_epN02
+event:/InGame_BGM_epN03/SoundBgm_BonusTime_Day_epN03, ,SoundBgm_BonusTime_Day_epN03
+event:/InGame_BGM_epN04/SoundBgm_BonusTime_Day_epN04, ,SoundBgm_BonusTime_Day_epN04
+event:/InGame_BGM_epN05/SoundBgm_BonusTime_Day_epN05, ,SoundBgm_BonusTime_Day_epN05
+event:/music/SoundBgm_BonusTime_Day_epN06, ,SoundBgm_BonusTime_Day_epN06
+event:/InGame_BGM_epS02/SoundBgm_BonusTime_Day_epS02, ,SoundBgm_BonusTime_Day_epS02
+event:/InGame_Ch27/SoundBgm_BonusTime_Day_rockstar, ,SoundBgm_BonusTime_Day_rockstar
+event:/InGame_Common/SoundBgm_BonusTime_King, ,SoundBgm_BonusTime_King
+event:/InGame_Ch46/SoundBgm_BonusTime_King_Violinist, ,SoundBgm_BonusTime_King_Violinist
+event:/InGame_Ch27/SoundBgm_BonusTime_King_rockstar, ,SoundBgm_BonusTime_King_rockstar
+event:/InGame_Ch46/SoundBgm_BonusTime_Night_Violinist, ,SoundBgm_BonusTime_Night_Violinist
+event:/InGame_BGM_epN01/SoundBgm_BonusTime_Night_epN01, ,SoundBgm_BonusTime_Night_epN01
+event:/InGame_BGM_epN02/SoundBgm_BonusTime_Night_epN02, ,SoundBgm_BonusTime_Night_epN02
+event:/InGame_BGM_epN03/SoundBgm_BonusTime_Night_epN03, ,SoundBgm_BonusTime_Night_epN03
+event:/InGame_BGM_epN04/SoundBgm_BonusTime_Night_epN04, ,SoundBgm_BonusTime_Night_epN04
+event:/InGame_BGM_epN05/SoundBgm_BonusTime_Night_epN05, ,SoundBgm_BonusTime_Night_epN05
+event:/music/SoundBgm_BonusTime_Night_epN06, ,SoundBgm_BonusTime_Night_epN06
+event:/InGame_BGM_epS02/SoundBgm_BonusTime_Night_epS02, ,SoundBgm_BonusTime_Night_epS02
+event:/InGame_Ch27/SoundBgm_BonusTime_Night_rockstar, ,SoundBgm_BonusTime_Night_rockstar
+event:/OutGame_Preview_BGM/SoundBgm_Episode_Select, ,SoundBgm_Episode_Select
+event:/InGame_Ch38/SoundBgm_ExplorerBgm, ,SoundBgm_ExplorerBgm
+event:/music/SoundBgm_Game_epEV01_1,,SoundBgm_Game_epEV01_1
+event:/music/SoundBgm_Game_epEV02,,SoundBgm_Game_epEV02_1
+event:/InGame_BGM_epN01/SoundBgm_Game_epN01_1, ,SoundBgm_Game_epN01_1
+event:/InGame_BGM_epN01/SoundBgm_Game_epN01_2, ,SoundBgm_Game_epN01_2
+event:/InGame_BGM_epN02/SoundBgm_Game_epN02_1, ,SoundBgm_Game_epN02_1
+event:/InGame_BGM_epN02/SoundBgm_Game_epN02_2, ,SoundBgm_Game_epN02_2
+event:/InGame_BGM_epN03/SoundBgm_Game_epN03_1, ,SoundBgm_Game_epN03_1
+event:/InGame_BGM_epN03/SoundBgm_Game_epN03_2, ,SoundBgm_Game_epN03_2
+event:/InGame_BGM_epN04/SoundBgm_Game_epN04_1, ,SoundBgm_Game_epN04_1
+event:/InGame_BGM_epN04/SoundBgm_Game_epN04_2, ,SoundBgm_Game_epN04_2
+event:/InGame_BGM_epN04/SoundBgm_Game_epN04_9, ,SoundBgm_Game_epN04_9
+event:/InGame_BGM_epN05/SoundBgm_Game_epN05_1, ,SoundBgm_Game_epN05_1
+event:/InGame_BGM_epN05/SoundBgm_Game_epN05_10,,SoundBgm_Game_epN05_10
+event:/InGame_BGM_epN05/SoundBgm_Game_epN05_11,,SoundBgm_Game_epN05_11
+event:/InGame_BGM_epN05/SoundBgm_Game_epN05_6, ,SoundBgm_Game_epN05_6
+event:/music/SoundBgm_Game_epN06_1, ,SoundBgm_Game_epN06_1
+event:/music/SoundBgm_Game_epN06_2, ,SoundBgm_Game_epN06_9
+event:/InGame_BGM_epS01/SoundBgm_Game_epS01, ,SoundBgm_Game_epS01
+event:/InGame_BGM_epS02/SoundBgm_Game_epS02_1, ,SoundBgm_Game_epS02_1
+event:/InGame_BGM_epS02/SoundBgm_Game_epS02_2, ,SoundBgm_Game_epS02_2
+event:/InGame_Ch46/SoundBgm_Game_epS02_2Violinist, ,SoundBgm_Game_epS02_2Violinist
+event:/InGame_Ch27/SoundBgm_Game_epS02_2rockstar, ,SoundBgm_Game_epS02_2rockstar
+event:/music/SoundBgm_Game_epS03_1,,SoundBgm_Game_epS03
+event:/music/SoundBgm_Game_epS03_2,,SoundBgm_Game_epS03_2
+event:/InGame_Ch46/SoundBgm_ViolinistBgm,,SoundBgm_Game_epS03_2Violinist
+event:/InGame_Ch27/SoundBgm_RockStarBgm,,SoundBgm_Game_epS03_2rockstar
+event:/music/SoundBgm_Lobby_epEV01,,SoundBgm_Lobby_epEV01
+event:/music/SoundBgm_Lobby_epEV02,,SoundBgm_Lobby_epEV02
+event:/OutGame_BGM/SoundBgm_Lobby_epN01, ,SoundBgm_Lobby_epN01
+event:/OutGame_BGM/SoundBgm_Lobby_epN01_Halloween,,SoundBgm_Lobby_epN01_Halloween
+event:/OutGame_BGM/SoundBgm_Lobby_epN01_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN01_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN01_WinterHolidays,,SoundBgm_Lobby_epN01_WinterHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN01_WinterStory,,SoundBgm_Lobby_epN01_WinterStory
+event:/OutGame_BGM/SoundBgm_Lobby_epN01_piano,,SoundBgm_Lobby_epN01_piano
+event:/OutGame_BGM/SoundBgm_Lobby_epN02, ,SoundBgm_Lobby_epN02
+event:/OutGame_BGM/SoundBgm_Lobby_epN02_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN02_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN02_WinterHolidays,,SoundBgm_Lobby_epN02_WinterHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN02_piano,,SoundBgm_Lobby_epN02_piano
+event:/OutGame_BGM/SoundBgm_Lobby_epN03, ,SoundBgm_Lobby_epN03
+event:/OutGame_BGM/SoundBgm_Lobby_epN03_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN03_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN03_WinterHolidays,,SoundBgm_Lobby_epN03_WinterHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN03_piano,,SoundBgm_Lobby_epN03_piano
+event:/OutGame_BGM/SoundBgm_Lobby_epN04, ,SoundBgm_Lobby_epN04
+event:/OutGame_BGM/SoundBgm_Lobby_epN04_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN04_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN04_WinterHolidays,,SoundBgm_Lobby_epN04_WinterHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN04_piano,,SoundBgm_Lobby_epN04_piano
+event:/OutGame_BGM/SoundBgm_Lobby_epN05, ,SoundBgm_Lobby_epN05
+event:/OutGame_BGM/SoundBgm_Lobby_epN05_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN05_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN05_WinterHolidays,,SoundBgm_Lobby_epN05_WinterHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epN05_piano,,SoundBgm_Lobby_epN05_piano
+event:/music/SoundBgm_Lobby_epN06, ,SoundBgm_Lobby_epN06
+event:/music/SoundBgm_Lobby_epN06_KoreanTraditionalHolidays,,SoundBgm_Lobby_epN06_KoreanTraditionalHolidays
+event:/OutGame_BGM/SoundBgm_Lobby_epS01, ,SoundBgm_Lobby_epS01
+event:/OutGame_BGM/SoundBgm_Lobby_epS02, ,SoundBgm_Lobby_epS02
+event:/music/SoundBgm_Lobby_epS03, ,SoundBgm_Lobby_epS03
+event:/InGame_Ch59/SoundBgm_MacaronTransformBgm, ,SoundBgm_MacaronTransformBgm
+event:/InGame_Ch58/SoundBgm_OnionTransformBgm,,SoundBgm_OnionTransformBgm
+event:/InGame_Ch56/SoundBgm_PeachTransformBgm, ,SoundBgm_PeachTransformBgm
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epEV01,,SoundBgm_Preview_epEV01
+event:/music/SoundBgm_Preview_epEV02,,SoundBgm_Preview_epEV02
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epN01, ,SoundBgm_Preview_epN01
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epN02, ,SoundBgm_Preview_epN02
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epN03, ,SoundBgm_Preview_epN03
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epN04, ,SoundBgm_Preview_epN04
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epN05, ,SoundBgm_Preview_epN05
+event:/music/SoundBgm_Preview_epN06, ,SoundBgm_Preview_epN06
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epS01, ,SoundBgm_Preview_epS01
+event:/OutGame_Preview_BGM/SoundBgm_Preview_epS02, ,SoundBgm_Preview_epS02
+event:/music/SoundBgm_Preview_epS03, ,SoundBgm_Preview_epS03
+event:/InGame_Ch27/SoundBgm_RockStarBgm, ,SoundBgm_RockStarBgm
+event:/InGame_Ch65/SoundBgm_SeaFairyTransformBgm,,SoundBgm_SeaFairyTransformBgm
+event:/InGame_Ch46/SoundBgm_ViolinistBgm, ,SoundBgm_ViolinistBgm
+event:/OutGame_Common/SoundEff_11th_Opnning_Popup_Jingle,,SoundEff_11th_Opnning_Popup_Jingle
+event:/OutGame_Common/SoundEff_ActivityGiftPang, ,SoundEff_ActivityGiftPang
+event:/InGame_Ch34/SoundEff_AlchemistChangeMagic, ,SoundEff_AlchemistChangeMagic
+event:/InGame_Ch34/SoundEff_AlchemistExplosion, ,SoundEff_AlchemistExplosion
+event:/InGame_Ch34/SoundEff_AlchemistReady, ,SoundEff_AlchemistReady
+event:/InGame_Ch34/SoundEff_AlchemistThrowing, ,SoundEff_AlchemistThrowing
+event:/InGame_Ch76_Cucumber/SoundEff_GetFailFishJelly,,SoundEff_BadBigFishJelly
+event:/InGame_Ch29/SoundEff_BardDestruction, ,SoundEff_BardDestruction
+event:/InGame_Ch29/SoundEff_BardLife, ,SoundEff_BardLife
+event:/InGame_Ch29/SoundEff_BardRichness, ,SoundEff_BardRichness
+event:/InGame_Common/SoundEff_BonusCombo, ,SoundEff_BonusCombo
+event:/InGame_Ch28/SoundEff_CherryBomb, ,SoundEff_CherryBomb
+event:/InGame_Ch28/SoundEff_CherryBomb_Throwing_Mad, ,SoundEff_CherryBomb_Throwing_Mad
+event:/InGame_Ch28/SoundEff_CherryBomb_Throwing_Normal, ,SoundEff_CherryBomb_Throwing_Normal
+event:/InGame_Common/SoundEff_CrashWithBody, ,SoundEff_CrashWithBody
+event:/InGame_Common/SoundEff_CrashWithPower, ,SoundEff_CrashWithPower
+event:/InGame_Common/SoundEff_CrashWithShield, ,SoundEff_CrashWithShield
+event:/OutGame_Common/SoundEff_DailyBonus, ,SoundEff_DailyBonus
+event:/InGame_EpN03/SoundEff_Dragon_Breath, ,SoundEff_Dragon_Breath
+event:/InGame_EpN03/SoundEff_Dragon_SmashWithFoot,,SoundEff_Dragon_SmashWithFoot
+event:/InGame_EpN03/SoundEff_Dragon_SmashWithTail,,SoundEff_Dragon_SmashWithTail
+event:/InGame_EpN03/SoundEff_Dragon_Wave,,SoundEff_Dragon_Wave
+event:/InGame_Pet87_EggBunny/SoundEff_GetEggBunnyJelly,,SoundEff_EggBunnyJelly
+event:/InGame_Common/SoundEff_FeverMode_Start, ,SoundEff_FeverMode_Start
+event:/InGame_Common/SoundEff_GameEnd, ,SoundEff_GameEnd
+event:/OutGame_Common/SoundEff_GameStart, ,SoundEff_GameStart
+event:/OutGame_Common/SoundEff_GameStart_epS03,,SoundEff_GameStart_epS03
+event:/InGame_Ch69/SoundEff_GetAcornJelly,,SoundEff_GetAcornJelly
+event:/InGame_Common/SoundEff_GetAlphabetJelly,,SoundEff_GetAlphabetJelly
+event:/InGame_Common/SoundEff_GetBearJelly,,SoundEff_GetBearJelly
+event:/InGame_Common/SoundEff_GetBigBearJelly, ,SoundEff_GetBigBearJelly
+event:/InGame_Common/SoundEff_GetBigCoinJelly, ,SoundEff_GetBigCoinJelly
+event:/InGame_Ch49/SoundEff_GetCh49Jelly, ,SoundEff_GetCh49Jelly
+event:/InGame_Common/SoundEff_GetCoinJelly,,SoundEff_GetCoinJelly
+event:/InGame_Pet88_CucumberFrog/SoundEff_GetDuckweedJelly,,SoundEff_GetDuckweedJelly
+event:/InGame_EpS02/SoundEff_GetExplosionJelly,,SoundEff_GetExplosionJelly
+event:/InGame_Common/SoundEff_GetGoldJelly, ,SoundEff_GetGoldJelly
+event:/InGame_Common/SoundEff_GetGoldenBellJelly, ,SoundEff_GetGoldenBellJelly
+event:/InGame_Common/SoundEff_GetItemJelly, ,SoundEff_GetItemJelly
+event:/InGame_Common/SoundEff_GetJelly, ,SoundEff_GetJelly
+event:/InGame_Ch51/SoundEff_GetJellyCherryBlossom, ,SoundEff_GetJellyCherryBlossom
+event:/InGame_Ch45/SoundEff_GetMarshmallowJelly, ,SoundEff_GetMarshmallowJelly
+event:/InGame_Pet82/SoundEff_GetMoonMortarJelly,,SoundEff_GetMoonMortarJelly
+event:/InGame_Ch53/SoundEff_GetOrangeBallJelly, ,SoundEff_GetOrangeBallJelly
+event:/InGame_Pet85_GrandpaParrot/Jelly_Gigantic,,SoundEff_GetPet85Jelly
+event:/InGame_Common/SoundEff_GetPlatinumCoin, ,SoundEff_GetPlatinumCoin
+event:/InGame_Common/SoundEff_GetPointJelly, ,SoundEff_GetPointJelly
+event:/InGame_Ch61/SoundEff_GetRedbeanFishJelly,,SoundEff_GetRedbeanFishJelly
+event:/InGame_Common/SoundEff_GetSoulJelly, ,SoundEff_GetSoulJelly
+event:/InGame_Common/SoundEff_GhostModeCrash, ,SoundEff_GhostModeCrash
+event:/InGame_Common/SoundEff_GhostMode_Start, ,SoundEff_GhostMode_Start
+event:/InGame_Common/SoundEff_GiganticLandingCoin1,,SoundEff_GiganticLandingCoin1
+event:/InGame_Common/SoundEff_GiganticLandingCoin2,,SoundEff_GiganticLandingCoin2
+event:/InGame_Common/SoundEff_GiganticLandingCoin3,,SoundEff_GiganticLandingCoin3
+event:/InGame_Ch76_Cucumber/SoundEff_GetBigFishJelly,,SoundEff_GoodBigFishJelly
+event:/InGame_Ch73_Gulabjamun/Jelly,,SoundEff_GulabjamunJelly
+event:/InGame_Common/SoundEff_HeadBlast_Start, ,SoundEff_HeadBlast_Start
+event:/InGame_Pet60/SoundEff_Jackson2LaserExplosion,레이저 끝에서 터짐,SoundEff_Jackson2LaserExplosion
+event:/InGame_Pet60/SoundEff_Jackson2LaserShoot,레이저 한발 한 발 발사할 때,SoundEff_Jackson2LaserShoot
+event:/InGame_Pet60/SoundEff_Jackson2LaserStart,펫능력발동 시작,SoundEff_Jackson2LaserStart
+event:/InGame_Common/SoundEff_JellychoExplosion, ,SoundEff_JellychoExplosion
+event:/InGame_Ch74_Kajukatli/Jelly,,SoundEff_KajukatliJelly
+event:/InGame_Ch43/SoundEff_KiwiBikeFuel,,SoundEff_KiwiBikeFuel
+event:/InGame_Common/SoundEff_Large_Energy, ,SoundEff_Large_Energy
+event:/InGame_EpN03/SoundEff_MagmaPlate,,SoundEff_MagmaPlate
+event:/InGame_Pet88_CucumberFrog/Make_DuckweedJelly,,SoundEff_MakeDuckweedJelly
+event:/InGame_Ch75_MallowBunny/SoundEff_GetMallowBunnyBearJelly,,SoundEff_MallowBunnyBearJelly
+event:/InGame_Ch75_MallowBunny/SoundEff_GetMallowBunnyJelly,,SoundEff_MallowBunnyJelly
+event:/InGame_EpN03/SoundEff_MashmellowFalls,,SoundEff_MashmellowFalls
+event:/InGame_EpN03/SoundEff_MeteorBreakPlane,,SoundEff_MeteorBreakPlane
+event:/InGame_EpN03/SoundEff_MeteorCreatesObstacle,,SoundEff_MeteorCreatesObstacle
+event:/InGame_EpN03/SoundEff_MiniVolcanoExplosion,,SoundEff_MiniVolcanoExplosion
+event:/InGame_Common/SoundEff_ObstacleHeart, ,SoundEff_ObstacleHeart
+event:/InGame_Ch43/SoundEff_ObstacleKiwi, ,SoundEff_ObstacleKiwi
+event:/InGame_Ch39/SoundEff_ObstacleSoda, ,SoundEff_ObstacleSoda
+event:/InGame_Pet88_CucumberFrog/Skill_Start,,SoundEff_Pet88_CucumberFrog
+event:/InGame_Common/SoundEff_Pet_Bomb, ,SoundEff_Pet_Bomb
+event:/InGame_Pet17/SoundEff_Pet_Dragon_Crash, ,SoundEff_Pet_Dragon_Crash
+event:/InGame_Ch17/SoundEff_Pet_Dragon_Start, ,SoundEff_Pet_Dragon_Start
+event:/InGame_Pet87_EggBunny/Make_Jelly,,SoundEff_Pet_EggBunny
+event:/InGame_Pet84_MiniDrum/Play,,SoundEff_Pet_Minibook
+event:/InGame_Pet36/SoundEff_Pet_Rescue_Blast_End, ,SoundEff_Pet_Rescue_Blast_End
+event:/InGame_Pet36/SoundEff_Pet_Rescue_Blast_Ready, ,SoundEff_Pet_Rescue_Blast_Ready
+event:/InGame_Pet36/SoundEff_Pet_Rescue_Blast_Start, ,SoundEff_Pet_Rescue_Blast_Start
+event:/InGame_Pet95_Warmsibyl/Resurrection,,SoundEff_Pet_Resurrection
+event:/InGame_Pet96_KkakdugBell/Resurrection,,SoundEff_Pet_Resurrection1
+event:/InGame_Pet26/StarConfetti,,SoundEff_Pet_StarConfetti
+event:/InGame_Pet95_Warmsibyl/Destruction,,SoundEff_Pet_destruction
+event:/InGame_Pet96_KkakdugBell/Drop,,SoundEff_Pet_drop
+event:/InGame_Pet95_Warmsibyl/Rush_01,,SoundEff_Pet_rush1
+event:/InGame_Pet95_Warmsibyl/Rush_02,,SoundEff_Pet_rush2
+event:/InGame_Common/SoundEff_RecoverCrashDamage,,SoundEff_RecoverCrashDamage
+event:/InGame_Common/SoundEff_RelayRunning_Start, ,SoundEff_RelayRunning_Start
+event:/InGame_Common/SoundEff_Revive_EffectStart, ,SoundEff_Revive_EffectStart
+event:/InGame_Common/SoundEff_Revive_ReviveStart, ,SoundEff_Revive_ReviveStart
+event:/InGame_Ch76_Cucumber/SoundEff_GetSmallFishJelly,,SoundEff_SmallFishJelly
+event:/InGame_Common/SoundEff_Small_Energy, ,SoundEff_Small_Energy
+event:/InGame_Pet35/SoundEff_Pet_Spotlight_Start, ,SoundEff_Spotlight
+event:/InGame_Common/SoundEff_StarCandyExplosion, ,SoundEff_StarCandyExplosion
+event:/OutGame_Common/SoundEff_TutorialPopup, ,SoundEff_TutorialPopup
+event:/Common/SoundEff_UIButton, ,SoundEff_UIButton
+event:/OutGame_Common/SoundEff_UIEquipmentButton, ,SoundEff_UIEquipmentButton
+event:/InGame_Common/SoundEff_item02_Start, ,SoundEff_item02_Start
+event:/InGame_Common/SoundEff_item03_Loop, ,SoundEff_item03_Loop
+event:/InGame_Common/SoundEff_item04_Start, ,SoundEff_item04_Start
+event:/InGame_Common/SoundEff_item05_Loop, ,SoundEff_item05_Loop
+event:/InGame_Common/SoundEff_item06_Start, ,SoundEff_item06_Start
+event:/InGame_Common/SoundEff_item07_Start, ,SoundEff_item07_Start
+event:/InGame_Ch31/SoundEffect_MagicalGirlMagicExplosion, ,SoundEffect_MagicalGirlMagicExplosion
+event:/InGame_Ch31/SoundEffect_MagicalGirlMagicShot, ,SoundEffect_MagicalGirlMagicShot
+event:/OutGame_Ambience/WorldMap,,Sound_Ambience_WorldMap
+event:/InGame_Ch72/Transform_end,,StrawberryShortCake_Transform_end
+event:/InGame_Ch72/Rush,,StrawberryShortcake_Rush
+event:/InGame_Ch23/SuperDevil_ChangeStart, ,SuperDevil_ChangeStart
+event:/InGame_Ch23/SuperDevil_FlightEnd, ,SuperDevil_FlightEnd
+event:/InGame_Ch23/SuperDevil_FlightStart, ,SuperDevil_FlightStart
+event:/InGame_Ch19/SuperHero_ChangeStart, ,SuperHero_ChangeStart
+event:/InGame_Ch19/SuperHero_FlightEnd, ,SuperHero_FlightEnd
+event:/InGame_Ch19/SuperHero_FlightStart, ,SuperHero_FlightStart
+event:/OutGame_Common/Treasure_Bless,,Treasure_Bless
+event:/Common/unmute_music_instantly,,Unmute_Music_Instantly
+event:/InGame_Ch36/UnripeSkillActivation, ,UnripeSkillActivation
+event:/OutGame_UpgradeTreasure/UpgradeTreasure_Fail, ,UpgradeTreasure_Fail
+event:/OutGame_UpgradeTreasure/UpgradeTreasure_Loading, ,UpgradeTreasure_Loading
+event:/OutGame_UpgradeTreasure/UpgradeTreasure_LoadingDone, ,UpgradeTreasure_LoadingDone
+event:/OutGame_UpgradeTreasure/UpgradeTreasure_Success, ,UpgradeTreasure_Success
+event:/InGame_Ch35/VampireJumpAfterTransform, ,VampireJumpAfterTransform
+event:/InGame_Ch35/VampireMakeJelly, ,VampireMakeJelly
+event:/InGame_Ch35/VampireTransformEnd, ,VampireTransformEnd
+event:/InGame_Ch35/VampireTransformStart, ,VampireTransformStart
+event:/InGame_Ch46/Violinist_Sound_GetCoin,,Violinist_Sound_GetCoin
+event:/InGame_Ch46/Violinist_Sound_GetCoin_Max,,Violinist_Sound_GetCoin_Max
+event:/InGame_Pet76/WaterCan_ActivationStart,,WaterCan_ActivationStart
+event:/InGame_Pet76/WaterCan_BloomEnd,,WaterCan_BloomEnd
+event:/InGame_Pet76/WaterCan_BloomStart,,WaterCan_BloomStart
+event:/InGame_Ch44/Werewolf_CrashObstacle,,Werewolf_CrashObstacle
+event:/InGame_Ch44/Werewolf_TransformEnd,,Werewolf_TransformEnd
+event:/InGame_Ch44/Werewolf_TransformJump,,Werewolf_TransformJump
+event:/InGame_Ch44/Werewolf_TransformSlide,,Werewolf_TransformSlide
+event:/InGame_Ch44/Werewolf_TransformStart,,Werewolf_TransformStart
+event:/InGame_Common/Whistle_Relay,,Whistle_Relay
+event:/InGame_Common/Whistle_Rescue,,Whistle_Rescue
+event:/InGame_Common/Whistle_Revive,,Whistle_Revive
+event:/InGame_Ch62/WhiteChocolateSound_Full_Gauge,,WhiteChocolateSound_Full_Gauge
+event:/InGame_Ch62/WhiteChocolateSound_Incomplete_Gauge,,WhiteChocolateSound_Incomplete_Gauge
+event:/InGame_Ch62/WhiteChocolateSound_Level_Incomplete,,WhiteChocolateSound_Level_Incomplete
+event:/InGame_Ch62/WhiteChocolateSound_SliceObstacle_0,,WhiteChocolateSound_SliceObstacle_0
+event:/InGame_Ch62/WhiteChocolateSound_SliceObstacle_0,,WhiteChocolateSound_SliceObstacle_1
+event:/InGame_Ch62/WhiteChocolateSound_TransformEnd,,WhiteChocolateSound_TransformEnd
+event:/InGame_Ch62/WhiteChocolateSound_TransformStart,,WhiteChocolateSound_TransformStart
+event:/InGame_Pet102_WhiteDragonHorsie/Dragon_Launch,,WhiteDragonHorsiePet_Dragon_Launch
+event:/InGame_Pet102_WhiteDragonHorsie/Jelly_Conversion,,WhiteDragonHorsiePet_Jelly_conversion
+event:/InGame_Pet91_WhiteStoneTeacher/SoundEff_GetWhiteRiceJelly,,WhiteStoneTeacher_getWhiteRiceJelly
+event:/InGame_Pet92_Yongma/Count_Speed_Point,,Yongma_GetSpeedPoint
+event:/InGame_Pet92_Yongma/Rescue,,Yongma_Rescue
+event:/InGame_EpN05/ambEPN05-5, ,ambEPN05-5
+event:/InGame_EpN04/big_to_small,,big_to_small
+event:/InGame_EpN04/big_wheel,,big_wheel
+event:/InGame_EpN04/blue_explode,,blue_explode
+event:/InGame_EpN04/eat_book,,eat_book
+event:/InGame_EpN03/epN03_302_Platform_MoveDownJump,수직으로 떨어지는 타코야키,epN03_302_Platform_MoveDownJump
+event:/InGame_EpN03/epN03_304_oneBecomeTwo,1단에서 입 벌리며 2단되는 마시멜로 장애물,epN03_304_oneBecomeTwo
+event:/InGame_EpN03/epN03_306_oneBecomeTwo,용 알깨면서 2단되는 장애물,epN03_306_oneBecomeTwo
+event:/InGame_EpN03/epN03_307_oneBecomeTwo,1단에서 2단되는 동상(쇠로 되어있음),epN03_307_oneBecomeTwo
+event:/InGame_EpN03/epN03_Dragon_FlyingOnBackground,화면 뒤에서 조그맣게 날아가는 용 이펙트,epN03_Dragon_FlyingOnBackground
+event:/InGame_EpN03/epN03_Dragon_FlyingOnFront,화면 최상단으로 날아가는 용 이펙트,epN03_Dragon_FlyingOnFront
+event:/InGame_EpN06/epN06_Platform_2_FlyingBatUp,"스테이지2 박쥐 - 사선으로 날아오는 박쥐 (위, 아래)",epN06_Platform_2_FlyingBatUp
+event:/InGame_EpN06/epN06_Platform_3_BounceApproach_1,스테이지3 떡 - 달려와서 찌르는 1단 장애물,epN06_Platform_3_BounceApproach_1
+event:/InGame_EpN06/epN06_Platform_3_RunningAttack_1,스테이지3 떡꼬치 - 통통 튀어서 다가오는 1단 장애물,epN06_Platform_3_RunningAttack_1
+event:/InGame_EpN06/epN06_Platform_3_RunningAttack_2,스테이지3 장군 - 달려와서 찌르는 2단 장애물,epN06_Platform_3_RunningAttack_2
+event:/InGame_EpN06/epN06_Platform_3_Transform1to2_2,스테이지3 삼지창 떡 - 1단에서 2단이 되는 장애물,epN06_Platform_3_Transform1to2_2
+event:/InGame_EpN06/epN06_Platform_4_PopOut_1,스테이지4 가마솥 - 튀어나오는 1단 장애물,epN06_Platform_4_PopOut_1
+event:/InGame_EpN06/epN06_Platform_4_UpDownSlide_3,스테이지4 누룽지 저울 - 아래위로 움직이는 3칸 슬라이드 장애물,epN06_Platform_4_UpDownSlide_3
+event:/InGame_EpN06/epN06_Platform_5_JumpCreate_1,스테이지 5 양갱 - 1단 장애물 생성하는 슬라이드 장애물,epN06_Platform_5_JumpCreate_1
+event:/InGame_EpN06/epN06_Platform_5_UpDownSlide_1,"스테이지 5 3색 꼬치 - 위, 아래로 움직이는 슬라이드 장애물",epN06_Platform_5_UpDownSlide_1
+event:/InGame_EpN06/epN06_Platform_6_ExpandObstacle_1,스테이지 6 슬라이드 곶감 - 슬라이드가 점점 커지는 장애물,epN06_Platform_6_ExpandObstacle_1
+event:/InGame_EpN06/epN06_Platform_6_ExpandObstacle_2,스테이지 6 커지는 곶감 - 점점 커지는 2단 장애물,epN06_Platform_6_ExpandObstacle_2
+event:/InGame_EpN06/epN06_Platform_6_RunObstacle2x1_Dog,스테이지 6 유과 강아지 - 달려오는 2*1 장애물,epN06_Platform_6_RunObstacle2x1_Dog
+event:/InGame_EpN06/epN06_Platform_6_SlideToDoubleJump_2,스테이지 6 떨어지는 곶감 - 슬라이드가 2단 점프가 되는 장애물,epN06_Platform_6_SlideToDoubleJump_2
+event:/InGame_EpN06/epN06_Platform_7_BounceApproach_1,스테이지 7 분홍 학 - 통통 튀어오면서 다가오는 1단 장애물,epN06_Platform_7_BounceApproach_1
+event:/InGame_EpN06/epN06_Platform_7_Transform1to2_2,스테이지 7 검은 학 - 1단에서 2단이 되는 장애물,epN06_Platform_7_Transform1to2_2
+event:/InGame_EpN06/epN06_Platform_8_FloatingGrow,스테이지 8 꽃 단청 - 공중에 떠있는 장애물 (작은 상태에서 커짐),epN06_Platform_8_FloatingGrow
+event:/InGame_EpN06/epN06_Platform_8_FloatingShrink,스테이지 8 꽃 단청 - 공중에 떠있는 장애물 (큰 상태에서 작아짐),epN06_Platform_8_FloatingShrink
+event:/InGame_EpN06/epN06_Platform_8_RunningAttack_2,스테이지 8 무관 - 달려와서 찌르는 2단 장애물,epN06_Platform_8_RunningAttack_2
+event:/InGame_EpN06/epN06_Platform_8_RunningJump,스테이지 8 문관 - 달려와서 점프하는 장애물,epN06_Platform_8_RunningJump
+event:/InGame_EpN06/epN06_Platform_9_DragonFootHole_2,스테이지 9 용의 발로 두 칸 구멍 생성,epN06_Platform_9_DragonFootHole_2
+event:/InGame_EpN06/epN06_Platform_9_DragonPass,스테이지 9 지나가는 용,epN06_Platform_9_DragonPass
+event:/InGame_EpN06/epN06_Platform_9_DragonTailHole_1,스테이지 9 용의 꼬리로 한 칸 구멍 생성,epN06_Platform_9_DragonTailHole_1
+event:/InGame_EpN06/epN06_Platform_9_SlamStage_1,스테이지 9 용 비늘 - 떨어지는 1단 장애물,epN06_Platform_9_SlamStage_1
+event:/InGame_EpN06/epN06_Platform_9_SlamStage_2,스테이지 9 용 비늘 - 떨어지는 2단 장애물,epN06_Platform_9_SlamStage_2
+event:/InGame_EpS02/epS02_Platform_MoveDownJump,,epS02_Platform_MoveDownJump
+event:/InGame_EpS02/epS02_Platform_PopUpObstacle,,epS02_Platform_PopUpObstacle
+event:/InGame_EpS02/epS02_blue_explode,,epS02_blue_explode
+event:/InGame_EpS02/epS02_ice_door_rune,,epS02_ice_door_rune
+event:/InGame_EpS02/epS02_lazer_end,,epS02_lazer_end
+event:/InGame_EpS02/epS02_lazer_shoot,,epS02_lazer_shoot
+event:/InGame_EpS02/epS02_lazer_shoot_loop,,epS02_lazer_shoot_loop
+event:/InGame_EpS02/epS02_lazer_start,,epS02_lazer_start
+event:/InGame_EpS02/epS02_light_mine,,epS02_light_mine
+event:/InGame_EpS02/epS02_light_mine_explode,,epS02_light_mine_explode
+event:/InGame_EpS02/epS02_pink_explode,,epS02_pink_explode
+event:/OutGame_Result/Result_IceMissionFail,,ice_mission_fail
+event:/OutGame_Result/Result_IceMissionSuccess,,ice_mission_success
+event:/InGame_EpS02/ice_open_door,,ice_open_door
+event:/OutGame_Common/ice_star_up_animation,,ice_star_up_animation
+event:/OutGame_Common/ice_unlock_door,,ice_unlock_door
+event:/OutGame_Common/ice_unlock_last_door,,ice_unlock_last_door
+event:/InGame_EpN04/lazer_end,,lazer_end
+event:/InGame_EpN04/lazer_hit,,lazer_hit
+event:/InGame_EpN04/lazer_shoot,,lazer_shoot
+event:/InGame_EpN04/lazer_shoot_loop,,lazer_shoot_loop
+event:/InGame_EpN04/lazer_start,,lazer_start
+event:/InGame_EpN04/light_mine, ,light_mine
+event:/InGame_EpN04/mandragora_scream,,mandragora_scream
+event:/InGame_EpN04/pink_explode,,pink_explode
+event:/InGame_EpN04/small_to_big,,small_to_big
+event:/InGame_Ch84_whitekimchi/Skill_01,,whitekimchiSound_skill1
+event:/InGame_Ch84_whitekimchi/Skill_02,,whitekimchiSound_skill2
+event:/InGame_Ch84_whitekimchi/Skill_03,,whitekimchiSound_skill3
+event:/InGame_Ch84_whitekimchi/Skill_04,,whitekimchiSound_skill4
+event:/InGame_EpN04/wizard_move,,wizard_move

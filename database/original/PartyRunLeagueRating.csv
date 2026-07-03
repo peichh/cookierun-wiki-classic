@@ -1,0 +1,22 @@
+﻿crystal_count,icon_grade,icon_grade_big,max_percentage,max_trophy,medal_count,min_percentage,min_trophy,name,tier_group_seq,tier_seq,type,_key
+5,crcu_partyrun_rank_1-1.png,crcu_partyrun_rank_big_1-1.png,,35,15,,0,Choco Drop 1,1,1,ABSOLUTE,1
+25,crcu_partyrun_rank_3-4.png,crcu_partyrun_rank_big_3-4.png,70,,150,60,,Candy Drop 4,3,10,RELATIVE,10
+30,crcu_partyrun_rank_3-5.png,crcu_partyrun_rank_big_3-5.png,60,,200,50,,Candy Drop 5,3,11,RELATIVE,11
+40,crcu_partyrun_rank_4-1.png,crcu_partyrun_rank_big_4-1.png,50,,250,40,,Golden Drop 1,4,12,RELATIVE,12
+50,crcu_partyrun_rank_4-2.png,crcu_partyrun_rank_big_4-2.png,40,,300,30,,Golden Drop 2,4,13,RELATIVE,13
+60,crcu_partyrun_rank_4-3.png,crcu_partyrun_rank_big_4-3.png,30,,350,20,,Golden Drop 3,4,14,RELATIVE,14
+70,crcu_partyrun_rank_4-4.png,crcu_partyrun_rank_big_4-4.png,20,,400,15,,Golden Drop 4,4,15,RELATIVE,15
+80,crcu_partyrun_rank_4-5.png,crcu_partyrun_rank_big_4-5.png,15,,450,10,,Golden Drop 5,4,16,RELATIVE,16
+100,crcu_partyrun_rank_5-1.png,crcu_partyrun_rank_big_5-1.png,10,,500,7,,Platinum Drop 1,5,17,RELATIVE,17
+120,crcu_partyrun_rank_5-2.png,crcu_partyrun_rank_big_5-2.png,7,,750,5,,Platinum Drop 2,5,18,RELATIVE,18
+140,crcu_partyrun_rank_5-3.png,crcu_partyrun_rank_big_5-3.png,5,,1000,3,,Platinum Drop 3,5,19,RELATIVE,19
+5,crcu_partyrun_rank_1-2.png,crcu_partyrun_rank_big_1-2.png,,80,20,,35,Choco Drop 2,1,2,ABSOLUTE,2
+170,crcu_partyrun_rank_5-4.png,crcu_partyrun_rank_big_5-4.png,3,,1250,1,,Platinum Drop 4,5,20,RELATIVE,20
+200,crcu_partyrun_rank_5-5.png,crcu_partyrun_rank_big_5-5.png,1,,1500,0.1,,Platinum Drop 5,5,21,RELATIVE,21
+5,crcu_partyrun_rank_1-3.png,crcu_partyrun_rank_big_1-3.png,,130,25,,80,Choco Drop 3,1,3,ABSOLUTE,3
+5,crcu_partyrun_rank_2-1.png,crcu_partyrun_rank_big_2-1.png,,170,30,,130,Cheese Drop 1,2,4,ABSOLUTE,4
+5,crcu_partyrun_rank_2-2.png,crcu_partyrun_rank_big_2-2.png,,210,35,,170,Cheese Drop 2,2,5,ABSOLUTE,5
+5,crcu_partyrun_rank_2-3.png,crcu_partyrun_rank_big_2-3.png,,260,40,,210,Cheese Drop 3,2,6,ABSOLUTE,6
+10,crcu_partyrun_rank_3-1.png,crcu_partyrun_rank_big_3-1.png,100,,45,90,,Candy Drop 1,3,7,RELATIVE,7
+15,crcu_partyrun_rank_3-2.png,crcu_partyrun_rank_big_3-2.png,90,,50,80,,Candy Drop 2,3,8,RELATIVE,8
+20,crcu_partyrun_rank_3-3.png,crcu_partyrun_rank_big_3-3.png,80,,100,70,,Candy Drop 3,3,9,RELATIVE,9

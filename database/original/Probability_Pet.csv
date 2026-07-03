@@ -1,0 +1,101 @@
+﻿Grade,GradePercentage,Name,Percentage,Rarity,_key
+A,100,Flowercopter,4.44,Epic,1
+S,100,Jellyco Cube,1.11,Epic,10
+C,80,Rainbow's End,24.84,Normal,100
+S,100,AWOL Cracker,1.11,Epic,11
+S,100,Glitter Ball,1.11,Epic,12
+S,100,Flame Bat,1.11,Epic,13
+S,100,Book of Wizdom,1.11,Epic,14
+S,100,Flower Pod,1.11,Epic,15
+S,100,Spotlight Fan,1.11,Epic,16
+S,100,Rocket Firecracker,1.11,Epic,17
+S,100,Yule Log Cake,1.11,Epic,18
+S,100,Snow Globe,1.11,Epic,19
+A,100,Lucky Dice Bros,4.44,Epic,2
+S,100,Pink Candy,1.11,Epic,20
+S,100,Purple Candle,1.11,Epic,21
+S,100,Pistachio Firefly,1.11,Epic,22
+S,100,Jelly Scale,1.11,Epic,23
+S,100,Coin Scale,1.11,Epic,24
+S,100,Oak Barrel,1.11,Epic,25
+S,100,Apple Rabbit,1.11,Epic,26
+S,100,Fluffy Cheese Cat,1.11,Epic,27
+S,100,Backpacky,1.11,Epic,28
+S,100,Lemon Slice,1.11,Epic,29
+A,100,Dragon's Tail,4.44,Epic,3
+S,100,Ghost Butler,1.11,Epic,30
+S,100,Kiwi Bird,1.11,Epic,31
+S,100,Furball Pup,1.11,Epic,32
+S,100,Paprika Punching Bag,1.11,Epic,33
+S,100,Marshmallow Hamster,1.11,Epic,34
+S,100,Ms. Do-Re-Mi,1.11,Epic,35
+S,100,Mr. Fa-Sol-La-Si,1.11,Epic,36
+S,100,Owlcorn,1.11,Epic,37
+S,100,Mini Jackson No.2,1.11,Epic,38
+S,100,Tea Cup,1.11,Epic,39
+A,100,Brain Gum,4.44,Epic,4
+S,100,Electro Lemon,1.11,Epic,40
+S,100,Mini Orange Mouse,1.11,Epic,41
+S,100,Mr. Limeguard,1.11,Epic,42
+S,100,Paper Boat Sailor,1.11,Epic,43
+S,100,Panda Dumpling,1.11,Epic,44
+S,100,Uncooling Teacup,1.11,Epic,45
+S,100,Onion Fish,1.11,Epic,46
+S,100,Castanets,1.11,Epic,47
+S,100,Sweet Rice Seal,1.11,Epic,48
+S,100,Sweet Rice Seal,1.11,Epic,49
+A,100,Wishing Star,4.44,Epic,5
+S,100,Pocket Watch Referee,1.11,Epic,50
+S,100,Herb Teapot,1.11,Epic,51
+S,100,Dino Egg,1.11,Epic,52
+S,100,Cotton Candy Bird,1.11,Epic,53
+S,100,Light Bros,1.11,Epic,54
+S,100,Banana Lion,1.11,Epic,55
+S,100,Pancake Frisbee,1.11,Epic,56
+S,100,Moon Mortar,1.11,Epic,57
+S,100,Tiny Tabla,1.11,Epic,58
+S,100,Parrot Dada,1.11,Epic,59
+S,100,Princess's Locket,2.22,Epic,6
+S,100,Cucu-dding,1.11,Epic,60
+S,100,Elder Black Rice,1.11,Epic,61
+S,100,Elder White Rice,1.11,Epic,62
+S,100,Pegaplush,1.11,Epic,63
+S,100,Ghoul Cake,1.11,Epic,64
+S,100,Tater Trader,1.11,Epic,65
+S,100,Lady Mudang,1.11,Epic,66
+S,100,Kimchi Bell,1.11,Epic,67
+S,100,Chronicles of Run,1.11,Epic,68
+S,100,Manggae Snail,1.11,Epic,69
+S,100,Little Ghost,1.11,Epic,7
+S,100,Sotdae Flock,1.11,Epic,70
+S,100,Choco Hedgehog,1.11,Epic,71
+S,100,Honey Gourd,1.11,Epic,72
+S,100,White Dragon Horsie,1.11,Epic,73
+S,100,Lotus Sitter,1.11,Epic,74
+,5,Coin+10000,4.76,Rare,75
+A,5,Flowercopter,23.08,Rare,76
+A,5,Lucky Dice Bros,23.08,Rare,77
+A,5,Dragon's Tail,7.69,Rare,78
+A,5,Brain Gum,23.08,Rare,79
+S,100,Giggle Bomb,1.11,Epic,8
+A,5,Wishing Star,23.08,Rare,80
+B,90,Merry Hat,14.29,Rare,81
+B,90,Electric Beat,14.29,Rare,82
+B,90,Rare Garlic,14.29,Rare,83
+B,90,Dust Unicorn,14.29,Rare,84
+B,90,Cozy Yarn,14.29,Rare,85
+B,90,Mocha Delight,14.29,Rare,86
+B,90,Dumbbell Twins,14.29,Rare,87
+,15,Coin+1000,0.59,Normal,88
+B,5,Merry Hat,14.29,Normal,89
+S,100,Snow Blossom,1.11,Epic,9
+B,5,Electric Beat,14.29,Normal,90
+B,5,Rare Garlic,14.29,Normal,91
+B,5,Dust Unicorn,14.29,Normal,92
+B,5,Cozy Yarn,14.29,Normal,93
+B,5,Mocha Delight,14.29,Normal,94
+B,5,Dumbbell Twins,14.29,Normal,95
+C,80,Choco Drop,12.42,Normal,96
+C,80,Cheese Drop,24.84,Normal,97
+C,80,Hand of Liker,0.62,Normal,98
+C,80,Double Bubble,18.63,Normal,99

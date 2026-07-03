@@ -1,0 +1,15 @@
+﻿message,reward_buff_amount,reward_buff_duration_hours,reward_buff_message,reward_buff_type,reward_qty,reward_seq,reward_type,stuff_seq,_key
+"You've earned 5,000 XP!",,,NULL,,5000,,X,1700100,1
+"You've earned 50,000 XP!",,,NULL,,50000,,X,1700501,10
+"You've earned 100,000 XP!",,,NULL,,100000,,X,1700600,11
+"You've earned 100,000 XP!",,,NULL,,100000,,X,1700601,12
+"You've earned 500,000 XP!",,,NULL,,500000,,X,1700700,13
+"You've earned 500,000 XP!",,,NULL,,500000,,X,1700701,14
+"You've earned 5,000 XP!",,,NULL,,5000,,X,1700101,2
+"You've earned 9,000 XP!",,,NULL,,9000,,X,1700200,3
+"You've earned 9,000 XP!",,,NULL,,9000,,X,1700201,4
+"You've earned 13,000 XP!",,,NULL,,13000,,X,1700300,5
+"You've earned 13,000 XP!",,,NULL,,13000,,X,1700301,6
+"You've earned 30,000 XP!",,,NULL,,30000,,X,1700400,7
+"You've earned 30,000 XP!",,,NULL,,30000,,X,1700401,8
+"You've earned 50,000 XP!",,,NULL,,50000,,X,1700500,9

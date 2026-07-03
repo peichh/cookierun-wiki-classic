@@ -1,0 +1,6304 @@
+{
+  "cookies": [
+    {
+      "unlock_id": "12",
+      "unlocked_entity_id": "100201",
+      "unlocked_group_id": "100200",
+      "unlocked_entity_name": "Strawberry Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch02",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "3",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "3",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "4",
+      "unlocked_entity_id": "100301",
+      "unlocked_group_id": "100300",
+      "unlocked_entity_name": "GingerBright",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch03",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "30000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "30000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "90",
+      "unlocked_entity_id": "100401",
+      "unlocked_group_id": "100400",
+      "unlocked_entity_name": "Ginger Claus",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch04",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "124",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "124",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "50",
+      "unlocked_entity_id": "100501",
+      "unlocked_group_id": "100500",
+      "unlocked_entity_name": "Cloud Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch05",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "7",
+      "unlocked_entity_id": "100601",
+      "unlocked_group_id": "100600",
+      "unlocked_entity_name": "Buttercream Choco Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch06",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "180000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "180000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "11",
+      "unlocked_entity_id": "100701",
+      "unlocked_group_id": "100700",
+      "unlocked_entity_name": "Ninja Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch07",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "600000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "600000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "58",
+      "unlocked_entity_id": "100801",
+      "unlocked_group_id": "100800",
+      "unlocked_entity_name": "Princess Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch08",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "12",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "12",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "55",
+      "unlocked_entity_id": "100901",
+      "unlocked_group_id": "100900",
+      "unlocked_entity_name": "Knight Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch09",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "11",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "11",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "28",
+      "unlocked_entity_id": "101001",
+      "unlocked_group_id": "101000",
+      "unlocked_entity_name": "Coffee Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch10",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "15",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "9",
+      "unlocked_entity_id": "101101",
+      "unlocked_group_id": "101100",
+      "unlocked_entity_name": "Skater Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch11",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "300000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "300000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "31",
+      "unlocked_entity_id": "101201",
+      "unlocked_group_id": "101200",
+      "unlocked_entity_name": "Angel Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch12",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "19",
+      "unlocked_entity_id": "101301",
+      "unlocked_group_id": "101300",
+      "unlocked_entity_name": "Zombie Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch13",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "49",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "49",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "27",
+      "unlocked_entity_id": "101401",
+      "unlocked_group_id": "101400",
+      "unlocked_entity_name": "Cream Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch14",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "8",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "8",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "10",
+      "unlocked_entity_id": "101501",
+      "unlocked_group_id": "101500",
+      "unlocked_entity_name": "Muscle Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch15",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "450000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "1",
+          "param": "0",
+          "amount": "450000",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "24",
+      "unlocked_entity_id": "101601",
+      "unlocked_group_id": "101600",
+      "unlocked_entity_name": "Pirate Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch16",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "99",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "99",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "34",
+      "unlocked_entity_id": "101801",
+      "unlocked_group_id": "101800",
+      "unlocked_entity_name": "Skating Queen Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch18",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "45",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "45",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "23",
+      "unlocked_entity_id": "101901",
+      "unlocked_group_id": "101900",
+      "unlocked_entity_name": "Hero Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch19",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "149",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "149",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "64",
+      "unlocked_entity_id": "102001",
+      "unlocked_group_id": "102000",
+      "unlocked_entity_name": "Cheerleader Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch20",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "12",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "12",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "63",
+      "unlocked_entity_id": "102101",
+      "unlocked_group_id": "102100",
+      "unlocked_entity_name": "Special Force Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch21",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "10",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "10",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "65",
+      "unlocked_entity_id": "102201",
+      "unlocked_group_id": "102200",
+      "unlocked_entity_name": "Rebel Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch22",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "119",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "119",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "35",
+      "unlocked_entity_id": "102301",
+      "unlocked_group_id": "102300",
+      "unlocked_entity_name": "Devil Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch23",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "66",
+      "unlocked_entity_id": "102401",
+      "unlocked_group_id": "102400",
+      "unlocked_entity_name": "Kumiho Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch24",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "55",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "55",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "67",
+      "unlocked_entity_id": "102501",
+      "unlocked_group_id": "102500",
+      "unlocked_entity_name": "Wizard Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch25",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "16",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "16",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "69",
+      "unlocked_entity_id": "102601",
+      "unlocked_group_id": "102600",
+      "unlocked_entity_name": "Fairy Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch26",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "68",
+      "unlocked_entity_id": "102701",
+      "unlocked_group_id": "102700",
+      "unlocked_entity_name": "Rockstar Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch27",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "17",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "17",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "70",
+      "unlocked_entity_id": "102801",
+      "unlocked_group_id": "102800",
+      "unlocked_entity_name": "Cherry Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch28",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "8",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "8",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "71",
+      "unlocked_entity_id": "102901",
+      "unlocked_group_id": "102900",
+      "unlocked_entity_name": "Carol Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch29",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "57",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "57",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "72",
+      "unlocked_entity_id": "103001",
+      "unlocked_group_id": "103000",
+      "unlocked_entity_name": "Snow Sugar Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch30",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "12",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "12",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "73",
+      "unlocked_entity_id": "103101",
+      "unlocked_group_id": "103100",
+      "unlocked_entity_name": "Pink Coco Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch31",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "159",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "159",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "74",
+      "unlocked_entity_id": "103201",
+      "unlocked_group_id": "103200",
+      "unlocked_entity_name": "Prophet Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch32",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "77",
+      "unlocked_entity_id": "103301",
+      "unlocked_group_id": "103300",
+      "unlocked_entity_name": "Pistachio Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch33",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "60",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "60",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "78",
+      "unlocked_entity_id": "103401",
+      "unlocked_group_id": "103400",
+      "unlocked_entity_name": "Alchemist Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch34",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "11",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "11",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "79",
+      "unlocked_entity_id": "103501",
+      "unlocked_group_id": "103500",
+      "unlocked_entity_name": "Vampire Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch35",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "17",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "17",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "80",
+      "unlocked_entity_id": "103601",
+      "unlocked_group_id": "103600",
+      "unlocked_entity_name": "Apple Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch36",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "11",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "11",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "81",
+      "unlocked_entity_id": "103701",
+      "unlocked_group_id": "103700",
+      "unlocked_entity_name": "Cheesecake Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch37",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "24",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "24",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "83",
+      "unlocked_entity_id": "103801",
+      "unlocked_group_id": "103800",
+      "unlocked_entity_name": "Adventurer Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch38",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "199",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "199",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "82",
+      "unlocked_entity_id": "103901",
+      "unlocked_group_id": "103900",
+      "unlocked_entity_name": "Soda Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch39",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "84",
+      "unlocked_entity_id": "104201",
+      "unlocked_group_id": "104200",
+      "unlocked_entity_name": "Blackberry Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch42",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "16",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "16",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "85",
+      "unlocked_entity_id": "104301",
+      "unlocked_group_id": "104300",
+      "unlocked_entity_name": "Kiwi Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch43",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "86",
+      "unlocked_entity_id": "104401",
+      "unlocked_group_id": "104400",
+      "unlocked_entity_name": "Werewolf Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch44",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "16",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "87",
+      "unlocked_entity_id": "104501",
+      "unlocked_group_id": "104500",
+      "unlocked_entity_name": "Cocoa Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch45",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "20",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "20",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "88",
+      "unlocked_entity_id": "104601",
+      "unlocked_group_id": "104600",
+      "unlocked_entity_name": "Mint Choco Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch46",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "40",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "40",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "89",
+      "unlocked_entity_id": "104701",
+      "unlocked_group_id": "104700",
+      "unlocked_entity_name": "Red Pepper Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch47",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "91",
+      "unlocked_entity_id": "104801",
+      "unlocked_group_id": "104800",
+      "unlocked_entity_name": "Cream Puff Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch48",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "10",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "10",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "92",
+      "unlocked_entity_id": "105001",
+      "unlocked_group_id": "105000",
+      "unlocked_entity_name": "Gumball Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch50",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "93",
+      "unlocked_entity_id": "105101",
+      "unlocked_group_id": "105100",
+      "unlocked_entity_name": "Cherry Blossom Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch51",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "94",
+      "unlocked_entity_id": "105201",
+      "unlocked_group_id": "105200",
+      "unlocked_entity_name": "Lemon Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch52",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "10",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "95",
+      "unlocked_entity_id": "105301",
+      "unlocked_group_id": "105300",
+      "unlocked_entity_name": "Orange Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch53",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "42",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "42",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "96",
+      "unlocked_entity_id": "105401",
+      "unlocked_group_id": "105400",
+      "unlocked_entity_name": "Lime Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch54",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "60",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "60",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "97",
+      "unlocked_entity_id": "105501",
+      "unlocked_group_id": "105500",
+      "unlocked_entity_name": "Peppermint Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch55",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "74",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "74",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "100",
+      "unlocked_entity_id": "105601",
+      "unlocked_group_id": "105600",
+      "unlocked_entity_name": "Peach Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch56",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "52",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "52",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "101",
+      "unlocked_entity_id": "105701",
+      "unlocked_group_id": "105700",
+      "unlocked_entity_name": "General Jujube Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch57",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "30",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "102",
+      "unlocked_entity_id": "105801",
+      "unlocked_group_id": "105800",
+      "unlocked_entity_name": "Onion Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch58",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "104",
+      "unlocked_entity_id": "105901",
+      "unlocked_group_id": "105900",
+      "unlocked_entity_name": "Macaron Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch59",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "207200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "207200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Castanets"
+        }
+      ]
+    },
+    {
+      "unlock_id": "103",
+      "unlocked_entity_id": "106001",
+      "unlocked_group_id": "106000",
+      "unlocked_entity_name": "Cinnamon Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch60",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "19",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "105",
+      "unlocked_entity_id": "106101",
+      "unlocked_group_id": "106100",
+      "unlocked_entity_name": "Red Bean Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch61",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "207400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "207400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Sweet Rice Seal"
+        }
+      ]
+    },
+    {
+      "unlock_id": "106",
+      "unlocked_entity_id": "106201",
+      "unlocked_group_id": "106200",
+      "unlocked_entity_name": "White Choco Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch62",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "76",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "76",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "107",
+      "unlocked_entity_id": "106301",
+      "unlocked_group_id": "106300",
+      "unlocked_entity_name": "Herb Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch63",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "56",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "56",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "109",
+      "unlocked_entity_id": "106401",
+      "unlocked_group_id": "106400",
+      "unlocked_entity_name": "Dino-Sour Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch64",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "332",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "2",
+          "param": "0",
+          "amount": "332",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "108",
+      "unlocked_entity_id": "106501",
+      "unlocked_group_id": "106500",
+      "unlocked_entity_name": "Sea Fairy Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch65",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "28",
+          "param": "500001",
+          "amount": "100",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "28",
+          "param": "500001",
+          "amount": "100",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "110",
+      "unlocked_entity_id": "106601",
+      "unlocked_group_id": "106600",
+      "unlocked_entity_name": "Cotton Candy Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch66",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "207800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "207800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cotton Candy Bird"
+        }
+      ]
+    },
+    {
+      "unlock_id": "111",
+      "unlocked_entity_id": "106701",
+      "unlocked_group_id": "106700",
+      "unlocked_entity_name": "Roll Cake Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch67",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "207900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "207900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Light Bros"
+        }
+      ]
+    },
+    {
+      "unlock_id": "112",
+      "unlocked_entity_id": "106801",
+      "unlocked_group_id": "106800",
+      "unlocked_entity_name": "Banana Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch68",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "208000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "208000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Banana Lion"
+        }
+      ]
+    },
+    {
+      "unlock_id": "113",
+      "unlocked_entity_id": "106901",
+      "unlocked_group_id": "106900",
+      "unlocked_entity_name": "Pancake Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch69",
+      "required_cookie_ids": [
+        "106700"
+      ],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "106700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Roll Cake Cookie"
+        }
+      ]
+    },
+    {
+      "unlock_id": "114",
+      "unlocked_entity_id": "107101",
+      "unlocked_group_id": "107100",
+      "unlocked_entity_name": "Moon Rabbit Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch71",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "58",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "58",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "115",
+      "unlocked_entity_id": "107201",
+      "unlocked_group_id": "107200",
+      "unlocked_entity_name": "Strawberry Shortcake Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch72",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "29",
+          "param": "500002",
+          "amount": "400",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "29",
+          "param": "500002",
+          "amount": "400",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "116",
+      "unlocked_entity_id": "107301",
+      "unlocked_group_id": "107300",
+      "unlocked_entity_name": "Gulab Jamun Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch73",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "45",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "45",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "117",
+      "unlocked_entity_id": "107401",
+      "unlocked_group_id": "107400",
+      "unlocked_entity_name": "Kaju Katli Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch74",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "35",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "35",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "118",
+      "unlocked_entity_id": "107501",
+      "unlocked_group_id": "107500",
+      "unlocked_entity_name": "Marshmallow Bunny Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch75",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "28",
+          "param": "500003",
+          "amount": "400",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "28",
+          "param": "500003",
+          "amount": "400",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "119",
+      "unlocked_entity_id": "107701",
+      "unlocked_group_id": "107700",
+      "unlocked_entity_name": "Cucumber Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch77",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "67",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "67",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "120",
+      "unlocked_entity_id": "107801",
+      "unlocked_group_id": "107800",
+      "unlocked_entity_name": "Sikhye Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch78",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "15",
+          "param": "0",
+          "amount": "70",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "121",
+      "unlocked_entity_id": "107901",
+      "unlocked_group_id": "107900",
+      "unlocked_entity_name": "Sujeonggwa Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch79",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "209100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "209100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Elder White Rice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "122",
+      "unlocked_entity_id": "108001",
+      "unlocked_group_id": "108000",
+      "unlocked_entity_name": "Barley Sentry Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch80",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "40",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "40",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "123",
+      "unlocked_entity_id": "108101",
+      "unlocked_group_id": "108100",
+      "unlocked_entity_name": "Princess Bari Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch81",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "28",
+          "param": "500004",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "28",
+          "param": "500004",
+          "amount": "20",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "124",
+      "unlocked_entity_id": "108201",
+      "unlocked_group_id": "108200",
+      "unlocked_entity_name": "Potato Salad Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch82",
+      "required_cookie_ids": [],
+      "required_pet_ids": [
+        "209400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "5",
+          "param": "0",
+          "amount": "209400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Tater Trader"
+        }
+      ]
+    },
+    {
+      "unlock_id": "125",
+      "unlocked_entity_id": "108301",
+      "unlocked_group_id": "108300",
+      "unlocked_entity_name": "Scallion Kimchi Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch83",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "22",
+          "param": "0",
+          "amount": "50",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "126",
+      "unlocked_entity_id": "108401",
+      "unlocked_group_id": "108400",
+      "unlocked_entity_name": "White Kimchi Cookie",
+      "unlocked_entity_type": "cookie",
+      "resource_key": "ch84",
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "55",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "18",
+          "param": "0",
+          "amount": "55",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    }
+  ],
+  "pets": [],
+  "treasures": [],
+  "others": [
+    {
+      "unlock_id": "47",
+      "unlocked_entity_id": "3001",
+      "unlocked_group_id": "3001",
+      "unlocked_entity_name": "Treasure Slot Extension 1",
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "5",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "10000",
+      "unlocked_entity_id": "300100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100100"
+      ],
+      "required_pet_ids": [
+        "200100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "GingerBrave"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Choco Drop"
+        }
+      ]
+    },
+    {
+      "unlock_id": "30",
+      "unlocked_entity_id": "3002",
+      "unlocked_group_id": "3002",
+      "unlocked_entity_name": "Treasure Slot Extension 2",
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "25",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "10010",
+      "unlocked_entity_id": "300200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100200"
+      ],
+      "required_pet_ids": [
+        "201100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Strawberry Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Flowercopter"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10020",
+      "unlocked_entity_id": "300300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100300"
+      ],
+      "required_pet_ids": [
+        "200200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "GingerBright"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cheese Drop"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10030",
+      "unlocked_entity_id": "300400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100500"
+      ],
+      "required_pet_ids": [
+        "200700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cloud Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Rainbow's End"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10040",
+      "unlocked_entity_id": "300500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100600"
+      ],
+      "required_pet_ids": [
+        "200500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Buttercream Choco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Dust Unicorn"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10050",
+      "unlocked_entity_id": "300600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100700"
+      ],
+      "required_pet_ids": [
+        "201200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Ninja Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Little Ghost"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10060",
+      "unlocked_entity_id": "300700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100800"
+      ],
+      "required_pet_ids": [
+        "201600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Princess Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Princess's Locket"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10070",
+      "unlocked_entity_id": "300800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100900"
+      ],
+      "required_pet_ids": [
+        "201700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Knight Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Dragon's Tail"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10080",
+      "unlocked_entity_id": "300900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101000"
+      ],
+      "required_pet_ids": [
+        "201900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Coffee Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mocha Delight"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10090",
+      "unlocked_entity_id": "301000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101100"
+      ],
+      "required_pet_ids": [
+        "201500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Skater Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Lucky Dice Bros"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10100",
+      "unlocked_entity_id": "301100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101200"
+      ],
+      "required_pet_ids": [
+        "202000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Angel Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Wishing Star"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10110",
+      "unlocked_entity_id": "301200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101300"
+      ],
+      "required_pet_ids": [
+        "201800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Zombie Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Brain Gum"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10120",
+      "unlocked_entity_id": "301300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101400"
+      ],
+      "required_pet_ids": [
+        "201400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cream Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cozy Yarn"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10130",
+      "unlocked_entity_id": "301400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101500"
+      ],
+      "required_pet_ids": [
+        "202100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Muscle Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Dumbbell Twins"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10140",
+      "unlocked_entity_id": "301500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101600"
+      ],
+      "required_pet_ids": [
+        "201300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Pirate Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "201300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Giggle Bomb"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10150",
+      "unlocked_entity_id": "301600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101900"
+      ],
+      "required_pet_ids": [
+        "202400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Hero Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Jellyco Cube"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10160",
+      "unlocked_entity_id": "301700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "101800"
+      ],
+      "required_pet_ids": [
+        "202300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "101800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Skating Queen Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Snow Blossom"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10230",
+      "unlocked_entity_id": "302500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102100"
+      ],
+      "required_pet_ids": [
+        "202700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Special Force Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202700",
+          "required_entity_type": "pet",
+          "required_entity_name": "AWOL Cracker"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10240",
+      "unlocked_entity_id": "302600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102000"
+      ],
+      "required_pet_ids": [
+        "202600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cheerleader Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Glitter Ball"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10350",
+      "unlocked_entity_id": "303700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102300"
+      ],
+      "required_pet_ids": [
+        "202800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Devil Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Flame Bat"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10360",
+      "unlocked_entity_id": "303800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102400"
+      ],
+      "required_pet_ids": [
+        "203100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Kumiho Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Fox Bead"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10370",
+      "unlocked_entity_id": "303900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102200"
+      ],
+      "required_pet_ids": [
+        "203000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Rebel Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Windy"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10380",
+      "unlocked_entity_id": "304000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102500"
+      ],
+      "required_pet_ids": [
+        "203300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Wizard Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Book of Wizdom"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10390",
+      "unlocked_entity_id": "304100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102600"
+      ],
+      "required_pet_ids": [
+        "203400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Fairy Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Flower Pod"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10400",
+      "unlocked_entity_id": "304200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102700"
+      ],
+      "required_pet_ids": [
+        "203500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Rockstar Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Spotlight Fan"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10410",
+      "unlocked_entity_id": "304300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102800"
+      ],
+      "required_pet_ids": [
+        "203600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cherry Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Rocket Firecracker"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10420",
+      "unlocked_entity_id": "304400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102900"
+      ],
+      "required_pet_ids": [
+        "203700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Carol Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Yule Log Cake"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10430",
+      "unlocked_entity_id": "304500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100400"
+      ],
+      "required_pet_ids": [
+        "200600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "GingerBrave"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Merry Hat"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10440",
+      "unlocked_entity_id": "304600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "100400"
+      ],
+      "required_pet_ids": [
+        "200800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "100400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "GingerBrave"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "200800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Holiday Stocking"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10450",
+      "unlocked_entity_id": "304700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103000"
+      ],
+      "required_pet_ids": [
+        "203800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Snow Sugar Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Snow Globe"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10610",
+      "unlocked_entity_id": "306300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103100"
+      ],
+      "required_pet_ids": [
+        "204000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Pink Coco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pink Candy"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10620",
+      "unlocked_entity_id": "306400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103200"
+      ],
+      "required_pet_ids": [
+        "204100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Prophet Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Purple Candle"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10630",
+      "unlocked_entity_id": "306500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103300"
+      ],
+      "required_pet_ids": [
+        "204200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Pistachio Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pistachio Firefly"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10640",
+      "unlocked_entity_id": "306600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103400"
+      ],
+      "required_pet_ids": [
+        "204300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Alchemist Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Jelly Scale"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10650",
+      "unlocked_entity_id": "306700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103400"
+      ],
+      "required_pet_ids": [
+        "204400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Alchemist Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Coin Scale"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10780",
+      "unlocked_entity_id": "308000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103500"
+      ],
+      "required_pet_ids": [
+        "204500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Vampire Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Oak Barrel"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10800",
+      "unlocked_entity_id": "308200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103600"
+      ],
+      "required_pet_ids": [
+        "204600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Apple Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Apple Rabbit"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10810",
+      "unlocked_entity_id": "308300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103700"
+      ],
+      "required_pet_ids": [
+        "204700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cheesecake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Fluffy Cheese Cat"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10900",
+      "unlocked_entity_id": "309200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103900"
+      ],
+      "required_pet_ids": [
+        "205000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Soda Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Lemon Slice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10910",
+      "unlocked_entity_id": "309300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103800"
+      ],
+      "required_pet_ids": [
+        "204800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Adventurer Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Backpacky"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10920",
+      "unlocked_entity_id": "309400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104200"
+      ],
+      "required_pet_ids": [
+        "205100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Blackberry Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Ghost Butler"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10930",
+      "unlocked_entity_id": "309500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104300"
+      ],
+      "required_pet_ids": [
+        "205200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Kiwi Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Kiwi Bird"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10940",
+      "unlocked_entity_id": "309600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104400"
+      ],
+      "required_pet_ids": [
+        "205300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Werewolf Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Furball Pup"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10980",
+      "unlocked_entity_id": "310000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104500"
+      ],
+      "required_pet_ids": [
+        "205600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cocoa Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Marshmallow Hamster"
+        }
+      ]
+    },
+    {
+      "unlock_id": "10990",
+      "unlocked_entity_id": "310100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104600"
+      ],
+      "required_pet_ids": [
+        "205700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Mint Choco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Ms. Do-Re-Mi"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11000",
+      "unlocked_entity_id": "310200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104600"
+      ],
+      "required_pet_ids": [
+        "205800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Mint Choco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mr. Fa-Sol-La-Si"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11010",
+      "unlocked_entity_id": "310300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104700"
+      ],
+      "required_pet_ids": [
+        "205400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Red Pepper Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Paprika Punching Bag"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11020",
+      "unlocked_entity_id": "310400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104800"
+      ],
+      "required_pet_ids": [
+        "205900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cream Puff Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Owlcorn"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11030",
+      "unlocked_entity_id": "310500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105000"
+      ],
+      "required_pet_ids": [
+        "206000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Gumball Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mini Jackson No.2"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11160",
+      "unlocked_entity_id": "311800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105100"
+      ],
+      "required_pet_ids": [
+        "206100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cherry Blossom Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Tea Cup"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11170",
+      "unlocked_entity_id": "311900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105200"
+      ],
+      "required_pet_ids": [
+        "206300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Lemon Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Electro Lemon"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11190",
+      "unlocked_entity_id": "312100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105300"
+      ],
+      "required_pet_ids": [
+        "206400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Orange Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mini Orange Mouse"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11200",
+      "unlocked_entity_id": "312200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105400"
+      ],
+      "required_pet_ids": [
+        "206600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Lime Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mr. Limeguard"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11210",
+      "unlocked_entity_id": "312300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105500"
+      ],
+      "required_pet_ids": [
+        "206700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Peppermint Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Paper Boat Sailor"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11220",
+      "unlocked_entity_id": "312400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105600"
+      ],
+      "required_pet_ids": [
+        "206900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Peach Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Panda Dumpling"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11230",
+      "unlocked_entity_id": "312500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105700"
+      ],
+      "required_pet_ids": [
+        "207000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "General Jujube Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Uncooling Teacup"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11240",
+      "unlocked_entity_id": "312600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105800"
+      ],
+      "required_pet_ids": [
+        "207100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Onion Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Onion Fish"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11260",
+      "unlocked_entity_id": "312800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106000"
+      ],
+      "required_pet_ids": [
+        "207300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cinnamon Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cinnamon Bunny"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11270",
+      "unlocked_entity_id": "312900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "105900"
+      ],
+      "required_pet_ids": [
+        "207200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "105900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Macaron Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Castanets"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11290",
+      "unlocked_entity_id": "313100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106100"
+      ],
+      "required_pet_ids": [
+        "207400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Red Bean Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Sweet Rice Seal"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11300",
+      "unlocked_entity_id": "313200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106200"
+      ],
+      "required_pet_ids": [
+        "207500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "White Choco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pocket Watch Referee"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11310",
+      "unlocked_entity_id": "313300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106300"
+      ],
+      "required_pet_ids": [
+        "207600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Herb Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Herb Teapot"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11320",
+      "unlocked_entity_id": "313400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106400"
+      ],
+      "required_pet_ids": [
+        "207700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Dino-Sour Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Dino Egg"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11330",
+      "unlocked_entity_id": "313500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106600"
+      ],
+      "required_pet_ids": [
+        "207800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cotton Candy Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cotton Candy Bird"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11340",
+      "unlocked_entity_id": "313600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106700"
+      ],
+      "required_pet_ids": [
+        "207900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Roll Cake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "207900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Light Bros"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11350",
+      "unlocked_entity_id": "313700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106800"
+      ],
+      "required_pet_ids": [
+        "208000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Banana Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Banana Lion"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11360",
+      "unlocked_entity_id": "313800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106900"
+      ],
+      "required_pet_ids": [
+        "208100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Pancake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pancake Frisbee"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11370",
+      "unlocked_entity_id": "313900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107100"
+      ],
+      "required_pet_ids": [
+        "208200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Moon Rabbit Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Moon Mortar"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11380",
+      "unlocked_entity_id": "314000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106500"
+      ],
+      "required_pet_ids": [
+        "206800"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Sea Fairy Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206800",
+          "required_entity_type": "pet",
+          "required_entity_name": "Wave Drop"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11390",
+      "unlocked_entity_id": "315000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107200"
+      ],
+      "required_pet_ids": [
+        "208300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Strawberry Shortcake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Tiny Cake Hound"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11400",
+      "unlocked_entity_id": "316000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103700"
+      ],
+      "required_pet_ids": [
+        "202900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cheesecake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "202900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Golden Drop"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11410",
+      "unlocked_entity_id": "317000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104600"
+      ],
+      "required_pet_ids": [
+        "206500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104600",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Mint Choco Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Platinum Drop"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11420",
+      "unlocked_entity_id": "320000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "103300"
+      ],
+      "required_pet_ids": [
+        "204600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "103300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Pistachio Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Apple Rabbit"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11430",
+      "unlocked_entity_id": "330000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102500"
+      ],
+      "required_pet_ids": [
+        "206000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Wizard Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mini Jackson No.2"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11440",
+      "unlocked_entity_id": "340000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "102800"
+      ],
+      "required_pet_ids": [
+        "203500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "102800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cherry Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Spotlight Fan"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11450",
+      "unlocked_entity_id": "350000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107200"
+      ],
+      "required_pet_ids": [
+        "204400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Strawberry Shortcake Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Coin Scale"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11460",
+      "unlocked_entity_id": "360000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "106800"
+      ],
+      "required_pet_ids": [
+        "204300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "106800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Banana Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Jelly Scale"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11470",
+      "unlocked_entity_id": "370000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104900"
+      ],
+      "required_pet_ids": [
+        "206000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Moonlight Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "206000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Mini Jackson No.2"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11480",
+      "unlocked_entity_id": "370100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107000"
+      ],
+      "required_pet_ids": [
+        "204200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Wind Archer Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "204200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pistachio Firefly"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11490",
+      "unlocked_entity_id": "370200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107300"
+      ],
+      "required_pet_ids": [
+        "208400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Gulab Jamun Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Tiny Tabla"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11500",
+      "unlocked_entity_id": "370300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107400"
+      ],
+      "required_pet_ids": [
+        "208500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Kaju Katli Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Parrot Dada"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11510",
+      "unlocked_entity_id": "370400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107400"
+      ],
+      "required_pet_ids": [
+        "203500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Kaju Katli Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "203500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Spotlight Fan"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11520",
+      "unlocked_entity_id": "370500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107500"
+      ],
+      "required_pet_ids": [
+        "208700"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107500",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Marshmallow Bunny Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208700",
+          "required_entity_type": "pet",
+          "required_entity_name": "Soft Egg Bunny"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11530",
+      "unlocked_entity_id": "370600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107700"
+      ],
+      "required_pet_ids": [
+        "208900"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107700",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Cucumber Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "208900",
+          "required_entity_type": "pet",
+          "required_entity_name": "Cucu-dding"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11540",
+      "unlocked_entity_id": "370700",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107800"
+      ],
+      "required_pet_ids": [
+        "209000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Sikhye Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Elder Black Rice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11550",
+      "unlocked_entity_id": "370800",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107800"
+      ],
+      "required_pet_ids": [
+        "209100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107800",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Sikhye Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Elder White Rice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11560",
+      "unlocked_entity_id": "370900",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107900"
+      ],
+      "required_pet_ids": [
+        "209000"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Sujeonggwa Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209000",
+          "required_entity_type": "pet",
+          "required_entity_name": "Elder Black Rice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11570",
+      "unlocked_entity_id": "371000",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "107900"
+      ],
+      "required_pet_ids": [
+        "209100"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "107900",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Sujeonggwa Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209100",
+          "required_entity_type": "pet",
+          "required_entity_name": "Elder White Rice"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11580",
+      "unlocked_entity_id": "371100",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "108000"
+      ],
+      "required_pet_ids": [
+        "209200"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "108000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Barley Sentry Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209200",
+          "required_entity_type": "pet",
+          "required_entity_name": "Pegaplush"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11590",
+      "unlocked_entity_id": "371200",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "104000"
+      ],
+      "required_pet_ids": [
+        "205300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "104000",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Tiger Lily Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "205300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Furball Pup"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11600",
+      "unlocked_entity_id": "371300",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "108100"
+      ],
+      "required_pet_ids": [
+        "209300"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "108100",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Princess Bari Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209300",
+          "required_entity_type": "pet",
+          "required_entity_name": "Ghoul Cake"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11610",
+      "unlocked_entity_id": "371400",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "108200"
+      ],
+      "required_pet_ids": [
+        "209400"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "108200",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Potato Salad Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209400",
+          "required_entity_type": "pet",
+          "required_entity_name": "Tater Trader"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11620",
+      "unlocked_entity_id": "371500",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "108300"
+      ],
+      "required_pet_ids": [
+        "209500"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "108300",
+          "required_entity_type": "cookie",
+          "required_entity_name": "Scallion Kimchi Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209500",
+          "required_entity_type": "pet",
+          "required_entity_name": "Lady Mudang"
+        }
+      ]
+    },
+    {
+      "unlock_id": "11630",
+      "unlocked_entity_id": "371600",
+      "unlocked_group_id": null,
+      "unlocked_entity_name": null,
+      "unlocked_entity_type": "system",
+      "resource_key": null,
+      "required_cookie_ids": [
+        "108400"
+      ],
+      "required_pet_ids": [
+        "209600"
+      ],
+      "required_treasure_ids": [],
+      "other_conditions": [],
+      "conditions": [
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "108400",
+          "required_entity_type": "cookie",
+          "required_entity_name": "White Kimchi Cookie"
+        },
+        {
+          "type_id": "7",
+          "param": "0",
+          "amount": "209600",
+          "required_entity_type": "pet",
+          "required_entity_name": "Kimchi Bell"
+        }
+      ]
+    },
+    {
+      "unlock_id": "98",
+      "unlocked_entity_id": "80201",
+      "unlocked_group_id": "80200",
+      "unlocked_entity_name": "Oven 2",
+      "unlocked_entity_type": "oven",
+      "resource_key": null,
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "51",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "9",
+          "param": "0",
+          "amount": "51",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    },
+    {
+      "unlock_id": "99",
+      "unlocked_entity_id": "80301",
+      "unlocked_group_id": "80300",
+      "unlocked_entity_name": "Oven 3",
+      "unlocked_entity_type": "oven",
+      "resource_key": null,
+      "required_cookie_ids": [],
+      "required_pet_ids": [],
+      "required_treasure_ids": [],
+      "other_conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "75",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ],
+      "conditions": [
+        {
+          "type_id": "4",
+          "param": "0",
+          "amount": "75",
+          "required_entity_type": "other",
+          "required_entity_name": null
+        }
+      ]
+    }
+  ],
+  "condition_links": {
+    "cookies": [
+      {
+        "unlock_id": "113",
+        "entity_id": "106700",
+        "entity_name": "Roll Cake Cookie"
+      },
+      {
+        "unlock_id": "10000",
+        "entity_id": "100100",
+        "entity_name": "GingerBrave"
+      },
+      {
+        "unlock_id": "10010",
+        "entity_id": "100200",
+        "entity_name": "Strawberry Cookie"
+      },
+      {
+        "unlock_id": "10020",
+        "entity_id": "100300",
+        "entity_name": "GingerBright"
+      },
+      {
+        "unlock_id": "10030",
+        "entity_id": "100500",
+        "entity_name": "Cloud Cookie"
+      },
+      {
+        "unlock_id": "10040",
+        "entity_id": "100600",
+        "entity_name": "Buttercream Choco Cookie"
+      },
+      {
+        "unlock_id": "10050",
+        "entity_id": "100700",
+        "entity_name": "Ninja Cookie"
+      },
+      {
+        "unlock_id": "10060",
+        "entity_id": "100800",
+        "entity_name": "Princess Cookie"
+      },
+      {
+        "unlock_id": "10070",
+        "entity_id": "100900",
+        "entity_name": "Knight Cookie"
+      },
+      {
+        "unlock_id": "10080",
+        "entity_id": "101000",
+        "entity_name": "Coffee Cookie"
+      },
+      {
+        "unlock_id": "10090",
+        "entity_id": "101100",
+        "entity_name": "Skater Cookie"
+      },
+      {
+        "unlock_id": "10100",
+        "entity_id": "101200",
+        "entity_name": "Angel Cookie"
+      },
+      {
+        "unlock_id": "10110",
+        "entity_id": "101300",
+        "entity_name": "Zombie Cookie"
+      },
+      {
+        "unlock_id": "10120",
+        "entity_id": "101400",
+        "entity_name": "Cream Cookie"
+      },
+      {
+        "unlock_id": "10130",
+        "entity_id": "101500",
+        "entity_name": "Muscle Cookie"
+      },
+      {
+        "unlock_id": "10140",
+        "entity_id": "101600",
+        "entity_name": "Pirate Cookie"
+      },
+      {
+        "unlock_id": "10150",
+        "entity_id": "101900",
+        "entity_name": "Hero Cookie"
+      },
+      {
+        "unlock_id": "10160",
+        "entity_id": "101800",
+        "entity_name": "Skating Queen Cookie"
+      },
+      {
+        "unlock_id": "10230",
+        "entity_id": "102100",
+        "entity_name": "Special Force Cookie"
+      },
+      {
+        "unlock_id": "10240",
+        "entity_id": "102000",
+        "entity_name": "Cheerleader Cookie"
+      },
+      {
+        "unlock_id": "10350",
+        "entity_id": "102300",
+        "entity_name": "Devil Cookie"
+      },
+      {
+        "unlock_id": "10360",
+        "entity_id": "102400",
+        "entity_name": "Kumiho Cookie"
+      },
+      {
+        "unlock_id": "10370",
+        "entity_id": "102200",
+        "entity_name": "Rebel Cookie"
+      },
+      {
+        "unlock_id": "10380",
+        "entity_id": "102500",
+        "entity_name": "Wizard Cookie"
+      },
+      {
+        "unlock_id": "10390",
+        "entity_id": "102600",
+        "entity_name": "Fairy Cookie"
+      },
+      {
+        "unlock_id": "10400",
+        "entity_id": "102700",
+        "entity_name": "Rockstar Cookie"
+      },
+      {
+        "unlock_id": "10410",
+        "entity_id": "102800",
+        "entity_name": "Cherry Cookie"
+      },
+      {
+        "unlock_id": "10420",
+        "entity_id": "102900",
+        "entity_name": "Carol Cookie"
+      },
+      {
+        "unlock_id": "10430",
+        "entity_id": "100400",
+        "entity_name": "GingerBrave"
+      },
+      {
+        "unlock_id": "10440",
+        "entity_id": "100400",
+        "entity_name": "GingerBrave"
+      },
+      {
+        "unlock_id": "10450",
+        "entity_id": "103000",
+        "entity_name": "Snow Sugar Cookie"
+      },
+      {
+        "unlock_id": "10610",
+        "entity_id": "103100",
+        "entity_name": "Pink Coco Cookie"
+      },
+      {
+        "unlock_id": "10620",
+        "entity_id": "103200",
+        "entity_name": "Prophet Cookie"
+      },
+      {
+        "unlock_id": "10630",
+        "entity_id": "103300",
+        "entity_name": "Pistachio Cookie"
+      },
+      {
+        "unlock_id": "10640",
+        "entity_id": "103400",
+        "entity_name": "Alchemist Cookie"
+      },
+      {
+        "unlock_id": "10650",
+        "entity_id": "103400",
+        "entity_name": "Alchemist Cookie"
+      },
+      {
+        "unlock_id": "10780",
+        "entity_id": "103500",
+        "entity_name": "Vampire Cookie"
+      },
+      {
+        "unlock_id": "10800",
+        "entity_id": "103600",
+        "entity_name": "Apple Cookie"
+      },
+      {
+        "unlock_id": "10810",
+        "entity_id": "103700",
+        "entity_name": "Cheesecake Cookie"
+      },
+      {
+        "unlock_id": "10900",
+        "entity_id": "103900",
+        "entity_name": "Soda Cookie"
+      },
+      {
+        "unlock_id": "10910",
+        "entity_id": "103800",
+        "entity_name": "Adventurer Cookie"
+      },
+      {
+        "unlock_id": "10920",
+        "entity_id": "104200",
+        "entity_name": "Blackberry Cookie"
+      },
+      {
+        "unlock_id": "10930",
+        "entity_id": "104300",
+        "entity_name": "Kiwi Cookie"
+      },
+      {
+        "unlock_id": "10940",
+        "entity_id": "104400",
+        "entity_name": "Werewolf Cookie"
+      },
+      {
+        "unlock_id": "10980",
+        "entity_id": "104500",
+        "entity_name": "Cocoa Cookie"
+      },
+      {
+        "unlock_id": "10990",
+        "entity_id": "104600",
+        "entity_name": "Mint Choco Cookie"
+      },
+      {
+        "unlock_id": "11000",
+        "entity_id": "104600",
+        "entity_name": "Mint Choco Cookie"
+      },
+      {
+        "unlock_id": "11010",
+        "entity_id": "104700",
+        "entity_name": "Red Pepper Cookie"
+      },
+      {
+        "unlock_id": "11020",
+        "entity_id": "104800",
+        "entity_name": "Cream Puff Cookie"
+      },
+      {
+        "unlock_id": "11030",
+        "entity_id": "105000",
+        "entity_name": "Gumball Cookie"
+      },
+      {
+        "unlock_id": "11160",
+        "entity_id": "105100",
+        "entity_name": "Cherry Blossom Cookie"
+      },
+      {
+        "unlock_id": "11170",
+        "entity_id": "105200",
+        "entity_name": "Lemon Cookie"
+      },
+      {
+        "unlock_id": "11190",
+        "entity_id": "105300",
+        "entity_name": "Orange Cookie"
+      },
+      {
+        "unlock_id": "11200",
+        "entity_id": "105400",
+        "entity_name": "Lime Cookie"
+      },
+      {
+        "unlock_id": "11210",
+        "entity_id": "105500",
+        "entity_name": "Peppermint Cookie"
+      },
+      {
+        "unlock_id": "11220",
+        "entity_id": "105600",
+        "entity_name": "Peach Cookie"
+      },
+      {
+        "unlock_id": "11230",
+        "entity_id": "105700",
+        "entity_name": "General Jujube Cookie"
+      },
+      {
+        "unlock_id": "11240",
+        "entity_id": "105800",
+        "entity_name": "Onion Cookie"
+      },
+      {
+        "unlock_id": "11260",
+        "entity_id": "106000",
+        "entity_name": "Cinnamon Cookie"
+      },
+      {
+        "unlock_id": "11270",
+        "entity_id": "105900",
+        "entity_name": "Macaron Cookie"
+      },
+      {
+        "unlock_id": "11290",
+        "entity_id": "106100",
+        "entity_name": "Red Bean Cookie"
+      },
+      {
+        "unlock_id": "11300",
+        "entity_id": "106200",
+        "entity_name": "White Choco Cookie"
+      },
+      {
+        "unlock_id": "11310",
+        "entity_id": "106300",
+        "entity_name": "Herb Cookie"
+      },
+      {
+        "unlock_id": "11320",
+        "entity_id": "106400",
+        "entity_name": "Dino-Sour Cookie"
+      },
+      {
+        "unlock_id": "11330",
+        "entity_id": "106600",
+        "entity_name": "Cotton Candy Cookie"
+      },
+      {
+        "unlock_id": "11340",
+        "entity_id": "106700",
+        "entity_name": "Roll Cake Cookie"
+      },
+      {
+        "unlock_id": "11350",
+        "entity_id": "106800",
+        "entity_name": "Banana Cookie"
+      },
+      {
+        "unlock_id": "11360",
+        "entity_id": "106900",
+        "entity_name": "Pancake Cookie"
+      },
+      {
+        "unlock_id": "11370",
+        "entity_id": "107100",
+        "entity_name": "Moon Rabbit Cookie"
+      },
+      {
+        "unlock_id": "11380",
+        "entity_id": "106500",
+        "entity_name": "Sea Fairy Cookie"
+      },
+      {
+        "unlock_id": "11390",
+        "entity_id": "107200",
+        "entity_name": "Strawberry Shortcake Cookie"
+      },
+      {
+        "unlock_id": "11400",
+        "entity_id": "103700",
+        "entity_name": "Cheesecake Cookie"
+      },
+      {
+        "unlock_id": "11410",
+        "entity_id": "104600",
+        "entity_name": "Mint Choco Cookie"
+      },
+      {
+        "unlock_id": "11420",
+        "entity_id": "103300",
+        "entity_name": "Pistachio Cookie"
+      },
+      {
+        "unlock_id": "11430",
+        "entity_id": "102500",
+        "entity_name": "Wizard Cookie"
+      },
+      {
+        "unlock_id": "11440",
+        "entity_id": "102800",
+        "entity_name": "Cherry Cookie"
+      },
+      {
+        "unlock_id": "11450",
+        "entity_id": "107200",
+        "entity_name": "Strawberry Shortcake Cookie"
+      },
+      {
+        "unlock_id": "11460",
+        "entity_id": "106800",
+        "entity_name": "Banana Cookie"
+      },
+      {
+        "unlock_id": "11470",
+        "entity_id": "104900",
+        "entity_name": "Moonlight Cookie"
+      },
+      {
+        "unlock_id": "11480",
+        "entity_id": "107000",
+        "entity_name": "Wind Archer Cookie"
+      },
+      {
+        "unlock_id": "11490",
+        "entity_id": "107300",
+        "entity_name": "Gulab Jamun Cookie"
+      },
+      {
+        "unlock_id": "11500",
+        "entity_id": "107400",
+        "entity_name": "Kaju Katli Cookie"
+      },
+      {
+        "unlock_id": "11510",
+        "entity_id": "107400",
+        "entity_name": "Kaju Katli Cookie"
+      },
+      {
+        "unlock_id": "11520",
+        "entity_id": "107500",
+        "entity_name": "Marshmallow Bunny Cookie"
+      },
+      {
+        "unlock_id": "11530",
+        "entity_id": "107700",
+        "entity_name": "Cucumber Cookie"
+      },
+      {
+        "unlock_id": "11540",
+        "entity_id": "107800",
+        "entity_name": "Sikhye Cookie"
+      },
+      {
+        "unlock_id": "11550",
+        "entity_id": "107800",
+        "entity_name": "Sikhye Cookie"
+      },
+      {
+        "unlock_id": "11560",
+        "entity_id": "107900",
+        "entity_name": "Sujeonggwa Cookie"
+      },
+      {
+        "unlock_id": "11570",
+        "entity_id": "107900",
+        "entity_name": "Sujeonggwa Cookie"
+      },
+      {
+        "unlock_id": "11580",
+        "entity_id": "108000",
+        "entity_name": "Barley Sentry Cookie"
+      },
+      {
+        "unlock_id": "11590",
+        "entity_id": "104000",
+        "entity_name": "Tiger Lily Cookie"
+      },
+      {
+        "unlock_id": "11600",
+        "entity_id": "108100",
+        "entity_name": "Princess Bari Cookie"
+      },
+      {
+        "unlock_id": "11610",
+        "entity_id": "108200",
+        "entity_name": "Potato Salad Cookie"
+      },
+      {
+        "unlock_id": "11620",
+        "entity_id": "108300",
+        "entity_name": "Scallion Kimchi Cookie"
+      },
+      {
+        "unlock_id": "11630",
+        "entity_id": "108400",
+        "entity_name": "White Kimchi Cookie"
+      }
+    ],
+    "pets": [
+      {
+        "unlock_id": "104",
+        "entity_id": "207200",
+        "entity_name": "Castanets"
+      },
+      {
+        "unlock_id": "105",
+        "entity_id": "207400",
+        "entity_name": "Sweet Rice Seal"
+      },
+      {
+        "unlock_id": "110",
+        "entity_id": "207800",
+        "entity_name": "Cotton Candy Bird"
+      },
+      {
+        "unlock_id": "111",
+        "entity_id": "207900",
+        "entity_name": "Light Bros"
+      },
+      {
+        "unlock_id": "112",
+        "entity_id": "208000",
+        "entity_name": "Banana Lion"
+      },
+      {
+        "unlock_id": "121",
+        "entity_id": "209100",
+        "entity_name": "Elder White Rice"
+      },
+      {
+        "unlock_id": "124",
+        "entity_id": "209400",
+        "entity_name": "Tater Trader"
+      },
+      {
+        "unlock_id": "10000",
+        "entity_id": "200100",
+        "entity_name": "Choco Drop"
+      },
+      {
+        "unlock_id": "10010",
+        "entity_id": "201100",
+        "entity_name": "Flowercopter"
+      },
+      {
+        "unlock_id": "10020",
+        "entity_id": "200200",
+        "entity_name": "Cheese Drop"
+      },
+      {
+        "unlock_id": "10030",
+        "entity_id": "200700",
+        "entity_name": "Rainbow's End"
+      },
+      {
+        "unlock_id": "10040",
+        "entity_id": "200500",
+        "entity_name": "Dust Unicorn"
+      },
+      {
+        "unlock_id": "10050",
+        "entity_id": "201200",
+        "entity_name": "Little Ghost"
+      },
+      {
+        "unlock_id": "10060",
+        "entity_id": "201600",
+        "entity_name": "Princess's Locket"
+      },
+      {
+        "unlock_id": "10070",
+        "entity_id": "201700",
+        "entity_name": "Dragon's Tail"
+      },
+      {
+        "unlock_id": "10080",
+        "entity_id": "201900",
+        "entity_name": "Mocha Delight"
+      },
+      {
+        "unlock_id": "10090",
+        "entity_id": "201500",
+        "entity_name": "Lucky Dice Bros"
+      },
+      {
+        "unlock_id": "10100",
+        "entity_id": "202000",
+        "entity_name": "Wishing Star"
+      },
+      {
+        "unlock_id": "10110",
+        "entity_id": "201800",
+        "entity_name": "Brain Gum"
+      },
+      {
+        "unlock_id": "10120",
+        "entity_id": "201400",
+        "entity_name": "Cozy Yarn"
+      },
+      {
+        "unlock_id": "10130",
+        "entity_id": "202100",
+        "entity_name": "Dumbbell Twins"
+      },
+      {
+        "unlock_id": "10140",
+        "entity_id": "201300",
+        "entity_name": "Giggle Bomb"
+      },
+      {
+        "unlock_id": "10150",
+        "entity_id": "202400",
+        "entity_name": "Jellyco Cube"
+      },
+      {
+        "unlock_id": "10160",
+        "entity_id": "202300",
+        "entity_name": "Snow Blossom"
+      },
+      {
+        "unlock_id": "10230",
+        "entity_id": "202700",
+        "entity_name": "AWOL Cracker"
+      },
+      {
+        "unlock_id": "10240",
+        "entity_id": "202600",
+        "entity_name": "Glitter Ball"
+      },
+      {
+        "unlock_id": "10350",
+        "entity_id": "202800",
+        "entity_name": "Flame Bat"
+      },
+      {
+        "unlock_id": "10360",
+        "entity_id": "203100",
+        "entity_name": "Fox Bead"
+      },
+      {
+        "unlock_id": "10370",
+        "entity_id": "203000",
+        "entity_name": "Windy"
+      },
+      {
+        "unlock_id": "10380",
+        "entity_id": "203300",
+        "entity_name": "Book of Wizdom"
+      },
+      {
+        "unlock_id": "10390",
+        "entity_id": "203400",
+        "entity_name": "Flower Pod"
+      },
+      {
+        "unlock_id": "10400",
+        "entity_id": "203500",
+        "entity_name": "Spotlight Fan"
+      },
+      {
+        "unlock_id": "10410",
+        "entity_id": "203600",
+        "entity_name": "Rocket Firecracker"
+      },
+      {
+        "unlock_id": "10420",
+        "entity_id": "203700",
+        "entity_name": "Yule Log Cake"
+      },
+      {
+        "unlock_id": "10430",
+        "entity_id": "200600",
+        "entity_name": "Merry Hat"
+      },
+      {
+        "unlock_id": "10440",
+        "entity_id": "200800",
+        "entity_name": "Holiday Stocking"
+      },
+      {
+        "unlock_id": "10450",
+        "entity_id": "203800",
+        "entity_name": "Snow Globe"
+      },
+      {
+        "unlock_id": "10610",
+        "entity_id": "204000",
+        "entity_name": "Pink Candy"
+      },
+      {
+        "unlock_id": "10620",
+        "entity_id": "204100",
+        "entity_name": "Purple Candle"
+      },
+      {
+        "unlock_id": "10630",
+        "entity_id": "204200",
+        "entity_name": "Pistachio Firefly"
+      },
+      {
+        "unlock_id": "10640",
+        "entity_id": "204300",
+        "entity_name": "Jelly Scale"
+      },
+      {
+        "unlock_id": "10650",
+        "entity_id": "204400",
+        "entity_name": "Coin Scale"
+      },
+      {
+        "unlock_id": "10780",
+        "entity_id": "204500",
+        "entity_name": "Oak Barrel"
+      },
+      {
+        "unlock_id": "10800",
+        "entity_id": "204600",
+        "entity_name": "Apple Rabbit"
+      },
+      {
+        "unlock_id": "10810",
+        "entity_id": "204700",
+        "entity_name": "Fluffy Cheese Cat"
+      },
+      {
+        "unlock_id": "10900",
+        "entity_id": "205000",
+        "entity_name": "Lemon Slice"
+      },
+      {
+        "unlock_id": "10910",
+        "entity_id": "204800",
+        "entity_name": "Backpacky"
+      },
+      {
+        "unlock_id": "10920",
+        "entity_id": "205100",
+        "entity_name": "Ghost Butler"
+      },
+      {
+        "unlock_id": "10930",
+        "entity_id": "205200",
+        "entity_name": "Kiwi Bird"
+      },
+      {
+        "unlock_id": "10940",
+        "entity_id": "205300",
+        "entity_name": "Furball Pup"
+      },
+      {
+        "unlock_id": "10980",
+        "entity_id": "205600",
+        "entity_name": "Marshmallow Hamster"
+      },
+      {
+        "unlock_id": "10990",
+        "entity_id": "205700",
+        "entity_name": "Ms. Do-Re-Mi"
+      },
+      {
+        "unlock_id": "11000",
+        "entity_id": "205800",
+        "entity_name": "Mr. Fa-Sol-La-Si"
+      },
+      {
+        "unlock_id": "11010",
+        "entity_id": "205400",
+        "entity_name": "Paprika Punching Bag"
+      },
+      {
+        "unlock_id": "11020",
+        "entity_id": "205900",
+        "entity_name": "Owlcorn"
+      },
+      {
+        "unlock_id": "11030",
+        "entity_id": "206000",
+        "entity_name": "Mini Jackson No.2"
+      },
+      {
+        "unlock_id": "11160",
+        "entity_id": "206100",
+        "entity_name": "Tea Cup"
+      },
+      {
+        "unlock_id": "11170",
+        "entity_id": "206300",
+        "entity_name": "Electro Lemon"
+      },
+      {
+        "unlock_id": "11190",
+        "entity_id": "206400",
+        "entity_name": "Mini Orange Mouse"
+      },
+      {
+        "unlock_id": "11200",
+        "entity_id": "206600",
+        "entity_name": "Mr. Limeguard"
+      },
+      {
+        "unlock_id": "11210",
+        "entity_id": "206700",
+        "entity_name": "Paper Boat Sailor"
+      },
+      {
+        "unlock_id": "11220",
+        "entity_id": "206900",
+        "entity_name": "Panda Dumpling"
+      },
+      {
+        "unlock_id": "11230",
+        "entity_id": "207000",
+        "entity_name": "Uncooling Teacup"
+      },
+      {
+        "unlock_id": "11240",
+        "entity_id": "207100",
+        "entity_name": "Onion Fish"
+      },
+      {
+        "unlock_id": "11260",
+        "entity_id": "207300",
+        "entity_name": "Cinnamon Bunny"
+      },
+      {
+        "unlock_id": "11270",
+        "entity_id": "207200",
+        "entity_name": "Castanets"
+      },
+      {
+        "unlock_id": "11290",
+        "entity_id": "207400",
+        "entity_name": "Sweet Rice Seal"
+      },
+      {
+        "unlock_id": "11300",
+        "entity_id": "207500",
+        "entity_name": "Pocket Watch Referee"
+      },
+      {
+        "unlock_id": "11310",
+        "entity_id": "207600",
+        "entity_name": "Herb Teapot"
+      },
+      {
+        "unlock_id": "11320",
+        "entity_id": "207700",
+        "entity_name": "Dino Egg"
+      },
+      {
+        "unlock_id": "11330",
+        "entity_id": "207800",
+        "entity_name": "Cotton Candy Bird"
+      },
+      {
+        "unlock_id": "11340",
+        "entity_id": "207900",
+        "entity_name": "Light Bros"
+      },
+      {
+        "unlock_id": "11350",
+        "entity_id": "208000",
+        "entity_name": "Banana Lion"
+      },
+      {
+        "unlock_id": "11360",
+        "entity_id": "208100",
+        "entity_name": "Pancake Frisbee"
+      },
+      {
+        "unlock_id": "11370",
+        "entity_id": "208200",
+        "entity_name": "Moon Mortar"
+      },
+      {
+        "unlock_id": "11380",
+        "entity_id": "206800",
+        "entity_name": "Wave Drop"
+      },
+      {
+        "unlock_id": "11390",
+        "entity_id": "208300",
+        "entity_name": "Tiny Cake Hound"
+      },
+      {
+        "unlock_id": "11400",
+        "entity_id": "202900",
+        "entity_name": "Golden Drop"
+      },
+      {
+        "unlock_id": "11410",
+        "entity_id": "206500",
+        "entity_name": "Platinum Drop"
+      },
+      {
+        "unlock_id": "11420",
+        "entity_id": "204600",
+        "entity_name": "Apple Rabbit"
+      },
+      {
+        "unlock_id": "11430",
+        "entity_id": "206000",
+        "entity_name": "Mini Jackson No.2"
+      },
+      {
+        "unlock_id": "11440",
+        "entity_id": "203500",
+        "entity_name": "Spotlight Fan"
+      },
+      {
+        "unlock_id": "11450",
+        "entity_id": "204400",
+        "entity_name": "Coin Scale"
+      },
+      {
+        "unlock_id": "11460",
+        "entity_id": "204300",
+        "entity_name": "Jelly Scale"
+      },
+      {
+        "unlock_id": "11470",
+        "entity_id": "206000",
+        "entity_name": "Mini Jackson No.2"
+      },
+      {
+        "unlock_id": "11480",
+        "entity_id": "204200",
+        "entity_name": "Pistachio Firefly"
+      },
+      {
+        "unlock_id": "11490",
+        "entity_id": "208400",
+        "entity_name": "Tiny Tabla"
+      },
+      {
+        "unlock_id": "11500",
+        "entity_id": "208500",
+        "entity_name": "Parrot Dada"
+      },
+      {
+        "unlock_id": "11510",
+        "entity_id": "203500",
+        "entity_name": "Spotlight Fan"
+      },
+      {
+        "unlock_id": "11520",
+        "entity_id": "208700",
+        "entity_name": "Soft Egg Bunny"
+      },
+      {
+        "unlock_id": "11530",
+        "entity_id": "208900",
+        "entity_name": "Cucu-dding"
+      },
+      {
+        "unlock_id": "11540",
+        "entity_id": "209000",
+        "entity_name": "Elder Black Rice"
+      },
+      {
+        "unlock_id": "11550",
+        "entity_id": "209100",
+        "entity_name": "Elder White Rice"
+      },
+      {
+        "unlock_id": "11560",
+        "entity_id": "209000",
+        "entity_name": "Elder Black Rice"
+      },
+      {
+        "unlock_id": "11570",
+        "entity_id": "209100",
+        "entity_name": "Elder White Rice"
+      },
+      {
+        "unlock_id": "11580",
+        "entity_id": "209200",
+        "entity_name": "Pegaplush"
+      },
+      {
+        "unlock_id": "11590",
+        "entity_id": "205300",
+        "entity_name": "Furball Pup"
+      },
+      {
+        "unlock_id": "11600",
+        "entity_id": "209300",
+        "entity_name": "Ghoul Cake"
+      },
+      {
+        "unlock_id": "11610",
+        "entity_id": "209400",
+        "entity_name": "Tater Trader"
+      },
+      {
+        "unlock_id": "11620",
+        "entity_id": "209500",
+        "entity_name": "Lady Mudang"
+      },
+      {
+        "unlock_id": "11630",
+        "entity_id": "209600",
+        "entity_name": "Kimchi Bell"
+      }
+    ],
+    "treasures": []
+  }
+}

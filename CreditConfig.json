@@ -1,0 +1,74 @@
+[
+  {
+    "\ufeffvalue": "100101",
+    "_key": "CookieStuffId"
+  },
+  {
+    "\ufeffvalue": "25",
+    "_key": "CreditDefaultHeight"
+  },
+  {
+    "\ufeffvalue": "4",
+    "_key": "CreditRowCount"
+  },
+  {
+    "\ufeffvalue": "50",
+    "_key": "CreditRowHeight"
+  },
+  {
+    "\ufeffvalue": "0.35",
+    "_key": "CreditsAppearRate"
+  },
+  {
+    "\ufeffvalue": "400",
+    "_key": "DefaultCreditsDistMax"
+  },
+  {
+    "\ufeffvalue": "200",
+    "_key": "DefaultCreditsDistMin"
+  },
+  {
+    "\ufeffvalue": "700",
+    "_key": "InitCreditOffset"
+  },
+  {
+    "\ufeffvalue": "208301",
+    "_key": "PetStuffId"
+  },
+  {
+    "\ufeffvalue": "480",
+    "_key": "RandCreditsDistMax"
+  },
+  {
+    "\ufeffvalue": "320",
+    "_key": "RandCreditsDistMin"
+  },
+  {
+    "\ufeffvalue": "SPECIAL THANKS TO",
+    "_key": "SpciealCreditsLine0"
+  },
+  {
+    "\ufeffvalue": "           EUNJI LEE                       STUDIO KINGDOM",
+    "_key": "SpciealCreditsLine1"
+  },
+  {
+    "\ufeffvalue": "                   KILHYEON CHO            TEAM DEVSISTERS",
+    "_key": "SpciealCreditsLine2"
+  },
+  {
+    "\ufeffvalue": "                       YEOKYEONG SEO",
+    "_key": "SpciealCreditsLine3"
+  },
+  {
+    "\ufeffvalue": "6",
+    "_key": "ThemeCount"
+  },
+  {
+    "\ufeffvalue": "2000",
+    "_key": "ThemeLength"
+  },
+  {
+    "\ufeffvalue": "40",
+    "_key": "WordSize"
+  }
+]

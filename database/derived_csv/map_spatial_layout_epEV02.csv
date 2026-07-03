@@ -1,0 +1,13 @@
+episode,stage,distance_start,distance_end,jelly_type,jelly_id,quantity,density,speed
+epEV02,1,1,2,Small Health,408,173,173.0,850
+epEV02,1,1,2,Bonus Time,402,35,35.0,850
+epEV02,1,1,2,ID_4215,4215,120,120.0,850
+epEV02,1,1,2,ID_4234,4234,68,68.0,850
+epEV02,1,1,2,Blast Jelly,403,10,10.0,850
+epEV02,1,1,2,ID_4119,4119,8,8.0,850
+epEV02,1,2,3,ID_4338,4338,155,155.0,850
+epEV02,1,2,3,Blast Jelly,403,43,43.0,850
+epEV02,1,2,3,Bear Party,407,43,43.0,850
+epEV02,1,2,3,Magnet Jelly,405,43,43.0,850
+epEV02,1,2,3,Giant Jelly,404,43,43.0,850
+epEV02,1,2,3,Coin Party,406,43,43.0,850

@@ -1,0 +1,17 @@
+[
+  {
+    "\ufeffCollectibleItemStartId": "250731",
+    "CreateAfterFull": "0",
+    "EventJellyId": "5201",
+    "EventMaterialProb": "-1",
+    "EventSeq": "39",
+    "JellyMaxHeight": "160",
+    "JellyMinHeight": "60",
+    "MaterialCount": "5",
+    "MaterialSlotColor": "100",
+    "MaterialSlotOpacity": "150",
+    "OneGameLimitMax": "17",
+    "OneGameLimitMin": "13",
+    "_key": "1"
+  }
+]

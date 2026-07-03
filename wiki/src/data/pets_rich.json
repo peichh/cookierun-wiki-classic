@@ -1,0 +1,7274 @@
+[
+  {
+    "id": "200100",
+    "name": "Choco Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "2",
+        "price_coin": "500",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "3",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "1000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "7000"
+      },
+      {
+        "level": "5",
+        "price_coin": "1300",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "6",
+        "price_coin": "1600",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "1900",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "4000"
+      },
+      {
+        "level": "8",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "3000"
+      }
+    ]
+  },
+  {
+    "id": "200200",
+    "name": "Cheese Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "3000"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2000"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "1500"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "500"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "400"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "300"
+      }
+    ]
+  },
+  {
+    "id": "200300",
+    "name": "Hand of Liker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "4000"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "3000"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2000"
+      }
+    ]
+  },
+  {
+    "id": "200400",
+    "name": "Double Bubble",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      }
+    ]
+  },
+  {
+    "id": "200500",
+    "name": "Dust Unicorn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "7000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "4000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "3000"
+      }
+    ]
+  },
+  {
+    "id": "200600",
+    "name": "Merry Hat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "4000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "3000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2000"
+      }
+    ]
+  },
+  {
+    "id": "200700",
+    "name": "Rainbow's End",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "cooldown": "2000",
+        "duration": "0"
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "2200",
+        "duration": "0"
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "cooldown": "2400",
+        "duration": "0"
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "cooldown": "2600",
+        "duration": "0"
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "2800",
+        "duration": "0"
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "cooldown": "3000",
+        "duration": "0"
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "cooldown": "3500",
+        "duration": "0"
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "0"
+      }
+    ]
+  },
+  {
+    "id": "200800",
+    "name": "Holiday Stocking",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "3",
+        "price_crystal": "10000",
+        "cooldown": "1030",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "10000",
+        "cooldown": "1040",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "10000",
+        "cooldown": "1050",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "10000",
+        "cooldown": "1060",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "10000",
+        "cooldown": "1070",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "10000",
+        "cooldown": "1080",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "10000",
+        "cooldown": "1090",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "10000",
+        "cooldown": "1100",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "200900",
+    "name": "Electric Beat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "30000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "24000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "13000"
+      }
+    ]
+  },
+  {
+    "id": "201000",
+    "name": "Rare Garlic",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "40600"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "37600"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "34600"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "31600"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "28600"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25600"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22600"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19600"
+      }
+    ]
+  },
+  {
+    "id": "201100",
+    "name": "Flowercopter",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "1450",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "1550",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "1600",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "1650",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1700",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1750",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "1800",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "201200",
+    "name": "Little Ghost",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "2",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "5",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "6",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "7",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "8",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "201300",
+    "name": "Giggle Bomb",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "60",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "21000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "20000"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "19000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "18000"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "17000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "16000"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "15000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "14000"
+      }
+    ]
+  },
+  {
+    "id": "201400",
+    "name": "Cozy Yarn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "50",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "89000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "87000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "85000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "83000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "81000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "79000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "77000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "75000"
+      }
+    ]
+  },
+  {
+    "id": "201500",
+    "name": "Lucky Dice Bros",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      }
+    ]
+  },
+  {
+    "id": "201600",
+    "name": "Princess's Locket",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "77",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "201700",
+    "name": "Dragon's Tail",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "20000"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "19000"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "18000"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "17000"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "16000"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "15000"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "14000"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "13000"
+      }
+    ]
+  },
+  {
+    "id": "201800",
+    "name": "Brain Gum",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "920",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "910",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "900",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "890",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "880",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "870",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "860",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "42000",
+        "price_crystal": "10000",
+        "cooldown": "850",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "201900",
+    "name": "Mocha Delight",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "15",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "4000"
+      }
+    ]
+  },
+  {
+    "id": "202000",
+    "name": "Wishing Star",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "cooldown": "70",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "80",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "90",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "100",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "110",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "120",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "130",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "140",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "202100",
+    "name": "Dumbbell Twins",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "40",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "202300",
+    "name": "Snow Blossom",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "400",
+        "duration": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "450",
+        "duration": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "500",
+        "duration": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "550",
+        "duration": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "600",
+        "duration": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "650",
+        "duration": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "700",
+        "duration": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "750",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "202400",
+    "name": "Jellyco Cube",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "3700",
+        "duration": "27000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "26000"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4200",
+        "duration": "25000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "4500",
+        "duration": "24000"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4700",
+        "duration": "23000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "22000"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "5200",
+        "duration": "21000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "5500",
+        "duration": "20000"
+      }
+    ]
+  },
+  {
+    "id": "202600",
+    "name": "Glitter Ball",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "3000",
+        "duration": "20000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "3300",
+        "duration": "18500"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "3600",
+        "duration": "17000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "3900",
+        "duration": "15500"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4200",
+        "duration": "14000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "4500",
+        "duration": "12500"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "4700",
+        "duration": "11000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "10000"
+      }
+    ]
+  },
+  {
+    "id": "202700",
+    "name": "AWOL Cracker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "24000"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      }
+    ]
+  },
+  {
+    "id": "202800",
+    "name": "Flame Bat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "16000"
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "15000"
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "14000"
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "13000"
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "12000"
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "11000"
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "10000"
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "9000"
+      }
+    ]
+  },
+  {
+    "id": "202900",
+    "name": "Golden Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "4",
+        "price_coin": "24000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      },
+      {
+        "level": "5",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "6",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "13000"
+      },
+      {
+        "level": "7",
+        "price_coin": "42000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "8",
+        "price_coin": "50000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "11000"
+      }
+    ]
+  },
+  {
+    "id": "203000",
+    "name": "Windy",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "250"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "2",
+        "duration": "300"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "350"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "400"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "5",
+        "duration": "450"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "6",
+        "duration": "500"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "7",
+        "duration": "550"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "8",
+        "duration": "600"
+      }
+    ]
+  },
+  {
+    "id": "203100",
+    "name": "Fox Bead",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      }
+    ]
+  },
+  {
+    "id": "203200",
+    "name": "Luck-o'-lantern",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "31",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "13000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "11000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      }
+    ]
+  },
+  {
+    "id": "203300",
+    "name": "Book of Wizdom",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "7600",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "7800",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "8000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "8200",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "8400",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "8600",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "8800",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "9000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "203400",
+    "name": "Flower Pod",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "84000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "82000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "80000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "78000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "76000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "74000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "72000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "70000"
+      }
+    ]
+  },
+  {
+    "id": "203500",
+    "name": "Spotlight Fan",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "21000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "20000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "19000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "18000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "17000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "16000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "14000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "13000"
+      }
+    ]
+  },
+  {
+    "id": "203600",
+    "name": "Rocket Firecracker",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "25000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "24000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "23000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "22000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "20000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "19000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "18000"
+      }
+    ]
+  },
+  {
+    "id": "203700",
+    "name": "Yule Log Cake",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "203800",
+    "name": "Snow Globe",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "203900",
+    "name": "Lucky Pouch",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "4000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "3700"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "3400"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "3100"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "2800"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "2500"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "2200"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "280",
+        "duration": "2000"
+      }
+    ]
+  },
+  {
+    "id": "204000",
+    "name": "Pink Candy",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "12500",
+        "duration": "1700"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "12000",
+        "duration": "1700"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "11500",
+        "duration": "1700"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "11000",
+        "duration": "1700"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "10500",
+        "duration": "1700"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "10000",
+        "duration": "1700"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "9500",
+        "duration": "1700"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "9000",
+        "duration": "1700"
+      }
+    ]
+  },
+  {
+    "id": "204100",
+    "name": "Purple Candle",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "26000",
+        "duration": "4000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "4000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "4000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "4000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "4000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "4000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "4000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4000"
+      }
+    ]
+  },
+  {
+    "id": "204200",
+    "name": "Pistachio Firefly",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      }
+    ]
+  },
+  {
+    "id": "204300",
+    "name": "Jelly Scale",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "4700"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "4400"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "4100"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "3800"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "3500"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "3200"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "200000",
+        "duration": "3000"
+      }
+    ]
+  },
+  {
+    "id": "204400",
+    "name": "Coin Scale",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "4700"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "4400"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "4100"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "3800"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "3500"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "3200"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "250",
+        "duration": "3000"
+      }
+    ]
+  },
+  {
+    "id": "204500",
+    "name": "Oak Barrel",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "55000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "52000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "49000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "46000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "43000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "40000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "37000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "34000"
+      }
+    ]
+  },
+  {
+    "id": "204600",
+    "name": "Apple Rabbit",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "3700",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4100",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "4500",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4900",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "5300",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "5700",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "6100",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "6500",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "204700",
+    "name": "Fluffy Cheese Cat",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "2500"
+      }
+    ]
+  },
+  {
+    "id": "204800",
+    "name": "Backpacky",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "7"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "7"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "7"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "7"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "7"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "7"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "7"
+      }
+    ]
+  },
+  {
+    "id": "204900",
+    "name": "King Choco Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99999",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "2",
+        "price_coin": "37700",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "3",
+        "price_coin": "43400",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "4",
+        "price_coin": "51000",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "5",
+        "price_coin": "61200",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "6",
+        "price_coin": "64600",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "7",
+        "price_coin": "75200",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      },
+      {
+        "level": "8",
+        "price_coin": "84000",
+        "price_crystal": "10000",
+        "cooldown": "1500",
+        "duration": "4000"
+      }
+    ]
+  },
+  {
+    "id": "205000",
+    "name": "Lemon Slice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "33000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "31000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      }
+    ]
+  },
+  {
+    "id": "205100",
+    "name": "Ghost Butler",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "24000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      }
+    ]
+  },
+  {
+    "id": "205200",
+    "name": "Kiwi Bird",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "14000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "13000"
+      }
+    ]
+  },
+  {
+    "id": "205300",
+    "name": "Furball Pup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "4",
+        "duration": "4"
+      }
+    ]
+  },
+  {
+    "id": "205400",
+    "name": "Paprika Punching Bag",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25500"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "24000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22500"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19500"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "16500"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "205600",
+    "name": "Marshmallow Hamster",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "4266"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "4266"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "4266"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "4266"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "4266"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4266"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "4266"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "4266"
+      }
+    ]
+  },
+  {
+    "id": "205700",
+    "name": "Ms. Do-Re-Mi",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "29000",
+        "duration": "330"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "27000",
+        "duration": "330"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "330"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "330"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "330"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "330"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "330"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "330"
+      }
+    ]
+  },
+  {
+    "id": "205800",
+    "name": "Mr. Fa-Sol-La-Si",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "15000"
+      }
+    ]
+  },
+  {
+    "id": "205900",
+    "name": "Owlcorn",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "31000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "29000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "27000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "17000"
+      }
+    ]
+  },
+  {
+    "id": "206000",
+    "name": "Mini Jackson No.2",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "4000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "4150"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "4300"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "4450"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4600"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "4750"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "4900"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "206100",
+    "name": "Tea Cup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "45000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "43000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "41000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "39000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "37000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "35000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "33000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "31000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "206200",
+    "name": "Bean Drop Duo",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "22",
+        "price_crystal": "10000",
+        "cooldown": "2900",
+        "duration": "4612"
+      },
+      {
+        "level": "2",
+        "price_coin": "4000",
+        "price_crystal": "10000",
+        "cooldown": "2800",
+        "duration": "4612"
+      },
+      {
+        "level": "3",
+        "price_coin": "8000",
+        "price_crystal": "10000",
+        "cooldown": "2700",
+        "duration": "4612"
+      },
+      {
+        "level": "4",
+        "price_coin": "16000",
+        "price_crystal": "10000",
+        "cooldown": "2600",
+        "duration": "4612"
+      },
+      {
+        "level": "5",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "2500",
+        "duration": "4612"
+      },
+      {
+        "level": "6",
+        "price_coin": "64000",
+        "price_crystal": "10000",
+        "cooldown": "2400",
+        "duration": "4612"
+      },
+      {
+        "level": "7",
+        "price_coin": "128000",
+        "price_crystal": "10000",
+        "cooldown": "2300",
+        "duration": "4612"
+      },
+      {
+        "level": "8",
+        "price_coin": "256000",
+        "price_crystal": "10000",
+        "cooldown": "2200",
+        "duration": "4612"
+      }
+    ]
+  },
+  {
+    "id": "206300",
+    "name": "Electro Lemon",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "13000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "12000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "206400",
+    "name": "Mini Orange Mouse",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "4800",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "5300",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "5800",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "6300",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "6800",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "7300",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "7800",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "8300",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "206500",
+    "name": "Platinum Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "12000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "11000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "10000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "9000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "7000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "6000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "206600",
+    "name": "Mr. Limeguard",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      }
+    ]
+  },
+  {
+    "id": "206700",
+    "name": "Paper Boat Sailor",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "7"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "7"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "7"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "7"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "7"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "7"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "7"
+      }
+    ]
+  },
+  {
+    "id": "206800",
+    "name": "Wave Drop",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "25000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "24000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "23000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "22000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "21000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "20000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "19000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "1000",
+        "duration": "18000"
+      }
+    ]
+  },
+  {
+    "id": "206900",
+    "name": "Panda Dumpling",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "8"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "8"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "8"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "8"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "8"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "8"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "8"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "8"
+      }
+    ]
+  },
+  {
+    "id": "207000",
+    "name": "Uncooling Teacup",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "6500",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "7000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "7500",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "8000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "8500",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "9000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "9500",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "10000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "207100",
+    "name": "Onion Fish",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "26000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "12000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "207200",
+    "name": "Castanets",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "5"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "5"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "5"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "13000",
+        "duration": "5"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "12000",
+        "duration": "5"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "11000",
+        "duration": "5"
+      }
+    ]
+  },
+  {
+    "id": "207300",
+    "name": "Cinnamon Bunny",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "25"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "25"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "25"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "25"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "25"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "25"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "25"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "25"
+      }
+    ]
+  },
+  {
+    "id": "207400",
+    "name": "Sweet Rice Seal",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "130",
+        "duration": "50000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "120",
+        "duration": "50000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "110",
+        "duration": "50000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "100",
+        "duration": "50000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "90",
+        "duration": "50000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "80",
+        "duration": "50000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "70",
+        "duration": "50000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "60",
+        "duration": "50000"
+      }
+    ]
+  },
+  {
+    "id": "207500",
+    "name": "Pocket Watch Referee",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "207600",
+    "name": "Herb Teapot",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "4"
+      }
+    ]
+  },
+  {
+    "id": "207700",
+    "name": "Dino Egg",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "207800",
+    "name": "Cotton Candy Bird",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "207900",
+    "name": "Light Bros",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "3000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "3000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "3000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "3000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "3000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "3000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "3000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "3000"
+      }
+    ]
+  },
+  {
+    "id": "208000",
+    "name": "Banana Lion",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "5000",
+        "duration": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "4850",
+        "duration": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "4700",
+        "duration": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "4550",
+        "duration": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "4400",
+        "duration": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "4250",
+        "duration": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "4100",
+        "duration": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "4000",
+        "duration": "4"
+      }
+    ]
+  },
+  {
+    "id": "208100",
+    "name": "Pancake Frisbee",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "127"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "127"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "127"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "127"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "127"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "127"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "127"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "127"
+      }
+    ]
+  },
+  {
+    "id": "208200",
+    "name": "Moon Mortar",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "4370"
+      }
+    ]
+  },
+  {
+    "id": "208300",
+    "name": "Tiny Cake Hound",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "6100",
+        "duration": "760"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "6300",
+        "duration": "760"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "6500",
+        "duration": "760"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "6700",
+        "duration": "760"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "6900",
+        "duration": "760"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "7100",
+        "duration": "760"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "7300",
+        "duration": "760"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "7500",
+        "duration": "760"
+      }
+    ]
+  },
+  {
+    "id": "208400",
+    "name": "Tiny Tabla",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "208500",
+    "name": "Parrot Dada",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "6100",
+        "duration": "760"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "6300",
+        "duration": "760"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "6500",
+        "duration": "760"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "6700",
+        "duration": "760"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "6900",
+        "duration": "760"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "7100",
+        "duration": "760"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "7300",
+        "duration": "760"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "7500",
+        "duration": "760"
+      }
+    ]
+  },
+  {
+    "id": "208700",
+    "name": "Soft Egg Bunny",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "208900",
+    "name": "Cucu-dding",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "209000",
+    "name": "Elder Black Rice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "209100",
+    "name": "Elder White Rice",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "209200",
+    "name": "Pegaplush",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "3",
+        "duration": "3"
+      }
+    ]
+  },
+  {
+    "id": "209300",
+    "name": "Ghoul Cake",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "5000"
+      }
+    ]
+  },
+  {
+    "id": "209400",
+    "name": "Tater Trader",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "27"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "28"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "29"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "30"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "31"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "32"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "33"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "35"
+      }
+    ]
+  },
+  {
+    "id": "209500",
+    "name": "Lady Mudang",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "30000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "30000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "30000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "30000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "30000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "30000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "30000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "30000"
+      }
+    ]
+  },
+  {
+    "id": "209600",
+    "name": "Kimchi Bell",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "40000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "40000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "40000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "40000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "40000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "40000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "40000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "40000"
+      }
+    ]
+  },
+  {
+    "id": "209700",
+    "name": "Chronicles of Run",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "37000",
+        "duration": "20"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "36000",
+        "duration": "20"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "35000",
+        "duration": "20"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "34000",
+        "duration": "20"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "33000",
+        "duration": "20"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "32000",
+        "duration": "20"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "31000",
+        "duration": "20"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "30000",
+        "duration": "20"
+      }
+    ]
+  },
+  {
+    "id": "209800",
+    "name": "Manggae Snail",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "209900",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "50"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "50"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "50"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "50"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "50"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "50"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "50"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "50"
+      }
+    ]
+  },
+  {
+    "id": "210000",
+    "name": "Choco Hedgehog",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "25000",
+        "duration": "200"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "24000",
+        "duration": "200"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "200"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "200"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "200"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "200"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "200"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "200"
+      }
+    ]
+  },
+  {
+    "id": "210100",
+    "name": "Baby Spore",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "23000",
+        "duration": "200"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "22000",
+        "duration": "200"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "200"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "200"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "200"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "200"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "200"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "200"
+      }
+    ]
+  },
+  {
+    "id": "210200",
+    "name": "Honey Gourd",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "1000"
+      }
+    ]
+  },
+  {
+    "id": "210300",
+    "name": "White Dragon Horsie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "11"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "11"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "11"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "11"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "11"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "11"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "11"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "11"
+      }
+    ]
+  },
+  {
+    "id": "210400",
+    "name": "Lotus Sitter",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "99",
+        "price_crystal": "10000",
+        "cooldown": "21000",
+        "duration": "7"
+      },
+      {
+        "level": "2",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "20000",
+        "duration": "7"
+      },
+      {
+        "level": "3",
+        "price_coin": "31000",
+        "price_crystal": "10000",
+        "cooldown": "19000",
+        "duration": "7"
+      },
+      {
+        "level": "4",
+        "price_coin": "34000",
+        "price_crystal": "10000",
+        "cooldown": "18000",
+        "duration": "7"
+      },
+      {
+        "level": "5",
+        "price_coin": "36000",
+        "price_crystal": "10000",
+        "cooldown": "17000",
+        "duration": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "38000",
+        "price_crystal": "10000",
+        "cooldown": "16000",
+        "duration": "7"
+      },
+      {
+        "level": "7",
+        "price_coin": "47000",
+        "price_crystal": "10000",
+        "cooldown": "15000",
+        "duration": "7"
+      },
+      {
+        "level": "8",
+        "price_coin": "56000",
+        "price_crystal": "10000",
+        "cooldown": "14000",
+        "duration": "7"
+      }
+    ]
+  },
+  {
+    "id": "290100",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1100"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1105"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1110"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1115"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1120"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1125"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1130"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1150"
+      }
+    ]
+  },
+  {
+    "id": "290200",
+    "name": "Sotdae Flock",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "10000",
+        "cooldown": null,
+        "duration": null
+      },
+      {
+        "level": "1",
+        "price_coin": "49",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1200"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1205"
+      },
+      {
+        "level": "3",
+        "price_coin": "20000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1210"
+      },
+      {
+        "level": "4",
+        "price_coin": "23000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1215"
+      },
+      {
+        "level": "5",
+        "price_coin": "26000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1220"
+      },
+      {
+        "level": "6",
+        "price_coin": "29000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1225"
+      },
+      {
+        "level": "7",
+        "price_coin": "32000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1230"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "10000",
+        "cooldown": "1",
+        "duration": "1250"
+      }
+    ]
+  }
+]

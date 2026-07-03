@@ -1,0 +1,15 @@
+﻿ActivationBaseProb,ActivationCountMax,BannerAniName,BannerAniinfo,BannerSound,EpisodeCondition,Id_1,Id_2,IncompatibleGroupSeq,LockTime,SectionProb_0,SectionProb_1,SectionProb_2,SectionProb_3,SectionProb_4,SectionProb_5,SectionProb_6,SectionProb_7,SectionProb_8,SectionProb_9,SubKey_1,SubKey_2,Value_1,Value_2,_key
+900,1,house_passive_banner0,house_passive_banner_aniinfo.plist,Passive_house,0,1000,,0,1000,100,100,100,100,100,100,100,100,100,100,,,77,,5000
+1000,1,ch20_passive_banner0,ch20_passive_banner_aniinfo.plist,Passive_ch20,0,1401,,0,3000,0,50,50,50,150,400,150,600,150,200,,,1,,5001
+900,1,ch21_passive_banner0,ch21_passive_banner_aniinfo.plist,Passive_ch21,0,1402,,0,5000,0,50,50,400,50,150,150,150,600,200,,,1,,5002
+300,1,ch26_passive_banner0,ch26_passive_banner_aniinfo.plist,Passive_ch26,0,1403,,0,1000,0,0,0,0,0,0,50,110,160,40,,,1,,5003
+1000,1,ch37_passive_banner0,ch37_passive_banner_aniinfo.plist,Passive_ch37,0,1404,,0,5000,0,50,50,50,150,50,150,150,150,80,,,1,,5004
+0,1,pet49_passive_banner0,pet49_passive_banner_aniinfo.plist,Passive_pet49,1,1405,1406,0,3000,0,10,20,30,50,30,20,10,30,20,4803,500,1,500,5005
+0,1,ch40_passive_banner0,ch40_passive_banner_aniinfo.plist,Passive_ch40,2,1405,1406,0,3000,0,30,50,30,20,10,30,20,10,20,4804,500,1,500,5006
+0,1,ch41_passive_banner0,ch41_passive_banner_aniinfo.plist,Passive_ch41,3,1405,1406,0,3000,0,20,10,30,20,10,20,30,50,30,4805,500,1,500,5007
+1000,1,pet57_passive_banner0,pet57_passive_banner_aniinfo.plist,Passive_pet57_pet58,0,1407,,0,3000,0,50,50,50,150,100,400,500,200,201,,,1,,5008
+0,1,ch49_passive_banner0,ch49_passive_banner_aniinfo.plist,Passive_ch49,4,1405,1406,0,3000,0,30,30,20,20,50,10,30,40,20,4806,500,1,500,5009
+1000,1,pet57_passive_banner0,pet57_passive_banner_aniinfo.plist,Passive_pet57_pet58,0,1407,,0,3000,0,50,50,50,150,100,400,500,200,201,,,1,,5010
+900,1,ch65_passive_banner0,ch65_passive_banner_aniinfo.plist,Passive_ch65,0,1408,,0,3000,0,50,50,400,150,150,50,50,50,0,,,1,,5011
+0,1,ch70_passive_banner0,ch70_passive_banner_aniinfo.plist,Passive_ch70,5,1405,1406,0,3000,0,30,30,20,20,50,10,30,40,20,4807,500,1,500,5012
+0,1,ch87_passive_banner0,ch87_passive_banner_aniinfo.plist,Passive_ch87,6,1405,1406,0,3000,0,30,30,20,20,50,10,30,40,20,4811,500,1,500,5013

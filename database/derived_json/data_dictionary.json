@@ -1,0 +1,21 @@
+{
+  "cookie_pet_unlocks": {
+    "description": "Normalized unlock requirements extracted from UnlockCondition.csv.",
+    "fields": {
+      "id": "Internal ID of cookie or pet",
+      "conditions": "Array of requirements (ConditionId, Param, Amount)"
+    }
+  },
+  "treasure_effects": {
+    "description": "Enriched treasure data combining items and passive attributes.",
+    "fields": {
+      "id": "Treasure group ID",
+      "level": "Upgrade stage (0-10)",
+      "effect_type": "The internal code for the reward/effect",
+      "base_amount": "The base value of the effect"
+    }
+  },
+  "cookie_pet_combi_links": {
+    "description": "Mapping of synergy bonuses between cookies and pets."
+  }
+}

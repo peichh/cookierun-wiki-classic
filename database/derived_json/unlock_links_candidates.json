@@ -1,0 +1,1032 @@
+[
+  {
+    "cookie_id": "AlchemistBalanceOff",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "AlchemistCenterEnergyType",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_CoinCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_CoinCountWithKingCoin",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_MagnetSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_ProjectileStartOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_StoneHeightLimit",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Baduk_StoneSpeed",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BananaCoinJellyCountMax",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BananaGoldCoinRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BardDoubleJumpCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_AttackCooltime",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_BariRunColArea",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_BariRunGiantSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_BigSoulAttackCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_BigSoulColArea",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_BigSoulMovement",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_MagnetSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_MakeNormalSoulJellyAmount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_MakeSpecialSoulJellyAmount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_NormalSoulAttackCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_NormalSoulColArea",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_SpecialSoulAttackCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_SpecialSoulColArea",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_SpecialSoulIndex",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_SwordColArea",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BariPrincess_SwordSpeed",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BoriGiantCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BoriGiantSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "BoriRecovery",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ChainLightning_NumOfJelly",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "CheerleaderCookieGoldProbValue",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "CheeseCakeJellyProbValue",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "CherryBomb_Max_Additional_Number",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "CherryBomb_Recovery",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Chungmu_Cannon",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Chungmu_Jellycho",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Chungmu_Soldiers",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Chungmu_TransformMagnetRange",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Chungmu_Transform_Speed",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "CocoaColBoxRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Cucumber_FishJellyCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DANDELION_JELLY_COUNT",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DANDELION_LAST_SEED_DELAY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DANDELION_POMPOM_MAX_Y",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DANDELION_POMPOM_MIN_Y",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DANDELION_TRANSFORM_SPEED",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DUBAI_SPREAD_SPAWN_DISTANCE",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DUBAI_SPREAD_SPAWN_INTERVAL",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "DUBAI_SPREAD_SPAWN_MAX_COUNT",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ExercisesBlastBonus",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ExercisesCriticalMulti",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ExercisesCriticalProb",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "FireSpiritSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "FoolHoldRangeWithColBoxOn",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GARAE_JELLY_AMOUNT",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GARAE_OBSTACLE_JELLY_AMOUNT",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GARAE_OBSTACLE_JELLY_LIMIT_AMOUNT",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GARAE_TRANSFORM_MAGNET_SIZE",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GARAE_TRANSFORM_SPEED",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "GEUMGANG_GHOST_GENERATE_COOLTIME",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Guardian4JellyEP4",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeAttackColBoxOffsetX",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeAttackColBoxOffsetY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeAttackColBoxX",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeAttackColBoxY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeDrawAttackColBox",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JujubeObstacleSmallInterval",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "JungleWarriorHeartCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_CLONE_COOLTIME",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_CLONE_CRASH_DELAY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_CLONE_DEFAULT_POSITION",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_CLONE_FAR_OBSTACLE_TEST_AREA",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_CLONE_NEAR_OBSTACLE_TEST_AREA",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KAYMAK_TRANSFORM_SPEED",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_CreationDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_DisappearenceDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_DustEffectScale",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinAniScale",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinColBoxHeight",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinCrashMaxDistanceFromCookie",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpinOffsetX",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpinOffsetY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpinScale",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpinScaleMax",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinSpinWidth",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinStartOffsetX",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KajuKatli_JavelinStartOffsetY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "KiwiFuelBoostDuration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LOTUSROOT_SKELETON_JELLY_COUNT_OBSTACLE",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LOTUSROOT_SMALL_WAVE_SPEED",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LOTUSROOT_WAVE_SPEED",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LimeBigBoomDist",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LimeBoomJellyCountBig",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LimeBoomJellyCountNormal",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LimeNormalBoomDist",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "LimeTransformSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MANGGAE_TRANSFORM_MAGNET_RANGE",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MANGGAE_TRANSFORM_SCALE_FACTOR",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MagicalGirlCenterJelly",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MagicalGirlCenterJellyPerCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MagicianJelly",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalExplosionCoinJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalExplosionGoldJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalExplosionKingCoinRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalExplosionPosY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalKingCoinInterval",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_CoinPortalRatio",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_JellyPortalCoinJellyCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_JellyPortalExplosionCoinJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_JellyPortalExplosionJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_JellyPortalExplosionPosY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalColAreaOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalColAreaSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalCrashAreaOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalCrashAreaSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalExplosionCoinJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalExplosionGoldCoinRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalExplosionJellyRadius",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalExplosionLowerEffectPosY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalExplosionPosY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalJellyMaxCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalRatio",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_LargePortalRecovery",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_MarshmallowBearJellyYRange",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalBuffLowerEffectFadeDuration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalBuffLowerEffectInitCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalBuffLowerEffectInterval",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalBuffLowerEffectMoveSpeed",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalExplosionColAreaOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalExplosionColAreaSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_PortalMagnetSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SlowMotion",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalCoinJellyMaxCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalColAreaOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalColAreaSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalCrashAreaOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalCrashAreaSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalJellyMaxCount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SmallPortalRecovery",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_SpecialBgFadeRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "MallowBunny_UpperPortalJudge",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeBallBoostXDiff",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeBallBoostYdiff",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeBallXDiff",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeBallYdiff",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeSmashJumpAniDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeSmashRunAniDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeSmashSlideAniDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "OrangeSpikeAniDelay",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachBamBooLeafJellyDist",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachEndGenObstacleBufferTime",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPhaseWeight1",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPhaseWeight2",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPhaseWeight3",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPlatformCount1",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPlatformCount2",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachObstacleGenPlatformCount3",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PeachTransformSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PineMonkCookieSutraCoinForGold",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PineMonkCookieTransformSpeed",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_CarpetFadeOutTime",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_CarpetGravity",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_GoldCoinExplosionWeight",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_KingCoinExplosionWeight",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_MakeCoinAngle",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_MakeCoinLineDistance",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_MakeCoinOffset",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_MayoMakeCoinLine",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_PotatoMakeCoinLine",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "PotatoSalad_SilverCoinExplosionWeight",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeHammerEffectOffsetX",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeHammerEffectOffsetY",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeMaterialFlyingJellyEnd",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeMaterialFlyingJellyStart",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeMaterialJellyEnd",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "RollCakeMaterialJellyStart",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SeaFairyJelly",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarJellyCoolTime",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarLifeCoolTime",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarLifeValue",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarSummon1Distance",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarSummon1Jelly",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SnowSugarSummon1Velocity",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SodaSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Soda_WaveStart_Daration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "StrawberryShortcakeRunMagnetSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "StrawberryShortcakeRunOffImmortal",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "StrawberryShortcakeTransformMagnetSize",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "StrawberryShortcakeTransformOffImmortal",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SuperDevilRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "SuperHeroRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ViolinistColBoxHeight",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "ViolinistColBoxWidth",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WerewolfColBoxRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WerewolfWorldSpeedRate",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "Werewolf_Effect_Claw_Offset_Y",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolateIncompleteAuraEffectDuration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolateIncompleteRateMin",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolateMaxAuraEffectDuration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolateSliceEffectDuration",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolatemIncompleteJellyDiscount",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolatemSubgaugeComplete",
+    "name": null,
+    "unlock_condition_raw": null
+  },
+  {
+    "cookie_id": "WhiteChocolatemSubgaugeIncomplete",
+    "name": null,
+    "unlock_condition_raw": null
+  }
+]

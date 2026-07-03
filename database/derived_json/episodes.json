@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "epN01",
+    "type": "NORMAL",
+    "unlocked_by": ""
+  },
+  {
+    "id": "2",
+    "name": "epN02",
+    "type": "NORMAL",
+    "unlocked_by": "200000"
+  },
+  {
+    "id": "3",
+    "name": "epN03",
+    "type": "NORMAL",
+    "unlocked_by": "300000"
+  },
+  {
+    "id": "4",
+    "name": "epN04",
+    "type": "NORMAL",
+    "unlocked_by": "400000"
+  },
+  {
+    "id": "5",
+    "name": "epN05",
+    "type": "NORMAL",
+    "unlocked_by": "500000"
+  },
+  {
+    "id": "501",
+    "name": "epS01",
+    "type": "SPECIAL",
+    "unlocked_by": "50100000"
+  },
+  {
+    "id": "502",
+    "name": "epS02",
+    "type": "ICE_TOWER",
+    "unlocked_by": "50200000"
+  },
+  {
+    "id": "503",
+    "name": "epS03",
+    "type": "NORMAL",
+    "unlocked_by": "50300000"
+  },
+  {
+    "id": "6",
+    "name": "epN06",
+    "type": "NORMAL",
+    "unlocked_by": "600000"
+  },
+  {
+    "id": "601",
+    "name": "epEV01",
+    "type": "SPECIAL",
+    "unlocked_by": "50103909"
+  },
+  {
+    "id": "602",
+    "name": "epEV02",
+    "type": "SPECIAL",
+    "unlocked_by": ""
+  },
+  {
+    "id": "701",
+    "name": "epM01",
+    "type": "PARTY_RUN",
+    "unlocked_by": ""
+  }
+]

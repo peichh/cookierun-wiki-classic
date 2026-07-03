@@ -1,0 +1,2294 @@
+{
+  "code_explanations": {
+    "sources": [
+      "original/*.csv",
+      "extracted/*.csv"
+    ],
+    "fields": {
+      "cookie_parameters": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "pet_parameters": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "pregame_boosters": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "treasure_parameters": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "unlock_id_mapping": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ]
+    }
+  },
+  "combi_bonuses": {
+    "sources": [
+      "derived_json/cookie_pet_combi_links.json",
+      "original/EquipmentItemSeoul.csv",
+      "original/TreasureItemData.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "source_id": [
+        "cookie_pet_combi_links._key"
+      ],
+      "source_group_id": [
+        "EquipmentItemSeoul.group_seq",
+        "TreasureItemData.group_seq"
+      ],
+      "source_name": [
+        "StuffName_ko.Name",
+        "EquipmentItemSeoul.stuff_name",
+        "TreasureItemData.stuff_name"
+      ],
+      "source_type": [
+        "EquipmentItemSeoul.stuffType",
+        "TreasureItemData.stuffType",
+        "id_prefix_inference"
+      ],
+      "resource_key": [
+        "cookie_pet_combi_links.ResourceKeyString"
+      ],
+      "unlock_id": [
+        "cookie_pet_combi_links.UnlockId"
+      ],
+      "bonuses.slot": [
+        "cookie_pet_combi_links.Id_n/Value_n slot index"
+      ],
+      "bonuses.bonus_id": [
+        "cookie_pet_combi_links.Id_n"
+      ],
+      "bonuses.bonus_name": [
+        "StuffName_ko.Name",
+        "StuffName_ko.DetailDescription",
+        "skill_line_inference"
+      ],
+      "bonuses.bonus_type": [
+        "EquipmentItemSeoul.stuffType",
+        "TreasureItemData.stuffType",
+        "id_prefix_inference"
+      ],
+      "bonuses.bonus_value": [
+        "cookie_pet_combi_links.Value_n"
+      ]
+    }
+  },
+  "combi_effects": {
+    "sources": [
+      "derived_json/cookie_pet_combi_links.json",
+      "original/EquipmentItemSeoul.csv",
+      "original/TreasureItemData.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "source_id": [
+        "cookie_pet_combi_links._key"
+      ],
+      "slot": [
+        "cookie_pet_combi_links.Id_n/Value_n slot index"
+      ],
+      "bonus_id": [
+        "cookie_pet_combi_links.Id_n"
+      ],
+      "bonus_name": [
+        "StuffName_ko.Name",
+        "StuffName_ko.DetailDescription",
+        "skill_line_inference"
+      ],
+      "bonus_type": [
+        "EquipmentItemSeoul.stuffType",
+        "TreasureItemData.stuffType",
+        "id_prefix_inference"
+      ],
+      "bonus_value": [
+        "cookie_pet_combi_links.Value_n"
+      ]
+    }
+  },
+  "cookie_pet_combi_links": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "BasicEnergy": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "Id_1": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "ResourceKeyString": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "UnlockId": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "Value_1": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "_key": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "cookie_pet_unlocks": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "conditions": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "cookies": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "grade": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "levels": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "name": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "unlock_condition": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "cookies_rich": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "grade": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "image": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "levels": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "name": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "unlock_condition": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "data_dictionary": {
+    "sources": [
+      "original/*.csv",
+      "extracted/*.csv"
+    ],
+    "fields": {
+      "cookie_pet_combi_links": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "cookie_pet_unlocks": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "treasure_effects": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ]
+    }
+  },
+  "effect_type_dictionary": {
+    "sources": [
+      "extracted/localization_csv/TreasurePassiveAttr.csv"
+    ],
+    "fields": {
+      "code": [
+        "TreasurePassiveAttr.reward"
+      ],
+      "label_en": [
+        "manual_inference_from_reward_patterns"
+      ],
+      "label_th": [
+        "manual_inference_from_reward_patterns"
+      ],
+      "description": [
+        "manual_inference_from_reward_patterns"
+      ],
+      "observed_patterns.qty": [
+        "TreasurePassiveAttr.qty"
+      ],
+      "observed_patterns.prob": [
+        "TreasurePassiveAttr.prob"
+      ],
+      "observed_patterns.reward_stuff_seq": [
+        "TreasurePassiveAttr.reward_stuff_seq"
+      ],
+      "observed_patterns.reward_stuff_seq_set": [
+        "TreasurePassiveAttr.reward_stuff_seq_set"
+      ],
+      "observed_patterns.reward_condition": [
+        "TreasurePassiveAttr.reward_condition"
+      ]
+    }
+  },
+  "episode_jelly_scores_summary": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "episodes": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "id": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "name": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "type": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "unlocked_by": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "gacha_rates": {
+    "sources": [
+      "original/Gashapone_Step1_Rate.csv",
+      "original/Gashapone_Step2_Rate.csv",
+      "original/Probability_*.csv"
+    ],
+    "fields": {
+      "pets": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ],
+      "step1": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ],
+      "treasures": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ]
+    }
+  },
+  "gacha_rates_normalized": {
+    "sources": [
+      "original/Gashapone_Step1_Rate.csv",
+      "original/Gashapone_Step2_Rate.csv",
+      "original/Probability_*.csv"
+    ],
+    "fields": {
+      "pets": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ],
+      "step1": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ],
+      "treasures": [
+        "original/Gashapone_Step1_Rate.csv",
+        "original/Gashapone_Step2_Rate.csv",
+        "original/Probability_*.csv"
+      ]
+    }
+  },
+  "ingredients": {
+    "sources": [
+      "original/Artifact.csv",
+      "original/Material.csv",
+      "original/MaterialRecipe.csv"
+    ],
+    "fields": {}
+  },
+  "jelly_data": {
+    "sources": [
+      "original/CRXJellyStatBasicData_BigChange.csv",
+      "original/JellyStatData.csv",
+      "original/JellyResourceInfo.csv"
+    ],
+    "fields": {
+      "basic_scaling": [
+        "original/CRXJellyStatBasicData_BigChange.csv",
+        "original/JellyStatData.csv",
+        "original/JellyResourceInfo.csv"
+      ],
+      "magic_scaling": [
+        "original/CRXJellyStatBasicData_BigChange.csv",
+        "original/JellyStatData.csv",
+        "original/JellyResourceInfo.csv"
+      ]
+    }
+  },
+  "map_details_Shared": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epEV01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epEV02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epM01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN03": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN04": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN05": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epN06": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epS01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epS02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_details_epS03": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "episode": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "estimated_base_score": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_breakdown": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stages": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "total_jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_Shared": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {}
+  },
+  "map_spatial_details_epEV01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epEV02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epM01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN03": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN04": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN05": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epN06": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epS01": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {}
+  },
+  "map_spatial_details_epS02": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "map_spatial_details_epS03": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "end_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jellies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "speed": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "stage": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "start_x": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "mechanics": {
+    "sources": [
+      "original/InnerSystemConfig.csv",
+      "original/CRXSpecialGameRule.csv",
+      "original/LevelContents.csv"
+    ],
+    "fields": {
+      "episode_1_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "episode_2_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "episode_3_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "episode_4_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "episode_5_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "episode_6_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "event_episode_1_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "event_episode_2_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "jellies": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "master_config": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "mini_game_episode_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "physics_and_config": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "special_episode_1_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "special_episode_2_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "special_episode_3_stages": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ],
+      "upgrades": [
+        "original/InnerSystemConfig.csv",
+        "original/CRXSpecialGameRule.csv",
+        "original/LevelContents.csv"
+      ]
+    }
+  },
+  "pets": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/PetBalance.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "grade": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "levels": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "name": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "unlock_condition": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "pets_rich": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/PetBalance.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "grade": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "image": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "levels": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "name": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "unlock_condition": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "progression": {
+    "sources": [
+      "original/LevelContents.csv"
+    ],
+    "fields": {
+      "bonus_multiplier": [
+        "original/LevelContents.csv"
+      ],
+      "exp_to_next": [
+        "original/LevelContents.csv"
+      ],
+      "level": [
+        "original/LevelContents.csv"
+      ]
+    }
+  },
+  "raw_cookie_params": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "id": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "name": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "stats": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "source_map": {
+    "sources": [
+      "original/Episode.csv",
+      "original/StageScenarioList.csv",
+      "original/MapStageScenario_*.csv"
+    ],
+    "fields": {
+      "code_explanations": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "combi_bonuses": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "combi_effects": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "cookie_pet_combi_links": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "cookie_pet_unlocks": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "cookies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "cookies_rich": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "data_dictionary": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "effect_type_dictionary": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "episode_jelly_scores_summary": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "episodes": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "gacha_rates": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "gacha_rates_normalized": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ingredients": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "jelly_data": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_Shared": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epEV01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epEV02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epM01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN03": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN04": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN05": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epN06": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epS01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epS02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_details_epS03": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_Shared": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epEV01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epEV02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epM01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN03": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN04": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN05": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epN06": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epS01": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epS02": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "map_spatial_details_epS03": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "mechanics": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "pets": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "pets_rich": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "progression": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "raw_cookie_params": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "source_map": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "treasure_effect_candidates": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "treasure_effects": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "treasure_tags": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "treasures": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_combi": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_combi_normalized": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_cookies": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_pets": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_treasures": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "ultimate_treasures_normalized": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "unlock_links_candidates": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ],
+      "unlock_links_recovered": [
+        "original/Episode.csv",
+        "original/StageScenarioList.csv",
+        "original/MapStageScenario_*.csv"
+      ]
+    }
+  },
+  "treasure_effect_candidates": {
+    "sources": [
+      "original/TreasureItemData.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/TreasurePassiveAttr.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {}
+  },
+  "treasure_effects": {
+    "sources": [
+      "original/TreasureItemData.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/TreasurePassiveAttr.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "id": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "level": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "name": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "price_coin": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "price_crystal": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "type": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "treasure_tags": {
+    "sources": [
+      "derived_json/treasure_effects.json",
+      "derived_json/effect_type_dictionary.json"
+    ],
+    "fields": {
+      "id": [
+        "treasure_effects.id"
+      ],
+      "name": [
+        "treasure_effects.name"
+      ],
+      "effect_types": [
+        "treasure_effects.effect_type"
+      ],
+      "tags": [
+        "effect_type_dictionary.label_en"
+      ],
+      "tag_labels_th": [
+        "effect_type_dictionary.label_th"
+      ]
+    }
+  },
+  "treasures": {
+    "sources": [
+      "original/TreasureItemData.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/TreasurePassiveAttr.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "id": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "levels": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "name": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "rarity": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "recipe": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "ultimate_combi": {
+    "sources": [
+      "original/*.csv",
+      "extracted/*.csv"
+    ],
+    "fields": {
+      "BasicEnergy": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "Id_1": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "ResourceKeyString": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "UnlockId": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "Value_1": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "_key": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ]
+    }
+  },
+  "ultimate_combi_normalized": {
+    "sources": [
+      "original/*.csv",
+      "extracted/*.csv"
+    ],
+    "fields": {
+      "BasicEnergy": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "Id_1": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "ResourceKeyString": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "UnlockId": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "Value_1": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "_key": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ]
+    }
+  },
+  "ultimate_cookies": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "_key": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "resource_key": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "unlock_condition_text": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ],
+      "value": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv",
+        "original/UnlockCondition.csv"
+      ]
+    }
+  },
+  "ultimate_pets": {
+    "sources": [
+      "original/EquipmentItemSeoul.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/PetBalance.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "_key": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "resource_key": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "unlock_condition_text": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "value": [
+        "original/EquipmentItemSeoul.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/PetBalance.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "ultimate_treasures": {
+    "sources": [
+      "original/TreasureItemData.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/TreasurePassiveAttr.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "_key": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "activity_pointB": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "group_seq": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "imageTag": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "levels": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "mix_level": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "moneyTypeA": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "moneyTypeB": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "priceA": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "priceB": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "qty": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "recipes": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "special_type": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "stuffStatus": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "stuffType": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "stuff_name": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "tag": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "upgrade_costs": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "ultimate_treasures_normalized": {
+    "sources": [
+      "original/TreasureItemData.csv",
+      "original/EquipmentDataCookieRun.csv",
+      "original/TreasurePassiveAttr.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv"
+    ],
+    "fields": {
+      "category": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "id": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "levels": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "name": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "recipes": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ],
+      "upgrade_costs": [
+        "original/TreasureItemData.csv",
+        "original/EquipmentDataCookieRun.csv",
+        "original/TreasurePassiveAttr.csv",
+        "extracted/djbf_extra_csv/StuffName_ko.csv"
+      ]
+    }
+  },
+  "unlock_links_candidates": {
+    "sources": [
+      "original/*.csv",
+      "extracted/*.csv"
+    ],
+    "fields": {
+      "cookie_id": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "name": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ],
+      "unlock_condition_raw": [
+        "original/*.csv",
+        "extracted/*.csv"
+      ]
+    }
+  },
+  "unlock_links_recovered": {
+    "sources": [
+      "derived_json/cookie_pet_unlocks.json",
+      "original/EquipmentDataCookieRun.csv",
+      "original/EquipmentItemSeoul.csv",
+      "original/TreasureItemData.csv",
+      "extracted/djbf_extra_csv/StuffName_ko.csv",
+      "original/UnlockCondition.csv"
+    ],
+    "fields": {
+      "unlock_id": [
+        "EquipmentDataCookieRun.UnlockId"
+      ],
+      "unlocked_entity_id": [
+        "EquipmentDataCookieRun._key"
+      ],
+      "unlocked_group_id": [
+        "EquipmentItemSeoul.group_seq",
+        "TreasureItemData.group_seq"
+      ],
+      "unlocked_entity_name": [
+        "StuffName_ko.Name",
+        "EquipmentItemSeoul.stuff_name",
+        "TreasureItemData.stuff_name"
+      ],
+      "unlocked_entity_type": [
+        "EquipmentItemSeoul.stuffType",
+        "TreasureItemData.stuffType",
+        "id_prefix_inference"
+      ],
+      "resource_key": [
+        "EquipmentDataCookieRun.ResourceKeyString"
+      ],
+      "conditions.type_id": [
+        "UnlockCondition.ConditionId_n"
+      ],
+      "conditions.param": [
+        "UnlockCondition.Parameter_n"
+      ],
+      "conditions.amount": [
+        "cookie_pet_unlocks.conditions.amount",
+        "UnlockCondition.RequiredAmount_n"
+      ]
+    }
+  }
+}

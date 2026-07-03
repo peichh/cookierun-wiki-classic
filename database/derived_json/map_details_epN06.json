@@ -1,0 +1,260 @@
+{
+  "episode": "epN06",
+  "total_jellies": 5946,
+  "estimated_base_score": 4892580,
+  "jelly_breakdown": {
+    "Small Health": 1557,
+    "Bonus Time": 315,
+    "ID_4215": 1080,
+    "ID_4234": 612,
+    "Blast Jelly": 348,
+    "ID_4119": 72,
+    "ID_4338": 930,
+    "Bear Party": 258,
+    "Magnet Jelly": 258,
+    "Giant Jelly": 258,
+    "Coin Party": 258
+  },
+  "stages": [
+    {
+      "stage": "9001",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9003",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9005",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9002",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9004",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9006",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "10001",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "1",
+      "speed": "1000",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "2",
+      "speed": "1025",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "3",
+      "speed": "1050",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "4",
+      "speed": "1075",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "5",
+      "speed": "1100",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "6",
+      "speed": "1125",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "7",
+      "speed": "1200",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "8",
+      "speed": "1225",
+      "total_jellies": 784,
+      "base_score": 565120,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 53,
+        "ID_4119": 8,
+        "ID_4338": 155,
+        "Bear Party": 43,
+        "Magnet Jelly": 43,
+        "Giant Jelly": 43,
+        "Coin Party": 43
+      }
+    },
+    {
+      "stage": "9",
+      "speed": "1100",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "9",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9",
+      "speed": "1300",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9",
+      "speed": "1400",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9",
+      "speed": "1600",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    }
+  ]
+}

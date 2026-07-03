@@ -1,0 +1,37 @@
+[
+  {
+    "\ufeffImageName": "crc_invite_info_pet29.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "202900",
+    "inviteCount": "5",
+    "_key": "1"
+  },
+  {
+    "\ufeffImageName": "crc_invite_info_pet83.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "208300",
+    "inviteCount": "10",
+    "_key": "2"
+  },
+  {
+    "\ufeffImageName": "crc_invite_info_pet87.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "208700",
+    "inviteCount": "15",
+    "_key": "3"
+  },
+  {
+    "\ufeffImageName": "crc_invite_info_pet101.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "210100",
+    "inviteCount": "20",
+    "_key": "4"
+  },
+  {
+    "\ufeffImageName": "",
+    "RewardViewValue": "50",
+    "StuffSeq": "711",
+    "inviteCount": "29",
+    "_key": "5"
+  }
+]

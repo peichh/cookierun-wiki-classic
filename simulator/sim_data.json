@@ -1,0 +1,3982 @@
+{
+  "cookies": {
+    "GingerBrave": {
+      "hp": 160,
+      "id": "100400"
+    },
+    "Strawberry Cookie": {
+      "hp": 135,
+      "id": "100200"
+    },
+    "GingerBright": {
+      "hp": 110,
+      "id": "100300"
+    },
+    "Cloud Cookie": {
+      "hp": 135,
+      "id": "100500"
+    },
+    "Buttercream Choco Cookie": {
+      "hp": 135,
+      "id": "100600",
+      "coin_bonus": 0.25
+    },
+    "Ninja Cookie": {
+      "hp": 160,
+      "id": "100700"
+    },
+    "Princess Cookie": {
+      "hp": 150,
+      "id": "100800"
+    },
+    "Knight Cookie": {
+      "hp": 150,
+      "id": "100900"
+    },
+    "Coffee Cookie": {
+      "hp": 150,
+      "id": "101000"
+    },
+    "Skater Cookie": {
+      "hp": 150,
+      "id": "101100"
+    },
+    "Angel Cookie": {
+      "hp": 160,
+      "id": "101200"
+    },
+    "Zombie Cookie": {
+      "hp": 150,
+      "id": "101300"
+    },
+    "Cream Cookie": {
+      "hp": 135,
+      "id": "101400"
+    },
+    "Muscle Cookie": {
+      "hp": 150,
+      "id": "101500"
+    },
+    "Pirate Cookie": {
+      "hp": 160,
+      "id": "101600"
+    },
+    "Skating Queen Cookie": {
+      "hp": 160,
+      "id": "101800"
+    },
+    "Hero Cookie": {
+      "hp": 160,
+      "id": "101900"
+    },
+    "Cheerleader Cookie": {
+      "hp": 160,
+      "id": "102000"
+    },
+    "Special Force Cookie": {
+      "hp": 160,
+      "id": "102100"
+    },
+    "Rebel Cookie": {
+      "hp": 180,
+      "id": "102200"
+    },
+    "Devil Cookie": {
+      "hp": 160,
+      "id": "102300"
+    },
+    "Kumiho Cookie": {
+      "hp": 160,
+      "id": "102400"
+    },
+    "Wizard Cookie": {
+      "hp": 160,
+      "id": "102500"
+    },
+    "Fairy Cookie": {
+      "hp": 180,
+      "id": "102600"
+    },
+    "Rockstar Cookie": {
+      "hp": 160,
+      "id": "102700"
+    },
+    "Cherry Cookie": {
+      "hp": 160,
+      "id": "102800"
+    },
+    "Carol Cookie": {
+      "hp": 160,
+      "id": "102900"
+    },
+    "Snow Sugar Cookie": {
+      "hp": 160,
+      "id": "103000"
+    },
+    "Pink Coco Cookie": {
+      "hp": 160,
+      "id": "103100"
+    },
+    "Prophet Cookie": {
+      "hp": 160,
+      "id": "103200"
+    },
+    "Pistachio Cookie": {
+      "hp": 160,
+      "id": "103300"
+    },
+    "Alchemist Cookie": {
+      "hp": 160,
+      "id": "103400"
+    },
+    "Vampire Cookie": {
+      "hp": 160,
+      "id": "103500"
+    },
+    "Apple Cookie": {
+      "hp": 160,
+      "id": "103600"
+    },
+    "Cheesecake Cookie": {
+      "hp": 160,
+      "id": "103700"
+    },
+    "Adventurer Cookie": {
+      "hp": 160,
+      "id": "103800"
+    },
+    "Soda Cookie": {
+      "hp": 160,
+      "id": "103900"
+    },
+    "Tiger Lily Cookie": {
+      "hp": 185,
+      "id": "104000"
+    },
+    "Fire Spirit Cookie": {
+      "hp": 185,
+      "id": "104100"
+    },
+    "Blackberry Cookie": {
+      "hp": 160,
+      "id": "104200"
+    },
+    "Kiwi Cookie": {
+      "hp": 160,
+      "id": "104300"
+    },
+    "Werewolf Cookie": {
+      "hp": 160,
+      "id": "104400"
+    },
+    "Cocoa Cookie": {
+      "hp": 160,
+      "id": "104500"
+    },
+    "Mint Choco Cookie": {
+      "hp": 160,
+      "id": "104600"
+    },
+    "Red Pepper Cookie": {
+      "hp": 160,
+      "id": "104700"
+    },
+    "Cream Puff Cookie": {
+      "hp": 160,
+      "id": "104800"
+    },
+    "Moonlight Cookie": {
+      "hp": 185,
+      "id": "104900"
+    },
+    "Gumball Cookie": {
+      "hp": 160,
+      "id": "105000"
+    },
+    "Cherry Blossom Cookie": {
+      "hp": 160,
+      "id": "105100"
+    },
+    "Lemon Cookie": {
+      "hp": 160,
+      "id": "105200"
+    },
+    "Orange Cookie": {
+      "hp": 160,
+      "id": "105300"
+    },
+    "Lime Cookie": {
+      "hp": 160,
+      "id": "105400"
+    },
+    "Peppermint Cookie": {
+      "hp": 160,
+      "id": "105500"
+    },
+    "Peach Cookie": {
+      "hp": 160,
+      "id": "105600"
+    },
+    "General Jujube Cookie": {
+      "hp": 160,
+      "id": "105700"
+    },
+    "Onion Cookie": {
+      "hp": 160,
+      "id": "105800"
+    },
+    "Macaron Cookie": {
+      "hp": 160,
+      "id": "105900"
+    },
+    "Cinnamon Cookie": {
+      "hp": 160,
+      "id": "106000"
+    },
+    "Red Bean Cookie": {
+      "hp": 160,
+      "id": "106100"
+    },
+    "White Choco Cookie": {
+      "hp": 160,
+      "id": "106200"
+    },
+    "Herb Cookie": {
+      "hp": 160,
+      "id": "106300"
+    },
+    "Dino-Sour Cookie": {
+      "hp": 160,
+      "id": "106400"
+    },
+    "Sea Fairy Cookie": {
+      "hp": 185,
+      "id": "106500"
+    },
+    "Cotton Candy Cookie": {
+      "hp": 160,
+      "id": "106600"
+    },
+    "Roll Cake Cookie": {
+      "hp": 160,
+      "id": "106700"
+    },
+    "Banana Cookie": {
+      "hp": 160,
+      "id": "106800"
+    },
+    "Pancake Cookie": {
+      "hp": 160,
+      "id": "106900"
+    },
+    "Wind Archer Cookie": {
+      "hp": 185,
+      "id": "107000"
+    },
+    "Moon Rabbit Cookie": {
+      "hp": 160,
+      "id": "107100"
+    },
+    "Strawberry Shortcake Cookie": {
+      "hp": 160,
+      "id": "107200"
+    },
+    "Gulab Jamun Cookie": {
+      "hp": 160,
+      "id": "107300"
+    },
+    "Kaju Katli Cookie": {
+      "hp": 160,
+      "id": "107400"
+    },
+    "Marshmallow Bunny Cookie": {
+      "hp": 160,
+      "id": "107500"
+    },
+    "Cucumber Cookie": {
+      "hp": 160,
+      "id": "107700"
+    },
+    "Sikhye Cookie": {
+      "hp": 160,
+      "id": "107800"
+    },
+    "Sujeonggwa Cookie": {
+      "hp": 160,
+      "id": "107900"
+    },
+    "Barley Sentry Cookie": {
+      "hp": 160,
+      "id": "108000"
+    },
+    "Princess Bari Cookie": {
+      "hp": 170,
+      "id": "108100"
+    },
+    "Potato Salad Cookie": {
+      "hp": 160,
+      "id": "108200"
+    },
+    "Scallion Kimchi Cookie": {
+      "hp": 160,
+      "id": "108300"
+    },
+    "White Kimchi Cookie": {
+      "hp": 160,
+      "id": "108400"
+    },
+    "Admiral Gimbap Cookie": {
+      "hp": 170,
+      "id": "108500"
+    },
+    "Manggaetteok Cookie": {
+      "hp": 160,
+      "id": "108600"
+    },
+    "Blooming Dancheong Cookie": {
+      "hp": 185,
+      "id": "108700"
+    },
+    "Garaetteok Cookie": {
+      "hp": 160,
+      "id": "108800"
+    },
+    "Choco Pistachio Cookie": {
+      "hp": 160,
+      "id": "108900"
+    },
+    "Dandelion Fairy Cookie": {
+      "hp": 160,
+      "id": "109000"
+    },
+    "Kaymak Cookie": {
+      "hp": 160,
+      "id": "109100"
+    },
+    "Pine Monk Cookie": {
+      "hp": 170,
+      "id": "109200"
+    },
+    "Lotus Root Phantom Cookie": {
+      "hp": 160,
+      "id": "109300"
+    }
+  },
+  "pets": {
+    "Choco Drop": {
+      "id": "200100"
+    },
+    "Cheese Drop": {
+      "id": "200200"
+    },
+    "Hand of Liker": {
+      "id": "200300"
+    },
+    "Double Bubble": {
+      "id": "200400"
+    },
+    "Dust Unicorn": {
+      "id": "200500"
+    },
+    "Merry Hat": {
+      "id": "200600"
+    },
+    "Rainbow's End": {
+      "id": "200700"
+    },
+    "Holiday Stocking": {
+      "id": "200800"
+    },
+    "Electric Beat": {
+      "id": "200900"
+    },
+    "Rare Garlic": {
+      "id": "201000"
+    },
+    "Flowercopter": {
+      "id": "201100"
+    },
+    "Little Ghost": {
+      "id": "201200"
+    },
+    "Giggle Bomb": {
+      "id": "201300"
+    },
+    "Cozy Yarn": {
+      "id": "201400"
+    },
+    "Lucky Dice Bros": {
+      "id": "201500"
+    },
+    "Princess's Locket": {
+      "id": "201600"
+    },
+    "Dragon's Tail": {
+      "id": "201700"
+    },
+    "Brain Gum": {
+      "id": "201800"
+    },
+    "Mocha Delight": {
+      "id": "201900"
+    },
+    "Wishing Star": {
+      "id": "202000"
+    },
+    "Dumbbell Twins": {
+      "id": "202100"
+    },
+    "Snow Blossom": {
+      "id": "202300"
+    },
+    "Jellyco Cube": {
+      "id": "202400"
+    },
+    "Glitter Ball": {
+      "id": "202600"
+    },
+    "AWOL Cracker": {
+      "id": "202700"
+    },
+    "Flame Bat": {
+      "id": "202800"
+    },
+    "Golden Drop": {
+      "id": "202900"
+    },
+    "Windy": {
+      "id": "203000"
+    },
+    "Fox Bead": {
+      "id": "203100"
+    },
+    "Luck-o'-lantern": {
+      "id": "203200"
+    },
+    "Book of Wizdom": {
+      "id": "203300"
+    },
+    "Flower Pod": {
+      "id": "203400"
+    },
+    "Spotlight Fan": {
+      "id": "203500"
+    },
+    "Rocket Firecracker": {
+      "id": "203600"
+    },
+    "Yule Log Cake": {
+      "id": "203700"
+    },
+    "Snow Globe": {
+      "id": "203800"
+    },
+    "Lucky Pouch": {
+      "id": "203900"
+    },
+    "Pink Candy": {
+      "id": "204000"
+    },
+    "Purple Candle": {
+      "id": "204100"
+    },
+    "Pistachio Firefly": {
+      "id": "204200"
+    },
+    "Jelly Scale": {
+      "id": "204300"
+    },
+    "Coin Scale": {
+      "id": "204400"
+    },
+    "Oak Barrel": {
+      "id": "204500"
+    },
+    "Apple Rabbit": {
+      "id": "204600"
+    },
+    "Fluffy Cheese Cat": {
+      "id": "204700"
+    },
+    "Backpacky": {
+      "id": "204800"
+    },
+    "King Choco Drop": {
+      "id": "204900"
+    },
+    "Lemon Slice": {
+      "id": "205000"
+    },
+    "Ghost Butler": {
+      "id": "205100"
+    },
+    "Kiwi Bird": {
+      "id": "205200"
+    },
+    "Furball Pup": {
+      "id": "205300"
+    },
+    "Paprika Punching Bag": {
+      "id": "205400"
+    },
+    "Marshmallow Hamster": {
+      "id": "205600"
+    },
+    "Ms. Do-Re-Mi": {
+      "id": "205700"
+    },
+    "Mr. Fa-Sol-La-Si": {
+      "id": "205800"
+    },
+    "Owlcorn": {
+      "id": "205900"
+    },
+    "Mini Jackson No.2": {
+      "id": "206000"
+    },
+    "Tea Cup": {
+      "id": "206100"
+    },
+    "Bean Drop Duo": {
+      "id": "206200"
+    },
+    "Electro Lemon": {
+      "id": "206300"
+    },
+    "Mini Orange Mouse": {
+      "id": "206400"
+    },
+    "Platinum Drop": {
+      "id": "206500"
+    },
+    "Mr. Limeguard": {
+      "id": "206600"
+    },
+    "Paper Boat Sailor": {
+      "id": "206700"
+    },
+    "Wave Drop": {
+      "id": "206800"
+    },
+    "Panda Dumpling": {
+      "id": "206900"
+    },
+    "Uncooling Teacup": {
+      "id": "207000"
+    },
+    "Onion Fish": {
+      "id": "207100"
+    },
+    "Castanets": {
+      "id": "207200"
+    },
+    "Cinnamon Bunny": {
+      "id": "207300"
+    },
+    "Sweet Rice Seal": {
+      "id": "207400"
+    },
+    "Pocket Watch Referee": {
+      "id": "207500"
+    },
+    "Herb Teapot": {
+      "id": "207600"
+    },
+    "Dino Egg": {
+      "id": "207700"
+    },
+    "Cotton Candy Bird": {
+      "id": "207800"
+    },
+    "Light Bros": {
+      "id": "207900"
+    },
+    "Banana Lion": {
+      "id": "208000"
+    },
+    "Pancake Frisbee": {
+      "id": "208100"
+    },
+    "Moon Mortar": {
+      "id": "208200"
+    },
+    "Tiny Cake Hound": {
+      "id": "208300"
+    },
+    "Tiny Tabla": {
+      "id": "208400"
+    },
+    "Parrot Dada": {
+      "id": "208500"
+    },
+    "Soft Egg Bunny": {
+      "id": "208700"
+    },
+    "Cucu-dding": {
+      "id": "208900"
+    },
+    "Elder Black Rice": {
+      "id": "209000"
+    },
+    "Elder White Rice": {
+      "id": "209100"
+    },
+    "Pegaplush": {
+      "id": "209200"
+    },
+    "Ghoul Cake": {
+      "id": "209300"
+    },
+    "Tater Trader": {
+      "id": "209400"
+    },
+    "Lady Mudang": {
+      "id": "209500"
+    },
+    "Kimchi Bell": {
+      "id": "209600"
+    },
+    "Chronicles of Run": {
+      "id": "209700"
+    },
+    "Manggae Snail": {
+      "id": "209800"
+    },
+    "Sotdae Flock": {
+      "id": "290200"
+    },
+    "Choco Hedgehog": {
+      "id": "210000"
+    },
+    "Baby Spore": {
+      "id": "210100"
+    },
+    "Honey Gourd": {
+      "id": "210200"
+    },
+    "White Dragon Horsie": {
+      "id": "210300"
+    },
+    "Lotus Sitter": {
+      "id": "210400"
+    }
+  },
+  "treasures": {
+    "Third Skull Button": {
+      "id": "1100100"
+    },
+    "Skeleton Necklace of Bravery": {
+      "id": "11001000"
+    },
+    "Blessed Skeleton Necklace of Bravery": {
+      "id": "11001100"
+    },
+    "Sweet Strawberry": {
+      "id": "1100200"
+    },
+    "Sweet Strawberry Tart": {
+      "id": "11002000"
+    },
+    "Blessed Sweet Strawberry Tart": {
+      "id": "11002100"
+    },
+    "Lollipop Bite": {
+      "id": "1100300"
+    },
+    "Sugary Lollipop Shard": {
+      "id": "11003000"
+    },
+    "Blessed Sugary Lollipop Shard": {
+      "id": "11003100"
+    },
+    "Ginger Claus Gift Bag": {
+      "id": "1100400"
+    },
+    "Rainbow Candy": {
+      "id": "1100500"
+    },
+    "Double Rainbow Candy": {
+      "id": "11005000"
+    },
+    "Blessed Double Rainbow Candy": {
+      "id": "11005100"
+    },
+    "Premium Butter": {
+      "id": "1100600"
+    },
+    "Buttercream Choco Pancake": {
+      "id": "11006000"
+    },
+    "Blessed Buttercream Choco Pancake": {
+      "id": "11006100"
+    },
+    "Tree Leaf": {
+      "id": "1100700"
+    },
+    "Glistening Green Leaves": {
+      "id": "11007000"
+    },
+    "Blessed Glistening Green Leaves": {
+      "id": "11007100"
+    },
+    "Ruby Ring": {
+      "id": "1100800"
+    },
+    "Gleaming Choco Ring": {
+      "id": "11008000"
+    },
+    "Blessed Gleaming Choco Ring": {
+      "id": "11008100"
+    },
+    "Lucky Horseshoe": {
+      "id": "1100900"
+    },
+    "Steel Spike Horseshoe": {
+      "id": "11009000"
+    },
+    "Blessed Steel Spike Horseshoe": {
+      "id": "11009100"
+    },
+    "Coffee Bean": {
+      "id": "1101000"
+    },
+    "Miraculous Café Latte": {
+      "id": "11010000"
+    },
+    "Blessed Miraculous Café Latte": {
+      "id": "11010100"
+    },
+    "Quick Wheels": {
+      "id": "1101100"
+    },
+    "Burn Some Rubber Tire": {
+      "id": "11011000"
+    },
+    "Blessed Burn Some Rubber Tire": {
+      "id": "11011100"
+    },
+    "Holy Feather": {
+      "id": "1101200"
+    },
+    "Rainbow Feather": {
+      "id": "11012000"
+    },
+    "Blessed Rainbow Feather": {
+      "id": "11012100"
+    },
+    "Blood Cell": {
+      "id": "1101300"
+    },
+    "Wiggly Zombie Cell": {
+      "id": "11013000"
+    },
+    "Blessed Wiggly Zombie Cell": {
+      "id": "11013100"
+    },
+    "Afternoon Snack": {
+      "id": "1101400"
+    },
+    "Midnight Snack": {
+      "id": "11014000"
+    },
+    "Blessed Midnight Snack": {
+      "id": "11014100"
+    },
+    "Protein Powder": {
+      "id": "1101500"
+    },
+    "Full Power Protein Powder": {
+      "id": "11015000"
+    },
+    "Blessed Full Power Protein Powder": {
+      "id": "11015100"
+    },
+    "Revival Boots": {
+      "id": "1101600"
+    },
+    "Gutsy Revival Boots": {
+      "id": "11016000"
+    },
+    "Blessed Gutsy Revival Boots": {
+      "id": "11016100"
+    },
+    "Blueberry Hairpin": {
+      "id": "1101800"
+    },
+    "Glossy Blueberry Sherbet": {
+      "id": "11018000"
+    },
+    "Blessed Glossy Blueberry Sherbet": {
+      "id": "11018100"
+    },
+    "Mint Candy": {
+      "id": "1101900"
+    },
+    "High Density Mint Candy": {
+      "id": "11019000"
+    },
+    "Blessed High Density Mint Candy": {
+      "id": "11019100"
+    },
+    "Pink Megaphone": {
+      "id": "1102000"
+    },
+    "10-octave Pink Megaphone": {
+      "id": "11020000"
+    },
+    "Blessed 10-octave Pink Megaphone": {
+      "id": "11020100"
+    },
+    "Face Paint": {
+      "id": "1102100"
+    },
+    "Water-proof Choco Camouflage": {
+      "id": "11021000"
+    },
+    "Blessed Water-proof Choco Camouflage": {
+      "id": "11021100"
+    },
+    "Decoy Doll": {
+      "id": "1102200"
+    },
+    "Used Voodoo Doll": {
+      "id": "11022000"
+    },
+    "Blessed Used Voodoo Doll": {
+      "id": "11022100"
+    },
+    "Tail Compass": {
+      "id": "1102300"
+    },
+    "Pointy-tailed Compass": {
+      "id": "11023000"
+    },
+    "Blessed Pointy-tailed Compass": {
+      "id": "11023100"
+    },
+    "Fresh Pudding": {
+      "id": "1102400"
+    },
+    "Medium Rare Red Pudding": {
+      "id": "11024000"
+    },
+    "Blessed Medium Rare Red Pudding": {
+      "id": "11024100"
+    },
+    "Ice Cream Cone": {
+      "id": "1102500"
+    },
+    "Gold Dust Ice Cream Sundae": {
+      "id": "11025000"
+    },
+    "Blessed Gold Dust Ice Cream Sundae": {
+      "id": "11025100"
+    },
+    "Green Tea Cake": {
+      "id": "1102600"
+    },
+    "Premium Green Tea Roll Cake": {
+      "id": "11026000"
+    },
+    "Blessed Premium Green Tea Roll Cake": {
+      "id": "11026100"
+    },
+    "Legendary Guitar Pick": {
+      "id": "1102700"
+    },
+    "Guitar Pick Pendant": {
+      "id": "11027000"
+    },
+    "Blessed Guitar Pick Pendant": {
+      "id": "11027100"
+    },
+    "Party Cupcake": {
+      "id": "1102800"
+    },
+    "Heartfelt Birthday Cake": {
+      "id": "11028000"
+    },
+    "Blessed Heartfelt Birthday Cake": {
+      "id": "11028100"
+    },
+    "Christmas Tree Cookie": {
+      "id": "1102900"
+    },
+    "Bling Bling Christmas Tree": {
+      "id": "11029000"
+    },
+    "Blessed Bling Bling Christmas Tree": {
+      "id": "11029100"
+    },
+    "Snow Parfait": {
+      "id": "1103000"
+    },
+    "Colorful Snowflake Bingsu": {
+      "id": "11030000"
+    },
+    "Blessed Colorful Snowflake Bingsu": {
+      "id": "11030100"
+    },
+    "Handmade Chocolate Set": {
+      "id": "1103100"
+    },
+    "Everlasting Chocolate Set": {
+      "id": "11031000"
+    },
+    "Blessed Everlasting Chocolate Set": {
+      "id": "11031100"
+    },
+    "Majestic Beard": {
+      "id": "1103200"
+    },
+    "Chalice of Rejuvenation": {
+      "id": "1103300"
+    },
+    "Grail of Immortality": {
+      "id": "11033000"
+    },
+    "Blessed Grail of Immortality": {
+      "id": "11033100"
+    },
+    "Beaded Brooch": {
+      "id": "1103400"
+    },
+    "Atom Grape Brooch": {
+      "id": "11034000"
+    },
+    "Blessed Atom Grape Brooch": {
+      "id": "11034100"
+    },
+    "Rejuvenating Grape Juice": {
+      "id": "1103500"
+    },
+    "Grape Juice of Resurrection": {
+      "id": "11035000"
+    },
+    "Blessed Grape Juice of Resurrection": {
+      "id": "11035100"
+    },
+    "Apple Hairpin": {
+      "id": "1103600"
+    },
+    "Fruity Tiara": {
+      "id": "11036000"
+    },
+    "Blessed Fruity Tiara": {
+      "id": "11036100"
+    },
+    "Golden Piece of Cake": {
+      "id": "1103700"
+    },
+    "Golden Syrup Piece of Cake": {
+      "id": "11037000"
+    },
+    "Blessed Golden Syrup Piece of Cake": {
+      "id": "11037100"
+    },
+    "Cinnamon Rope": {
+      "id": "1103800"
+    },
+    "Melting Cinnamon Rope": {
+      "id": "11038000"
+    },
+    "Blessed Melting Cinnamon Rope": {
+      "id": "11038100"
+    },
+    "Soda Wave": {
+      "id": "1103900"
+    },
+    "Gentle Wave Soda Cocktail": {
+      "id": "11039000"
+    },
+    "Blessed Gentle Wave Soda Cocktail": {
+      "id": "11039100"
+    },
+    "Jelly Flower Hairpin": {
+      "id": "1104000"
+    },
+    "Jelly Flower Crown": {
+      "id": "11040000"
+    },
+    "Blessed Jelly Flower Crown": {
+      "id": "11040100"
+    },
+    "Flame Ball": {
+      "id": "1104100"
+    },
+    "Blackberry Hat": {
+      "id": "1104200"
+    },
+    "Syrup-dripping Blackberry Hat": {
+      "id": "11042000"
+    },
+    "Blessed Syrup-dripping Blackberry Hat": {
+      "id": "11042100"
+    },
+    "Cherished Ignition Key": {
+      "id": "1104300"
+    },
+    "Vroom Vroom Gold Kiwi Key": {
+      "id": "11043000"
+    },
+    "Blessed Vroom Vroom Gold Kiwi Key": {
+      "id": "11043100"
+    },
+    "Precious Necklace": {
+      "id": "1104400"
+    },
+    "Strengthened Precious Necklace": {
+      "id": "11044000"
+    },
+    "Blessed Strengthened Precious Necklace": {
+      "id": "11044100"
+    },
+    "Marshmallow Hat": {
+      "id": "1104500"
+    },
+    "Choco-dipped Marshmallow": {
+      "id": "11045000"
+    },
+    "Blessed Choco-dipped Marshmallow": {
+      "id": "11045100"
+    },
+    "Violin Case": {
+      "id": "1104600"
+    },
+    "Coin-filled Violin Case": {
+      "id": "11046000"
+    },
+    "Blessed Coin-filled Violin Case": {
+      "id": "11046100"
+    },
+    "Super Tight Hair Tie": {
+      "id": "1104700"
+    },
+    "Tricolor Hairband of Iron-will": {
+      "id": "11047000"
+    },
+    "Blessed Tricolor Hairband of Iron-will": {
+      "id": "11047100"
+    },
+    "Cream Puff Hat": {
+      "id": "1104800"
+    },
+    "Sugar Powder Cream Sandwich": {
+      "id": "11048000"
+    },
+    "Blessed Sugar Powder Cream Sandwich": {
+      "id": "11048100"
+    },
+    "Dream Bottle": {
+      "id": "1104900"
+    },
+    "Gumball Grenade": {
+      "id": "1105000"
+    },
+    "About-to-Blow Time Bomb": {
+      "id": "11050000"
+    },
+    "Blessed About-to-Blow Time Bomb": {
+      "id": "11050100"
+    },
+    "Cherry Blossom Jam Biscuit Bag": {
+      "id": "1105100"
+    },
+    "Lemon MP3 Player": {
+      "id": "1105200"
+    },
+    "Lemon Zest Smartphone": {
+      "id": "11052000"
+    },
+    "Blessed Lemon Zest Smartphone": {
+      "id": "11052100"
+    },
+    "Sports Bottle": {
+      "id": "1105300"
+    },
+    "Iced Orange Drink": {
+      "id": "11053000"
+    },
+    "Blessed Iced Orange Drink": {
+      "id": "11053100"
+    },
+    "Waterproof Mascara": {
+      "id": "1105400"
+    },
+    "Lime Makeup Remover": {
+      "id": "11054000"
+    },
+    "Blessed Lime Makeup Remover": {
+      "id": "11054100"
+    },
+    "Message in a Bottle": {
+      "id": "1105500"
+    },
+    "Martial Arts Manual": {
+      "id": "1105600"
+    },
+    "Secret Technique Scroll": {
+      "id": "11056000"
+    },
+    "Blessed Secret Technique Scroll": {
+      "id": "11056100"
+    },
+    "Immaculate Comb": {
+      "id": "1105700"
+    },
+    "Tear-full Pillow": {
+      "id": "1105800"
+    },
+    "Lace Pillow": {
+      "id": "11058000"
+    },
+    "Blessed Lace Pillow": {
+      "id": "11058100"
+    },
+    "Puff Blusher": {
+      "id": "1105900"
+    },
+    "Macaron Blusher Brush": {
+      "id": "11059000"
+    },
+    "Blessed Macaron Blusher Brush": {
+      "id": "11059100"
+    },
+    "Deck of Cards": {
+      "id": "1106000"
+    },
+    "Limited Edition Deck": {
+      "id": "11060000"
+    },
+    "Blessed Limited Edition Deck": {
+      "id": "11060100"
+    },
+    "Cozy Blankets": {
+      "id": "1106100"
+    },
+    "Blanket Fur Hat": {
+      "id": "11061000"
+    },
+    "Blessed Blanket Fur Hat": {
+      "id": "11061100"
+    },
+    "White Rose Bouquet": {
+      "id": "1106200"
+    },
+    "White Rose Vase": {
+      "id": "11062000"
+    },
+    "Blessed White Rose Vase": {
+      "id": "11062100"
+    },
+    "Flourishing Herb Seeds": {
+      "id": "1106300"
+    },
+    "Jellysaur Fossil": {
+      "id": "1106400"
+    },
+    "Jellysaur Fossil Exhibit": {
+      "id": "11064000"
+    },
+    "Blessed Jellysaur Fossil Exhibit": {
+      "id": "11064100"
+    },
+    "Coral Shellfish Tray": {
+      "id": "1106500"
+    },
+    "Fall-in-Love Pen": {
+      "id": "1106600"
+    },
+    "Mini Roll Goggles": {
+      "id": "1106700"
+    },
+    "Banana Milk Baby Bottle": {
+      "id": "1106800"
+    },
+    "Banana Milk Sippy Cup": {
+      "id": "11068000"
+    },
+    "Blessed Banana Milk Sippy Cup": {
+      "id": "11068100"
+    },
+    "Mini Pancake Backpack": {
+      "id": "1106900"
+    },
+    "Arrow Feather of Life": {
+      "id": "1107000"
+    },
+    "Colorful Rice Cake": {
+      "id": "1107100"
+    },
+    "3-tier Rice Cake": {
+      "id": "11071000"
+    },
+    "Blessed 3-tier Rice Cake": {
+      "id": "11071100"
+    },
+    "Princess Bari Shaman Bells": {
+      "id": "1107200"
+    },
+    "Gleaming Earrings": {
+      "id": "1107300"
+    },
+    "Delightful Snack": {
+      "id": "1107400"
+    },
+    "Lucky Keychain": {
+      "id": "1107500"
+    },
+    "Precious Cucumber Float": {
+      "id": "1107700"
+    },
+    "King of Baduk Manhwa": {
+      "id": "1107800"
+    },
+    "Annotated Baduk Book": {
+      "id": "1107900"
+    },
+    "Barley Baby Vest": {
+      "id": "1108000"
+    },
+    "Shortcake Cushion": {
+      "id": "1108100"
+    },
+    "Tasting Spoon": {
+      "id": "1108200"
+    },
+    "Noise-canceling Earplugs": {
+      "id": "1108300"
+    },
+    "Pot of Charms": {
+      "id": "1108400"
+    },
+    "Admiral's Paper Boat": {
+      "id": "1108500"
+    },
+    "Manggae Fruit Hairpin": {
+      "id": "1108600"
+    },
+    "Blooming Dancheong Jewel": {
+      "id": "1108700"
+    },
+    "Underground General's Sausage": {
+      "id": "1108800"
+    },
+    "Pistachio Spread": {
+      "id": "1108900"
+    },
+    "Spring Scent Flower Tea": {
+      "id": "1109000"
+    },
+    "Cloud Boots": {
+      "id": "1109100"
+    },
+    "Noble Scripture": {
+      "id": "1109200"
+    },
+    "Braised Lotus Root Face Pack": {
+      "id": "1109300"
+    },
+    "Choccy Chunk": {
+      "id": "1200100"
+    },
+    "Scrumptious Piece of Chocolate": {
+      "id": "12001000"
+    },
+    "Blessed Scrumptious Piece of Chocolate": {
+      "id": "12001100"
+    },
+    "Smelly Cheese Slice": {
+      "id": "1200200"
+    },
+    "Flavor-filled Cheese": {
+      "id": "12002000"
+    },
+    "Blessed Flavor-filled Cheese": {
+      "id": "12002100"
+    },
+    "Thumbs-up Thimble": {
+      "id": "1200300"
+    },
+    "Expert Sewer's Thimble": {
+      "id": "12003000"
+    },
+    "Blessed Expert Sewer's Thimble": {
+      "id": "12003100"
+    },
+    "Double Bubble's Best Friend": {
+      "id": "1200400"
+    },
+    "Chewy Cheese Ball": {
+      "id": "12004000"
+    },
+    "Blessed Chewy Cheese Ball": {
+      "id": "12004100"
+    },
+    "Warm Unicorn Hat": {
+      "id": "1200500"
+    },
+    "Fluffy Earmuffs​": {
+      "id": "12005000"
+    },
+    "Blessed Fluffy Earmuffs​": {
+      "id": "12005100"
+    },
+    "Santa Hat Pom-Pom": {
+      "id": "1200600"
+    },
+    "Sparkly Santa Hat Pom-Pom": {
+      "id": "12006000"
+    },
+    "Blessed Sparkly Santa Hat Pom-Pom": {
+      "id": "12006100"
+    },
+    "Cloud Star Candy": {
+      "id": "1200700"
+    },
+    "Colorful Star Candy": {
+      "id": "12007000"
+    },
+    "Blessed Colorful Star Candy": {
+      "id": "12007100"
+    },
+    "Red Cloth Patch": {
+      "id": "1200800"
+    },
+    "Red Fabric": {
+      "id": "12008000"
+    },
+    "Blessed Red Fabric": {
+      "id": "12008100"
+    },
+    "Lightning Force": {
+      "id": "1200900"
+    },
+    "Explosive Lightning Force": {
+      "id": "12009000"
+    },
+    "Blessed Explosive Lightning Force": {
+      "id": "12009100"
+    },
+    "Rare Garlic Clove": {
+      "id": "1201000"
+    },
+    "Peculiar Garlic Sauce": {
+      "id": "12010000"
+    },
+    "Blessed Peculiar Garlic Sauce": {
+      "id": "12010100"
+    },
+    "Flowercopter Seed": {
+      "id": "1201100"
+    },
+    "Twirled Flowercopter Seed": {
+      "id": "12011000"
+    },
+    "Blessed Twirled Flowercopter Seed": {
+      "id": "12011100"
+    },
+    "Ghostly Sorrow": {
+      "id": "1201200"
+    },
+    "Ghostly Reminiscence": {
+      "id": "12012000"
+    },
+    "Blessed Ghostly Reminiscence": {
+      "id": "12012100"
+    },
+    "Special Gunpowder": {
+      "id": "1201300"
+    },
+    "Pressed Explosium": {
+      "id": "12013000"
+    },
+    "Blessed Pressed Explosium Explosium": {
+      "id": "12013100"
+    },
+    "Knitting Needles": {
+      "id": "1201400"
+    },
+    "Fluffy Yarn Spinner": {
+      "id": "12014000"
+    },
+    "Blessed Fluffy Yarn Spinner": {
+      "id": "12014100"
+    },
+    "Lil' Dice Bro": {
+      "id": "1201500"
+    },
+    "Never Stopping Die": {
+      "id": "12015000"
+    },
+    "Blessed Never Stopping Die": {
+      "id": "12015100"
+    },
+    "Mini Locket": {
+      "id": "1201600"
+    },
+    "Bling Bling Mini Locket": {
+      "id": "12016000"
+    },
+    "Blessed Bling Bling Mini Locket": {
+      "id": "12016100"
+    },
+    "Dragon Tail Scale": {
+      "id": "1201700"
+    },
+    "Dragon Tail Sushi": {
+      "id": "12017000"
+    },
+    "Blessed Dragon Tail Sushi": {
+      "id": "12017100"
+    },
+    "Brain Gum Piece": {
+      "id": "1201800"
+    },
+    "Pristine Brain Gum": {
+      "id": "12018000"
+    },
+    "Blessed Pristine Brain Gum": {
+      "id": "12018100"
+    },
+    "Whipped Cream": {
+      "id": "1201900"
+    },
+    "Fake Cream Beard": {
+      "id": "12019000"
+    },
+    "Blessed Fake Cream Beard": {
+      "id": "12019100"
+    },
+    "Wishing Star Dust": {
+      "id": "1202000"
+    },
+    "Auspicious Gold Dough": {
+      "id": "12020000"
+    },
+    "Blessed Auspicious Gold Dough": {
+      "id": "12020100"
+    },
+    "Drop of Sweat": {
+      "id": "1202100"
+    },
+    "Pongcari Sweat": {
+      "id": "12021000"
+    },
+    "Blessed Pongcari Sweat": {
+      "id": "12021100"
+    },
+    "Sparkling Ice Crust": {
+      "id": "1202300"
+    },
+    "Moonlight Ice Crust": {
+      "id": "12023000"
+    },
+    "Blessed Moonlight Ice Crust": {
+      "id": "12023100"
+    },
+    "Lost Jellyco": {
+      "id": "1202400"
+    },
+    "Valiant Firecracker Jellyco": {
+      "id": "12024000"
+    },
+    "Blessed Valiant Firecracker Jellyco": {
+      "id": "12024100"
+    },
+    "Colorful Star Jelly Fragment": {
+      "id": "1202600"
+    },
+    "Colorful Star Jelly Whole": {
+      "id": "12026000"
+    },
+    "Blessed Colorful Star Jelly Whole": {
+      "id": "12026100"
+    },
+    "High Tech Headset": {
+      "id": "1202700"
+    },
+    "High Tech Caramel Helmet": {
+      "id": "12027000"
+    },
+    "Blessed High Tech Caramel Helmet": {
+      "id": "12027100"
+    },
+    "Eternal Firebat Flame": {
+      "id": "1202800"
+    },
+    "Undying Firebat Flame": {
+      "id": "12028000"
+    },
+    "Blessed Undying Firebat Flame": {
+      "id": "12028100"
+    },
+    "Hefty Gold Bar": {
+      "id": "1202900"
+    },
+    "Magnificent Gold Medal": {
+      "id": "12029000"
+    },
+    "Blessed Magnificent Gold Medal": {
+      "id": "12029100"
+    },
+    "Windy's Ice Candy": {
+      "id": "1203000"
+    },
+    "Windy's Ice Sherbet": {
+      "id": "12030000"
+    },
+    "Blessed Windy's Ice Sherbet": {
+      "id": "12030100"
+    },
+    "Foxy Bead's Heart": {
+      "id": "1203100"
+    },
+    "Red Foxy Bead's Heart": {
+      "id": "12031000"
+    },
+    "Blessed Red Foxy Bead's Heart": {
+      "id": "12031100"
+    },
+    "Pumpkin Pie Slice": {
+      "id": "1203200"
+    },
+    "Page from Book of Wizdom": {
+      "id": "1203300"
+    },
+    "Picture from Book of Wizdom": {
+      "id": "12033000"
+    },
+    "Blessed Picture from Book of Wizdom": {
+      "id": "12033100"
+    },
+    "Fragile Magic Pod Petal": {
+      "id": "1203400"
+    },
+    "Smooth Rainbow Petals": {
+      "id": "12034000"
+    },
+    "Blessed Smooth Rainbow Petals": {
+      "id": "12034100"
+    },
+    "Vanilla Light Bulb": {
+      "id": "1203500"
+    },
+    "Vanilla Tri-Phosphor Light": {
+      "id": "12035000"
+    },
+    "Blessed Vanilla Tri-Phosphor Light": {
+      "id": "12035100"
+    },
+    "Spare Tongue Gum": {
+      "id": "1203600"
+    },
+    "Flaming Tongue Gum": {
+      "id": "12036000"
+    },
+    "Blessed Flaming Tongue Gum": {
+      "id": "12036100"
+    },
+    "Large Piece of Log Cake": {
+      "id": "1203700"
+    },
+    "Lots of Log Cake": {
+      "id": "12037000"
+    },
+    "Blessed Lots of Log Cake": {
+      "id": "12037100"
+    },
+    "Snow Globe's Crystal Crown": {
+      "id": "1203800"
+    },
+    "Coin Flower Seed": {
+      "id": "1203900"
+    },
+    "Pink Candy Wrapping": {
+      "id": "1204000"
+    },
+    "Colorful Candy Wrapping": {
+      "id": "12040000"
+    },
+    "Blessed Colorful Candy Wrapping": {
+      "id": "12040100"
+    },
+    "Purple Candle Wax": {
+      "id": "1204100"
+    },
+    "Lilac Wax Rose": {
+      "id": "12041000"
+    },
+    "Blessed Lilac Wax Rose": {
+      "id": "12041100"
+    },
+    "Pistachio Firefly Shell": {
+      "id": "1204200"
+    },
+    "Colorful Pistachio Shell": {
+      "id": "12042000"
+    },
+    "Blessed Colorful Pistachio Shell": {
+      "id": "12042100"
+    },
+    "Full Jelly Scale Plate": {
+      "id": "1204300"
+    },
+    "Overflowing Jelly Scale Plate": {
+      "id": "12043000"
+    },
+    "Blessed Overflowing Jelly Scale Plate": {
+      "id": "12043100"
+    },
+    "Full Coin Scale Plate": {
+      "id": "1204400"
+    },
+    "Overflowing Coin Scale Plate": {
+      "id": "12044000"
+    },
+    "Blessed Overflowing Coin Scale Plate": {
+      "id": "12044100"
+    },
+    "Wooden Barrel Tap": {
+      "id": "1204500"
+    },
+    "Glass Barrel Tap": {
+      "id": "12045000"
+    },
+    "Blessed Glass Barrel Tap": {
+      "id": "12045100"
+    },
+    "Mother Apple": {
+      "id": "1204600"
+    },
+    "Mother Apple's Youth": {
+      "id": "12046000"
+    },
+    "Blessed Mother Apple's Youth": {
+      "id": "12046100"
+    },
+    "Cheesy Hairball": {
+      "id": "1204700"
+    },
+    "Super Cheesy Hairball": {
+      "id": "12047000"
+    },
+    "Blessed Super Cheesy Hairball": {
+      "id": "12047100"
+    },
+    "Heart Key Ring": {
+      "id": "1204800"
+    },
+    "Rainbow Heart Key Ring": {
+      "id": "12048000"
+    },
+    "Blessed Rainbow Heart Key Ring": {
+      "id": "12048100"
+    },
+    "Royal Jelly Crown": {
+      "id": "1204900"
+    },
+    "Fresh Lemon Segment": {
+      "id": "1205000"
+    },
+    "Sweet and Sour Lemonade": {
+      "id": "12050000"
+    },
+    "Blessed Sweet and Sour Lemonade": {
+      "id": "12050100"
+    },
+    "Butler's Planner": {
+      "id": "1205100"
+    },
+    "Perfect Planner": {
+      "id": "12051000"
+    },
+    "Blessed Perfect Planner": {
+      "id": "12051100"
+    },
+    "Kiwi Slice": {
+      "id": "1205200"
+    },
+    "Delightful Kiwi Slices": {
+      "id": "12052000"
+    },
+    "Blessed Delightful Kiwi Slices": {
+      "id": "12052100"
+    },
+    "Doggy Biscuit": {
+      "id": "1205300"
+    },
+    "Golden Paprika Seeds": {
+      "id": "1205400"
+    },
+    "Golden Paprika Sprout": {
+      "id": "12054000"
+    },
+    "Blessed Golden Paprika Sprout": {
+      "id": "12054100"
+    },
+    "Chocolate Sunflower Seed": {
+      "id": "1205600"
+    },
+    "Flavorful Sunflower Seed": {
+      "id": "12056000"
+    },
+    "Blessed Flavorful Sunflower Seed": {
+      "id": "12056100"
+    },
+    "Musical Ribbon": {
+      "id": "1205700"
+    },
+    "Fancy Lace Ribbon": {
+      "id": "12057000"
+    },
+    "Blessed Fancy Lace Ribbon": {
+      "id": "12057100"
+    },
+    "Musical Top Hat": {
+      "id": "1205800"
+    },
+    "Bling Bling Top Hat": {
+      "id": "12058000"
+    },
+    "Blessed Bling Bling Top Hat": {
+      "id": "12058100"
+    },
+    "Acorn Hat": {
+      "id": "1205900"
+    },
+    "Magician's Acorn Hat": {
+      "id": "12059000"
+    },
+    "Blessed Magician's Acorn Hat": {
+      "id": "12059100"
+    },
+    "Colorful Screw": {
+      "id": "1206000"
+    },
+    "Reunited Nut & Bolt": {
+      "id": "12060000"
+    },
+    "Blessed Reunited Nut & Bolt": {
+      "id": "12060100"
+    },
+    "Cherry Blossom Teaspoon": {
+      "id": "1206100"
+    },
+    "Blooming Blossom Teaspoon": {
+      "id": "12061000"
+    },
+    "Blessed Blooming Blossom Teaspoon": {
+      "id": "12061100"
+    },
+    "Storming Bean Missiles": {
+      "id": "1206200"
+    },
+    "Lemony LED": {
+      "id": "1206300"
+    },
+    "Radiant Lemon LED": {
+      "id": "12063000"
+    },
+    "Blessed Radiant Lemon LED": {
+      "id": "12063100"
+    },
+    "Orange Peel Wheel": {
+      "id": "1206400"
+    },
+    "Orange Peel Treadmill": {
+      "id": "12064000"
+    },
+    "Blessed Orange Peel Treadmill": {
+      "id": "12064100"
+    },
+    "Shiny Platinum Bar": {
+      "id": "1206500"
+    },
+    "Citrus Life Preserver": {
+      "id": "1206600"
+    },
+    "Neon Lime Life Jacket": {
+      "id": "12066000"
+    },
+    "Blessed Neon Lime Life Jacket": {
+      "id": "12066100"
+    },
+    "Paper Boat Sailor's Anchor": {
+      "id": "1206700"
+    },
+    "Precious Mini Coral": {
+      "id": "1206800"
+    },
+    "Fresh Bamboo Shoot": {
+      "id": "1206900"
+    },
+    "Trimmed Bamboo Shoots": {
+      "id": "12069000"
+    },
+    "Blessed Trimmed Bamboo Shoots": {
+      "id": "12069100"
+    },
+    "Golden Jujube Tea Bag": {
+      "id": "1207000"
+    },
+    "Onion Layer Scale": {
+      "id": "1207100"
+    },
+    "Onion Scale Slice": {
+      "id": "12071000"
+    },
+    "Blessed Onion Scale Slice": {
+      "id": "12071100"
+    },
+    "Macaron Metronome": {
+      "id": "1207200"
+    },
+    "Electronic Metronome": {
+      "id": "12072000"
+    },
+    "Blessed Electronic Metronome": {
+      "id": "12072100"
+    },
+    "Cinnamon Sticks": {
+      "id": "1207300"
+    },
+    "Cinnamon Powder": {
+      "id": "12073000"
+    },
+    "Blessed Cinnamon Powder": {
+      "id": "12073100"
+    },
+    "Canned Red Beans": {
+      "id": "1207400"
+    },
+    "Premium Canned Red Beans": {
+      "id": "12074000"
+    },
+    "Blessed Premium Canned Red Beans": {
+      "id": "12074100"
+    },
+    "Olden Pocket Watch Cover": {
+      "id": "1207500"
+    },
+    "Golden Pocket Watch Cover": {
+      "id": "12075000"
+    },
+    "Blessed Golden Pocket Watch Cover": {
+      "id": "12075100"
+    },
+    "Big Shower Head": {
+      "id": "1207600"
+    },
+    "Dino Egg X-Ray": {
+      "id": "1207700"
+    },
+    "Annotated Dino Egg X-Ray": {
+      "id": "12077000"
+    },
+    "Blessed Annotated Dino Egg X-Ray": {
+      "id": "12077100"
+    },
+    "Heavy Mail Bag": {
+      "id": "1207800"
+    },
+    "Baby Light Bro Yellow": {
+      "id": "1207900"
+    },
+    "Banana Lion Tail": {
+      "id": "1208000"
+    },
+    "Choco Banana Lion Tail": {
+      "id": "12080000"
+    },
+    "Blessed Choco Banana Lion Tail": {
+      "id": "12080100"
+    },
+    "Sticky Maple Syrup": {
+      "id": "1208100"
+    },
+    "Crescent Moon Rice Cake": {
+      "id": "1208200"
+    },
+    "Crescent Moon Honey Rice Cake": {
+      "id": "12082000"
+    },
+    "Blessed Crescent Moon Honey Rice Cake": {
+      "id": "12082100"
+    },
+    "Tiny Cakehound's Cupcake": {
+      "id": "1208300"
+    },
+    "Tiny Tabla Drumsticks": {
+      "id": "1208400"
+    },
+    "Parrot's Feather Fan": {
+      "id": "1208500"
+    },
+    "Soft Egg Basket Bed": {
+      "id": "1208700"
+    },
+    "Recycled Fishing Bag": {
+      "id": "1208900"
+    },
+    "Baduk Stone Jade Bowl": {
+      "id": "1209000"
+    },
+    "Practical Spork": {
+      "id": "1209100"
+    },
+    "Golden Barley Bundle": {
+      "id": "1209200",
+      "coin_bonus": 0.1
+    },
+    "Ghoul Cake's Milk Bath": {
+      "id": "1209300"
+    },
+    "Bread Bag Clip": {
+      "id": "1209400"
+    },
+    "Sparkling Rice Juice": {
+      "id": "1209500"
+    },
+    "Cabbage Cone Cap": {
+      "id": "1209600"
+    },
+    "Sea Ink Brush": {
+      "id": "1209700"
+    },
+    "Snail's Dewdrop Snack": {
+      "id": "1209800"
+    },
+    "Baby Sotdae": {
+      "id": "1290200"
+    },
+    "Cozy Luxury Hedgehog Case": {
+      "id": "1210000"
+    },
+    "Fluttering Pinwheel": {
+      "id": "1210100"
+    },
+    "Golden Besswax Stopper": {
+      "id": "1210200"
+    },
+    "Golden Magic Scroll": {
+      "id": "1210300"
+    },
+    "Lotus Seed Rattle": {
+      "id": "1210400"
+    },
+    "Recipe For Acting Success": {
+      "id": "1300100"
+    },
+    "How To Be A Star": {
+      "id": "13001000"
+    },
+    "Blessed How To Be A Star": {
+      "id": "13001100"
+    },
+    "Ancient Ginseng Root": {
+      "id": "1300200"
+    },
+    "Ancient Ginseng Root Extract": {
+      "id": "13002000"
+    },
+    "Blessed Ancient Ginseng Root Extract": {
+      "id": "13002100"
+    },
+    "Rare Sapphire Brooch": {
+      "id": "1300400"
+    },
+    "Magic Sword Handle": {
+      "id": "1300500"
+    },
+    "Pink Bear Jelly Prototype": {
+      "id": "1300600"
+    },
+    "Glowing Meteor Chip": {
+      "id": "1300700"
+    },
+    "Glowing Meteor Sword": {
+      "id": "13007000"
+    },
+    "Blessed Glowing Meteor Sword": {
+      "id": "13007100"
+    },
+    "Last Standing Chess Piece": {
+      "id": "1300800"
+    },
+    "Undefeated Chess Piece": {
+      "id": "13008000"
+    },
+    "Blessed Undefeated Chess Piece": {
+      "id": "13008100"
+    },
+    "Extra Sweet Strawberry Jam": {
+      "id": "1300900"
+    },
+    "Honey Strawberry Ice Cream": {
+      "id": "13009000"
+    },
+    "Blessed Honey Strawberry Ice Cream": {
+      "id": "13009100"
+    },
+    "Dark Choco Hair Mousse": {
+      "id": "1301000"
+    },
+    "Lustrous Choco Hair Wax": {
+      "id": "13010000"
+    },
+    "Blessed Lustrous Choco Hair Wax": {
+      "id": "13010100"
+    },
+    "Waterproof Wristwatch": {
+      "id": "1301100"
+    },
+    "Deep Diving Wristwatch": {
+      "id": "13011000"
+    },
+    "Blessed Deep Diving Wristwatch": {
+      "id": "13011100"
+    },
+    "Juice Bottle Cap": {
+      "id": "1301200"
+    },
+    "Silver Juice Bottle Cap": {
+      "id": "13012000"
+    },
+    "Blessed Silver Juice Bottle Cap": {
+      "id": "13012100"
+    },
+    "Crystal Pearl Earring": {
+      "id": "1301300"
+    },
+    "Flaring Slice of Sun": {
+      "id": "1301400"
+    },
+    "Purple Ribbon Bow": {
+      "id": "1301500"
+    },
+    "Deep Sea Murex Shell": {
+      "id": "1301600"
+    },
+    "Murex Shell Earrings": {
+      "id": "13016000"
+    },
+    "Blessed Murex Shell Earrings": {
+      "id": "13016100"
+    },
+    "Smiling Carnival Mask": {
+      "id": "1301700"
+    },
+    "Mocking Carnival Mask": {
+      "id": "13017000"
+    },
+    "Blessed Mocking Carnival Mask": {
+      "id": "13017100"
+    },
+    "Famous Choco Chip Cookie": {
+      "id": "1301800"
+    },
+    "Famous Honey Chip Cookie": {
+      "id": "13018000"
+    },
+    "Blessed Famous Honey Chip Cookie": {
+      "id": "13018100"
+    },
+    "Vitalizing Vitamin C Capsule": {
+      "id": "1301900"
+    },
+    "Super Effective Multivitamin": {
+      "id": "13019000"
+    },
+    "Blessed Super Effective Multivitamin": {
+      "id": "13019100"
+    },
+    "Nutritious Cranberry": {
+      "id": "1302000"
+    },
+    "High Calorie Cranberry Cereal": {
+      "id": "13020000"
+    },
+    "Blessed High Calorie Cranberry Cereal": {
+      "id": "13020100"
+    },
+    "Grow-Back Cream": {
+      "id": "1302100"
+    },
+    "Comb Over Hair Cream": {
+      "id": "13021000"
+    },
+    "Blessed Comb Over Hair Cream": {
+      "id": "13021100"
+    },
+    "Kitty Paw Marshmallow": {
+      "id": "1302200"
+    },
+    "Chewy Marshmallow Pie": {
+      "id": "13022000"
+    },
+    "Blessed Chewy Marshmallow Pie": {
+      "id": "13022100"
+    },
+    "First Harvest Olive Oil": {
+      "id": "1302300"
+    },
+    "Olive Oil Sunscreen": {
+      "id": "13023000"
+    },
+    "Blessed Olive Oil Sunscreen": {
+      "id": "13023100"
+    },
+    "Cookie First-Aid Kit": {
+      "id": "1302400"
+    },
+    "Roof Whirligig": {
+      "id": "1302500"
+    },
+    "Whatsinit Sausage": {
+      "id": "1302600"
+    },
+    "Lucky 5-Leaf Clover": {
+      "id": "1302700"
+    },
+    "Red Dragon's Tooth": {
+      "id": "1302800"
+    },
+    "Freshly Baked Cracker": {
+      "id": "1302900"
+    },
+    "Crispy Syrup Cracker": {
+      "id": "13029000"
+    },
+    "Blessed Crispy Syrup Cracker": {
+      "id": "13029100"
+    },
+    "Clay Arrowhead": {
+      "id": "1303000"
+    },
+    "Silver Arrowhead": {
+      "id": "13030000"
+    },
+    "Blessed Silver Arrowhead": {
+      "id": "13030100"
+    },
+    "Sweet Red Cherry": {
+      "id": "1303100"
+    },
+    "Sweet Syrupy Cherry": {
+      "id": "13031000"
+    },
+    "Blessed Sweet Syrupy Cherry": {
+      "id": "13031100"
+    },
+    "Witch's Thumbtack": {
+      "id": "1303200"
+    },
+    "Safety First Thumbtack": {
+      "id": "13032000"
+    },
+    "Blessed Safety First Thumbtack": {
+      "id": "13032100"
+    },
+    "Plentiful Harvest Wheat": {
+      "id": "1303300"
+    },
+    "Shiny Wheat": {
+      "id": "13033000"
+    },
+    "Blessed Shiny Wheat": {
+      "id": "13033100"
+    },
+    "Always Cute Acorn": {
+      "id": "1303400"
+    },
+    "Stretched Acorn": {
+      "id": "13034000"
+    },
+    "Blessed Stretched Acorn": {
+      "id": "13034100"
+    },
+    "Organic Flour": {
+      "id": "1303500"
+    },
+    "Sweetened Organic Flour": {
+      "id": "13035000"
+    },
+    "Blessed Sweetened Organic Flour": {
+      "id": "13035100"
+    },
+    "Roasted Fresh Peanut": {
+      "id": "1303600"
+    },
+    "Rainbow Peanut Butter": {
+      "id": "13036000"
+    },
+    "Blessed Rainbow Peanut Butter": {
+      "id": "13036100"
+    },
+    "Healthy Carrot Snack": {
+      "id": "1303700"
+    },
+    "White Sugar Cube": {
+      "id": "1303800"
+    },
+    "Pitted Pickled Olives": {
+      "id": "1303900"
+    },
+    "Smartening Walnut": {
+      "id": "1304000"
+    },
+    "Big Head Mushroom": {
+      "id": "1304100"
+    },
+    "Game Controller": {
+      "id": "1304200"
+    },
+    "Pro Game Controller": {
+      "id": "13042000"
+    },
+    "Blessed Pro Game Controller": {
+      "id": "13042100"
+    },
+    "Special Edition Cookie Comic": {
+      "id": "1304300"
+    },
+    "Limited Edition Cookie Comic": {
+      "id": "13043000"
+    },
+    "Blessed Limited Edition Cookie Comic": {
+      "id": "13043100"
+    },
+    "Primordial Red Ginseng": {
+      "id": "1304400"
+    },
+    "Primordial Red Ginseng Extract": {
+      "id": "13044000"
+    },
+    "Blessed Primordial Red Ginseng Extract": {
+      "id": "13044100"
+    },
+    "Macaron Hamburger": {
+      "id": "1304500"
+    },
+    "Macaron Cheeseburger": {
+      "id": "13045000"
+    },
+    "Blessed Macaron Cheeseburger": {
+      "id": "13045100"
+    },
+    "Squeaky Mjollnir": {
+      "id": "1304600"
+    },
+    "Stone Mjollnir": {
+      "id": "13046000"
+    },
+    "Blessed Stone Mjollnir": {
+      "id": "13046100"
+    },
+    "Best Ice Cream Ever": {
+      "id": "1304700"
+    },
+    "Rosy Best Ice Cream Ever": {
+      "id": "13047000"
+    },
+    "Blessed Rosy Best Ice Cream Ever": {
+      "id": "13047100"
+    },
+    "Ever Hungry Piggy Bank": {
+      "id": "1304800"
+    },
+    "Stuffed Piggy Bank": {
+      "id": "13048000"
+    },
+    "Blessed Stuffed Piggy Bank": {
+      "id": "13048100"
+    },
+    "Prickly Director's Clapboard": {
+      "id": "1304900"
+    },
+    "Movie Director's Sunglasses": {
+      "id": "13049000"
+    },
+    "Blessed Movie Director's Sunglasses": {
+      "id": "13049100"
+    },
+    "Runaway Party Piñata": {
+      "id": "1305000"
+    },
+    "Light Speed Glass Piñata": {
+      "id": "13050000"
+    },
+    "Blessed Light Speed Glass Piñata": {
+      "id": "13050100"
+    },
+    "Treasure Merchant's Mini Safe": {
+      "id": "1305100"
+    },
+    "Treasure Merchant's Safest Safe": {
+      "id": "13051000"
+    },
+    "Blessed Treasure Merchant's Safest Safe": {
+      "id": "13051100"
+    },
+    "No.3 Glossy Pink Lipstick": {
+      "id": "1305200"
+    },
+    "No.7 Shiny Platinum Lipstick": {
+      "id": "13052000"
+    },
+    "Blessed No.7 Shiny Platinum Lipstick": {
+      "id": "13052100"
+    },
+    "Unearthed Wild Ginseng": {
+      "id": "1305300"
+    },
+    "Honey-dipped Gingseng": {
+      "id": "13053000"
+    },
+    "Blessed Honey-dipped Gingseng": {
+      "id": "13053100"
+    },
+    "Wild Corn Cob": {
+      "id": "1305400"
+    },
+    "Butter-fried Corn": {
+      "id": "13054000"
+    },
+    "Blessed Butter-fried Corn": {
+      "id": "13054100"
+    },
+    "Temptation No.9 Perfume": {
+      "id": "1305500"
+    },
+    "Femme Fatale No.10 Perfume": {
+      "id": "13055000"
+    },
+    "Blessed Femme Fatale No.10 Perfume": {
+      "id": "13055100"
+    },
+    "Rocky Hot Dog": {
+      "id": "1305600"
+    },
+    "Steely Hot Dog": {
+      "id": "13056000"
+    },
+    "Blessed Steely Hot Dog": {
+      "id": "13056100"
+    },
+    "Frozen Cracker": {
+      "id": "1305700"
+    },
+    "Frozen Choco Biscuit": {
+      "id": "13057000"
+    },
+    "Blessed Frozen Choco Biscuit": {
+      "id": "13057100"
+    },
+    "Caramel Choco Energy Bar": {
+      "id": "1305800"
+    },
+    "Flaming Delicious Lava Choco Bar": {
+      "id": "13058000"
+    },
+    "Blessed Flaming Delicious Lava Choco Bar": {
+      "id": "13058100"
+    },
+    "Ultra Power Rainbow Ginseng": {
+      "id": "1305900"
+    },
+    "Ultra Power Rainbow Twin Ginseng": {
+      "id": "13059000"
+    },
+    "Blessed Ultra Power Rainbow Twin Ginseng": {
+      "id": "13059100"
+    },
+    "Flaming Camping Lantern": {
+      "id": "1306000"
+    },
+    "Darkness-devouring Ghost Lantern": {
+      "id": "13060000"
+    },
+    "Blessed Darkness-devouring Ghost Lantern": {
+      "id": "13060100"
+    },
+    "Sour Music Jelly": {
+      "id": "1306100"
+    },
+    "Sticky Jazz Music Jelly": {
+      "id": "13061000"
+    },
+    "Blessed Sticky Jazz Music Jelly": {
+      "id": "13061100"
+    },
+    "Chilled Moon Rock": {
+      "id": "1306200"
+    },
+    "Stoic Moon Rock": {
+      "id": "13062000"
+    },
+    "Blessed Stoic Moon Rock": {
+      "id": "13062100"
+    },
+    "Rare Crystal Clam": {
+      "id": "1306300"
+    },
+    "Big Crystal Ore": {
+      "id": "1306400"
+    },
+    "Mining Dynamite": {
+      "id": "1306500"
+    },
+    "Gold Mining Dynamite": {
+      "id": "13065000"
+    },
+    "Blessed Gold Mining Dynamite": {
+      "id": "13065100"
+    },
+    "Ancient Magic Flower Pot": {
+      "id": "1306600"
+    },
+    "Golden Magic Flower Pot": {
+      "id": "13066000"
+    },
+    "Blessed Golden Magic Flower Pot": {
+      "id": "13066100"
+    },
+    "Evil Spirit Matchbox": {
+      "id": "1306700"
+    },
+    "Evil Spirit Torch": {
+      "id": "13067100"
+    },
+    "Powdered Snow Cake": {
+      "id": "1306800"
+    },
+    "Pearl Sugar Snow Cake": {
+      "id": "13068000"
+    },
+    "Blessed Pearl Sugar Snow Cake": {
+      "id": "13068100"
+    },
+    "Bouncy Rainbow Rice Cake": {
+      "id": "1306900"
+    },
+    "Strengthening Rainbow Rice Cake": {
+      "id": "13069000"
+    },
+    "Blessed Strengthening Rainbow Rice Cake": {
+      "id": "13069100"
+    },
+    "Ultimate Racing Firecracker Set": {
+      "id": "1307000"
+    },
+    "Pretty Flower Shoe": {
+      "id": "1307100"
+    },
+    "Perfect Sprint Flower Sneakers": {
+      "id": "13071000"
+    },
+    "Blessed Perfect Sprint Flower Sneakers": {
+      "id": "13071100"
+    },
+    "Honey-dipped Garaeddeok": {
+      "id": "1307200"
+    },
+    "Honey Garaeddeok Skewer": {
+      "id": "13072000"
+    },
+    "Blessed Honey Garaeddeok Skewer": {
+      "id": "13072100"
+    },
+    "Peppy Pet Yakgwa": {
+      "id": "1307300"
+    },
+    "Premium Honey Nutrient Yakgwa": {
+      "id": "13073000"
+    },
+    "Blessed Premium Honey Nutrient Yakgwa": {
+      "id": "13073100"
+    },
+    "Magnetobuff Energy Drink": {
+      "id": "1307400"
+    },
+    "Magnetobuff Pick-me-up": {
+      "id": "13074000"
+    },
+    "Blessed Magnetobuff Pick-me-up": {
+      "id": "13074100"
+    },
+    "Sweet Revival Donut": {
+      "id": "1307500"
+    },
+    "Heavenly Revival Donut": {
+      "id": "13075000"
+    },
+    "Blessed Heavenly Revival Donut": {
+      "id": "13075100"
+    },
+    "Limited Edition Star Jelly Pendant": {
+      "id": "1307600"
+    },
+    "Limited Edition Star Jelly Crown": {
+      "id": "13076000"
+    },
+    "Blessed Limited Edition Star Jelly Crown": {
+      "id": "13076100"
+    },
+    "Magnetic Rainbow Drink": {
+      "id": "1307700"
+    },
+    "Black Hole Rainbow Drink": {
+      "id": "13077000"
+    },
+    "Blessed Black Hole Rainbow Drink": {
+      "id": "13077100"
+    },
+    "Queen Bee's Royal Jelly": {
+      "id": "1307800"
+    },
+    "Royal Jelly Soft Cream": {
+      "id": "13078000"
+    },
+    "Blessed Royal Jelly Soft Cream": {
+      "id": "13078100"
+    },
+    "Hand-made Fresh Veggy Juice": {
+      "id": "1307900"
+    },
+    "Hand-made Flaming Cocktail": {
+      "id": "13079100"
+    },
+    "Pick-me-up Wasabi Lip Balm": {
+      "id": "1308000"
+    },
+    "Eye-watering Wasabi Balm": {
+      "id": "13080000"
+    },
+    "Blessed Eye-watering Wasabi Balm": {
+      "id": "13080100"
+    },
+    "Yellow Bear Jelly Roll Cake": {
+      "id": "1308100"
+    },
+    "Yellow Bear Choco Cake": {
+      "id": "13081000"
+    },
+    "Blessed Yellow Bear Choco Cake": {
+      "id": "13081100"
+    },
+    "Cookie Energy Drink": {
+      "id": "1308200"
+    },
+    "Muscle Blast Energy Drink": {
+      "id": "13082000"
+    },
+    "Blessed Muscle Blast Energy Drink": {
+      "id": "13082100"
+    },
+    "Simply Satisfying Rice Ball": {
+      "id": "1308300"
+    },
+    "Mom's Loving Lunch Box": {
+      "id": "13083000"
+    },
+    "Blessed Mom's Loving Lunch Box": {
+      "id": "13083100"
+    },
+    "Fly High Jelly Balloons": {
+      "id": "1308400"
+    },
+    "Space Traveling Jelly Balloons": {
+      "id": "13084000"
+    },
+    "Blessed Space Traveling Jelly Balloons": {
+      "id": "13084100"
+    },
+    "Chocolate Cover Workbook": {
+      "id": "1308500"
+    },
+    "Chocolate Hardcover Workbook": {
+      "id": "13085000"
+    },
+    "Blessed Chocolate Hardcover Workbook": {
+      "id": "13085100"
+    },
+    "Speedy Foot Lollipop": {
+      "id": "1308600"
+    },
+    "Melted Pocket Watch": {
+      "id": "1308700"
+    },
+    "Pumped-up Pork Pie": {
+      "id": "1308800"
+    },
+    "Choco Dip Sticks": {
+      "id": "1308900"
+    },
+    "Star Desk Lamp": {
+      "id": "1309000"
+    },
+    "Glazed Wonder Donut": {
+      "id": "1309100"
+    },
+    "Grand Revival Donut": {
+      "id": "13091000"
+    },
+    "Blessed Grand Revival Donut": {
+      "id": "13091100"
+    },
+    "Golden Wreath": {
+      "id": "1309200"
+    },
+    "Gold Lotus Wreath of Wisdom": {
+      "id": "13092000"
+    },
+    "Blessed Gold Lotus Wreath of Wisdom": {
+      "id": "13092100"
+    },
+    "Choccy Matryoshka": {
+      "id": "1309300"
+    },
+    "Burning Choccy Matryoshka": {
+      "id": "13093000"
+    },
+    "Blessed Burning Choccy Matryoshka": {
+      "id": "13093100"
+    },
+    "Demagnetizing Helmet": {
+      "id": "1309400"
+    },
+    "Titanium Helmet": {
+      "id": "13094000"
+    },
+    "Blessed Titanium Helmet": {
+      "id": "13094100"
+    },
+    "Crystal Jewelry Box": {
+      "id": "1309500"
+    },
+    "Little Toy Ambulance": {
+      "id": "1309600"
+    },
+    "Miracle Toy Ambulance": {
+      "id": "13096000"
+    },
+    "Blessed Miracle Toy Ambulance": {
+      "id": "13096100"
+    },
+    "Red Hot Chili Drink": {
+      "id": "1309700"
+    },
+    "Red Hot-hot-hot Chili Drink": {
+      "id": "13097000"
+    },
+    "Blessed Red Hot-hot-hot Chili Drink": {
+      "id": "13097100"
+    },
+    "Boatman's Dagger": {
+      "id": "1309800"
+    },
+    "Boatman's Burning Gold Sword": {
+      "id": "13098000"
+    },
+    "Blessed Boatman's Burning Gold Sword": {
+      "id": "13098100"
+    },
+    "Ever Hungry Elephant Bank": {
+      "id": "1309900"
+    },
+    "Stuffed Elephant Bank": {
+      "id": "13099000"
+    },
+    "Blessed Stuffed Elephant Bank": {
+      "id": "13099100"
+    },
+    "Soda Ice Pop": {
+      "id": "1310000"
+    },
+    "Twin Soda Ice Pops": {
+      "id": "13100000"
+    },
+    "Blessed Twin Soda Ice Pops": {
+      "id": "13100100"
+    },
+    "Creamy Monster Muffin": {
+      "id": "1310100"
+    },
+    "Supremely Yummy Monster Muffin": {
+      "id": "13101000"
+    },
+    "Blessed Supremely Yummy Monster Muffin": {
+      "id": "13101100"
+    },
+    "Vita Vita Drink": {
+      "id": "1310200"
+    },
+    "Vita Vita Plus Drink": {
+      "id": "13102000"
+    },
+    "Blessed Vita Vita Plus Drink": {
+      "id": "13102100"
+    },
+    "Hot Café Latte": {
+      "id": "1310300"
+    },
+    "Rich Black Coffee": {
+      "id": "13103000"
+    },
+    "Blessed Rich Black Coffee": {
+      "id": "13103100"
+    },
+    "Spankin' New Saddle": {
+      "id": "1310400"
+    },
+    "Royal Bear Jelly Saddle": {
+      "id": "13104000"
+    },
+    "Blessed Royal Bear Jelly Saddle": {
+      "id": "13104100"
+    },
+    "Spotted Cow High Protein Milk": {
+      "id": "1310500"
+    },
+    "Flaming High Protein Milk": {
+      "id": "13105000"
+    },
+    "Blessed Flaming High Protein Milk": {
+      "id": "13105100"
+    },
+    "Sweet Twisted Donut": {
+      "id": "1310600"
+    },
+    "Honey Dipped Twisted Donut": {
+      "id": "13106000"
+    },
+    "Blessed Honey Dipped Twisted Donut": {
+      "id": "13106100"
+    },
+    "Translucent Crystal Alarm Clock": {
+      "id": "1310700"
+    },
+    "Exalted Star Brooch": {
+      "id": "1310800"
+    },
+    "Miraculous Star Brooch": {
+      "id": "13108000"
+    },
+    "Blessed Miraculous Star Brooch": {
+      "id": "13108100"
+    },
+    "Pink Bear Jelly Party Hat": {
+      "id": "1310900"
+    },
+    "Double Pink Bear Jelly Party Hat": {
+      "id": "13109000"
+    },
+    "Blessed Double Pink Bear Jelly Party Hat": {
+      "id": "13109100"
+    },
+    "Candy Roller Skates": {
+      "id": "1311000"
+    },
+    "Candy Inline Skates": {
+      "id": "13110000"
+    },
+    "Blessed Candy Inline Skates": {
+      "id": "13110100"
+    },
+    "Fluffy Kiwi Bread": {
+      "id": "1311100"
+    },
+    "Golden Kiwi Bread": {
+      "id": "13111000"
+    },
+    "Blessed Golden Kiwi Bread": {
+      "id": "13111100"
+    },
+    "Delicious Peanut Butter Sandwich": {
+      "id": "1311200"
+    },
+    "Triple Peanut Butter Sandwich": {
+      "id": "13112000"
+    },
+    "Blessed Triple Peanut Butter Sandwich": {
+      "id": "13112100"
+    },
+    "Golden Energy Drink": {
+      "id": "1311300"
+    },
+    "99.9% Gold Energy Drink": {
+      "id": "13113000"
+    },
+    "Blessed 99.9% Gold Energy Drink": {
+      "id": "13113100"
+    },
+    "Giant Crystal Ring": {
+      "id": "1311400"
+    },
+    "Flaming Red Jellyco": {
+      "id": "1311500"
+    },
+    "Sizzling Hot Jellyco": {
+      "id": "13115000"
+    },
+    "Blessed Sizzling Hot Jellyco": {
+      "id": "13115100"
+    },
+    "Sweet Night Sky Crepe": {
+      "id": "1311600"
+    },
+    "Stuffed Night Sky Crepe": {
+      "id": "13116000"
+    },
+    "Blessed Stuffed Night Sky Crepe": {
+      "id": "13116100"
+    },
+    "Crescent Moon Cocktail": {
+      "id": "1311700"
+    },
+    "Full Moon Cocktail": {
+      "id": "13117000"
+    },
+    "Blessed Full Moon Cocktail": {
+      "id": "13117100"
+    },
+    "Tip of the Iceberg Popsicle": {
+      "id": "1311800"
+    },
+    "Deadly Double Iceberg Popsicle": {
+      "id": "13118000"
+    },
+    "Blessed Deadly Double Iceberg Popsicle": {
+      "id": "13118100"
+    },
+    "Prosperous Earth Bracelet": {
+      "id": "1311900"
+    },
+    "Sacred Prosperous Earth Bracelet": {
+      "id": "13119000"
+    },
+    "Blessed Sacred Prosperous Earth Bracelet": {
+      "id": "13119100"
+    },
+    "Fire Guardian Ring": {
+      "id": "1312000"
+    },
+    "Sacred Fire Guardian Ring": {
+      "id": "13120000"
+    },
+    "Blessed Sacred Fire Guardian Ring": {
+      "id": "13120100"
+    },
+    "Swift Wind Earring": {
+      "id": "1312100"
+    },
+    "Sacred Swift Wind Earring": {
+      "id": "13121000"
+    },
+    "Blessed Sacred Swift Wind Earring": {
+      "id": "13121100"
+    },
+    "Restorative Water Pendant": {
+      "id": "1312200"
+    },
+    "Sacred Restorative Water Pendant": {
+      "id": "13122000"
+    },
+    "Blessed Sacred Restorative Water Pendant": {
+      "id": "13122100"
+    },
+    "Exhilarating AAA Battery Baton": {
+      "id": "1312300"
+    },
+    "Electrifying C Battery Baton": {
+      "id": "13123000"
+    },
+    "Blessed Electrifying C Battery Baton": {
+      "id": "13123100"
+    },
+    "Flavorful Butter Croissant": {
+      "id": "1312400"
+    },
+    "Flavor Explosion Choco Croissant": {
+      "id": "13124000"
+    },
+    "Blessed Flavor Explosion Choco Croissant": {
+      "id": "13124100"
+    },
+    "Mini Gumball Missile": {
+      "id": "1312500"
+    },
+    "Mini Gumball Rocket": {
+      "id": "13125000"
+    },
+    "Blessed Mini Gumball Rocket": {
+      "id": "13125100"
+    },
+    "Dropped Banana Peel": {
+      "id": "1312600"
+    },
+    "Slippery Golden Banana Peel": {
+      "id": "13126000"
+    },
+    "Blessed Slippery Golden Banana Peel": {
+      "id": "13126100"
+    },
+    "5g Amateur Ankle Weights": {
+      "id": "1312700"
+    },
+    "10g Pro Ankle Weights": {
+      "id": "13127000"
+    },
+    "Blessed 10g Pro Ankle Weights": {
+      "id": "13127100"
+    },
+    "Amateur Baking Powder": {
+      "id": "1312800"
+    },
+    "Expert Baking Powder": {
+      "id": "13128000"
+    },
+    "Blessed Expert Baking Powder": {
+      "id": "13128100"
+    },
+    "Jelly Pogo Stick": {
+      "id": "1312900"
+    },
+    "Jumpy Jelly Horse": {
+      "id": "13129000"
+    },
+    "Blessed Jumpy Jelly Horse": {
+      "id": "13129100"
+    },
+    "Cherry Blossom Cotton Candy": {
+      "id": "1313000"
+    },
+    "Full Bloom Cotton Candy": {
+      "id": "13130000"
+    },
+    "Blessed Full Bloom Cotton Candy": {
+      "id": "13130100"
+    },
+    "Cool Soda Popsicle": {
+      "id": "1313100"
+    },
+    "Ice Tornado Popsicle": {
+      "id": "13131000"
+    },
+    "Blessed Ice Tornado Popsicle": {
+      "id": "13131100"
+    },
+    "Sparkling Water Drink": {
+      "id": "1313200"
+    },
+    "Iced Sparkling Water Drink": {
+      "id": "13132000"
+    },
+    "Blessed Iced Sparkling Water Drink": {
+      "id": "13132100"
+    },
+    "Decorative Crystal Spork": {
+      "id": "1313300"
+    },
+    "Sweet Jujube Flower Rice Cake": {
+      "id": "1313400"
+    },
+    "Syrup Jujube Flower Rice Cake": {
+      "id": "13134000"
+    },
+    "Blessed Syrup Jujube Flower Rice Cake": {
+      "id": "13134100"
+    },
+    "Bamboo Scented Sticky Rice": {
+      "id": "1313500"
+    },
+    "Bamboo Scented Five-Grain Rice": {
+      "id": "13135000"
+    },
+    "Blessed Bamboo Scented Five-Grain Rice": {
+      "id": "13135100"
+    },
+    "Icy Glass Slippers": {
+      "id": "1313600"
+    },
+    "Waterproof Icy Glass Boots": {
+      "id": "13136000"
+    },
+    "Blessed Waterproof Icy Glass Boots": {
+      "id": "13136100"
+    },
+    "Shiny Golden Nunchucks": {
+      "id": "1313700"
+    },
+    "Glittering Golden Mace": {
+      "id": "13137000"
+    },
+    "Blessed Glittering Golden Mace": {
+      "id": "13137100"
+    },
+    "Orange-Lime Smoothie": {
+      "id": "1313800"
+    },
+    "Fruity Orange-Lime Smoothie": {
+      "id": "13138000"
+    },
+    "Blessed Fruity Orange-Lime Smoothie": {
+      "id": "13138100"
+    },
+    "Sweet Chocolate Eclair Baton": {
+      "id": "1313900"
+    },
+    "Strawberry Cream Eclair Baton": {
+      "id": "13139000"
+    },
+    "Blessed Strawberry Cream Eclair Baton": {
+      "id": "13139100"
+    },
+    "Pink Spring Jelly Shoes": {
+      "id": "1314000"
+    },
+    "Double Spring Jelly Shoes": {
+      "id": "13140000"
+    },
+    "Blessed Double Spring Jelly Shoes": {
+      "id": "13140100"
+    },
+    "Cherished Sacred Crystal Sword": {
+      "id": "1314100"
+    },
+    "Freshly Baked Naan": {
+      "id": "1314200"
+    },
+    "Crispy Naan Set": {
+      "id": "13142000"
+    },
+    "Blessed Crispy Naan Set": {
+      "id": "13142100"
+    },
+    "Refreshing Mango Lassi": {
+      "id": "1314300"
+    },
+    "Refreshing Double Mango Lassi": {
+      "id": "13143000"
+    },
+    "Blessed Refreshing Double Mango Lassi": {
+      "id": "13143100"
+    },
+    "Sour Soda": {
+      "id": "1314400"
+    },
+    "Super Fizzy Sour Soda": {
+      "id": "13144000"
+    },
+    "Blessed Super Fizzy Sour Soda": {
+      "id": "13144100"
+    },
+    "Summon Feed": {
+      "id": "1314500"
+    },
+    "Special Summon Feed": {
+      "id": "13145000"
+    },
+    "Blessed Special Summon Feed": {
+      "id": "13145100"
+    },
+    "Victor's Feather Laurel Wreath": {
+      "id": "1314600"
+    },
+    "Champion's Shining Crown": {
+      "id": "13146000"
+    },
+    "Blessed Champion's Shining Crown": {
+      "id": "13146100"
+    },
+    "Jingle-jangle Coin Wallet": {
+      "id": "1314700"
+    },
+    "Fat Rich Coin Wallet": {
+      "id": "13147000"
+    },
+    "Blessed Fat Rich Coin Wallet": {
+      "id": "13147100"
+    },
+    "Freshly Roasted Ginkgo Skewer": {
+      "id": "1314800"
+    },
+    "Autumn Campfire Skewer Set": {
+      "id": "13148000"
+    },
+    "Blessed Autumn Campfire Skewer Set": {
+      "id": "13148100"
+    },
+    "Mushroom Drink": {
+      "id": "1314900"
+    },
+    "Super Mushroom Drink": {
+      "id": "13149000"
+    },
+    "Blessed Super Mushroom Drink": {
+      "id": "13149100"
+    },
+    "Enduring Mushroom Flashlight": {
+      "id": "1315000"
+    },
+    "Forest Mushroom Lamp": {
+      "id": "13150000"
+    },
+    "Blessed Forest Mushroom Lamp": {
+      "id": "13150100"
+    },
+    "Antimagnetic Safety Gloves": {
+      "id": "1315100"
+    },
+    "Heavy-duty Magnet Blocker Gloves": {
+      "id": "13151000"
+    },
+    "Blessed Heavy-duty Magnet Blocker Gloves": {
+      "id": "13151100"
+    },
+    "Hyper Soda Zero": {
+      "id": "1315200"
+    },
+    "Hyper Neon Soda Zero": {
+      "id": "13152000"
+    },
+    "Blessed Hyper Neon Soda Zero": {
+      "id": "13152100"
+    },
+    "Plum Rubber Balls": {
+      "id": "1315300"
+    },
+    "Watermelon Rubber Balls": {
+      "id": "13153000"
+    },
+    "Blessed Watermelon Rubber Balls": {
+      "id": "13153100"
+    },
+    "First Grader's Backpack": {
+      "id": "1315400"
+    },
+    "First Grader's Badged Backpack": {
+      "id": "13154000"
+    },
+    "Blessed First Grader's Badged Backpack": {
+      "id": "13154100"
+    },
+    "Four-color Choco Pen Set": {
+      "id": "1315500"
+    },
+    "Colorful Choco Pen Set": {
+      "id": "13155000"
+    },
+    "Blessed Colorful Choco Pen Set": {
+      "id": "13155100"
+    },
+    "Kids Smart Tablet": {
+      "id": "1315600"
+    },
+    "Next Gen Smart Pad": {
+      "id": "13156000"
+    },
+    "Blessed Next Gen Smart Pad": {
+      "id": "13156100"
+    },
+    "Springtime Picnic Mat": {
+      "id": "1315700"
+    },
+    "Springtime Sunny Tent": {
+      "id": "13157000"
+    },
+    "Blessed Springtime Sunny Tent": {
+      "id": "13157100"
+    },
+    "Springtime Lunchbox": {
+      "id": "1315800"
+    },
+    "Springtime Picnic Basket": {
+      "id": "13158000"
+    },
+    "Blessed Springtime Picnic Basket": {
+      "id": "13158100"
+    },
+    "Sparkling Memories Crystal Camera": {
+      "id": "1315900"
+    },
+    "Blueberry Horse Music Box": {
+      "id": "1316000"
+    },
+    "Raspberry Carousel Music Box": {
+      "id": "13160000"
+    },
+    "Blessed Raspberry Carousel Music Box": {
+      "id": "13160100"
+    },
+    "Colorful Kids' Paints": {
+      "id": "1316100"
+    },
+    "Artist's Palette": {
+      "id": "13161000"
+    },
+    "Blessed Artist's Palette": {
+      "id": "13161100"
+    },
+    "Sturdy Catchball Glove": {
+      "id": "1316200"
+    },
+    "Golden Pro Glove": {
+      "id": "13162000"
+    },
+    "Blessed Golden Pro Glove": {
+      "id": "13162100"
+    },
+    "Peachy Ice Pop": {
+      "id": "1316300"
+    },
+    "Special Peach Parfait": {
+      "id": "13163000"
+    },
+    "Blessed Special Peach Parfait": {
+      "id": "13163100"
+    },
+    "Melony Melody Guitar": {
+      "id": "1316400"
+    },
+    "Rocking Melon Electric Guitar": {
+      "id": "13164000"
+    },
+    "Blessed Rocking Melon Electric Guitar": {
+      "id": "13164100"
+    },
+    "Plump Plum Squishies": {
+      "id": "1316500"
+    },
+    "Too Big Plum Squishy": {
+      "id": "13165000"
+    },
+    "Blessed Too Big Plum Squishy": {
+      "id": "13165100"
+    },
+    "10 Million Champion Belt": {
+      "id": "1500100"
+    },
+    "Cookies' 1st Freedom Frame": {
+      "id": "1500300"
+    },
+    "Lv.50 Golden Club Trophy": {
+      "id": "1500400"
+    },
+    "Lv.60 Legends Club Trophy": {
+      "id": "1500500"
+    },
+    "Halloween Witch's Hat": {
+      "id": "1500600"
+    },
+    "Wednesday Crystal Bell": {
+      "id": "1500700"
+    },
+    "Cookies' 2nd Freedom Frame": {
+      "id": "1500800"
+    },
+    "2014 Gold Diary": {
+      "id": "1500900"
+    },
+    "White Day Coin Candy": {
+      "id": "1501000"
+    },
+    "Mini Diamond Cookie Cutter": {
+      "id": "1501100"
+    },
+    "Lv.70 Club Trophy": {
+      "id": "1501200"
+    },
+    "Original Gingerbread": {
+      "id": "1501300"
+    },
+    "Luck-bringing Rainbow Drop": {
+      "id": "1501400"
+    },
+    "Kiss-bringing Handkerchief": {
+      "id": "1501500"
+    },
+    "Summer 2015 Crystal Bingsoo": {
+      "id": "1501600"
+    },
+    "Coin Compass": {
+      "id": "1501700"
+    },
+    "1 Million Points Certificate": {
+      "id": "1501800"
+    },
+    "2 Million Points Certificate": {
+      "id": "1501900"
+    },
+    "3 Million Points Certificate": {
+      "id": "1502000"
+    },
+    "4 Million Points Certificate": {
+      "id": "1502100"
+    },
+    "5 Million Points Certificate": {
+      "id": "1502200"
+    },
+    "6 Million Points Certificate": {
+      "id": "1502300"
+    },
+    "7 Million Points Certificate": {
+      "id": "1502400"
+    },
+    "8 Million Points Certificate": {
+      "id": "1502500"
+    },
+    "9 Million Points Certificate": {
+      "id": "1502600"
+    },
+    "10 Million Points Certificate": {
+      "id": "1502700"
+    },
+    "20 Million Points Certificate": {
+      "id": "1502800"
+    },
+    "30 Million Points Certificate": {
+      "id": "1502900"
+    },
+    "40 Million Points Certificate": {
+      "id": "1503000"
+    },
+    "50 Million Points Certificate": {
+      "id": "1503100"
+    },
+    "60 Million Points Certificate": {
+      "id": "1503200"
+    },
+    "70 Million Points Certificate": {
+      "id": "1503300"
+    },
+    "80 Million Points Certificate": {
+      "id": "1503400"
+    },
+    "90 Million Points Certificate": {
+      "id": "1503500"
+    },
+    "100 Million Points Certificate": {
+      "id": "1503600"
+    },
+    "Mini Crystal Roulette": {
+      "id": "1503700"
+    },
+    "Yellow Whirl Donut": {
+      "id": "1503800"
+    },
+    "Glittery Sunflower Medal": {
+      "id": "1503900"
+    },
+    "Kakao Games 2nd Anniversary Coin": {
+      "id": "1504000"
+    },
+    "Cookies' 3rd Freedom Frame": {
+      "id": "1504100"
+    },
+    "Cookies' 4th Freedom Frame": {
+      "id": "1504200"
+    },
+    "New World Certificate": {
+      "id": "1504300"
+    },
+    "Moon Rabbit's Magic Powder Mortar": {
+      "id": "1504400"
+    },
+    "Moon Rabbit's Carrot Fishing Rod": {
+      "id": "1504500"
+    },
+    "Moon Rabbit's Full Moon Bread": {
+      "id": "1504600"
+    },
+    "Tiger Energy Cereal": {
+      "id": "1504700"
+    },
+    "Pumpkin Candy Basket": {
+      "id": "1504800"
+    },
+    "Cute Mini Crystal Cushion": {
+      "id": "1504900"
+    },
+    "Wishing Lotus Flower": {
+      "id": "1505000"
+    },
+    "40 Million Champion Belt": {
+      "id": "1505100"
+    },
+    "Squirrel's Chocolate Pine Cone": {
+      "id": "1505200"
+    },
+    "Squirrel's Cute Acorn Ornament": {
+      "id": "1505300"
+    },
+    "Squirrel's Coin Wreath": {
+      "id": "1505400"
+    },
+    "Snowman's Family Portrait": {
+      "id": "1505500"
+    },
+    "Ultimate Snowman Toy Soldier": {
+      "id": "1505600"
+    },
+    "2015 Gold Calendar": {
+      "id": "1505700"
+    },
+    "Lv.80 Premium Club Trophy": {
+      "id": "1505800"
+    },
+    "Cookies' 5th Freedom Frame": {
+      "id": "1505900"
+    },
+    "Valentine's Day Magic Chocolate": {
+      "id": "1506000"
+    },
+    "Misshapen Magic Chocolate": {
+      "id": "1506100"
+    },
+    "Squirrel's Magical Korean Sweets": {
+      "id": "1506200"
+    },
+    "Squirrel's Shining Moon Manju": {
+      "id": "1506300"
+    },
+    "Squirrel's Strawberry Rice Cake": {
+      "id": "1506400"
+    },
+    "Squirrel's Glistening Flower Steak": {
+      "id": "1506500"
+    },
+    "Half-used Color Crayons": {
+      "id": "1506600"
+    },
+    "Giant Rice Puff Cannon": {
+      "id": "1506700"
+    },
+    "Gingerbrave's Water Gun": {
+      "id": "1506800"
+    },
+    "Mini Crystal Figurine": {
+      "id": "1506900"
+    },
+    "Golden Premium Invitation": {
+      "id": "1507000"
+    },
+    "Dreaming Strawberry Choco Donut": {
+      "id": "1507100"
+    },
+    "Jawbreaker Gumball": {
+      "id": "1507200"
+    },
+    "Summer 2015 Crystal Mango Bingsoo": {
+      "id": "1507300"
+    },
+    "Free Coin Collaboration Heart Treasure": {
+      "id": "1507400"
+    },
+    "50 Million Celebration Firecrackers": {
+      "id": "1507500"
+    },
+    "Squirrel's Magical Sand Bottle": {
+      "id": "1508500"
+    },
+    "Squirrel's Seashell Necklace": {
+      "id": "1508600"
+    },
+    "Squirrel's Refreshing Coconut Water": {
+      "id": "1508700"
+    },
+    "Cookies' 6th Freedom Frame": {
+      "id": "1507900"
+    },
+    "Sea Fairy's Yearning": {
+      "id": "1508000"
+    },
+    "Icy Starlight Bellflower": {
+      "id": "1508100"
+    },
+    "Golden Watering Can": {
+      "id": "1508200"
+    },
+    "Ice Blade Skates": {
+      "id": "1508300"
+    },
+    "Frozen Golden Hammer": {
+      "id": "1508400"
+    },
+    "Mysterious Moon Lantern": {
+      "id": "1508800"
+    },
+    "2015 Halloween Party Photo": {
+      "id": "1508900"
+    },
+    "Hot Sweet Potato": {
+      "id": "1509000"
+    },
+    "Familiar Blue Necklace": {
+      "id": "1509100"
+    },
+    "Squirrel Snowball": {
+      "id": "1509200"
+    },
+    "Jellyco the Red-nosed Reindeer": {
+      "id": "1509300"
+    },
+    "Christmas Supper Ham": {
+      "id": "1509400"
+    },
+    "Coin Poinsettia Christmas Decoration": {
+      "id": "1509500"
+    },
+    "Splendid Jelly Light Bulbs": {
+      "id": "1509600"
+    },
+    "2016 Crystal Monkey": {
+      "id": "1509700"
+    },
+    "Lucky Pufferfish": {
+      "id": "1509800"
+    },
+    "Valentine's Day Friendship Macaron": {
+      "id": "1510300"
+    },
+    "Cookies' 7th Freedom Frame": {
+      "id": "1510400"
+    },
+    "Trophy of Glory: Sprout I": {
+      "id": "1510500"
+    },
+    "Trophy of Glory: Sprout II": {
+      "id": "1510600"
+    },
+    "Trophy of Glory: Sprout III": {
+      "id": "1510700"
+    },
+    "Trophy of Glory: Sprout IV": {
+      "id": "1510800"
+    },
+    "Trophy of Glory: Sprout V": {
+      "id": "1510900"
+    },
+    "Trophy of Glory: Rookie I": {
+      "id": "1511000"
+    },
+    "Trophy of Glory: Rookie II": {
+      "id": "1511100"
+    },
+    "Trophy of Glory: Rookie III": {
+      "id": "1511200"
+    },
+    "Trophy of Glory: Rookie IV": {
+      "id": "1511300"
+    },
+    "Trophy of Glory: Rookie V": {
+      "id": "1511400"
+    },
+    "Trophy of Glory: Expert I": {
+      "id": "1511500"
+    },
+    "Trophy of Glory: Expert II": {
+      "id": "1511600"
+    },
+    "Trophy of Glory: Expert III": {
+      "id": "1511700"
+    },
+    "Trophy of Glory: Expert IV": {
+      "id": "1511800"
+    },
+    "Trophy of Glory: Expert V": {
+      "id": "1511900"
+    },
+    "Trophy of Glory: Master I": {
+      "id": "1512000"
+    },
+    "Trophy of Glory: Master II": {
+      "id": "1512100"
+    },
+    "Trophy of Glory: Master III": {
+      "id": "1512200"
+    },
+    "Trophy of Glory: Master IV": {
+      "id": "1512300"
+    },
+    "Trophy of Glory: Master V": {
+      "id": "1512400"
+    },
+    "Trophy of Glory: Hero I": {
+      "id": "1512500"
+    },
+    "Trophy of Glory: Hero II": {
+      "id": "1512600"
+    },
+    "Trophy of Glory: Hero III": {
+      "id": "1512700"
+    },
+    "Trophy of Glory: Hero IV": {
+      "id": "1512800"
+    },
+    "Trophy of Glory: Hero V": {
+      "id": "1512900"
+    },
+    "Trophy of Glory: Champ I": {
+      "id": "1513000"
+    },
+    "Trophy of Glory: Champ II": {
+      "id": "1513100"
+    },
+    "Trophy of Glory: Champ III": {
+      "id": "1513200"
+    },
+    "Trophy of Glory: Champ IV": {
+      "id": "1513300"
+    },
+    "Trophy of Glory: Champ V": {
+      "id": "1513400"
+    },
+    "Trophy of Glory: Legend I": {
+      "id": "1513500"
+    },
+    "Trophy of Glory: Legend II": {
+      "id": "1513600"
+    },
+    "Trophy of Glory: Legend III": {
+      "id": "1513700"
+    },
+    "Trophy of Glory: Legend IV": {
+      "id": "1513800"
+    },
+    "Trophy of Glory: Legend V": {
+      "id": "1513900"
+    },
+    "Trophy of Glory: Myth": {
+      "id": "1514000"
+    },
+    "Carafe of Happiness": {
+      "id": "1514100"
+    },
+    "Mini Crystal Figurine 2": {
+      "id": "1514200"
+    },
+    "Melting Banana Choco Pie": {
+      "id": "1514300"
+    },
+    "Lv.90 VIP Club Trophy": {
+      "id": "1514400"
+    },
+    "Lv.100 Dream Club Trophy": {
+      "id": "1514500"
+    },
+    "Cookies' 8th Freedom Frame": {
+      "id": "1514600"
+    },
+    "60 million": {
+      "id": "1514700"
+    },
+    "Squirrel's Traditional Persimmon": {
+      "id": "1514800"
+    },
+    "Squirrel's Ham Gift Set": {
+      "id": "1514900"
+    },
+    "Squirrel's Glorious Corvina Cake": {
+      "id": "1515000"
+    },
+    "Halloween Crystal Cupcake": {
+      "id": "1515100"
+    },
+    "Shiny Crystal Snowflake Brooch": {
+      "id": "1515200"
+    },
+    "Happy New Year Pufferfish": {
+      "id": "1515300"
+    },
+    "11th Anniversary Gold Frame": {
+      "id": "1515400"
+    },
+    "Squirrel's Soft Jelly Tanghulu": {
+      "id": "1515500"
+    },
+    "Squirrel's Acorn Extract": {
+      "id": "1515600"
+    },
+    "Squirrel's Crystal Jewel Box": {
+      "id": "1515700"
+    },
+    "Squirrel's Festive Fireworks": {
+      "id": "1515800"
+    },
+    "11th Anniversary Crystal Frame": {
+      "id": "1515900"
+    },
+    "Summer 2024 Crystal Bingsoo": {
+      "id": "1516000"
+    },
+    "Sparkling Berry Birthday Gem Candy": {
+      "id": "1516100"
+    },
+    "GingerBrave's B-day Cake": {
+      "id": "1516200"
+    },
+    "Special Crystal Card": {
+      "id": "1516300"
+    },
+    "Squirrel's Crystal Aid Dispenser": {
+      "id": "1516400"
+    },
+    "Nutritious Crystal Pot Samgyetang": {
+      "id": "1516500"
+    },
+    "Chunky Sikhye": {
+      "id": "1516600"
+    },
+    "Celestial Emperor's Crystal Fan": {
+      "id": "1516700"
+    },
+    "Squirrel's Crystal Star Ornament": {
+      "id": "1516800"
+    },
+    "Squirrel's Holiday Cookie Box": {
+      "id": "1516900"
+    },
+    "Squirrel's Santa Choco Cake": {
+      "id": "1517000"
+    },
+    "2025 Blue Crystal Snake": {
+      "id": "1517100"
+    },
+    "Squirrel's Sparkling Crystal Yut": {
+      "id": "1517200"
+    },
+    "Squirrel's Sweet Okchun": {
+      "id": "1517300"
+    },
+    "Squirrel's Colorful Jelly Skewers": {
+      "id": "1517400"
+    },
+    "Hearty Buttered Five-Grain Rice": {
+      "id": "1517500"
+    },
+    "Choco Monkey's Banana Chocolate": {
+      "id": "1517600"
+    },
+    "Choco Monkey's Toothpaste Chocolate": {
+      "id": "1517700"
+    },
+    "Luxurious Coin Plalace Frame": {
+      "id": "1517800"
+    },
+    "Squirrel's Peanut Ice Cream": {
+      "id": "1517900"
+    },
+    "Cherished Light Stick": {
+      "id": "1518000"
+    },
+    "Marshmallow Shooting Star Piece": {
+      "id": "1518100"
+    },
+    "12th Anniversary Gold Frame": {
+      "id": "1518200"
+    },
+    "12th Anniversary Crystal Frame": {
+      "id": "1518300"
+    },
+    "Mint Choco Candy": {
+      "id": "1518400"
+    },
+    "Peppermint Candy": {
+      "id": "1518500"
+    },
+    "Herb Cookie's Golden Flowerpot": {
+      "id": "1518600"
+    },
+    "Mystery Box Collection": {
+      "id": "1518700"
+    },
+    "GingerBrave's First Step": {
+      "id": "1518800"
+    },
+    "Flipping Toy": {
+      "id": "1518900"
+    },
+    "Crystal Bunny Key Ring": {
+      "id": "1519000"
+    },
+    "Buttoned-up Snowman": {
+      "id": "1519100"
+    },
+    "Ancient Prophecy Frame": {
+      "id": "1519200"
+    },
+    "Personality Frame": {
+      "id": "1519300"
+    },
+    "GingerBrave's Sparkling B-day Cake": {
+      "id": "1519400"
+    },
+    "Squirrel's Squeaky Hammer": {
+      "id": "1519500"
+    },
+    "Squirrel's Bubbly Bubble Gun": {
+      "id": "1519600"
+    },
+    "Mystic Vial of Life": {
+      "id": "1519700"
+    },
+    "Party Run Crystal Ticket 1": {
+      "id": "1519800"
+    },
+    "Party Run Crystal Ticket 2": {
+      "id": "1519900"
+    },
+    "Full Moon Jar": {
+      "id": "1520000"
+    },
+    "Squirrel's Crystal Norigae": {
+      "id": "1520100"
+    },
+    "Squirrel's Acorn Sesame Cake": {
+      "id": "1520200"
+    },
+    "Squirrel's Floating Shield Kite": {
+      "id": "1520300"
+    },
+    "Party Run Drop Trophy": {
+      "id": "1520400"
+    },
+    "Crystal Candy House of Hope": {
+      "id": "1520500"
+    },
+    "Jingling Tree Ornament": {
+      "id": "1520600"
+    },
+    "2026 Red-Blue Crystal Horse": {
+      "id": "1520700"
+    },
+    "Royal Luxury Snowflake": {
+      "id": "1520800"
+    },
+    "Party Run Drop Certificate": {
+      "id": "1520900"
+    },
+    "Blooming Dancheong Lucky Bag": {
+      "id": "1521000"
+    },
+    "Scallion Kimchi Chocolate": {
+      "id": "1521100"
+    },
+    "Cabbage Candy": {
+      "id": "1521200"
+    },
+    "Crystal Party Drop Collection Figure": {
+      "id": "1521300"
+    },
+    "Baby Squirrel's Winter Hat": {
+      "id": "1521400"
+    },
+    "Party Drop's Signet Ring": {
+      "id": "1521500"
+    },
+    "Royal Party Crystal Crown": {
+      "id": "1521600"
+    },
+    "13th Anniversary Gold Frame": {
+      "id": "1521700"
+    },
+    "13th Anniversary Crystal Frame": {
+      "id": "1521800"
+    },
+    "GingerBrave's 13th Anniversary Balloons": {
+      "id": "1521900"
+    },
+    "Squirrel Spring Flowerpot": {
+      "id": "1522000"
+    },
+    "Squirrel Blossom Tail Pen": {
+      "id": "1522100"
+    },
+    "Lv.110 Royal Club Trophy": {
+      "id": "1522200"
+    },
+    "Carnation Brooch": {
+      "id": "1522300"
+    },
+    "Crystal Bell Key Ring": {
+      "id": "1522400"
+    },
+    "Collectible Crystal Card": {
+      "id": "1522500"
+    },
+    "Crystal Plaque of Gratitude": {
+      "id": "1522600"
+    },
+    "GingerBrave's B-Day Cupcake": {
+      "id": "1522700"
+    },
+    "GingerBrave's B-day Card": {
+      "id": "1522800"
+    },
+    "Expert Tier Dragon Egg": {
+      "id": "1523100"
+    },
+    "Master Tier Dragon Egg": {
+      "id": "1523200"
+    },
+    "Hero Tier Dragon Egg": {
+      "id": "1523300"
+    },
+    "Champ Tier Dragon Egg": {
+      "id": "1523400"
+    },
+    "Legend Tier Dragon Egg": {
+      "id": "1523500"
+    },
+    "Myth Tier Dragon Egg": {
+      "id": "1523600"
+    },
+    "Summer 2026 Crystal Melon Bingsoo": {
+      "id": "1523700"
+    },
+    "Commemorative Crystal Coin": {
+      "id": "1523800"
+    },
+    "Dreaming Choco Donut of Life": {
+      "id": "1600200"
+    },
+    "Lavish Golden Lace Parasol": {
+      "id": "1600300"
+    },
+    "Magic Cube Keychain": {
+      "id": "1600400"
+    },
+    "Rich Chocolate Gold Coin": {
+      "id": "1600500"
+    },
+    "Cherry Choco Ice Cream Cake": {
+      "id": "1600600"
+    },
+    "Trusty Golden Compass": {
+      "id": "1600700"
+    },
+    "XP-Elixir (S)": {
+      "id": "1700100"
+    },
+    "XP-Elixir (M)": {
+      "id": "1700200"
+    },
+    "XP-Elixir (L)": {
+      "id": "1700300"
+    },
+    "XP-Elixir (XL)": {
+      "id": "1700400"
+    },
+    "XP-Elixir (XXL)": {
+      "id": "1700500"
+    },
+    "XP-Elixir (XXXL)": {
+      "id": "1700600"
+    },
+    "XP-Elixir (XXXXL)": {
+      "id": "1700700"
+    }
+  }
+}

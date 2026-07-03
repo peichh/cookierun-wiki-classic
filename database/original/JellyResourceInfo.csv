@@ -1,0 +1,17 @@
+﻿JellyAni,JellyAniinfoFile,JellyGetSound,JellyResourceKey,JellySpriteFrame,JellyTextureFile,_key
+,,SoundEff_GetJellyCherryBlossom,4366_ch70_skin01,ch70_skin01_jelly.png,playing_jelly.png,1
+,,SoundEff_GetBearJelly,4253_ch40_skin01,ch40_skin01_jelly_2.png,playing_jelly.png,10
+,,SoundEff_GetBearJelly,4254_ch40_skin01,ch40_skin01_jelly_1.png,playing_jelly.png,11
+,,SoundEff_GetBearJelly,4255_ch40_skin01,ch40_skin01_jelly_3.png,playing_jelly.png,12
+,,BariPrincess_GetFlowerJelly,4406_ch81_skin01,ch81_skin01_jelly_01.png,playing_jelly.png,13
+,,BariPrincess_GetFlowerJelly,4407_ch81_skin01,ch81_skin01_jelly_02.png,playing_jelly.png,14
+,,BariPrincess_GetFlowerJelly,4408_ch81_skin01,ch81_skin01_jelly_03.png,playing_jelly.png,15
+,,ChungmuKimbap_GetChungmuKimbapJelly,4418_ch85_skin01,ch85_skin01_jelly.png,playing_jelly.png,16
+,,SoundEff_MallowBunnyJelly,4382_ch75_skin01,ch75_skin01_jelly_01.png,playing_jelly.png,2
+,,SoundEff_MallowBunnyJelly,4383_ch75_skin01,ch75_skin01_jelly_02.png,playing_jelly.png,3
+,,SoundEff_MallowBunnyJelly,4384_ch75_skin01,ch75_skin01_jelly_03.png,playing_jelly.png,4
+,,SoundEff_MallowBunnyJelly,4385_ch75_skin01,ch75_skin01_jelly_04.png,playing_jelly.png,5
+,,SoundEff_MallowBunnyJelly,4382_ch75_skin02,ch75_skin02_jelly_01.png,playing_jelly.png,6
+,,SoundEff_MallowBunnyJelly,4383_ch75_skin02,ch75_skin02_jelly_02.png,playing_jelly.png,7
+,,SoundEff_MallowBunnyJelly,4384_ch75_skin02,ch75_skin02_jelly_03.png,playing_jelly.png,8
+,,SoundEff_MallowBunnyJelly,4385_ch75_skin02,ch75_skin02_jelly_04.png,playing_jelly.png,9

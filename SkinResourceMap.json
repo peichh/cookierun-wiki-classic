@@ -1,0 +1,331 @@
+[
+  {
+    "\ufeffbase_value": "ch49_effect",
+    "mapped_value": "ch49_skin01_effect,ch49_skin01_effect1_aniinfo.plist,ch49_skin01_effect2_aniinfo.plist,ch49_skin01_effect3_aniinfo.plist",
+    "stuff_id": "1800003",
+    "value_type": "6",
+    "_key": "1"
+  },
+  {
+    "\ufeffbase_value": "4382",
+    "mapped_value": "4382_ch75_skin01",
+    "stuff_id": "1800006",
+    "value_type": "5",
+    "_key": "10"
+  },
+  {
+    "\ufeffbase_value": "4383",
+    "mapped_value": "4383_ch75_skin01",
+    "stuff_id": "1800006",
+    "value_type": "5",
+    "_key": "11"
+  },
+  {
+    "\ufeffbase_value": "4384",
+    "mapped_value": "4384_ch75_skin01",
+    "stuff_id": "1800006",
+    "value_type": "5",
+    "_key": "12"
+  },
+  {
+    "\ufeffbase_value": "4385",
+    "mapped_value": "4385_ch75_skin01",
+    "stuff_id": "1800006",
+    "value_type": "5",
+    "_key": "13"
+  },
+  {
+    "\ufeffbase_value": "4382",
+    "mapped_value": "4382_ch75_skin02",
+    "stuff_id": "1800007",
+    "value_type": "5",
+    "_key": "14"
+  },
+  {
+    "\ufeffbase_value": "4383",
+    "mapped_value": "4383_ch75_skin02",
+    "stuff_id": "1800007",
+    "value_type": "5",
+    "_key": "15"
+  },
+  {
+    "\ufeffbase_value": "4384",
+    "mapped_value": "4384_ch75_skin02",
+    "stuff_id": "1800007",
+    "value_type": "5",
+    "_key": "16"
+  },
+  {
+    "\ufeffbase_value": "4385",
+    "mapped_value": "4385_ch75_skin02",
+    "stuff_id": "1800007",
+    "value_type": "5",
+    "_key": "17"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect_2",
+    "mapped_value": "effect_2_ch40_skin01,ch40_skin01_effect1_aniinfo.plist,ch40_skin01_effect2_aniinfo.plist,ch40_skin01_effect3_aniinfo.plist,ch40_skin01_effect4_aniinfo.plist,ch40_skin01_effect5_aniinfo.plist",
+    "stuff_id": "1800009",
+    "value_type": "6",
+    "_key": "18"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect1",
+    "mapped_value": "ch40_skin01_effect1",
+    "stuff_id": "1800009",
+    "value_type": "3",
+    "_key": "19"
+  },
+  {
+    "\ufeffbase_value": "ch49_effect1",
+    "mapped_value": "ch49_skin01_effect1",
+    "stuff_id": "1800003",
+    "value_type": "3",
+    "_key": "2"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect2",
+    "mapped_value": "ch40_skin01_effect2",
+    "stuff_id": "1800009",
+    "value_type": "3",
+    "_key": "20"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect3",
+    "mapped_value": "ch40_skin01_effect3",
+    "stuff_id": "1800009",
+    "value_type": "3",
+    "_key": "21"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect4",
+    "mapped_value": "ch40_skin01_effect4",
+    "stuff_id": "1800009",
+    "value_type": "3",
+    "_key": "22"
+  },
+  {
+    "\ufeffbase_value": "ch40_effect5",
+    "mapped_value": "ch40_skin01_effect5",
+    "stuff_id": "1800009",
+    "value_type": "3",
+    "_key": "23"
+  },
+  {
+    "\ufeffbase_value": "4253",
+    "mapped_value": "4253_ch40_skin01",
+    "stuff_id": "1800009",
+    "value_type": "5",
+    "_key": "24"
+  },
+  {
+    "\ufeffbase_value": "4254",
+    "mapped_value": "4254_ch40_skin01",
+    "stuff_id": "1800009",
+    "value_type": "5",
+    "_key": "25"
+  },
+  {
+    "\ufeffbase_value": "4255",
+    "mapped_value": "4255_ch40_skin01",
+    "stuff_id": "1800009",
+    "value_type": "5",
+    "_key": "26"
+  },
+  {
+    "\ufeffbase_value": "ch81_effect",
+    "mapped_value": "ch81_skin01_effect,ch81_skin01_effect_aniinfo.plist",
+    "stuff_id": "1800010",
+    "value_type": "6",
+    "_key": "27"
+  },
+  {
+    "\ufeffbase_value": "ch81_effect_ghost",
+    "mapped_value": "ch81_skin01_effect,ch81_skin01_effect_aniinfo.plist",
+    "stuff_id": "1800010",
+    "value_type": "6",
+    "_key": "28"
+  },
+  {
+    "\ufeffbase_value": "26",
+    "mapped_value": "29",
+    "stuff_id": "1800010",
+    "value_type": "2",
+    "_key": "29"
+  },
+  {
+    "\ufeffbase_value": "ch49_effect2",
+    "mapped_value": "ch49_skin01_effect2",
+    "stuff_id": "1800003",
+    "value_type": "3",
+    "_key": "3"
+  },
+  {
+    "\ufeffbase_value": "ch81_effect",
+    "mapped_value": "ch81_skin01_effect",
+    "stuff_id": "1800010",
+    "value_type": "3",
+    "_key": "30"
+  },
+  {
+    "\ufeffbase_value": "ch81_effect04_gauge0.png",
+    "mapped_value": "ch81_skin01_effect04_gauge0.png",
+    "stuff_id": "1800010",
+    "value_type": "4",
+    "_key": "31"
+  },
+  {
+    "\ufeffbase_value": "ch81_effect04_gauge1.png",
+    "mapped_value": "ch81_skin01_effect04_gauge1.png",
+    "stuff_id": "1800010",
+    "value_type": "4",
+    "_key": "32"
+  },
+  {
+    "\ufeffbase_value": "4406",
+    "mapped_value": "4406_ch81_skin01",
+    "stuff_id": "1800010",
+    "value_type": "5",
+    "_key": "33"
+  },
+  {
+    "\ufeffbase_value": "4407",
+    "mapped_value": "4407_ch81_skin01",
+    "stuff_id": "1800010",
+    "value_type": "5",
+    "_key": "34"
+  },
+  {
+    "\ufeffbase_value": "4408",
+    "mapped_value": "4408_ch81_skin01",
+    "stuff_id": "1800010",
+    "value_type": "5",
+    "_key": "35"
+  },
+  {
+    "\ufeffbase_value": "ch82_effect",
+    "mapped_value": "ch82_skin01_effect,ch82_skin01_effect_aniinfo.plist",
+    "stuff_id": "1800011",
+    "value_type": "6",
+    "_key": "36"
+  },
+  {
+    "\ufeffbase_value": "27",
+    "mapped_value": "30",
+    "stuff_id": "1800011",
+    "value_type": "2",
+    "_key": "37"
+  },
+  {
+    "\ufeffbase_value": "ch82_effect",
+    "mapped_value": "ch82_skin01_effect",
+    "stuff_id": "1800011",
+    "value_type": "3",
+    "_key": "38"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect",
+    "mapped_value": "ch85_skin01_effect03,ch85_skin01_effect03_aniinfo.plist",
+    "stuff_id": "1800012",
+    "value_type": "6",
+    "_key": "39"
+  },
+  {
+    "\ufeffbase_value": "ch49_effect3",
+    "mapped_value": "ch49_skin01_effect3",
+    "stuff_id": "1800003",
+    "value_type": "3",
+    "_key": "4"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect_back",
+    "mapped_value": "ch85_skin01_effect02,ch85_skin01_effect02_aniinfo.plist",
+    "stuff_id": "1800012",
+    "value_type": "6",
+    "_key": "40"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect_ship",
+    "mapped_value": "ch85_skin01_effect01,ch85_skin01_effect01_aniinfo.plist",
+    "stuff_id": "1800012",
+    "value_type": "6",
+    "_key": "41"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect_front",
+    "mapped_value": "ch85_skin01_effect02,ch85_skin01_effect02_aniinfo.plist",
+    "stuff_id": "1800012",
+    "value_type": "6",
+    "_key": "42"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect_jellycho",
+    "mapped_value": "ch85_skin01_effect03,ch85_skin01_effect03_aniinfo.plist",
+    "stuff_id": "1800012",
+    "value_type": "6",
+    "_key": "43"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect03",
+    "mapped_value": "ch85_skin01_effect03",
+    "stuff_id": "1800012",
+    "value_type": "3",
+    "_key": "44"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect02",
+    "mapped_value": "ch85_skin01_effect02",
+    "stuff_id": "1800012",
+    "value_type": "3",
+    "_key": "45"
+  },
+  {
+    "\ufeffbase_value": "ch85_effect01",
+    "mapped_value": "ch85_skin01_effect01",
+    "stuff_id": "1800012",
+    "value_type": "3",
+    "_key": "46"
+  },
+  {
+    "\ufeffbase_value": "4418",
+    "mapped_value": "4418_ch85_skin01",
+    "stuff_id": "1800012",
+    "value_type": "5",
+    "_key": "47"
+  },
+  {
+    "\ufeffbase_value": "ch65_effect",
+    "mapped_value": "ch65_skin01_effect,ch65_skin01_effect_aniinfo.plist",
+    "stuff_id": "1800004",
+    "value_type": "6",
+    "_key": "5"
+  },
+  {
+    "\ufeffbase_value": "ch65_effect",
+    "mapped_value": "ch65_skin01_effect",
+    "stuff_id": "1800004",
+    "value_type": "3",
+    "_key": "6"
+  },
+  {
+    "\ufeffbase_value": "ch70_effect",
+    "mapped_value": "ch70_skin01_effect,ch70_skin01_effect_aniinfo.plist",
+    "stuff_id": "1800005",
+    "value_type": "6",
+    "_key": "7"
+  },
+  {
+    "\ufeffbase_value": "ch70_effect",
+    "mapped_value": "ch70_skin01_effect",
+    "stuff_id": "1800005",
+    "value_type": "3",
+    "_key": "8"
+  },
+  {
+    "\ufeffbase_value": "4366",
+    "mapped_value": "4366_ch70_skin01",
+    "stuff_id": "1800005",
+    "value_type": "5",
+    "_key": "9"
+  }
+]

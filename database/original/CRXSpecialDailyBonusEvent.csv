@@ -1,0 +1,10 @@
+﻿CBMissionId_1,CBMissionUiSeq,CcbiFileName,DBMissionId_1,DBMissionId_10,DBMissionId_2,DBMissionId_3,DBMissionId_4,DBMissionId_5,DBMissionId_6,DBMissionId_7,DBMissionId_8,DBMissionId_9,DBMissionUiSeq,NumOfCountBonus,NumOfDailyBonus,ShowFailMark,_key
+690,0,c_event_daily_bonus3.ccbi,680,689,681,682,683,684,685,686,687,688,2,1,10,1,1
+713,0,c_event_daily_bonus1.ccbi,703,712,704,705,706,707,708,709,710,711,2,1,10,1,2
+860,0,c_event_daily_bonus2.ccbi,850,859,851,852,853,854,855,856,857,858,2,1,10,1,3
+875,0,c_event_daily_bonus3.ccbi,865,874,866,867,868,869,870,871,872,873,2,1,10,1,4
+896,0,c_event_daily_bonus1.ccbi,886,895,887,888,889,890,891,892,893,894,2,1,10,1,5
+943,0,c_event_daily_bonus2.ccbi,933,942,934,935,936,937,938,939,940,941,2,1,10,1,6
+954,0,c_event_daily_bonus3.ccbi,944,953,945,946,947,948,949,950,951,952,2,1,10,1,7
+967,0,c_event_daily_bonus1.ccbi,957,966,958,959,960,961,962,963,964,965,2,1,10,1,8
+3905,1,c_event_newyear_2.ccbi,957,966,958,959,960,961,962,963,964,965,2,1,10,1,9

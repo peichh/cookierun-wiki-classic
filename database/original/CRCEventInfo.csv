@@ -1,0 +1,255 @@
+﻿end_dt,event_category_type,event_name,event_type,group_seq,icon_file_name,precondition,resource_key,reward_qty,reward_type,secondary_resource_key,sort_order,start_dt,_key
+2025-01-16 23:59:59,EVENT,,ALPHABET_CARD,,,,,,,,,2024-12-30 11:00:00,1
+2025-05-11 23:59:59,EVENT,출석공지,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-04-29 00:00:01,10
+2026-04-18 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,4,2026-03-20 00:00:01,100
+2026-04-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,5,2026-04-19 00:00:01,101
+2026-05-18 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,6,2026-04-20 00:00:01,102
+2026-05-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,7,2026-05-19 00:00:01,103
+2026-05-28 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,8,2026-05-20 00:00:01,104
+2026-06-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,9,2026-06-19 00:00:01,105
+2026-07-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,10,2026-06-20 00:00:01,106
+2026-07-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,11,2026-07-19 00:00:01,107
+2026-08-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,12,2026-07-20 00:00:01,108
+2026-08-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,13,2026-08-19 00:00:01,109
+2025-05-18 23:59:59,EVENT,코인획득,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,,2025-05-16 00:00:01,11
+2026-09-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,14,2026-08-20 00:00:01,110
+2026-09-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,15,2026-09-19 00:00:01,111
+2026-10-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,16,2026-09-20 00:00:01,112
+2026-10-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,17,2026-10-19 00:00:01,113
+2026-11-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,18,2026-10-20 00:00:01,114
+2026-11-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,19,2026-11-19 00:00:01,115
+2026-12-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,20,2026-11-20 00:00:01,116
+2026-12-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,21,2026-12-19 00:00:01,117
+2027-01-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,22,2026-12-20 00:00:01,118
+2027-01-19 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,23,2027-01-19 00:00:01,119
+2025-05-25 23:59:59,EVENT,점수달성,SCORE,,crc_event_icon_score.png,,0,,,,,2025-05-23 00:00:01,12
+2026-04-28 23:59:59,EVENT,"파티풍선
+모으기",GOLD_CANDY,,crc_event_icon_goldcandy0.png,,0,,,,29,2026-03-31 10:30:01,120
+2026-04-28 23:59:59,EVENT,"13주년 기념
+사진도전",PHOTO_CHALLENGE,,crc_event_icon_13photo.png,,0,,,,27,2026-03-31 10:30:01,121
+2026-04-15 23:59:59,EVENT,"13주년 기념
+출석",IMAGE,,crc_event_icon_image.png,,0,,,,30,2026-04-02 00:00:01,122
+2026-04-18 23:59:59,EVENT,"파티런 
+플레이 도전",COMPLETE,,crc_event_icon_gameplay.png,,2,,,,28,2026-03-31 10:30:01,123
+2026-05-25 23:59:59,EVENT,"행운의 쿠또
+1주차(~5/8)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,24,2026-05-02 00:00:00,124
+2026-05-25 23:59:59,EVENT,"행운의 쿠또
+2주차(~5/15)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,25,2026-05-09 00:00:00,125
+2026-05-25 23:59:59,EVENT,"행운의 쿠또
+3주차(~5/22)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,26,2026-05-16 00:00:00,126
+2026-05-18 23:59:59,EVENT,"파티런 
+플레이 도전",COMPLETE,,crc_event_icon_gameplay.png,,2,,,,28,2026-04-29 10:30:01,127
+2026-05-15 23:59:59,EVENT,"카네이션
+모으기",GOLD_CANDY,,crc_event_icon_goldcandy1.png,,1,,,,29,2026-04-29 10:30:01,128
+2026-05-27 23:59:59,EVENT,"우유젤리
+선물하기",GOLD_CANDY,,crc_event_icon_goldcandy2.png,,2,,,,30,2026-05-16 00:00:01,129
+2025-01-16 23:59:59,EVENT,더미젤리,MIX_CHALLENGE,,crc_event_icon_jellychallenge.png,,2,,,,,2024-12-30 11:00:00,13
+2026-05-05 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,31,2026-05-01 00:00:01,130
+2026-05-26 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,32,2026-05-22 00:00:01,131
+2026-05-12 23:59:59,EVENT,"가정의 달
+출석",IMAGE,,crc_event_icon_image.png,,0,,,,27,2026-05-01 00:00:01,132
+2026-06-18 23:59:59,EVENT,"Daily
+Missions",COMPLETE,,crc_event_dailybonus.png,,1,,,,8,2026-05-29 00:00:01,133
+2026-06-12 23:59:59,EVENT,"용감한 쿠키군 
+생일 캘린더",ATTENDANCE,,crc_event_icon_calendar.png,,1,,,,24,2026-05-30 00:00:01,134
+2026-06-24 23:59:59,EVENT,"금강송 분재 
+키우기",TWO_COMPLETE,,crc_event_icon_2complete_1.png,,1,,,,25,2026-05-28 10:30:01,135
+2026-06-24 23:59:59,EVENT,"소원의 연등 
+모으기",ALPHABET_CARD,,crc_event_icon_newyear_1.png,,1,,,,26,2026-05-28 10:30:01,136
+2026-06-21 23:59:59,EVENT,용쿠도전,IMAGE,,crc_event_icon_image.png,,0,,,,27,2026-06-12 00:00:01,137
+2026-06-08 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,32,2026-06-03 00:00:01,138
+2026-06-08 23:59:59,EVENT,에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,33,2026-06-03 00:00:01,139
+2025-05-23 23:57:59,EVENT,성년의날,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-05-19 00:00:03,14
+2026-07-22 23:59:59,EVENT,Episode 1 Challenge,MIX_CHALLENGE,,crc_event_icon_mixchallenge1.png,,1,,,,24,2026-06-25 10:30:01,140
+2026-07-15 23:59:59,EVENT,Make your own Melon Bingsoo!,ALPHABET_CARD,,crc_event_icon_newyear_1.png,,1,,,,25,2026-06-25 10:30:01,141
+2026-07-08 23:59:59,EVENT,"Beat the Devsquirrels!
+Round 1",STAFF,26,crc_event_icon_beat_developers.png,,0,,,,26,2026-06-25 10:30:01,142
+2026-07-22 23:59:59,EVENT,"Beat the Devsquirrels!
+Round 2",STAFF,26,crc_event_icon_beat_developers.png,,0,,,,27,2026-07-09 00:00:01,143
+2026-08-05 23:59:59,EVENT,"Beat the Devsquirrels!
+Round 3",STAFF,26,crc_event_icon_beat_developers.png,,0,,,,28,2026-07-23 00:00:01,144
+2026-08-19 23:59:59,EVENT,"Beat the Devsquirrels!
+Round 4",STAFF,26,crc_event_icon_beat_developers.png,,0,,,,29,2026-08-06 00:00:01,145
+,EVENT,"Welcome
+Event Day 1",COMPLETE,146,crc_event_icon_complete_0-1.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-1,38,,146
+,EVENT,"Welcome
+Event Day 2",COMPLETE,146,crc_event_icon_complete_0-2.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-2,37,,147
+,EVENT,"Welcome
+Event Day 3",COMPLETE,146,crc_event_icon_complete_0-3.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-3,36,,148
+,EVENT,"Welcome
+Event Day 4",COMPLETE,146,crc_event_icon_complete_0-4.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-4,35,,149
+2025-06-18 23:59:59,EVENT,세기의대결,ALPHABET_CARD,,crc_event_icon_collect_go.png,,1,,,,,2025-05-29 11:00:00,15
+,EVENT,"Welcome
+Event Day 5",COMPLETE,146,crc_event_icon_complete_0-5.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-5,34,,150
+,EVENT,"Welcome
+Event Day 6",COMPLETE,146,crc_event_icon_complete_0-6.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-6,33,,151
+,EVENT,"Welcome
+Event Day 7",COMPLETE,146,crc_event_icon_complete_0-7.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-7,32,,152
+,EVENT,"Welcome
+Event Day 25",COMPLETE,146,crc_event_icon_complete_0-8.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-8,31,,153
+,EVENT,"Welcome
+Event Day 30",COMPLETE,146,crc_event_icon_complete_0-9.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-9,30,,154
+2026-06-28 23:59:59,EVENT,Daily Runs,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,39,2026-06-25 10:30:01,155
+2026-07-02 23:59:59,EVENT,Earn Coins,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,39,2026-06-29 00:00:01,156
+2026-07-06 23:59:59,EVENT,Daily Runs,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,39,2026-07-03 00:00:01,157
+2026-07-10 23:59:59,EVENT,Earn Coins,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,39,2026-07-07 00:00:01,158
+2026-07-14 23:59:59,EVENT,Daily Runs,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,39,2026-07-11 00:00:01,159
+2025-07-12 23:59:59,EVENT,젤리획득,MIX_CHALLENGE,,crc_event_icon_jellychallenge.png,,2,,,,,2025-06-19 00:00:01,16
+2026-07-18 23:59:59,EVENT,Earn Coins,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,39,2026-07-15 00:00:01,160
+2026-07-22 23:59:59,EVENT,Daily Runs,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,39,2026-07-19 00:00:01,161
+2026-07-18 23:59:59,EVENT,"Party Run
+Challenge",COMPLETE,,crc_event_icon_gameplay.png,,2,,,,40,2026-07-10 00:00:01,162
+2026-07-08 23:59:59,EVENT,"Daily Summer
+Gifts 1",IMAGE,,crc_event_icon_image.png,,0,,,,40,2026-06-25 10:30:01,163
+2026-07-22 23:59:59,EVENT,"Daily Summer
+Gifts 2",IMAGE,,crc_event_icon_image.png,,0,,,,41,2026-07-09 10:30:01,164
+2025-06-25 23:57:59,EVENT,생일출석,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-12 00:00:01,17
+2025-06-18 23:57:59,EVENT,용쿠도전,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-12 00:00:01,18
+2025-06-08 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2025-06-05 00:00:01,19
+2025-02-06 23:59:59,EVENT,,MIX_CHALLENGE,,,,,,,,,2025-01-17 11:00:00,2
+2025-06-19 23:57:59,EVENT,에피1도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-19 00:00:01,20
+2025-06-20 23:57:59,EVENT,에피2도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-20 00:00:01,21
+2025-06-21 23:57:59,EVENT,에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-21 00:00:01,22
+2025-06-22 23:57:59,EVENT,에피4도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-22 00:00:01,23
+2025-06-23 23:57:59,EVENT,에피5도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-23 00:00:01,24
+2025-06-24 23:57:59,EVENT,스에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-06-24 00:00:01,25
+2025-06-26 23:59:59,EVENT,코인획득,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,,2025-06-25 00:00:01,26
+2025-06-29 23:59:59,EVENT,점수달성,SCORE,,crc_event_icon_score.png,,0,,,,,2025-06-27 00:00:01,27
+2025-07-07 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2025-07-04 00:00:01,28
+2025-07-14 23:59:59,EVENT,점수달성,SCORE,,crc_event_icon_score.png,,0,,,,,2025-07-11 00:00:01,29
+2025-02-26 23:59:59,EVENT,,GOLD_CANDY,,,,,,,,,2025-02-07 11:00:00,3
+2025-07-21 23:59:59,EVENT,코인획득,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,,2025-07-18 00:00:01,30
+2025-07-15 23:57:59,EVENT,7월출석1,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-07-02 00:00:01,31
+2025-07-29 23:57:59,EVENT,7월출석2,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-07-16 00:00:01,32
+2025-07-30 23:59:59,EVENT,장화모으기,ALPHABET_CARD,,crc_event_icon_collect_rain.png,,2,,,,,2025-07-13 00:00:01,33
+2026-06-24 23:59:59,EVENT,"Welcome
+Event Day 1",COMPLETE,34,crc_event_icon_complete_0-1.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-1,1,2025-07-31 09:00:01,34
+2026-06-24 23:59:59,EVENT,"Welcome
+Event Day 2",COMPLETE,34,crc_event_icon_complete_0-2.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-2,2,2025-07-31 09:00:01,35
+2026-06-24 23:59:59,EVENT,"Welcome
+Event Day 3",COMPLETE,34,crc_event_icon_complete_0-3.png,EVENT_GROUP_MISSION_NOT_FINISHED,0,,,-3,3,2025-07-31 09:00:01,36
+2025-12-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2025-07-31 12:00:01,37
+2025-08-27 23:59:59,EVENT,"서천꽃밭 
+세가지 꽃",TWO_COMPLETE,,crc_event_icon_2complete.png,,0,,,,,2025-07-31 12:00:01,38
+2025-08-27 23:59:59,EVENT,"먹보유령
+소원 들어주기",SNOWMAN,,crc_event_icon_snowman.png,,0,,,,,2025-07-31 12:00:01,39
+2025-03-12 23:59:59,EVENT,,MIX_CHALLENGE,,,,,,,,,2025-02-27 11:00:00,4
+2025-08-17 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2025-08-15 00:00:01,40
+2025-08-17 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2025-08-15 00:00:01,41
+2025-09-28 23:59:59,EVENT,"세계여행
+티켓 모으기",GOLD_CANDY,,crc_event_icon_collect_ticket.png,,1,,,,,2025-08-28 11:00:01,42
+2025-09-07 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2025-09-04 00:00:01,43
+2025-09-08 23:59:59,EVENT,에피1도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-08 00:00:01,44
+2025-09-09 23:59:59,EVENT,에피2도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-09 00:00:01,45
+2025-09-10 23:59:59,EVENT,에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-10 00:00:01,46
+2025-09-11 23:59:59,EVENT,에피4도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-11 00:00:01,47
+2025-09-12 23:59:59,EVENT,에피5도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-12 00:00:01,48
+2025-09-13 23:59:59,EVENT,스에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-13 00:00:01,49
+2025-03-26 23:59:59,EVENT,,ALPHABET_CARD,,,,,,,,,2025-03-13 11:00:00,5
+2025-09-28 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2025-09-14 00:00:01,50
+2025-09-14 23:59:59,EVENT,9월출석1,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-01 00:00:01,51
+2025-09-28 23:59:59,EVENT,9월출석2,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-09-15 00:00:01,52
+2025-10-15 23:59:59,EVENT,"달의 정기 
+모으기",GOLD_CANDY,,crc_event_icon_collect_moon.png,,2,,,,,2025-09-29 10:30:01,53
+2025-11-02 23:59:59,EVENT,모두도전,MIX_CHALLENGE,,crc_event_icon_ep3challenge.png,,3,,,,,2025-10-16 00:00:01,54
+2025-10-12 23:59:59,EVENT,추석출석,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-10-03 00:00:01,55
+2025-12-03 23:59:59,EVENT,"장군의 어록
+완성하기",ALPHABET_CARD,,crc_event_icon_collect_chungmu.png,,3,,,,,2025-11-03 11:00:01,56
+2025-12-03 23:59:59,EVENT,"학익진을
+펼쳐라",TWO_COMPLETE,,crc_event_icon_2complete.png,,0,,,,,2025-11-03 11:00:01,57
+2025-11-16 23:59:59,EVENT,11월출석1,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-11-03 11:30:00,58
+2025-11-30 23:59:59,EVENT,11월출석2,IMAGE,,crc_event_icon_image.png,,0,,,,,2025-11-17 00:00:01,59
+2025-04-17 23:59:59,EVENT,12도전,MIX_CHALLENGE,,crc_event_icon_mixchallenge.png,,0,,,,,2025-03-27 10:30:00,6
+2026-01-18 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2025-12-20 00:00:01,60
+2026-01-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2026-01-19 00:00:01,61
+2026-02-18 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2026-01-20 00:00:01,62
+2026-02-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2026-02-19 00:00:01,63
+2026-03-18 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2026-02-20 00:00:01,64
+2026-03-19 23:59:59,EVENT,"매일매일
+일일미션",COMPLETE,,crc_event_dailybonus.png,,1,,,,,2026-03-19 00:00:01,65
+2025-12-25 23:59:59,EVENT,"어드벤트
+캘린더",ATTENDANCE,,crc_event_icon_calendar.png,,0,,,,,2025-12-12 00:00:01,66
+2025-12-25 23:59:59,EVENT,"트리 전구
+모으기",GOLD_CANDY,,crc_event_icon_collect_lights.png,,2,,,,,2025-12-04 10:30:01,67
+2026-01-08 23:59:59,EVENT,"새해 기념 
+알파벳 모으기",ALPHABET_CARD,,crc_event_icon_alphabet.png,,2,,,,,2025-12-26 00:00:01,68
+2026-01-14 23:59:59,EVENT,"팔랑팔랑 
+비행게임",FLAPPY_BIRD,,crc_event_icon_minigame_fly.png,,0,,,,,2025-12-04 10:30:01,69
+2025-05-04 23:59:59,EVENT,새싹모으기,GOLD_CANDY,,crc_event_icon_collectsprout.png,,0,,,,,2025-04-18 00:00:01,7
+2026-01-14 23:59:59,EVENT,1월출석,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-01 00:00:01,70
+2026-01-04 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2026-01-01 00:00:01,71
+2026-01-08 23:59:59,EVENT,코인획득,ACHIEVING_COIN,,crc_event_icon_coinscore.png,,0,,,,,2026-01-05 00:00:01,72
+2026-01-09 23:59:59,EVENT,에피1도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-09 00:00:01,73
+2026-01-10 23:59:59,EVENT,에피2도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-10 00:00:01,74
+2026-01-11 23:59:59,EVENT,에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-11 00:00:01,75
+2026-01-12 23:59:59,EVENT,에피4도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-12 00:00:01,76
+2026-01-13 23:59:59,EVENT,에피5도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-13 00:00:01,77
+2026-01-14 23:59:59,EVENT,스에피3도달,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-01-14 00:00:01,78
+2026-01-28 23:59:59,EVENT,"눈덩이 
+모으기",GOLD_CANDY,,crc_event_icon_collect_snowflake.png,,4,,,,,2026-01-09 00:00:01,79
+2025-05-28 23:59:59,EVENT,토끼굴도전,MIX_CHALLENGE,,crc_event_icon_ep3challenge.png,,1,,,,,2025-05-05 00:00:01,8
+2026-02-13 23:59:59,EVENT,"쿠키펫
+조합도전",MIX_CHALLENGE,,crc_event_icon_mixchallenge.png,,0,,,,,2026-01-29 00:00:01,80
+2026-03-07 23:59:59,EVENT,"초콜릿
+모으기",GOLD_CANDY,,crc_event_icon_collect_chocolate.png,,3,,,,,2026-02-14 00:00:01,81
+2026-01-25 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2026-01-20 00:00:01,82
+2026-02-03 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2026-01-31 00:00:01,83
+2026-02-10 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2026-02-07 00:00:01,84
+2026-02-18 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2026-02-14 00:00:01,85
+2026-01-04 23:59:59,EVENT,"파티런 
+플레이",IMAGE,,crc_event_icon_gameplay.png,,0,,,,,2026-01-01 00:00:01,86
+2026-02-25 23:59:59,EVENT,"새해 
+운세보기",NEW_YEAR_FORTUNE,,crc_event_icon_fortune_ch87.png,,0,,,,,2026-01-15 11:00:01,87
+2026-02-22 23:59:59,EVENT,설날출석,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-02-14 00:00:01,88
+2026-02-20 23:59:59,EVENT,"행운의 쿠또
+1주차(~1/23)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,,2026-01-17 00:00:00,89
+2025-05-12 23:59:59,EVENT,매일판수,GAME_COUNT,,crc_event_icon_gameplay.png,,0,,,,,2025-04-28 10:30:01,9
+2026-02-20 23:59:59,EVENT,"행운의 쿠또
+2주차(~1/30)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,,2026-01-24 00:00:00,90
+2026-02-20 23:59:59,EVENT,"행운의 쿠또
+3주차(~2/6)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,,2026-01-31 00:00:00,91
+2026-02-20 23:59:59,EVENT,"행운의 쿠또
+4주차(~2/13)",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,,2026-02-07 00:00:00,92
+2026-02-20 23:59:59,EVENT,"행운의 쿠또
+5주차",LOTTERY,,crc_event_icon_cutto.png ,,0,,,,,2026-02-14 00:00:00,93
+2026-03-14 23:59:59,EVENT,3월 출석,IMAGE,,crc_event_icon_image.png,,0,,,,,2026-03-01 00:00:01,94
+2026-04-01 23:59:59,EVENT,"13주년
+카운트 출석",IMAGE,,crc_event_icon_image.png,,0,,,,,2026-03-23 00:00:01,95
+2026-03-08 23:59:59,EVENT,"쫀쫀한 
+도전",MIX_CHALLENGE,,crc_event_icon_mixchallenge2.png,,2,,,,,2026-02-26 11:00:01,96
+2026-03-30 23:59:59,EVENT,에피6 도전,MIX_CHALLENGE,,crc_event_icon_mixchallenge1.png,,1,,,,,2026-03-09 00:00:01,97
+2026-03-25 23:59:59,EVENT,"팔랑팔랑 
+비행게임",FLAPPY_BIRD,,crc_event_icon_minigame_fly.png,,0,,,,,2026-03-09 00:00:01,98
+2026-03-30 23:59:59,EVENT,"DEVNOW 
+알파벳 모으기",ALPHABET_CARD,,crc_event_icon_alphabet.png,,2,,,,,2026-03-21 10:00:01,99

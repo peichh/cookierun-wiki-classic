@@ -1,0 +1,310 @@
+﻿action,comment,condition,episode_seq,finish,ice_tower_mission_order,ice_tower_stage,increment,is_reward_mail,operator,quest_category,quest_status,quest_type,resouce_key_string,reward_qty,reward_seq,reward_type,start,_key
+NONE,"잠금해제조건 : 에피소드 1 '오븐 탈출!'의
+에피소드 업적 30개 달성하기 (공통업적 제외)",,502,30,,,episodeCountRewardedQuests(1),1,SET,0,1,UNLOCK,special,20,,G,0,50200000
+NONE,잠금해제조건 : 얼음별 갯수 20개 획득,,502,20,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,1,80002,S,0,50200001
+NONE,잠금해제조건 : 얼음별 갯수 50개 획득,questIsFinished(50200001),502,50,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,1,80004,S,0,50200002
+NONE,잠금해제조건 : 얼음별 갯수 100개 획득,questIsFinished(50200002),502,100,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,100,,G,0,50200003
+NONE,잠금해제조건 : 얼음별 갯수 150개 획득,questIsFinished(50200003),502,150,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,1,1508101,S,0,50200004
+NONE,잠금해제조건 : 얼음별 갯수 200개 획득,questIsFinished(50200004),502,200,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,3,80004,S,0,50200005
+NONE,잠금해제조건 : 얼음별 갯수 250개 획득,questIsFinished(50200005),502,250,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,3,834,GPS,0,50200006
+NONE,잠금해제조건 : 얼음별 갯수 300개 획득,questIsFinished(50200006),502,300,,,iceTowerCountFinishedQuests(),1,SET,0,1,NORMAL,special,1,206801,S,0,50200007
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,1,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,,G,0,50200101
+AFTER_PLAY,보너스타임 1회 이상 가기,questIsFinished(50200101),502,1,2,1,#enterBonusTime,1,SET,0,1,NORMAL,1play,2,,K,0,50200102
+AFTER_PLAY,모든 젤리 830개 이상 획득 하기,questIsFinished(50200102),502,830,3,1,#jellyCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50200103
+AFTER_PLAY,노란 곰젤리 270개 이상 획득 하기,,502,270,1,2,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,80001,S,0,50200201
+AFTER_PLAY,왕코인 5개 이상 획득 하기,questIsFinished(50200201),502,5,2,2,#bigGoldCoinJelly,1,SET,0,1,NORMAL,1play,5000,,C,0,50200202
+AFTER_PLAY,1145코인 이상 획득 하기,questIsFinished(50200202),502,1145,3,2,#pureCoin,1,SET,0,1,NORMAL,1play,500,,P,0,50200203
+AFTER_PLAY,왕코인 24개 이상 획득 하기,,502,24,1,3,#bigGoldCoinJelly,1,SET,0,1,NORMAL,1play,2,,K,0,50200301
+AFTER_PLAY,금화 100개 이상 획득 하기,questIsFinished(50200301),502,100,2,3,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,2,,G,0,50200302
+AFTER_PLAY,은화 630개 이상 획득 하기,questIsFinished(50200302),502,630,3,3,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50200303
+AFTER_PLAY,79초 이하 달리기,,502,79,1,4,#runningPlayTime,1,LESS,0,1,NORMAL,1play,5000,,C,0,50200401
+AFTER_PLAY,장애물 파괴 125개 이상 하기,questIsFinished(50200401),502,125,2,4,#destroyObstacle,1,SET,0,1,NORMAL,1play,600,,P,0,50200402
+AFTER_PLAY,금화 153개 이상 획득 하기,questIsFinished(50200402),502,153,3,4,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50200403
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,5,#PassedIceDoor,1,SET,0,1,NORMAL,1play,2,,K,0,50200501
+AFTER_PLAY,장애물 충돌 0회 이하 하기,questIsFinished(50200501),502,0,2,5,#collision,1,LESS,0,1,NORMAL,1play,1,80001,S,0,50200502
+AFTER_PLAY,47초 이하 달리기,questIsFinished(50200502),502,47,3,5,#runningPlayTime,1,LESS,0,1,NORMAL,1play,3,,G,0,50200503
+AFTER_PLAY,색동별 폭죽 파티 10개 이상 획득 하기,,502,10,1,6,#jellyMagicStat_1003_GetCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50200601
+AFTER_PLAY,은화 210개 이상 획득 하기,questIsFinished(50200601),502,210,2,6,#silverCoinJelly,1,SET,0,1,NORMAL,1play,2,,K,0,50200602
+AFTER_PLAY,모든 젤리 1150개 이상 획득 하기,questIsFinished(50200602),502,1150,3,6,#jellyCount,1,SET,0,1,NORMAL,1play,6000,,C,0,50200603
+AFTER_PLAY,장애물 충돌 1회 이하 하기,,502,1,1,7,#collision,1,LESS,0,1,NORMAL,1play,100,,A,0,50200701
+AFTER_PLAY,왕곰젤리 110개 이상 획득 하기,questIsFinished(50200701),502,110,2,7,#kingBearJelly,1,SET,0,1,NORMAL,1play,1,80002,S,0,50200702
+AFTER_PLAY,3300코인 이상 획득 하기,questIsFinished(50200702),502,3300,3,7,#pureCoin,1,SET,0,1,NORMAL,1play,3,,G,0,50200703
+AFTER_PLAY,장애물 충돌 4회 이하 하기,,502,4,1,8,#collision,1,LESS,0,1,NORMAL,1play,5000,,C,0,50200801
+AFTER_PLAY,모든 곰젤리 320개 이상 획득 하기,questIsFinished(50200801),502,320,2,8,#bearJelly,1,SET,0,1,NORMAL,1play,1,2201,S,0,50200802
+AFTER_PLAY,노란 곰젤리 340개 이상 획득 하기,questIsFinished(50200802),502,340,3,8,#yellowBearJelly,1,SET,0,1,NORMAL,1play,600,,P,0,50200803
+AFTER_PLAY,왕코인 24개 이상 획득 하기,,502,24,1,9,#bigGoldCoinJelly,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50200901
+AFTER_PLAY,금화 270개 이상 획득 하기,questIsFinished(50200901),502,270,2,9,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,110,,A,0,50200902
+AFTER_PLAY,은화 480개 이상 획득 하기,questIsFinished(50200902),502,480,3,9,#silverCoinJelly,1,SET,0,1,NORMAL,1play,6000,,C,0,50200903
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,10,#PassedIceDoor,1,SET,0,1,NORMAL,1play,5,,G,0,50201001
+AFTER_PLAY,금화 100개 이상 획득 하기,questIsFinished(50201001),502,100,2,10,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,1000,,P,0,50201002
+AFTER_PLAY,알파벳젤리 20개 이상 획득 하기,questIsFinished(50201002),502,20,3,10,#alphabetJellyCount,1,SET,0,1,NORMAL,1play,1,80003,S,0,50201003
+AFTER_PLAY,얼음 곰젤리 160개 이상 획득 하기,,502,160,1,11,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,6000,,C,0,50201101
+AFTER_PLAY,일반 젤리 333개 이상 획득 하기,questIsFinished(50201101),502,333,2,11,#jelly_500_GetCount,1,SET,0,1,NORMAL,1play,1,2201,S,0,50201102
+AFTER_PLAY,2단 점프 50회 이상 하기,questIsFinished(50201102),502,50,3,11,#doubleJump,1,SET,0,1,NORMAL,1play,800,,P,0,50201103
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,12,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,80001,S,0,50201201
+AFTER_PLAY,점프 70회 이상 하기,questIsFinished(50201201),502,70,2,12,#totalJump,1,SET,0,1,NORMAL,1play,120,,A,0,50201202
+AFTER_PLAY,얼음 곰젤리 300개 이상 획득 하기,questIsFinished(50201202),502,300,3,12,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,8000,,C,0,50201203
+AFTER_PLAY,분홍 곰젤리 285개 이상 획득 하기,,502,285,1,13,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50201301
+AFTER_PLAY,노란 곰젤리 100개 이상 획득 하기,questIsFinished(50201301),502,100,2,13,#yellowBearJelly,1,SET,0,1,NORMAL,1play,600,,P,0,50201302
+AFTER_PLAY,분홍 곰젤리 295개 이상 획득 하기,questIsFinished(50201302),502,295,3,13,#pinkBearJelly,1,SET,0,1,NORMAL,1play,3,,G,0,50201303
+AFTER_PLAY,슬라이드 45초 이상 하기,,502,45,1,14,#slideTime,1,SET,0,1,NORMAL,1play,2,,K,0,50201401
+AFTER_PLAY,왕코인 20개 이상 획득 하기,questIsFinished(50201401),502,20,2,14,#bigGoldCoinJelly,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50201402
+AFTER_PLAY,슬라이드 58초 이상 하기,questIsFinished(50201402),502,58,3,14,#slideTime,1,SET,0,1,NORMAL,1play,1,80002,S,0,50201403
+AFTER_PLAY,95초 이하 달리기,,502,95,1,15,#runningPlayTime,1,LESS,0,1,NORMAL,1play,2,,G,0,50201501
+AFTER_PLAY,103초 이상 달리기,questIsFinished(50201501),502,103,2,15,#runningPlayTime,1,SET,0,1,NORMAL,1play,1,80001,S,0,50201502
+AFTER_PLAY,얼음 곰젤리 560개 이상 획득 하기,questIsFinished(50201502),502,560,3,15,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,800,,P,0,50201503
+AFTER_PLAY,색동별젤리 800개 이상 획득 하기,,502,800,1,16,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,6000,,C,0,50201601
+AFTER_PLAY,금화 115개 이상 획득 하기,questIsFinished(50201601),502,115,2,16,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,20,,L,0,50201602
+AFTER_PLAY,모든 젤리 1050개 이상 획득 하기,questIsFinished(50201602),502,1050,3,16,#jellyCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50201603
+AFTER_PLAY,노란 곰젤리 20개 이상 획득 하기,,502,20,1,17,#yellowBearJelly,1,SET,0,1,NORMAL,1play,600,,P,0,50201701
+AFTER_PLAY,날개 달린 젤리 45개 이상 획득 하기,questIsFinished(50201701),502,45,2,17,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50201702
+AFTER_PLAY,모든 젤리 500개 이상 획득 하기,questIsFinished(50201702),502,500,3,17,#jellyCount,1,SET,0,1,NORMAL,1play,3,,G,0,50201703
+AFTER_PLAY,펫이 젤리 800개 이상 획득 하기,,502,800,1,18,#jellyCountByPet,1,SET,0,1,NORMAL,1play,120,,A,0,50201801
+AFTER_PLAY,모든 젤리 1500개 이상 획득 하기,questIsFinished(50201801),502,1500,2,18,#jellyCount,1,SET,0,1,NORMAL,1play,7000,,C,0,50201802
+AFTER_PLAY,2단 점프 75회 이상 하기,questIsFinished(50201802),502,75,3,18,#doubleJump,1,SET,0,1,NORMAL,1play,3,,G,0,50201803
+AFTER_PLAY,장애물 파괴 237개 이상 하기,,502,237,1,19,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,80001,S,0,50201901
+AFTER_PLAY,왕곰젤리 12개 이상 획득 하기,questIsFinished(50201901),502,12,2,19,#kingBearJelly,1,SET,0,1,NORMAL,1play,800,,P,0,50201902
+AFTER_PLAY,은화 450개 이상 획득 하기,questIsFinished(50201902),502,450,3,19,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50201903
+AFTER_PLAY,노란 곰젤리 290개 이상 획득 하기,,502,290,1,20,#yellowBearJelly,1,SET,0,1,NORMAL,1play,5,,G,0,50202001
+AFTER_PLAY,날개 달린 젤리 153개 이상 획득 하기,questIsFinished(50202001),502,153,2,20,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,1508201,S,0,50202002
+AFTER_PLAY,60초 이하 달리기,questIsFinished(50202002),502,60,3,20,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,80003,S,0,50202003
+AFTER_PLAY,노란 곰젤리 85개 이상 획득 하기,,502,85,1,21,#yellowBearJelly,1,SET,0,1,NORMAL,1play,7000,,C,0,50202101
+AFTER_PLAY,모든 젤리 10개 이하 획득 하기,questIsFinished(50202101),502,10,2,21,#jellyCount,1,LESS,0,1,NORMAL,1play,1,853,S,0,50202102
+AFTER_PLAY,1단 점프 80회 이상 하기,questIsFinished(50202102),502,80,3,21,#jump,1,SET,0,1,NORMAL,1play,800,,P,0,50202103
+AFTER_PLAY,금화 170개 이상 획득 하기,,502,170,1,22,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50202201
+AFTER_PLAY,장애물 파괴 80개 이상 하기,questIsFinished(50202201),502,80,2,22,#destroyObstacle,1,SET,0,1,NORMAL,1play,120,,A,0,50202202
+AFTER_PLAY,은화 372개 이상 획득 하기,questIsFinished(50202202),502,372,3,22,#silverCoinJelly,1,SET,0,1,NORMAL,1play,2,,K,0,50202203
+AFTER_PLAY,구멍에 빠지기 1회 이하 하기,,502,1,1,23,#fallToHole,1,LESS,0,1,NORMAL,1play,600,,P,0,50202301
+AFTER_PLAY,구멍에 빠지기 4회 이상 하기,questIsFinished(50202301),502,4,2,23,#fallToHole,1,SET,0,1,NORMAL,1play,2,,G,0,50202302
+AFTER_PLAY,점프 40회 이하 하기,questIsFinished(50202302),502,40,3,23,#totalJump,1,LESS,0,1,NORMAL,1play,10000,,C,0,50202303
+AFTER_PLAY,모든 젤리 850개 이상 획득 하기,,502,850,1,24,#jellyCount,1,SET,0,1,NORMAL,1play,120,,A,0,50202401
+AFTER_PLAY,얼음 곰젤리 370개 이상 획득 하기,questIsFinished(50202401),502,370,2,24,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1,80001,S,0,50202402
+AFTER_PLAY,모든 젤리 1040개 이상 획득 하기,questIsFinished(50202402),502,1040,3,24,#jellyCount,1,SET,0,1,NORMAL,1play,800,,P,0,50202403
+AFTER_PLAY,충돌하지 않고 45초 이상 버티기,,502,45,1,25,#noCrashTime,1,SET,0,1,NORMAL,1play,20,,L,0,50202501
+AFTER_PLAY,은화 137개 이상 획득 하기,questIsFinished(50202501),502,137,2,25,#silverCoinJelly,1,SET,0,1,NORMAL,1play,8000,,C,0,50202502
+AFTER_PLAY,노란 곰젤리 390개 이상 획득 하기,questIsFinished(50202502),502,390,3,25,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50202503
+AFTER_PLAY,날개 달린 젤리 8개 이상 획득 하기,,502,8,1,26,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,7000,,C,0,50202601
+AFTER_PLAY,80초 이상 달리기,questIsFinished(50202601),502,80,2,26,#runningPlayTime,1,SET,0,1,NORMAL,1play,120,,A,0,50202602
+AFTER_PLAY,날개 달린 젤리 0개 이하 획득 하기,questIsFinished(50202602),502,0,3,26,#jellyMagicStat_1004_GetCount,1,LESS,0,1,NORMAL,1play,1000,,P,0,50202603
+AFTER_PLAY,80초 이하 달리기,,502,80,1,27,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,,G,0,50202701
+AFTER_PLAY,장애물 파괴 80개 이상 하기,questIsFinished(50202701),502,80,2,27,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50202702
+AFTER_PLAY,장애물 파괴 120개 이상 하기,questIsFinished(50202702),502,120,3,27,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,80002,S,0,50202703
+AFTER_PLAY,모든 젤리 1220개 이상 획득 하기,,502,1220,1,28,#jellyCount,1,SET,0,1,NORMAL,1play,700,,P,0,50202801
+AFTER_PLAY,은화 4개 이하 획득 하기,questIsFinished(50202801),502,4,2,28,#silverCoinJelly,1,LESS,0,1,NORMAL,1play,1,2201,S,0,50202802
+AFTER_PLAY,장애물 파괴 4개 이하 하기,questIsFinished(50202802),502,4,3,28,#destroyObstacle,1,LESS,0,1,NORMAL,1play,10000,,C,0,50202803
+AFTER_PLAY,65초 이하 달리기,,502,65,1,29,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,1700201,S,0,50202901
+AFTER_PLAY,은화 380개 이상 획득 하기,questIsFinished(50202901),502,380,2,29,#silverCoinJelly,1,SET,0,1,NORMAL,1play,2,,K,0,50202902
+AFTER_PLAY,장애물 파괴 165개 이상 하기,questIsFinished(50202902),502,165,3,29,#destroyObstacle,1,SET,0,1,NORMAL,1play,1000,,P,0,50202903
+AFTER_PLAY,100초 이하 달리기,,502,100,1,30,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,832,GPS,0,50203001
+AFTER_PLAY,왕코인 20개 이상 획득 하기,questIsFinished(50203001),502,20,2,30,#bigGoldCoinJelly,1,SET,0,1,NORMAL,1play,10,,G,0,50203002
+AFTER_PLAY,점프 42회 이하 하기,questIsFinished(50203002),502,42,3,30,#totalJump,1,LESS,0,1,NORMAL,1play,1,1508201,S,0,50203003
+AFTER_PLAY,은화 7개 이하 획득 하기,,502,7,1,31,#silverCoinJelly,1,LESS,0,1,NORMAL,1play,2,,K,0,50203101
+AFTER_PLAY,3660코인 이상 획득 하기,questIsFinished(50203101),502,3660,2,31,#pureCoin,1,SET,0,1,NORMAL,1play,900,,P,0,50203102
+AFTER_PLAY,550코인 이하 획득 하기,questIsFinished(50203102),502,550,3,31,#pureCoin,1,LESS,0,1,NORMAL,1play,8000,,C,0,50203103
+AFTER_PLAY,장애물 파괴 170개 이상 하기,,502,170,1,32,#destroyObstacle,1,SET,0,1,NORMAL,1play,8000,,C,0,50203201
+AFTER_PLAY,50초 이상 달리기,questIsFinished(50203201),502,50,2,32,#runningPlayTime,1,SET,0,1,NORMAL,1play,1,80001,S,0,50203202
+AFTER_PLAY,노란 곰젤리 135개 이상 획득 하기,questIsFinished(50203202),502,135,3,32,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50203203
+AFTER_PLAY,보너스타임에서 젤리 1300개 이상 획득 하기,,502,1300,1,33,#jellyCountInBonusTime,1,SET,0,1,NORMAL,1play,20,,L,0,50203301
+AFTER_PLAY,보너스타임에서 젤리 1600개 이상 획득 하기,questIsFinished(50203301),502,1600,2,33,#jellyCountInBonusTime,1,SET,0,1,NORMAL,1play,2,,G,0,50203302
+AFTER_PLAY,1300코인 이상 획득 하기,questIsFinished(50203302),502,1300,3,33,#pureCoin,1,SET,0,1,NORMAL,1play,1000,,P,0,50203303
+AFTER_PLAY,2단 점프 34회 이상 하기,,502,34,1,34,#doubleJump,1,SET,0,1,NORMAL,1play,1,80001,S,0,50203401
+AFTER_PLAY,금화 18개 이상 획득 하기,questIsFinished(50203401),502,18,2,34,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,9000,,C,0,50203402
+AFTER_PLAY,1단 점프 105회 이상 하기,questIsFinished(50203402),502,105,3,34,#jump,1,SET,0,1,NORMAL,1play,3,,G,0,50203403
+AFTER_PLAY,색동별젤리 1500개 이상 획득 하기,,502,1500,1,35,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,130,,A,0,50203501
+AFTER_PLAY,색동별젤리 1650개 이상 획득 하기,questIsFinished(50203501),502,1650,2,35,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50203502
+AFTER_PLAY,은화 42개 이상 획득 하기,questIsFinished(50203502),502,42,3,35,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1000,,P,0,50203503
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,36,#PassedIceDoor,1,SET,0,1,NORMAL,1play,700,,P,0,50203601
+AFTER_PLAY,얼음 곰젤리 900개 이상 획득 하기,questIsFinished(50203601),502,900,2,36,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50203602
+AFTER_PLAY,일반 젤리 945개 이상 획득 하기,questIsFinished(50203602),502,945,3,36,#jelly_500_GetCount,1,SET,0,1,NORMAL,1play,3,,G,0,50203603
+AFTER_PLAY,장애물 파괴 175개 이상 하기,,502,175,1,37,#destroyObstacle,1,SET,0,1,NORMAL,1play,8000,,C,0,50203701
+AFTER_PLAY,얼음 곰젤리 580개 이상 획득 하기,questIsFinished(50203701),502,580,2,37,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,2,,K,0,50203702
+AFTER_PLAY,1단 점프 120회 이상 하기,questIsFinished(50203702),502,120,3,37,#jump,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50203703
+AFTER_PLAY,은화 150개 이상 획득 하기,,502,150,1,38,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1,,G,0,50203801
+AFTER_PLAY,56초 이상 달리기,questIsFinished(50203801),502,56,2,38,#runningPlayTime,1,SET,0,1,NORMAL,1play,9000,,C,0,50203802
+AFTER_PLAY,장애물 파괴 2개 이하 하기,questIsFinished(50203802),502,2,3,38,#destroyObstacle,1,LESS,0,1,NORMAL,1play,1,853,S,0,50203803
+AFTER_PLAY,장애물 충돌 1회 이하 하기,,502,1,1,39,#collision,1,LESS,0,1,NORMAL,1play,1,1700201,S,0,50203901
+AFTER_PLAY,얼음 곰젤리 160개 이상 획득 하기,questIsFinished(50203901),502,160,2,39,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,130,,A,0,50203902
+AFTER_PLAY,모든 젤리 897개 이상 획득 하기,questIsFinished(50203902),502,897,3,39,#jellyCount,1,SET,0,1,NORMAL,1play,3,,G,0,50203903
+AFTER_PLAY,보너스타임 0회 이하 가기,,502,0,1,40,#enterBonusTime,1,LESS,0,1,NORMAL,1play,10,,G,0,50204001
+AFTER_PLAY,알파벳젤리 400개 이상 획득 하기,questIsFinished(50204001),502,400,2,40,#alphabetJellyCount,1,SET,0,1,NORMAL,1play,1,80003,S,0,50204002
+AFTER_PLAY,4400코인 이상 획득 하기,questIsFinished(50204002),502,4400,3,40,#pureCoin,1,SET,0,1,NORMAL,1play,1,1508401,S,0,50204003
+AFTER_PLAY,은화 777개 이상 획득 하기,,502,777,1,41,#silverCoinJelly,1,SET,0,1,NORMAL,1play,700,,P,0,50204101
+AFTER_PLAY,슬라이드 65초 이상 하기,questIsFinished(50204101),502,65,2,41,#slideTime,1,SET,0,1,NORMAL,1play,1,2201,S,0,50204102
+AFTER_PLAY,금화 290개 이상 획득 하기,questIsFinished(50204102),502,290,3,41,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,10000,,C,0,50204103
+AFTER_PLAY,1단 점프 110회 이상 하기,,502,110,1,42,#jump,1,SET,0,1,NORMAL,1play,8000,,C,0,50204201
+AFTER_PLAY,2단 점프 72회 이상 하기,questIsFinished(50204201),502,72,2,42,#doubleJump,1,SET,0,1,NORMAL,1play,20,,L,0,50204202
+AFTER_PLAY,73초 이하 달리기,questIsFinished(50204202),502,73,3,42,#runningPlayTime,1,LESS,0,1,NORMAL,1play,3,,G,0,50204203
+AFTER_PLAY,구멍에 빠지기 1회 이하 하기,,502,1,1,43,#fallToHole,1,LESS,0,1,NORMAL,1play,140,,A,0,50204301
+AFTER_PLAY,얼음 곰젤리 123개 이상 획득 하기,questIsFinished(50204301),502,123,2,43,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,2,,K,0,50204302
+AFTER_PLAY,2단 점프 61회 이상 하기,questIsFinished(50204302),502,61,3,43,#doubleJump,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50204303
+AFTER_PLAY,날개 달린 젤리 1200개 이상 획득 하기,,502,1200,1,44,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50204401
+AFTER_PLAY,모든 젤리 1500개 이상 획득 하기,questIsFinished(50204401),502,1500,2,44,#jellyCount,1,SET,0,1,NORMAL,1play,1000,,P,0,50204402
+AFTER_PLAY,노란 곰젤리 1000개 이상 획득 하기,questIsFinished(50204402),502,1000,3,44,#yellowBearJelly,1,SET,0,1,NORMAL,1play,3,,G,0,50204403
+AFTER_PLAY,노란 곰젤리 700개 이상 획득 하기,,502,700,1,45,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,832,GPS,0,50204501
+AFTER_PLAY,56초 이하 달리기,questIsFinished(50204501),502,56,2,45,#runningPlayTime,1,LESS,0,1,NORMAL,1play,2,,G,0,50204502
+AFTER_PLAY,2단 점프 70회 이상 하기,questIsFinished(50204502),502,70,3,45,#doubleJump,1,SET,0,1,NORMAL,1play,1,80003,S,0,50204503
+AFTER_PLAY,구멍에서 구출 1회 이상 하기,,502,1,1,46,#reviveAfterFalling,1,SET,0,1,NORMAL,1play,140,,A,0,50204601
+AFTER_PLAY,분홍 곰젤리 40개 이상 획득 하기,questIsFinished(50204601),502,40,2,46,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50204602
+AFTER_PLAY,구멍에서 구출 3회 이상 하기,questIsFinished(50204602),502,3,3,46,#reviveAfterFalling,1,SET,0,1,NORMAL,1play,1000,,P,0,50204603
+AFTER_PLAY,장애물 충돌 2회 이하 하기,,502,2,1,47,#collision,1,LESS,0,1,NORMAL,1play,1,80001,S,0,50204701
+AFTER_PLAY,분홍 곰젤리 112개 이상 획득 하기,questIsFinished(50204701),502,112,2,47,#pinkBearJelly,1,SET,0,1,NORMAL,1play,9000,,C,0,50204702
+AFTER_PLAY,2단 점프 1회 이하 하기,questIsFinished(50204702),502,1,3,47,#doubleJump,1,LESS,0,1,NORMAL,1play,3,,G,0,50204703
+AFTER_PLAY,장애물 파괴 90개 이상 하기,,502,90,1,48,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,,G,0,50204801
+AFTER_PLAY,2000코인 이상 획득 하기,questIsFinished(50204801),502,2000,2,48,#pureCoin,1,SET,0,1,NORMAL,1play,1000,,P,0,50204802
+AFTER_PLAY,장애물 파괴 216개 이상 하기,questIsFinished(50204802),502,216,3,48,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,832,GPS,0,50204803
+AFTER_PLAY,거대 생명물약 0개 이하 획득 하기,,502,0,1,49,#largeEnergyJelly,1,LESS,0,1,NORMAL,1play,800,,P,0,50204901
+AFTER_PLAY,장애물 충돌 7회 이상 하기,questIsFinished(50204901),502,7,2,49,#collision,1,SET,0,1,NORMAL,1play,1,80002,S,0,50204902
+AFTER_PLAY,1770코인 이상 획득 하기,questIsFinished(50204902),502,1770,3,49,#pureCoin,1,SET,0,1,NORMAL,1play,3,,G,0,50204903
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,50,#PassedIceDoor,1,SET,0,1,NORMAL,1play,10,,G,0,50205001
+AFTER_PLAY,왕곰젤리 35개 이상 획득 하기,questIsFinished(50205001),502,35,2,50,#kingBearJelly,1,SET,0,1,NORMAL,1play,3,834,GPS,0,50205002
+AFTER_PLAY,얼음 곰젤리 800개 이상 획득 하기,questIsFinished(50205002),502,800,3,50,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1,80004,S,0,50205003
+AFTER_PLAY,장애물 파괴 173개 이상 하기,,502,173,1,51,#destroyObstacle,1,SET,0,1,NORMAL,1play,2,,G,0,50205101
+AFTER_PLAY,모든 젤리 815개 이상 획득 하기,questIsFinished(50205101),502,815,2,51,#jellyCount,1,SET,0,1,NORMAL,1play,2,,K,0,50205102
+AFTER_PLAY,왕곰젤리 25개 이상 획득 하기,questIsFinished(50205102),502,25,3,51,#kingBearJelly,1,SET,0,1,NORMAL,1play,5000,,C,0,50205103
+AFTER_PLAY,3900코인 이상 획득 하기,,502,3900,1,52,#pureCoin,1,SET,0,1,NORMAL,1play,1,80002,S,0,50205201
+AFTER_PLAY,은화 340개 이상 획득 하기,questIsFinished(50205201),502,340,2,52,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50205202
+AFTER_PLAY,모든 젤리 70개 이하 획득 하기,questIsFinished(50205202),502,70,3,52,#jellyCount,1,LESS,0,1,NORMAL,1play,500,,P,0,50205203
+AFTER_PLAY,50초 이상 달리기,,502,50,1,53,#runningPlayTime,1,SET,0,1,NORMAL,1play,6000,,C,0,50205301
+AFTER_PLAY,장애물 파괴 100개 이상 하기,questIsFinished(50205301),502,100,2,53,#destroyObstacle,1,SET,0,1,NORMAL,1play,2,,K,0,50205302
+AFTER_PLAY,얼음 곰젤리 146개 이상 획득 하기,questIsFinished(50205302),502,146,3,53,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,3,,G,0,50205303
+AFTER_PLAY,장애물 충돌 0회 이하 하기,,502,0,1,54,#collision,1,LESS,0,1,NORMAL,1play,9000,,C,0,50205401
+AFTER_PLAY,노란 곰젤리 600개 이상 획득 하기,questIsFinished(50205401),502,600,2,54,#yellowBearJelly,1,SET,0,1,NORMAL,1play,600,,P,0,50205402
+AFTER_PLAY,2100코인 이상 획득 하기,questIsFinished(50205402),502,2100,3,54,#pureCoin,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50205403
+AFTER_PLAY,분홍 곰젤리 200개 이상 획득 하기,,502,200,1,55,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50205501
+AFTER_PLAY,노란 곰젤리 230개 이상 획득 하기,questIsFinished(50205501),502,230,2,55,#yellowBearJelly,1,SET,0,1,NORMAL,1play,9000,,C,0,50205502
+AFTER_PLAY,날개 달린 젤리 24개 이상 획득 하기,questIsFinished(50205502),502,24,3,55,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,200,,A,0,50205503
+AFTER_PLAY,모든 곰젤리 1330개 이상 획득 하기,,502,1330,1,56,#bearJelly,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50205601
+AFTER_PLAY,1단 점프 100회 이상 하기,questIsFinished(50205601),502,100,2,56,#jump,1,SET,0,1,NORMAL,1play,700,,P,0,50205602
+AFTER_PLAY,노란 곰젤리 1100개 이상 획득 하기,questIsFinished(50205602),502,1100,3,56,#yellowBearJelly,1,SET,0,1,NORMAL,1play,9000,,C,0,50205603
+AFTER_PLAY,장애물 충돌 1회 이하 하기,,502,1,1,57,#collision,1,LESS,0,1,NORMAL,1play,2,,G,0,50205701
+AFTER_PLAY,금화 82개 이상 획득 하기,questIsFinished(50205701),502,82,2,57,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,700,,P,0,50205702
+AFTER_PLAY,모든 젤리 400개 이하 획득 하기,questIsFinished(50205702),502,400,3,57,#jellyCount,1,LESS,0,1,NORMAL,1play,200,,A,0,50205703
+AFTER_PLAY,모든 젤리 2000개 이상 획득 하기,,502,2000,1,58,#jellyCount,1,SET,0,1,NORMAL,1play,3,,G,0,50205801
+AFTER_PLAY,보너스타임 13초 이상 하기,questIsFinished(50205801),502,13,2,58,#bonusTimePlayTime,1,SET,0,1,NORMAL,1play,1,80002,S,0,50205802
+AFTER_PLAY,장애물 충돌 8회 이상 하기,questIsFinished(50205802),502,8,3,58,#collision,1,SET,0,1,NORMAL,1play,700,,P,0,50205803
+AFTER_PLAY,구멍에 빠지기 1회 이하 하기,,502,1,1,59,#fallToHole,1,LESS,0,1,NORMAL,1play,1,853,S,0,50205901
+AFTER_PLAY,모든 젤리 1600개 이상 획득 하기,questIsFinished(50205901),502,1600,2,59,#jellyCount,1,SET,0,1,NORMAL,1play,8000,,C,0,50205902
+AFTER_PLAY,슬라이드 45초 이상 하기,questIsFinished(50205902),502,45,3,59,#slideTime,1,SET,0,1,NORMAL,1play,3,,K,0,50205903
+AFTER_PLAY,모든 코인 300개 이상 획득 하기,,502,300,1,60,#CoinJellyTotal,1,SET,0,1,NORMAL,1play,1,80003,S,0,50206001
+AFTER_PLAY,왕곰젤리 30개 이상 획득 하기,questIsFinished(50206001),502,30,2,60,#kingBearJelly,1,SET,0,1,NORMAL,1play,1,832,GPS,0,50206002
+AFTER_PLAY,노란 곰젤리 260개 이상 획득 하기,questIsFinished(50206002),502,260,3,60,#yellowBearJelly,1,SET,0,1,NORMAL,1play,7,,G,0,50206003
+AFTER_PLAY,1350코인 이상 획득 하기,,502,1350,1,61,#pureCoin,1,SET,0,1,NORMAL,1play,1,80001,S,0,50206101
+AFTER_PLAY,분홍 곰젤리 250개 이상 획득 하기,questIsFinished(50206101),502,250,2,61,#pinkBearJelly,1,SET,0,1,NORMAL,1play,7000,,C,0,50206102
+AFTER_PLAY,노란 곰젤리 370개 이상 획득 하기,questIsFinished(50206102),502,370,3,61,#yellowBearJelly,1,SET,0,1,NORMAL,1play,100,,A,0,50206103
+AFTER_PLAY,장애물 충돌 3회 이하 하기,,502,3,1,62,#collision,1,LESS,0,1,NORMAL,1play,3,,G,0,50206201
+AFTER_PLAY,얼음 곰젤리 499개 이상 획득 하기,questIsFinished(50206201),502,499,2,62,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1,80001,S,0,50206202
+AFTER_PLAY,1단 점프 83회 이상 하기,questIsFinished(50206202),502,83,3,62,#jump,1,SET,0,1,NORMAL,1play,700,,P,0,50206203
+AFTER_PLAY,날개 달린 젤리 77개 이상 획득 하기,,502,77,1,63,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50206301
+AFTER_PLAY,분홍 곰젤리 110개 이상 획득 하기,questIsFinished(50206301),502,110,2,63,#pinkBearJelly,1,SET,0,1,NORMAL,1play,3,,G,0,50206302
+AFTER_PLAY,얼음 곰젤리 380개 이상 획득 하기,questIsFinished(50206302),502,380,3,63,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,700,,P,0,50206303
+AFTER_PLAY,장애물 파괴 250개 이상 하기,,502,250,1,64,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50206401
+AFTER_PLAY,노란 곰젤리 100개 이상 획득 하기,questIsFinished(50206401),502,100,2,64,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,853,S,0,50206402
+AFTER_PLAY,금화 42개 이상 획득 하기,questIsFinished(50206402),502,42,3,64,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,200,,A,0,50206403
+AFTER_PLAY,1900코인 이상 획득 하기,,502,1900,1,65,#pureCoin,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50206501
+AFTER_PLAY,노란 곰젤리 200개 이상 획득 하기,questIsFinished(50206501),502,200,2,65,#yellowBearJelly,1,SET,0,1,NORMAL,1play,9000,,C,0,50206502
+AFTER_PLAY,분홍 곰젤리 160개 이상 획득 하기,questIsFinished(50206502),502,160,3,65,#pinkBearJelly,1,SET,0,1,NORMAL,1play,700,,P,0,50206503
+AFTER_PLAY,장애물 통과 105개 이상 하기,,502,105,1,66,#passThroughObstacle,1,SET,0,1,NORMAL,1play,1,80003,S,0,50206601
+AFTER_PLAY,색동별젤리 12개 이상 획득 하기,questIsFinished(50206601),502,12,2,66,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,3,,G,0,50206602
+AFTER_PLAY,60초 이하 달리기,questIsFinished(50206602),502,60,3,66,#runningPlayTime,1,LESS,0,1,NORMAL,1play,700,,P,0,50206603
+AFTER_PLAY,날개 달린 젤리 240개 이상 획득 하기,,502,240,1,67,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50206701
+AFTER_PLAY,2단 점프 95회 이상 하기,questIsFinished(50206701),502,95,2,67,#doubleJump,1,SET,0,1,NORMAL,1play,10000,,C,0,50206702
+AFTER_PLAY,분홍 곰젤리 7개 이하 획득 하기,questIsFinished(50206702),502,7,3,67,#pinkBearJelly,1,LESS,0,1,NORMAL,1play,1,853,S,0,50206703
+AFTER_PLAY,노란 곰젤리 125개 이상 획득 하기,,502,125,1,68,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,80001,S,0,50206801
+AFTER_PLAY,분홍 곰젤리 140개 이상 획득 하기,questIsFinished(50206801),502,140,2,68,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50206802
+AFTER_PLAY,3200코인 이상 획득 하기,questIsFinished(50206802),502,3200,3,68,#pureCoin,1,SET,0,1,NORMAL,1play,700,,P,0,50206803
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,69,#PassedIceDoor,1,SET,0,1,NORMAL,1play,2,,G,0,50206901
+AFTER_PLAY,노란 곰젤리 670개 이상 획득 하기,questIsFinished(50206901),502,670,2,69,#yellowBearJelly,1,SET,0,1,NORMAL,1play,3,,K,0,50206902
+AFTER_PLAY,구멍에서 구출 6회 이상 하기,questIsFinished(50206902),502,6,3,69,#reviveAfterFalling,1,SET,0,1,NORMAL,1play,800,,P,0,50206903
+AFTER_PLAY,장애물 충돌 5회 이하 하기,,502,5,1,70,#collision,1,LESS,0,1,NORMAL,1play,1,80004,S,0,50207001
+AFTER_PLAY,얼음 곰젤리 830개 이상 획득 하기,questIsFinished(50207001),502,830,2,70,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,3,834,GPS,0,50207002
+AFTER_PLAY,왕곰젤리 45개 이상 획득 하기,questIsFinished(50207002),502,45,3,70,#kingBearJelly,1,SET,0,1,NORMAL,1play,10,,G,0,50207003
+AFTER_PLAY,펫이 젤리 1050개 이상 획득 하기,,502,1050,1,71,#jellyCountByPet,1,SET,0,1,NORMAL,1play,3,,G,0,50207101
+AFTER_PLAY,슬라이드했다가 일어나기 260회 이상 하기,questIsFinished(50207101),502,260,2,71,#slideUpCount,1,SET,0,1,NORMAL,1play,2,,K,0,50207102
+AFTER_PLAY,3000코인 이상 획득 하기,questIsFinished(50207102),502,3000,3,71,#pureCoin,1,SET,0,1,NORMAL,1play,1,80002,S,0,50207103
+AFTER_PLAY,55초 이상 달리기,,502,55,1,72,#runningPlayTime,1,SET,0,1,NORMAL,1play,1,1508301,S,0,50207201
+AFTER_PLAY,2단 점프 55회 이상 하기,questIsFinished(50207201),502,55,2,72,#doubleJump,1,SET,0,1,NORMAL,1play,1,80001,S,0,50207202
+AFTER_PLAY,색동별젤리 107개 이상 획득 하기,questIsFinished(50207202),502,107,3,72,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,10000,,C,0,50207203
+AFTER_PLAY,58초 이하 달리기,,502,58,1,73,#runningPlayTime,1,LESS,0,1,NORMAL,1play,200,,A,0,50207301
+AFTER_PLAY,은화 183개 이상 획득 하기,questIsFinished(50207301),502,183,2,73,#silverCoinJelly,1,SET,0,1,NORMAL,1play,1,80001,S,0,50207302
+AFTER_PLAY,장애물 파괴 7개 이하 하기,questIsFinished(50207302),502,7,3,73,#destroyObstacle,1,LESS,0,1,NORMAL,1play,800,,P,0,50207303
+AFTER_PLAY,금화 65개 이상 획득 하기,,502,65,1,74,#jellyMagicStat_777_GetCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50207401
+AFTER_PLAY,50코인 이하 획득 하기,questIsFinished(50207401),502,50,2,74,#pureCoin,1,LESS,0,1,NORMAL,1play,10000,,C,0,50207402
+AFTER_PLAY,모든 젤리 1000개 이상 획득 하기,questIsFinished(50207402),502,1000,3,74,#jellyCount,1,SET,0,1,NORMAL,1play,5,,G,0,50207403
+AFTER_PLAY,장애물 파괴 90개 이상 하기,,502,90,1,75,#destroyObstacle,1,SET,0,1,NORMAL,1play,2,80002,S,0,50207501
+AFTER_PLAY,슬라이드했다가 일어나기 180회 이상 하기,questIsFinished(50207501),502,180,2,75,#slideUpCount,1,SET,0,1,NORMAL,1play,1,80002,S,0,50207502
+AFTER_PLAY,노란 곰젤리 420개 이상 획득 하기,questIsFinished(50207502),502,420,3,75,#yellowBearJelly,1,SET,0,1,NORMAL,1play,900,,P,0,50207503
+AFTER_PLAY,구멍에 빠지기 3회 이하 하기,,502,3,1,76,#fallToHole,1,LESS,0,1,NORMAL,1play,2,,K,0,50207601
+AFTER_PLAY,분홍 곰젤리 317개 이상 획득 하기,questIsFinished(50207601),502,317,2,76,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,1700201,S,0,50207602
+AFTER_PLAY,2000코인 이상 획득 하기,questIsFinished(50207602),502,2000,3,76,#pureCoin,1,SET,0,1,NORMAL,1play,1000,,P,0,50207603
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,77,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,80001,S,0,50207701
+AFTER_PLAY,구멍에 빠지기 1회 이하 하기,questIsFinished(50207701),502,1,2,77,#fallToHole,1,LESS,0,1,NORMAL,1play,1,1700301,S,0,50207702
+AFTER_PLAY,4000코인 이상 획득 하기,questIsFinished(50207702),502,4000,3,77,#pureCoin,1,SET,0,1,NORMAL,1play,10000,,C,0,50207703
+AFTER_PLAY,구멍에 빠지기 2회 이하 하기,,502,2,1,78,#fallToHole,1,LESS,0,1,NORMAL,1play,3,,G,0,50207801
+AFTER_PLAY,색동별 폭죽 파티 9개 이상 획득 하기,questIsFinished(50207801),502,9,2,78,#jellyMagicStat_1003_GetCount,1,SET,0,1,NORMAL,1play,30,,L,0,50207802
+AFTER_PLAY,얼음 곰젤리 430개 이상 획득 하기,questIsFinished(50207802),502,430,3,78,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1000,,P,0,50207803
+AFTER_PLAY,모든 젤리 2900개 이상 획득 하기,,502,2900,1,79,#jellyCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50207901
+AFTER_PLAY,모든 젤리 150개 이하 획득 하기,questIsFinished(50207901),502,150,2,79,#jellyCount,1,LESS,0,1,NORMAL,1play,1,80002,S,0,50207902
+AFTER_PLAY,67초 이하 달리기,questIsFinished(50207902),502,67,3,79,#runningPlayTime,1,LESS,0,1,NORMAL,1play,5,,G,0,50207903
+AFTER_PLAY,장애물 충돌 5회 이하 하기,,502,5,1,80,#collision,1,LESS,0,1,NORMAL,1play,1,80003,S,0,50208001
+AFTER_PLAY,왕곰젤리 19개 이상 획득 하기,questIsFinished(50208001),502,19,2,80,#kingBearJelly,1,SET,0,1,NORMAL,1play,3,834,GPS,0,50208002
+AFTER_PLAY,분홍 곰젤리 610개 이상 획득 하기,questIsFinished(50208002),502,610,3,80,#pinkBearJelly,1,SET,0,1,NORMAL,1play,5,,G,0,50208003
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,81,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,1700401,S,0,50208101
+AFTER_PLAY,알파벳젤리 490개 이상 획득 하기,questIsFinished(50208101),502,490,2,81,#alphabetJellyCount,1,SET,0,1,NORMAL,1play,10000,,C,0,50208102
+AFTER_PLAY,점프 50회 이하 하기,questIsFinished(50208102),502,50,3,81,#totalJump,1,LESS,0,1,NORMAL,1play,30,,L,0,50208103
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,82,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,853,S,0,50208201
+AFTER_PLAY,장애물 충돌 1회 이하 하기,questIsFinished(50208201),502,1,2,82,#collision,1,LESS,0,1,NORMAL,1play,1,80003,S,0,50208202
+AFTER_PLAY,은화 34개 이하 획득 하기,questIsFinished(50208202),502,34,3,82,#silverCoinJelly,1,LESS,0,1,NORMAL,1play,1000,,P,0,50208203
+AFTER_PLAY,노란 곰젤리 200개 이하 획득 하기,,502,200,1,83,#yellowBearJelly,1,LESS,0,1,NORMAL,1play,5,,G,0,50208301
+AFTER_PLAY,3070코인 이상 획득 하기,questIsFinished(50208301),502,3070,2,83,#pureCoin,1,SET,0,1,NORMAL,1play,5,,K,0,50208302
+AFTER_PLAY,노란 곰젤리 1260개 이상 획득 하기,questIsFinished(50208302),502,1260,3,83,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,1700501,S,0,50208303
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,84,#PassedIceDoor,1,SET,0,1,NORMAL,1play,10000,,C,0,50208401
+AFTER_PLAY,62초 이하 달리기,questIsFinished(50208401),502,62,2,84,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,1700401,S,0,50208402
+AFTER_PLAY,노란 곰젤리 40개 이하 획득 하기,questIsFinished(50208402),502,40,3,84,#yellowBearJelly,1,LESS,0,1,NORMAL,1play,1,853,S,0,50208403
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,85,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,80004,S,0,50208501
+AFTER_PLAY,왕곰젤리 30개 이상 획득 하기,questIsFinished(50208501),502,30,2,85,#kingBearJelly,1,SET,0,1,NORMAL,1play,3,834,GPS,0,50208502
+AFTER_PLAY,얼음 곰젤리 600개 이상 획득 하기,questIsFinished(50208502),502,600,3,85,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,10,,G,0,50208503
+AFTER_PLAY,노란 곰젤리 400개 이상 획득 하기,,502,400,1,86,#yellowBearJelly,1,SET,0,1,NORMAL,1play,5,,G,0,50208601
+AFTER_PLAY,분홍 곰젤리 165개 이상 획득 하기,questIsFinished(50208601),502,165,2,86,#pinkBearJelly,1,SET,0,1,NORMAL,1play,3,,K,0,50208602
+AFTER_PLAY,2단 점프 66회 이상 하기,questIsFinished(50208602),502,66,3,86,#doubleJump,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50208603
+AFTER_PLAY,모든 젤리 2000개 이상 획득 하기,,502,2000,1,87,#jellyCount,1,SET,0,1,NORMAL,1play,3,,K,0,50208701
+AFTER_PLAY,색동별젤리 135개 이하 획득 하기,questIsFinished(50208701),502,135,2,87,#jellyMagicStat_1002_GetCount,1,LESS,0,1,NORMAL,1play,12000,,C,0,50208702
+AFTER_PLAY,150코인 이하 획득 하기,questIsFinished(50208702),502,150,3,87,#pureCoin,1,LESS,0,1,NORMAL,1play,2,80002,S,0,50208703
+AFTER_PLAY,장애물 파괴 350개 이상 하기,,502,350,1,88,#destroyObstacle,1,SET,0,1,NORMAL,1play,1,1700301,S,0,50208801
+AFTER_PLAY,모든 젤리 900개 이상 획득 하기,questIsFinished(50208801),502,900,2,88,#jellyCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50208802
+AFTER_PLAY,장애물 파괴 25개 이하 하기,questIsFinished(50208802),502,25,3,88,#destroyObstacle,1,LESS,0,1,NORMAL,1play,50,,L,0,50208803
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,89,#PassedIceDoor,1,SET,0,1,NORMAL,1play,3,,K,0,50208901
+AFTER_PLAY,노란 곰젤리 440개 이상 획득 하기,questIsFinished(50208901),502,440,2,89,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,1700401,S,0,50208902
+AFTER_PLAY,장애물 통과 220개 이상 하기,questIsFinished(50208902),502,220,3,89,#passThroughObstacle,1,SET,0,1,NORMAL,1play,5,,G,0,50208903
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,90,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,853,S,0,50209001
+AFTER_PLAY,날개 달린 젤리 77개 이상 획득 하기,questIsFinished(50209001),502,77,2,90,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,1,832,GPS,0,50209002
+AFTER_PLAY,얼음 곰젤리 500개 이상 획득 하기,questIsFinished(50209002),502,500,3,90,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,1,80003,S,0,50209003
+AFTER_PLAY,1350코인 이상 획득 하기,,502,1350,1,91,#pureCoin,1,SET,0,1,NORMAL,1play,12000,,C,0,50209101
+AFTER_PLAY,슬라이드했다가 일어나기 183회 이상 하기,questIsFinished(50209101),502,183,2,91,#slideUpCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50209102
+AFTER_PLAY,장애물 파괴 20개 이하 하기,questIsFinished(50209102),502,20,3,91,#destroyObstacle,1,LESS,0,1,NORMAL,1play,1,80002,S,0,50209103
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,92,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,1700401,S,0,50209201
+AFTER_PLAY,모든 젤리 1800개 이상 획득 하기,questIsFinished(50209201),502,1800,2,92,#jellyCount,1,SET,0,1,NORMAL,1play,13000,,C,0,50209202
+AFTER_PLAY,장애물 충돌 0회 이하 하기,questIsFinished(50209202),502,0,3,92,#collision,1,LESS,0,1,NORMAL,1play,1,80003,S,0,50209203
+AFTER_PLAY,70초 이하 달리기,,502,70,1,93,#runningPlayTime,1,LESS,0,1,NORMAL,1play,1,1700501,S,0,50209301
+AFTER_PLAY,색동별젤리 780개 이상 획득 하기,questIsFinished(50209301),502,780,2,93,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,14000,,C,0,50209302
+AFTER_PLAY,모든 곰젤리 175개 이상 획득 하기,questIsFinished(50209302),502,175,3,93,#bearJelly,1,SET,0,1,NORMAL,1play,10,,K,0,50209303
+AFTER_PLAY,색동별젤리 730개 이상 획득 하기,,502,730,1,94,#jellyMagicStat_1002_GetCount,1,SET,0,1,NORMAL,1play,1,853,S,0,50209401
+AFTER_PLAY,1830코인 이상 획득 하기,questIsFinished(50209401),502,1830,2,94,#pureCoin,1,SET,0,1,NORMAL,1play,2,80002,S,0,50209402
+AFTER_PLAY,모든 젤리 137개 이하 획득 하기,questIsFinished(50209402),502,137,3,94,#jellyCount,1,LESS,0,1,NORMAL,1play,15000,,C,0,50209403
+AFTER_PLAY,노란 곰젤리 1120개 이상 획득 하기,,502,1120,1,95,#yellowBearJelly,1,SET,0,1,NORMAL,1play,3,,K,0,50209501
+AFTER_PLAY,왕곰젤리 30개 이상 획득 하기,questIsFinished(50209501),502,30,2,95,#kingBearJelly,1,SET,0,1,NORMAL,1play,5,,G,0,50209502
+AFTER_PLAY,노란 곰젤리 44개 이하 획득 하기,questIsFinished(50209502),502,44,3,95,#yellowBearJelly,1,LESS,0,1,NORMAL,1play,3,80003,S,0,50209503
+AFTER_PLAY,노란 곰젤리 380개 이상 획득 하기,,502,380,1,96,#yellowBearJelly,1,SET,0,1,NORMAL,1play,1,1700501,S,0,50209601
+AFTER_PLAY,56초 이하 달리기,questIsFinished(50209601),502,56,2,96,#runningPlayTime,1,LESS,0,1,NORMAL,1play,15000,,C,0,50209602
+AFTER_PLAY,890코인 이상 획득 하기,questIsFinished(50209602),502,890,3,96,#pureCoin,1,SET,0,1,NORMAL,1play,5,,G,0,50209603
+AFTER_PLAY,구멍에 빠지기 5회 이하 하기,,502,5,1,97,#fallToHole,1,LESS,0,1,NORMAL,1play,3,,K,0,50209701
+AFTER_PLAY,알파벳젤리 130개 이상 획득 하기,questIsFinished(50209701),502,130,2,97,#alphabetJellyCount,1,SET,0,1,NORMAL,1play,15000,,C,0,50209702
+AFTER_PLAY,분홍 곰젤리 620개 이상 획득 하기,questIsFinished(50209702),502,620,3,97,#pinkBearJelly,1,SET,0,1,NORMAL,1play,1,1700501,S,0,50209703
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,98,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,80003,S,0,50209801
+AFTER_PLAY,노란 곰젤리 300개 이상 획득 하기,questIsFinished(50209801),502,300,2,98,#yellowBearJelly,1,SET,0,1,NORMAL,1play,3,834,GPS,0,50209802
+AFTER_PLAY,왕곰젤리 30개 이상 획득 하기,questIsFinished(50209802),502,30,3,98,#kingBearJelly,1,SET,0,1,NORMAL,1play,10,,G,0,50209803
+AFTER_PLAY,날개 달린 젤리 135개 이상 획득 하기,,502,135,1,99,#jellyMagicStat_1004_GetCount,1,SET,0,1,NORMAL,1play,7,,G,0,50209901
+AFTER_PLAY,장애물 충돌 2회 이하 하기,questIsFinished(50209901),502,2,2,99,#collision,1,LESS,0,1,NORMAL,1play,3,834,GPS,0,50209902
+AFTER_PLAY,날개 달린 젤리 8개 이하 획득 하기,questIsFinished(50209902),502,8,3,99,#jellyMagicStat_1004_GetCount,1,LESS,0,1,NORMAL,1play,10,,G,0,50209903
+AFTER_PLAY,얼음문까지 달리기,,502,1,1,100,#PassedIceDoor,1,SET,0,1,NORMAL,1play,1,1509101,S,0,50210001
+AFTER_PLAY,분홍 곰젤리 450개 이상 획득 하기,questIsFinished(50210001),502,450,2,100,#pinkBearJelly,1,SET,0,1,NORMAL,1play,3,80004,S,0,50210002
+AFTER_PLAY,얼음 곰젤리 800개 이상 획득 하기,questIsFinished(50210002),502,800,3,100,#jelly_506_GetCount,1,SET,0,1,NORMAL,1play,7,838,GPS,0,50210003

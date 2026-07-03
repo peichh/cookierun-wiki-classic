@@ -1,0 +1,309 @@
+﻿action,comment,condition,episode_seq,finish,game_statistics_category,game_statistics_index,game_statistics_plist,game_statistics_sprite,ice_tower_mission_order,ice_tower_stage,increment,nomal_quest_type,operator,quest_category,quest_status,quest_type,resouce_key_string,reward_qty,reward_seq,reward_type,start,_key
+NONE,Complete 30 tasks for Episode 1: Escape from the Oven (Common tasks excluded),,502,30,,,,,,,episodeCountRewardedQuests(1),U,SET,0,1,UNLOCK,special,20,,G,0,50200000
+NONE,Gather 20 Frozen Stars,,502,20,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,1,80002,S,0,50200001
+NONE,Gather 50 Frozen Stars,questIsFinished(50200001),502,50,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,1,80004,S,0,50200002
+NONE,Gather 100 Frozen Stars,questIsFinished(50200002),502,100,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,100,,G,0,50200003
+NONE,Gather 150 Frozen Stars,questIsFinished(50200003),502,150,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,1,1508101,S,0,50200004
+NONE,Gather 200 Frozen Stars,questIsFinished(50200004),502,200,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,3,80004,S,0,50200005
+NONE,Gather 250 Frozen Stars,questIsFinished(50200005),502,250,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,3,834,GPS,0,50200006
+NONE,Gather 300 Frozen Stars,questIsFinished(50200006),502,300,,,,,,,iceTowerCountFinishedQuests(),U,SET,0,1,NORMAL,special,1,206801,S,0,50200007
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,1,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,,G,0,50200101
+AFTER_PLAY,Go to Bonus Time once,questIsFinished(50200101),502,1,0,18,event_various_game.plist,event_game_goal_06.png,2,1,#enterBonusTime,N,SET,0,1,NORMAL,1play,2,,K,0,50200102
+AFTER_PLAY,Gather 83 Jellies,questIsFinished(50200102),502,830,0,6,event_various_game.plist,event_game_goal_09.png,3,1,#jellyCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50200103
+AFTER_PLAY,Gather 270 Yellow Bear Jellies,,502,270,0,8,event_various_game.plist,event_game_goal_10.png,1,2,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,80001,S,0,50200201
+AFTER_PLAY,Gather 5 Giant Coins,questIsFinished(50200201),502,5,0,34,event_various_game.plist,event_game_goal_24.png,2,2,#bigGoldCoinJelly,N,SET,0,1,NORMAL,1play,5000,,C,0,50200202
+AFTER_PLAY,"Gather 1,145 Coins",questIsFinished(50200202),502,1145,0,22,event_various_game.plist,event_game_goal_02.png,3,2,#pureCoin,N,SET,0,1,NORMAL,1play,500,,P,0,50200203
+AFTER_PLAY,Gather 24 Giant Coins,,502,24,0,34,event_various_game.plist,event_game_goal_24.png,1,3,#bigGoldCoinJelly,N,SET,0,1,NORMAL,1play,2,,K,0,50200301
+AFTER_PLAY,Gather 100 Gold Coins,questIsFinished(50200301),502,100,2,777,event_various_game.plist,event_game_goal_23.png,2,3,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,2,,G,0,50200302
+AFTER_PLAY,Gather 630 Silver Coins,questIsFinished(50200302),502,630,0,32,event_various_game.plist,event_game_goal_52.png,3,3,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50200303
+AFTER_PLAY,Clear within 79 seconds,,502,79,0,19,event_various_game.plist,event_game_goal_64.png,1,4,#runningPlayTime,N,LESS,0,1,NORMAL,1play,5000,,C,0,50200401
+AFTER_PLAY,Crush 125 obstacles,questIsFinished(50200401),502,125,0,12,event_various_game.plist,event_game_goal_14.png,2,4,#destroyObstacle,N,SET,0,1,NORMAL,1play,600,,P,0,50200402
+AFTER_PLAY,Gather 153 Gold Coins,questIsFinished(50200402),502,153,2,777,event_various_game.plist,event_game_goal_23.png,3,4,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50200403
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,5,#PassedIceDoor,N,SET,0,1,NORMAL,1play,2,,K,0,50200501
+AFTER_PLAY,Run into no obstacles,questIsFinished(50200501),502,0,0,14,event_various_game.plist,event_game_goal_72.png,2,5,#collision,N,LESS,0,1,NORMAL,1play,1,80001,S,0,50200502
+AFTER_PLAY,Clear within 47 seconds,questIsFinished(50200502),502,47,0,19,event_various_game.plist,event_game_goal_64.png,3,5,#runningPlayTime,N,LESS,0,1,NORMAL,1play,3,,G,0,50200503
+AFTER_PLAY,Gather 10 Colorful Star Jelly Parties,,502,10,2,1003,event_various_game.plist,event_game_goal_20.png,1,6,#jellyMagicStat_1003_GetCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50200601
+AFTER_PLAY,Gather 210 Silver Coins,questIsFinished(50200601),502,210,0,32,event_various_game.plist,event_game_goal_52.png,2,6,#silverCoinJelly,N,SET,0,1,NORMAL,1play,2,,K,0,50200602
+AFTER_PLAY,"Gather 1,150 Jellies",questIsFinished(50200602),502,1150,0,6,event_various_game.plist,event_game_goal_09.png,3,6,#jellyCount,N,SET,0,1,NORMAL,1play,6000,,C,0,50200603
+AFTER_PLAY,Run into 1 obstacle max,,502,1,0,14,event_various_game.plist,event_game_goal_72.png,1,7,#collision,N,LESS,0,1,NORMAL,1play,100,,A,0,50200701
+AFTER_PLAY,Gather 110 Giant Bear Jellies,questIsFinished(50200701),502,110,0,10,event_various_game.plist,event_game_goal_12.png,2,7,#kingBearJelly,N,SET,0,1,NORMAL,1play,1,80002,S,0,50200702
+AFTER_PLAY,"Gather 3,300 Coins",questIsFinished(50200702),502,3300,0,22,event_various_game.plist,event_game_goal_02.png,3,7,#pureCoin,N,SET,0,1,NORMAL,1play,3,,G,0,50200703
+AFTER_PLAY,Run into 4 obstacles max,,502,4,0,14,event_various_game.plist,event_game_goal_72.png,1,8,#collision,N,LESS,0,1,NORMAL,1play,5000,,C,0,50200801
+AFTER_PLAY,Gather 320 Bear Jellies,questIsFinished(50200801),502,320,0,7,event_various_game.plist,event_game_goal_48.png,2,8,#bearJelly,N,SET,0,1,NORMAL,1play,1,2201,S,0,50200802
+AFTER_PLAY,Gather 340 Yellow Bear Jellies,questIsFinished(50200802),502,340,0,8,event_various_game.plist,event_game_goal_10.png,3,8,#yellowBearJelly,N,SET,0,1,NORMAL,1play,600,,P,0,50200803
+AFTER_PLAY,Gather 24 Giant Coins,,502,24,0,34,event_various_game.plist,event_game_goal_24.png,1,9,#bigGoldCoinJelly,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50200901
+AFTER_PLAY,Gather 270 Gold Coins,questIsFinished(50200901),502,270,2,777,event_various_game.plist,event_game_goal_23.png,2,9,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,110,,A,0,50200902
+AFTER_PLAY,Gather 480 Silver Coins,questIsFinished(50200902),502,480,0,32,event_various_game.plist,event_game_goal_52.png,3,9,#silverCoinJelly,N,SET,0,1,NORMAL,1play,6000,,C,0,50200903
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,10,#PassedIceDoor,N,SET,0,1,NORMAL,1play,5,,G,0,50201001
+AFTER_PLAY,Gather 100 Gold Coins,questIsFinished(50201001),502,100,2,777,event_various_game.plist,event_game_goal_23.png,2,10,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,1000,,P,0,50201002
+AFTER_PLAY,Gather 20 Alphabet Jellies,questIsFinished(50201002),502,20,0,45,event_various_game.plist,event_game_goal_32.png,3,10,#alphabetJellyCount,N,SET,0,1,NORMAL,1play,1,80003,S,0,50201003
+AFTER_PLAY,Gather 160 Frozen Bear Jellies,,502,160,1,506,event_various_game.plist,event_game_goal_86.png,1,11,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,6000,,C,0,50201101
+AFTER_PLAY,Gather 333 basic Jellies,questIsFinished(50201101),502,333,1,500,event_various_game.plist,event_game_goal_88.png,2,11,#jelly_500_GetCount,N,SET,0,1,NORMAL,1play,1,2201,S,0,50201102
+AFTER_PLAY,Double Jump 50 times,questIsFinished(50201102),502,50,0,3,event_various_game.plist,event_game_goal_04.png,3,11,#doubleJump,N,SET,0,1,NORMAL,1play,800,,P,0,50201103
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,12,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,80001,S,0,50201201
+AFTER_PLAY,Jump 70 times,questIsFinished(50201201),502,70,0,1,event_various_game.plist,event_game_goal_03.png,2,12,#totalJump,N,SET,0,1,NORMAL,1play,120,,A,0,50201202
+AFTER_PLAY,Gather 300 Frozen Bear Jellies,questIsFinished(50201202),502,300,1,506,event_various_game.plist,event_game_goal_86.png,3,12,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,8000,,C,0,50201203
+AFTER_PLAY,Gather 285 Pink Bear Jellies,,502,285,0,9,event_various_game.plist,event_game_goal_11.png,1,13,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50201301
+AFTER_PLAY,Gather 100 Yellow Bear Jellies,questIsFinished(50201301),502,100,0,8,event_various_game.plist,event_game_goal_10.png,2,13,#yellowBearJelly,N,SET,0,1,NORMAL,1play,600,,P,0,50201302
+AFTER_PLAY,Gather 295 Pink Bear Jellies,questIsFinished(50201302),502,295,0,9,event_various_game.plist,event_game_goal_11.png,3,13,#pinkBearJelly,N,SET,0,1,NORMAL,1play,3,,G,0,50201303
+AFTER_PLAY,Slide for 45 seconds,,502,45,0,5,event_various_game.plist,event_game_goal_05.png,1,14,#slideTime,N,SET,0,1,NORMAL,1play,2,,K,0,50201401
+AFTER_PLAY,Gather 20 Giant Coins,questIsFinished(50201401),502,20,0,34,event_various_game.plist,event_game_goal_24.png,2,14,#bigGoldCoinJelly,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50201402
+AFTER_PLAY,Slide for 58 seconds,questIsFinished(50201402),502,58,0,5,event_various_game.plist,event_game_goal_05.png,3,14,#slideTime,N,SET,0,1,NORMAL,1play,1,80002,S,0,50201403
+AFTER_PLAY,Clear within 95 seconds,,502,95,0,19,event_various_game.plist,event_game_goal_64.png,1,15,#runningPlayTime,N,LESS,0,1,NORMAL,1play,2,,G,0,50201501
+AFTER_PLAY,Run at least 103 seconds,questIsFinished(50201501),502,103,0,19,event_various_game.plist,event_game_goal_07.png,2,15,#runningPlayTime,N,SET,0,1,NORMAL,1play,1,80001,S,0,50201502
+AFTER_PLAY,Gather 560 Frozen Bear Jellies,questIsFinished(50201502),502,560,1,506,event_various_game.plist,event_game_goal_86.png,3,15,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,800,,P,0,50201503
+AFTER_PLAY,Gather 800 Colorful Star Jellies,,502,800,2,1002,event_various_game.plist,event_game_goal_57.png,1,16,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,6000,,C,0,50201601
+AFTER_PLAY,Gather 115 Gold Coins,questIsFinished(50201601),502,115,2,777,event_various_game.plist,event_game_goal_23.png,2,16,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,20,,L,0,50201602
+AFTER_PLAY,"Gather 1,050 Jellies",questIsFinished(50201602),502,1050,0,6,event_various_game.plist,event_game_goal_09.png,3,16,#jellyCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50201603
+AFTER_PLAY,Gather 20 Yellow Bear Jellies,,502,20,0,8,event_various_game.plist,event_game_goal_10.png,1,17,#yellowBearJelly,N,SET,0,1,NORMAL,1play,600,,P,0,50201701
+AFTER_PLAY,Gather 45 Winged Jellies,questIsFinished(50201701),502,45,2,1004,event_various_game.plist,event_game_goal_28.png,2,17,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50201702
+AFTER_PLAY,Gather 500 Jellies,questIsFinished(50201702),502,500,0,6,event_various_game.plist,event_game_goal_09.png,3,17,#jellyCount,N,SET,0,1,NORMAL,1play,3,,G,0,50201703
+AFTER_PLAY,Let the Pet Gather 800 Jellies,,502,800,0,40,event_various_game.plist,event_game_goal_27.png,1,18,#jellyCountByPet,N,SET,0,1,NORMAL,1play,120,,A,0,50201801
+AFTER_PLAY,"Gather 1,500 Jellies",questIsFinished(50201801),502,1500,0,6,event_various_game.plist,event_game_goal_09.png,2,18,#jellyCount,N,SET,0,1,NORMAL,1play,7000,,C,0,50201802
+AFTER_PLAY,Double Jump 75 times,questIsFinished(50201802),502,75,0,3,event_various_game.plist,event_game_goal_04.png,3,18,#doubleJump,N,SET,0,1,NORMAL,1play,3,,G,0,50201803
+AFTER_PLAY,Crush 237 obstacles,,502,237,0,12,event_various_game.plist,event_game_goal_14.png,1,19,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,80001,S,0,50201901
+AFTER_PLAY,Gather 12 Giant Bear Jellies,questIsFinished(50201901),502,12,0,10,event_various_game.plist,event_game_goal_12.png,2,19,#kingBearJelly,N,SET,0,1,NORMAL,1play,800,,P,0,50201902
+AFTER_PLAY,Gather 450 Silver Coins,questIsFinished(50201902),502,450,0,32,event_various_game.plist,event_game_goal_52.png,3,19,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50201903
+AFTER_PLAY,Gather 290 Yellow Bear Jellies,,502,290,0,8,event_various_game.plist,event_game_goal_10.png,1,20,#yellowBearJelly,N,SET,0,1,NORMAL,1play,5,,G,0,50202001
+AFTER_PLAY,Gather 153 Winged Jellies,questIsFinished(50202001),502,153,2,1004,event_various_game.plist,event_game_goal_28.png,2,20,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,1508201,S,0,50202002
+AFTER_PLAY,Clear within 60 seconds,questIsFinished(50202002),502,60,0,19,event_various_game.plist,event_game_goal_64.png,3,20,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,80003,S,0,50202003
+AFTER_PLAY,Gather 85 Yellow Bear Jellies,,502,85,0,8,event_various_game.plist,event_game_goal_10.png,1,21,#yellowBearJelly,N,SET,0,1,NORMAL,1play,7000,,C,0,50202101
+AFTER_PLAY,Gather 10 Jellies max,questIsFinished(50202101),502,10,0,6,event_various_game.plist,event_game_goal_65.png,2,21,#jellyCount,N,LESS,0,1,NORMAL,1play,1,853,S,0,50202102
+AFTER_PLAY,Single Jump 80 times,questIsFinished(50202102),502,80,0,2,event_various_game.plist,event_game_goal_46.png,3,21,#jump,N,SET,0,1,NORMAL,1play,800,,P,0,50202103
+AFTER_PLAY,Gather 170 Gold Coins,,502,170,2,777,event_various_game.plist,event_game_goal_23.png,1,22,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50202201
+AFTER_PLAY,Crush 80 obstacles,questIsFinished(50202201),502,80,0,12,event_various_game.plist,event_game_goal_14.png,2,22,#destroyObstacle,N,SET,0,1,NORMAL,1play,120,,A,0,50202202
+AFTER_PLAY,Gather 372 Silver Coins,questIsFinished(50202202),502,372,0,32,event_various_game.plist,event_game_goal_52.png,3,22,#silverCoinJelly,N,SET,0,1,NORMAL,1play,2,,K,0,50202203
+AFTER_PLAY,Fall into pits 1 time max,,502,1,0,16,event_various_game.plist,event_game_goal_74.png,1,23,#fallToHole,N,LESS,0,1,NORMAL,1play,600,,P,0,50202301
+AFTER_PLAY,Fall into pits 4 times max,questIsFinished(50202301),502,4,0,16,event_various_game.plist,event_game_goal_18.png,2,23,#fallToHole,N,SET,0,1,NORMAL,1play,2,,G,0,50202302
+AFTER_PLAY,Jump 40 times max,questIsFinished(50202302),502,40,0,1,event_various_game.plist,event_game_goal_61.png,3,23,#totalJump,N,LESS,0,1,NORMAL,1play,10000,,C,0,50202303
+AFTER_PLAY,Gather 850 Jellies,,502,850,0,6,event_various_game.plist,event_game_goal_09.png,1,24,#jellyCount,N,SET,0,1,NORMAL,1play,120,,A,0,50202401
+AFTER_PLAY,Gather 370 Frozen Bear Jellies,questIsFinished(50202401),502,370,1,506,event_various_game.plist,event_game_goal_86.png,2,24,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1,80001,S,0,50202402
+AFTER_PLAY,"Gather 1,040 Jellies",questIsFinished(50202402),502,1040,0,6,event_various_game.plist,event_game_goal_09.png,3,24,#jellyCount,N,SET,0,1,NORMAL,1play,800,,P,0,50202403
+AFTER_PLAY,Run 45 seconds without colliding,,502,45,0,36,event_various_game.plist,event_game_goal_25.png,1,25,#noCrashTime,N,SET,0,1,NORMAL,1play,20,,L,0,50202501
+AFTER_PLAY,Gather 137 Silver Coins,questIsFinished(50202501),502,137,0,32,event_various_game.plist,event_game_goal_52.png,2,25,#silverCoinJelly,N,SET,0,1,NORMAL,1play,8000,,C,0,50202502
+AFTER_PLAY,Gather 390 Yellow Bear Jellies,questIsFinished(50202502),502,390,0,8,event_various_game.plist,event_game_goal_10.png,3,25,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50202503
+AFTER_PLAY,Gather 8 Winged Jellies,,502,8,2,1004,event_various_game.plist,event_game_goal_28.png,1,26,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,7000,,C,0,50202601
+AFTER_PLAY,Run at least 80 seconds,questIsFinished(50202601),502,80,0,19,event_various_game.plist,event_game_goal_07.png,2,26,#runningPlayTime,N,SET,0,1,NORMAL,1play,120,,A,0,50202602
+AFTER_PLAY,Gather no Winged Jellies,questIsFinished(50202602),502,0,2,1004,event_various_game.plist,event_game_goal_81.png,3,26,#jellyMagicStat_1004_GetCount,N,LESS,0,1,NORMAL,1play,1000,,P,0,50202603
+AFTER_PLAY,Clear within 80 seconds,,502,80,0,19,event_various_game.plist,event_game_goal_64.png,1,27,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,,G,0,50202701
+AFTER_PLAY,Crush 80 obstacles,questIsFinished(50202701),502,80,0,12,event_various_game.plist,event_game_goal_14.png,2,27,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50202702
+AFTER_PLAY,Crush 120 obstacles,questIsFinished(50202702),502,120,0,12,event_various_game.plist,event_game_goal_14.png,3,27,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,80002,S,0,50202703
+AFTER_PLAY,"Gather 1,220 Jellies",,502,1220,0,6,event_various_game.plist,event_game_goal_09.png,1,28,#jellyCount,N,SET,0,1,NORMAL,1play,700,,P,0,50202801
+AFTER_PLAY,Gather 4 Silver Coins max,questIsFinished(50202801),502,4,0,32,event_various_game.plist,event_game_goal_77.png,2,28,#silverCoinJelly,N,LESS,0,1,NORMAL,1play,1,2201,S,0,50202802
+AFTER_PLAY,Crush 4 obstacles max,questIsFinished(50202802),502,4,0,12,event_various_game.plist,event_game_goal_70.png,3,28,#destroyObstacle,N,LESS,0,1,NORMAL,1play,10000,,C,0,50202803
+AFTER_PLAY,Clear within 65 seconds,,502,65,0,19,event_various_game.plist,event_game_goal_64.png,1,29,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,1700201,S,0,50202901
+AFTER_PLAY,Gather 380 Silver Coins,questIsFinished(50202901),502,380,0,32,event_various_game.plist,event_game_goal_52.png,2,29,#silverCoinJelly,N,SET,0,1,NORMAL,1play,2,,K,0,50202902
+AFTER_PLAY,Crush 165 obstacles,questIsFinished(50202902),502,165,0,12,event_various_game.plist,event_game_goal_14.png,3,29,#destroyObstacle,N,SET,0,1,NORMAL,1play,1000,,P,0,50202903
+AFTER_PLAY,Clear within 100 seconds,,502,100,0,19,event_various_game.plist,event_game_goal_64.png,1,30,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,832,GPS,0,50203001
+AFTER_PLAY,Gather 20 Giant Coins,questIsFinished(50203001),502,20,0,34,event_various_game.plist,event_game_goal_24.png,2,30,#bigGoldCoinJelly,N,SET,0,1,NORMAL,1play,10,,G,0,50203002
+AFTER_PLAY,Jump 42 times max,questIsFinished(50203002),502,42,0,1,event_various_game.plist,event_game_goal_61.png,3,30,#totalJump,N,LESS,0,1,NORMAL,1play,1,1508201,S,0,50203003
+AFTER_PLAY,Gather 7 Silver Coins max,,502,7,0,32,event_various_game.plist,event_game_goal_77.png,1,31,#silverCoinJelly,N,LESS,0,1,NORMAL,1play,2,,K,0,50203101
+AFTER_PLAY,"Gather 3,660 Coins",questIsFinished(50203101),502,3660,0,22,event_various_game.plist,event_game_goal_02.png,2,31,#pureCoin,N,SET,0,1,NORMAL,1play,900,,P,0,50203102
+AFTER_PLAY,Gather 550 Coins max,questIsFinished(50203102),502,550,0,22,event_various_game.plist,event_game_goal_60.png,3,31,#pureCoin,N,LESS,0,1,NORMAL,1play,8000,,C,0,50203103
+AFTER_PLAY,Crush 170 obstacles,,502,170,0,12,event_various_game.plist,event_game_goal_14.png,1,32,#destroyObstacle,N,SET,0,1,NORMAL,1play,8000,,C,0,50203201
+AFTER_PLAY,Run at least 50 seconds,questIsFinished(50203201),502,50,0,19,event_various_game.plist,event_game_goal_07.png,2,32,#runningPlayTime,N,SET,0,1,NORMAL,1play,1,80001,S,0,50203202
+AFTER_PLAY,Gather 135 Yellow Bear Jellies,questIsFinished(50203202),502,135,0,8,event_various_game.plist,event_game_goal_10.png,3,32,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50203203
+AFTER_PLAY,"Gather 1,300 Jellies in Bonus Time",,502,1300,0,42,event_various_game.plist,event_game_goal_29.png,1,33,#jellyCountInBonusTime,N,SET,0,1,NORMAL,1play,20,,L,0,50203301
+AFTER_PLAY,"Gather 1,600 Jellies in Bonus Time",questIsFinished(50203301),502,1600,0,42,event_various_game.plist,event_game_goal_29.png,2,33,#jellyCountInBonusTime,N,SET,0,1,NORMAL,1play,2,,G,0,50203302
+AFTER_PLAY,"Gather 1,300 Coins",questIsFinished(50203302),502,1300,0,22,event_various_game.plist,event_game_goal_02.png,3,33,#pureCoin,N,SET,0,1,NORMAL,1play,1000,,P,0,50203303
+AFTER_PLAY,Double Jump 34 times,,502,34,0,3,event_various_game.plist,event_game_goal_04.png,1,34,#doubleJump,N,SET,0,1,NORMAL,1play,1,80001,S,0,50203401
+AFTER_PLAY,Gather 18 Gold Coins,questIsFinished(50203401),502,18,2,777,event_various_game.plist,event_game_goal_23.png,2,34,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,9000,,C,0,50203402
+AFTER_PLAY,Single Jump 105 times,questIsFinished(50203402),502,105,0,2,event_various_game.plist,event_game_goal_46.png,3,34,#jump,N,SET,0,1,NORMAL,1play,3,,G,0,50203403
+AFTER_PLAY,"Gather 1,500 Colorful Star Jellies",,502,1500,2,1002,event_various_game.plist,event_game_goal_57.png,1,35,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,130,,A,0,50203501
+AFTER_PLAY,Gather 1650 Colorful Star Jellies,questIsFinished(50203501),502,1650,2,1002,event_various_game.plist,event_game_goal_57.png,2,35,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50203502
+AFTER_PLAY,Gather 42 Silver Coins,questIsFinished(50203502),502,42,0,32,event_various_game.plist,event_game_goal_52.png,3,35,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1000,,P,0,50203503
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,36,#PassedIceDoor,N,SET,0,1,NORMAL,1play,700,,P,0,50203601
+AFTER_PLAY,Gather 900 Frozen Bear Jellies,questIsFinished(50203601),502,900,1,506,event_various_game.plist,event_game_goal_86.png,2,36,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50203602
+AFTER_PLAY,Gather 945 basic Jellies,questIsFinished(50203602),502,945,1,500,event_various_game.plist,event_game_goal_88.png,3,36,#jelly_500_GetCount,N,SET,0,1,NORMAL,1play,3,,G,0,50203603
+AFTER_PLAY,Crush 175 obstacles,,502,175,0,12,event_various_game.plist,event_game_goal_14.png,1,37,#destroyObstacle,N,SET,0,1,NORMAL,1play,8000,,C,0,50203701
+AFTER_PLAY,Gather 580 Frozen Bear Jellies,questIsFinished(50203701),502,580,1,506,event_various_game.plist,event_game_goal_86.png,2,37,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,2,,K,0,50203702
+AFTER_PLAY,Single Jump 120 times,questIsFinished(50203702),502,120,0,2,event_various_game.plist,event_game_goal_46.png,3,37,#jump,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50203703
+AFTER_PLAY,Gather 150 Silver Coins,,502,150,0,32,event_various_game.plist,event_game_goal_52.png,1,38,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1,,G,0,50203801
+AFTER_PLAY,Run at least 56 seconds,questIsFinished(50203801),502,56,0,19,event_various_game.plist,event_game_goal_07.png,2,38,#runningPlayTime,N,SET,0,1,NORMAL,1play,9000,,C,0,50203802
+AFTER_PLAY,Crush 2 obstacles max,questIsFinished(50203802),502,2,0,12,event_various_game.plist,event_game_goal_70.png,3,38,#destroyObstacle,N,LESS,0,1,NORMAL,1play,1,853,S,0,50203803
+AFTER_PLAY,Run into 1 obstacle max,,502,1,0,14,event_various_game.plist,event_game_goal_72.png,1,39,#collision,N,LESS,0,1,NORMAL,1play,1,1700201,S,0,50203901
+AFTER_PLAY,Gather 160 Frozen Bear Jellies,questIsFinished(50203901),502,160,1,506,event_various_game.plist,event_game_goal_86.png,2,39,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,130,,A,0,50203902
+AFTER_PLAY,Gather 897 Jellies,questIsFinished(50203902),502,897,0,6,event_various_game.plist,event_game_goal_09.png,3,39,#jellyCount,N,SET,0,1,NORMAL,1play,3,,G,0,50203903
+AFTER_PLAY,Don't go to Bonus Time,,502,0,0,18,event_various_game.plist,event_game_goal_63.png,1,40,#enterBonusTime,N,LESS,0,1,NORMAL,1play,10,,G,0,50204001
+AFTER_PLAY,Gather 400 Alphabet Jellies,questIsFinished(50204001),502,400,0,45,event_various_game.plist,event_game_goal_32.png,2,40,#alphabetJellyCount,N,SET,0,1,NORMAL,1play,1,80003,S,0,50204002
+AFTER_PLAY,"Gather 4,400 Coins",questIsFinished(50204002),502,4400,0,22,event_various_game.plist,event_game_goal_02.png,3,40,#pureCoin,N,SET,0,1,NORMAL,1play,1,1508401,S,0,50204003
+AFTER_PLAY,Gather 777 Silver Coins,,502,777,0,32,event_various_game.plist,event_game_goal_52.png,1,41,#silverCoinJelly,N,SET,0,1,NORMAL,1play,700,,P,0,50204101
+AFTER_PLAY,Slide for 65 seconds,questIsFinished(50204101),502,65,0,5,event_various_game.plist,event_game_goal_05.png,2,41,#slideTime,N,SET,0,1,NORMAL,1play,1,2201,S,0,50204102
+AFTER_PLAY,Gather 290 Gold Coins,questIsFinished(50204102),502,290,2,777,event_various_game.plist,event_game_goal_23.png,3,41,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,10000,,C,0,50204103
+AFTER_PLAY,Single Jump 110 times,,502,110,0,2,event_various_game.plist,event_game_goal_46.png,1,42,#jump,N,SET,0,1,NORMAL,1play,8000,,C,0,50204201
+AFTER_PLAY,Double Jump 72 times,questIsFinished(50204201),502,72,0,3,event_various_game.plist,event_game_goal_04.png,2,42,#doubleJump,N,SET,0,1,NORMAL,1play,20,,L,0,50204202
+AFTER_PLAY,Clear within 73 seconds,questIsFinished(50204202),502,73,0,19,event_various_game.plist,event_game_goal_64.png,3,42,#runningPlayTime,N,LESS,0,1,NORMAL,1play,3,,G,0,50204203
+AFTER_PLAY,Fall into pits 1 time max,,502,1,0,16,event_various_game.plist,event_game_goal_74.png,1,43,#fallToHole,N,LESS,0,1,NORMAL,1play,140,,A,0,50204301
+AFTER_PLAY,Gather 123 Frozen Bear Jellies,questIsFinished(50204301),502,123,1,506,event_various_game.plist,event_game_goal_86.png,2,43,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,2,,K,0,50204302
+AFTER_PLAY,Double Jump 61 times,questIsFinished(50204302),502,61,0,3,event_various_game.plist,event_game_goal_04.png,3,43,#doubleJump,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50204303
+AFTER_PLAY,"Gather 1,200 Winged Jellies",,502,1200,2,1004,event_various_game.plist,event_game_goal_28.png,1,44,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50204401
+AFTER_PLAY,"Gather 1,500 Jellies",questIsFinished(50204401),502,1500,0,6,event_various_game.plist,event_game_goal_09.png,2,44,#jellyCount,N,SET,0,1,NORMAL,1play,1000,,P,0,50204402
+AFTER_PLAY,"Gather 1,000 Yellow Bear Jellies",questIsFinished(50204402),502,1000,0,8,event_various_game.plist,event_game_goal_10.png,3,44,#yellowBearJelly,N,SET,0,1,NORMAL,1play,3,,G,0,50204403
+AFTER_PLAY,Gather 700 Yellow Bear Jellies,,502,700,0,8,event_various_game.plist,event_game_goal_10.png,1,45,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,832,GPS,0,50204501
+AFTER_PLAY,Clear within 56 seconds,questIsFinished(50204501),502,56,0,19,event_various_game.plist,event_game_goal_64.png,2,45,#runningPlayTime,N,LESS,0,1,NORMAL,1play,2,,G,0,50204502
+AFTER_PLAY,Double Jump 70 times,questIsFinished(50204502),502,70,0,3,event_various_game.plist,event_game_goal_04.png,3,45,#doubleJump,N,SET,0,1,NORMAL,1play,1,80003,S,0,50204503
+AFTER_PLAY,Get 1 Pit Lift,,502,1,0,17,event_various_game.plist,event_game_goal_19.png,1,46,#reviveAfterFalling,N,SET,0,1,NORMAL,1play,140,,A,0,50204601
+AFTER_PLAY,Gather 40 Pink Bear Jellies,questIsFinished(50204601),502,40,0,9,event_various_game.plist,event_game_goal_11.png,2,46,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50204602
+AFTER_PLAY,Get 3 Pit Lifts,questIsFinished(50204602),502,3,0,17,event_various_game.plist,event_game_goal_19.png,3,46,#reviveAfterFalling,N,SET,0,1,NORMAL,1play,1000,,P,0,50204603
+AFTER_PLAY,Run into 2 obstacles max,,502,2,0,14,event_various_game.plist,event_game_goal_72.png,1,47,#collision,N,LESS,0,1,NORMAL,1play,1,80001,S,0,50204701
+AFTER_PLAY,Gather 112 Pink Bear Jellies,questIsFinished(50204701),502,112,0,9,event_various_game.plist,event_game_goal_11.png,2,47,#pinkBearJelly,N,SET,0,1,NORMAL,1play,9000,,C,0,50204702
+AFTER_PLAY,Double Jump 1 time max,questIsFinished(50204702),502,1,0,3,event_various_game.plist,event_game_goal_04.png,3,47,#doubleJump,N,LESS,0,1,NORMAL,1play,3,,G,0,50204703
+AFTER_PLAY,Crush 90 obstacles,,502,90,0,12,event_various_game.plist,event_game_goal_14.png,1,48,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,,G,0,50204801
+AFTER_PLAY,"Gather 2,000 Coins",questIsFinished(50204801),502,2000,0,22,event_various_game.plist,event_game_goal_02.png,2,48,#pureCoin,N,SET,0,1,NORMAL,1play,1000,,P,0,50204802
+AFTER_PLAY,Crush 216 obstacles,questIsFinished(50204802),502,216,0,12,event_various_game.plist,event_game_goal_14.png,3,48,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,832,GPS,0,50204803
+AFTER_PLAY,Gather no Giant HP Potions,,502,0,0,11,event_various_game.plist,event_game_goal_69.png,1,49,#largeEnergyJelly,N,LESS,0,1,NORMAL,1play,800,,P,0,50204901
+AFTER_PLAY,Run into 7 obstacles max,questIsFinished(50204901),502,7,0,14,event_various_game.plist,event_game_goal_16.png,2,49,#collision,N,SET,0,1,NORMAL,1play,1,80002,S,0,50204902
+AFTER_PLAY,"Gather 1,770 Coins",questIsFinished(50204902),502,1770,0,22,event_various_game.plist,event_game_goal_02.png,3,49,#pureCoin,N,SET,0,1,NORMAL,1play,3,,G,0,50204903
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,50,#PassedIceDoor,N,SET,0,1,NORMAL,1play,10,,G,0,50205001
+AFTER_PLAY,Gather 35 Giant Bear Jellies,questIsFinished(50205001),502,35,0,10,event_various_game.plist,event_game_goal_12.png,2,50,#kingBearJelly,N,SET,0,1,NORMAL,1play,3,834,GPS,0,50205002
+AFTER_PLAY,Gather 800 Frozen Bear Jellies,questIsFinished(50205002),502,800,1,506,event_various_game.plist,event_game_goal_86.png,3,50,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1,80004,S,0,50205003
+AFTER_PLAY,Crush 173 obstacles,,502,173,0,12,event_various_game.plist,event_game_goal_14.png,1,51,#destroyObstacle,N,SET,0,1,NORMAL,1play,2,,G,0,50205101
+AFTER_PLAY,Gather 815 Jellies,questIsFinished(50205101),502,815,0,6,event_various_game.plist,event_game_goal_09.png,2,51,#jellyCount,N,SET,0,1,NORMAL,1play,2,,K,0,50205102
+AFTER_PLAY,Gather 25 Giant Bear Jellies,questIsFinished(50205102),502,25,0,10,event_various_game.plist,event_game_goal_12.png,3,51,#kingBearJelly,N,SET,0,1,NORMAL,1play,5000,,C,0,50205103
+AFTER_PLAY,"Gather 3,900 Coins",,502,3900,0,22,event_various_game.plist,event_game_goal_02.png,1,52,#pureCoin,N,SET,0,1,NORMAL,1play,1,80002,S,0,50205201
+AFTER_PLAY,Gather 340 Silver Coins,questIsFinished(50205201),502,340,0,32,event_various_game.plist,event_game_goal_52.png,2,52,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50205202
+AFTER_PLAY,Gather 70 Jellies max,questIsFinished(50205202),502,70,0,6,event_various_game.plist,event_game_goal_65.png,3,52,#jellyCount,N,LESS,0,1,NORMAL,1play,500,,P,0,50205203
+AFTER_PLAY,Run at least 50 seconds,,502,50,0,19,event_various_game.plist,event_game_goal_07.png,1,53,#runningPlayTime,N,SET,0,1,NORMAL,1play,6000,,C,0,50205301
+AFTER_PLAY,Crush 100 obstacles,questIsFinished(50205301),502,100,0,12,event_various_game.plist,event_game_goal_14.png,2,53,#destroyObstacle,N,SET,0,1,NORMAL,1play,2,,K,0,50205302
+AFTER_PLAY,Gather 146 Frozen Bear Jellies,questIsFinished(50205302),502,146,1,506,event_various_game.plist,event_game_goal_86.png,3,53,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,3,,G,0,50205303
+AFTER_PLAY,Run into no obstacles,,502,0,0,14,event_various_game.plist,event_game_goal_72.png,1,54,#collision,N,LESS,0,1,NORMAL,1play,9000,,C,0,50205401
+AFTER_PLAY,Gather 600 Yellow Bear Jellies,questIsFinished(50205401),502,600,0,8,event_various_game.plist,event_game_goal_10.png,2,54,#yellowBearJelly,N,SET,0,1,NORMAL,1play,600,,P,0,50205402
+AFTER_PLAY,"Gather 2,100 Coins",questIsFinished(50205402),502,2100,0,22,event_various_game.plist,event_game_goal_02.png,3,54,#pureCoin,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50205403
+AFTER_PLAY,Gather 200 Pink Bear Jellies,,502,200,0,9,event_various_game.plist,event_game_goal_11.png,1,55,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50205501
+AFTER_PLAY,Gather 230 Yellow Bear Jellies,questIsFinished(50205501),502,230,0,8,event_various_game.plist,event_game_goal_10.png,2,55,#yellowBearJelly,N,SET,0,1,NORMAL,1play,9000,,C,0,50205502
+AFTER_PLAY,Gather 24 Winged Jellies,questIsFinished(50205502),502,24,2,1004,event_various_game.plist,event_game_goal_28.png,3,55,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,200,,A,0,50205503
+AFTER_PLAY,"Gather 1,330 Bear Jellies",,502,1330,0,7,event_various_game.plist,event_game_goal_48.png,1,56,#bearJelly,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50205601
+AFTER_PLAY,Single Jump 100 times,questIsFinished(50205601),502,100,0,2,event_various_game.plist,event_game_goal_46.png,2,56,#jump,N,SET,0,1,NORMAL,1play,700,,P,0,50205602
+AFTER_PLAY,"Gather 1,100 Yellow Bear Jellies",questIsFinished(50205602),502,1100,0,8,event_various_game.plist,event_game_goal_10.png,3,56,#yellowBearJelly,N,SET,0,1,NORMAL,1play,9000,,C,0,50205603
+AFTER_PLAY,Run into 1 obstacle max,,502,1,0,14,event_various_game.plist,event_game_goal_72.png,1,57,#collision,N,LESS,0,1,NORMAL,1play,2,,G,0,50205701
+AFTER_PLAY,Gather 82 Gold Coins,questIsFinished(50205701),502,82,2,777,event_various_game.plist,event_game_goal_23.png,2,57,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,700,,P,0,50205702
+AFTER_PLAY,Gather 400 Jellies max,questIsFinished(50205702),502,400,0,6,event_various_game.plist,event_game_goal_65.png,3,57,#jellyCount,N,LESS,0,1,NORMAL,1play,200,,A,0,50205703
+AFTER_PLAY,"Gather 2,000 Jellies",,502,2000,0,6,event_various_game.plist,event_game_goal_09.png,1,58,#jellyCount,N,SET,0,1,NORMAL,1play,3,,G,0,50205801
+AFTER_PLAY,Spend 13 seconds in Bonus Time,questIsFinished(50205801),502,13,0,20,event_various_game.plist,event_game_goal_08.png,2,58,#bonusTimePlayTime,N,SET,0,1,NORMAL,1play,1,80002,S,0,50205802
+AFTER_PLAY,Run into 8 obstacles max,questIsFinished(50205802),502,8,0,14,event_various_game.plist,event_game_goal_16.png,3,58,#collision,N,SET,0,1,NORMAL,1play,700,,P,0,50205803
+AFTER_PLAY,Fall into pits 1 time max,,502,1,0,16,event_various_game.plist,event_game_goal_74.png,1,59,#fallToHole,N,LESS,0,1,NORMAL,1play,1,853,S,0,50205901
+AFTER_PLAY,"Gather 1,600 Jellies",questIsFinished(50205901),502,1600,0,6,event_various_game.plist,event_game_goal_09.png,2,59,#jellyCount,N,SET,0,1,NORMAL,1play,8000,,C,0,50205902
+AFTER_PLAY,Slide for 45 seconds,questIsFinished(50205902),502,45,0,5,event_various_game.plist,event_game_goal_05.png,3,59,#slideTime,N,SET,0,1,NORMAL,1play,3,,K,0,50205903
+AFTER_PLAY,Gather 300 Coins,,502,300,0,35,event_various_game.plist,event_game_goal_53.png,1,60,#CoinJellyTotal,N,SET,0,1,NORMAL,1play,1,80003,S,0,50206001
+AFTER_PLAY,Gather 30 Giant Bear Jellies,questIsFinished(50206001),502,30,0,10,event_various_game.plist,event_game_goal_12.png,2,60,#kingBearJelly,N,SET,0,1,NORMAL,1play,1,832,GPS,0,50206002
+AFTER_PLAY,Gather 260 Yellow Bear Jellies,questIsFinished(50206002),502,260,0,8,event_various_game.plist,event_game_goal_10.png,3,60,#yellowBearJelly,N,SET,0,1,NORMAL,1play,7,,G,0,50206003
+AFTER_PLAY,"Gather 1,350 Coins",,502,1350,0,22,event_various_game.plist,event_game_goal_02.png,1,61,#pureCoin,N,SET,0,1,NORMAL,1play,1,80001,S,0,50206101
+AFTER_PLAY,Gather 250 Pink Bear Jellies,questIsFinished(50206101),502,250,0,9,event_various_game.plist,event_game_goal_11.png,2,61,#pinkBearJelly,N,SET,0,1,NORMAL,1play,7000,,C,0,50206102
+AFTER_PLAY,Gather 370 Yellow Bear Jellies,questIsFinished(50206102),502,370,0,8,event_various_game.plist,event_game_goal_10.png,3,61,#yellowBearJelly,N,SET,0,1,NORMAL,1play,100,,A,0,50206103
+AFTER_PLAY,Run into 3 obstacles max,,502,3,0,14,event_various_game.plist,event_game_goal_72.png,1,62,#collision,N,LESS,0,1,NORMAL,1play,3,,G,0,50206201
+AFTER_PLAY,Gather 499 Frozen Bear Jellies,questIsFinished(50206201),502,499,1,506,event_various_game.plist,event_game_goal_86.png,2,62,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1,80001,S,0,50206202
+AFTER_PLAY,Single Jump 83 times,questIsFinished(50206202),502,83,0,2,event_various_game.plist,event_game_goal_46.png,3,62,#jump,N,SET,0,1,NORMAL,1play,700,,P,0,50206203
+AFTER_PLAY,Gather 77 Winged Jellies,,502,77,2,1004,event_various_game.plist,event_game_goal_28.png,1,63,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50206301
+AFTER_PLAY,Gather 110 Pink Bear Jellies,questIsFinished(50206301),502,110,0,9,event_various_game.plist,event_game_goal_11.png,2,63,#pinkBearJelly,N,SET,0,1,NORMAL,1play,3,,G,0,50206302
+AFTER_PLAY,Gather 380 Frozen Bear Jellies,questIsFinished(50206302),502,380,1,506,event_various_game.plist,event_game_goal_86.png,3,63,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,700,,P,0,50206303
+AFTER_PLAY,Crush 250 obstacles,,502,250,0,12,event_various_game.plist,event_game_goal_14.png,1,64,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50206401
+AFTER_PLAY,Gather 100 Yellow Bear Jellies,questIsFinished(50206401),502,100,0,8,event_various_game.plist,event_game_goal_10.png,2,64,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,853,S,0,50206402
+AFTER_PLAY,Gather 42 Gold Coins,questIsFinished(50206402),502,42,2,777,event_various_game.plist,event_game_goal_23.png,3,64,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,200,,A,0,50206403
+AFTER_PLAY,"Gather 1,900 Coins",,502,1900,0,22,event_various_game.plist,event_game_goal_02.png,1,65,#pureCoin,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50206501
+AFTER_PLAY,Gather 200 Yellow Bear Jellies,questIsFinished(50206501),502,200,0,8,event_various_game.plist,event_game_goal_10.png,2,65,#yellowBearJelly,N,SET,0,1,NORMAL,1play,9000,,C,0,50206502
+AFTER_PLAY,Gather 160 Pink Bear Jellies,questIsFinished(50206502),502,160,0,9,event_various_game.plist,event_game_goal_11.png,3,65,#pinkBearJelly,N,SET,0,1,NORMAL,1play,700,,P,0,50206503
+AFTER_PLAY,Pass through 105 obstacles,,502,105,0,13,event_various_game.plist,event_game_goal_15.png,1,66,#passThroughObstacle,N,SET,0,1,NORMAL,1play,1,80003,S,0,50206601
+AFTER_PLAY,Gather 12 Colorful Star Jellies,questIsFinished(50206601),502,12,2,1002,event_various_game.plist,event_game_goal_57.png,2,66,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,3,,G,0,50206602
+AFTER_PLAY,Clear within 60 seconds,questIsFinished(50206602),502,60,0,19,event_various_game.plist,event_game_goal_64.png,3,66,#runningPlayTime,N,LESS,0,1,NORMAL,1play,700,,P,0,50206603
+AFTER_PLAY,Gather 240 Winged Jellies,,502,240,2,1004,event_various_game.plist,event_game_goal_28.png,1,67,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50206701
+AFTER_PLAY,Double Jump 95 times,questIsFinished(50206701),502,95,0,3,event_various_game.plist,event_game_goal_04.png,2,67,#doubleJump,N,SET,0,1,NORMAL,1play,10000,,C,0,50206702
+AFTER_PLAY,Gather 7 Pink Bear Jellies max,questIsFinished(50206702),502,7,0,9,event_various_game.plist,event_game_goal_67.png,3,67,#pinkBearJelly,N,LESS,0,1,NORMAL,1play,1,853,S,0,50206703
+AFTER_PLAY,Gather 125 Yellow Bear Jellies,,502,125,0,8,event_various_game.plist,event_game_goal_10.png,1,68,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,80001,S,0,50206801
+AFTER_PLAY,Gather 140 Pink Bear Jellies,questIsFinished(50206801),502,140,0,9,event_various_game.plist,event_game_goal_11.png,2,68,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50206802
+AFTER_PLAY,"Gather 3,200 Coins",questIsFinished(50206802),502,3200,0,22,event_various_game.plist,event_game_goal_02.png,3,68,#pureCoin,N,SET,0,1,NORMAL,1play,700,,P,0,50206803
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,69,#PassedIceDoor,N,SET,0,1,NORMAL,1play,2,,G,0,50206901
+AFTER_PLAY,Gather 670 Yellow Bear Jellies,questIsFinished(50206901),502,670,0,8,event_various_game.plist,event_game_goal_10.png,2,69,#yellowBearJelly,N,SET,0,1,NORMAL,1play,3,,K,0,50206902
+AFTER_PLAY,Get 6 Pit Lifts,questIsFinished(50206902),502,6,0,17,event_various_game.plist,event_game_goal_19.png,3,69,#reviveAfterFalling,N,SET,0,1,NORMAL,1play,800,,P,0,50206903
+AFTER_PLAY,Run into 5 obstacles max,,502,5,0,14,event_various_game.plist,event_game_goal_72.png,1,70,#collision,N,LESS,0,1,NORMAL,1play,1,80004,S,0,50207001
+AFTER_PLAY,Gather 830 Frozen Bear Jellies,questIsFinished(50207001),502,830,1,506,event_various_game.plist,event_game_goal_86.png,2,70,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,3,834,GPS,0,50207002
+AFTER_PLAY,Gather 45 Giant Bear Jellies,questIsFinished(50207002),502,45,0,10,event_various_game.plist,event_game_goal_12.png,3,70,#kingBearJelly,N,SET,0,1,NORMAL,1play,10,,G,0,50207003
+AFTER_PLAY,Let the Pet Gather 1050 Jellies,,502,1050,0,40,event_various_game.plist,event_game_goal_27.png,1,71,#jellyCountByPet,N,SET,0,1,NORMAL,1play,3,,G,0,50207101
+AFTER_PLAY,Slide and get up 260 times,questIsFinished(50207101),502,260,0,31,event_various_game.plist,event_game_goal_21.png,2,71,#slideUpCount,N,SET,0,1,NORMAL,1play,2,,K,0,50207102
+AFTER_PLAY,"Gather 3,000 Coins",questIsFinished(50207102),502,3000,0,22,event_various_game.plist,event_game_goal_02.png,3,71,#pureCoin,N,SET,0,1,NORMAL,1play,1,80002,S,0,50207103
+AFTER_PLAY,Run at least 55 seconds,,502,55,0,19,event_various_game.plist,event_game_goal_07.png,1,72,#runningPlayTime,N,SET,0,1,NORMAL,1play,1,1508301,S,0,50207201
+AFTER_PLAY,Double Jump 55 times,questIsFinished(50207201),502,55,0,3,event_various_game.plist,event_game_goal_04.png,2,72,#doubleJump,N,SET,0,1,NORMAL,1play,1,80001,S,0,50207202
+AFTER_PLAY,Gather 107 Colorful Star Jellies,questIsFinished(50207202),502,107,2,1002,event_various_game.plist,event_game_goal_57.png,3,72,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,10000,,C,0,50207203
+AFTER_PLAY,Clear within 58 seconds,,502,58,0,19,event_various_game.plist,event_game_goal_64.png,1,73,#runningPlayTime,N,LESS,0,1,NORMAL,1play,200,,A,0,50207301
+AFTER_PLAY,Gather 183 Silver Coins,questIsFinished(50207301),502,183,0,32,event_various_game.plist,event_game_goal_52.png,2,73,#silverCoinJelly,N,SET,0,1,NORMAL,1play,1,80001,S,0,50207302
+AFTER_PLAY,Crush 7 obstacles max,questIsFinished(50207302),502,7,0,12,event_various_game.plist,event_game_goal_70.png,3,73,#destroyObstacle,N,LESS,0,1,NORMAL,1play,800,,P,0,50207303
+AFTER_PLAY,Gather 65 Gold Coins,,502,65,2,777,event_various_game.plist,event_game_goal_23.png,1,74,#jellyMagicStat_777_GetCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50207401
+AFTER_PLAY,Gather 50 Coins max,questIsFinished(50207401),502,50,0,22,event_various_game.plist,event_game_goal_60.png,2,74,#pureCoin,N,LESS,0,1,NORMAL,1play,10000,,C,0,50207402
+AFTER_PLAY,"Gather 1,000 Jellies",questIsFinished(50207402),502,1000,0,6,event_various_game.plist,event_game_goal_09.png,3,74,#jellyCount,N,SET,0,1,NORMAL,1play,5,,G,0,50207403
+AFTER_PLAY,Crush 90 obstacles,,502,90,0,12,event_various_game.plist,event_game_goal_14.png,1,75,#destroyObstacle,N,SET,0,1,NORMAL,1play,2,80002,S,0,50207501
+AFTER_PLAY,Slide and get up 180 times,questIsFinished(50207501),502,180,0,31,event_various_game.plist,event_game_goal_21.png,2,75,#slideUpCount,N,SET,0,1,NORMAL,1play,1,80002,S,0,50207502
+AFTER_PLAY,Gather 420 Yellow Bear Jellies,questIsFinished(50207502),502,420,0,8,event_various_game.plist,event_game_goal_10.png,3,75,#yellowBearJelly,N,SET,0,1,NORMAL,1play,900,,P,0,50207503
+AFTER_PLAY,Fall into pits 3 times max,,502,3,0,16,event_various_game.plist,event_game_goal_74.png,1,76,#fallToHole,N,LESS,0,1,NORMAL,1play,2,,K,0,50207601
+AFTER_PLAY,Gather 317 Pink Bear Jellies,questIsFinished(50207601),502,317,0,9,event_various_game.plist,event_game_goal_11.png,2,76,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,1700201,S,0,50207602
+AFTER_PLAY,"Gather 2,000 Coins",questIsFinished(50207602),502,2000,0,22,event_various_game.plist,event_game_goal_02.png,3,76,#pureCoin,N,SET,0,1,NORMAL,1play,1000,,P,0,50207603
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,77,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,80001,S,0,50207701
+AFTER_PLAY,Fall into pits 1 time max,questIsFinished(50207701),502,1,0,16,event_various_game.plist,event_game_goal_74.png,2,77,#fallToHole,N,LESS,0,1,NORMAL,1play,1,1700301,S,0,50207702
+AFTER_PLAY,"Gather 4,000 Coins",questIsFinished(50207702),502,4000,0,22,event_various_game.plist,event_game_goal_02.png,3,77,#pureCoin,N,SET,0,1,NORMAL,1play,10000,,C,0,50207703
+AFTER_PLAY,Fall into pits 2 times max,,502,2,0,16,event_various_game.plist,event_game_goal_74.png,1,78,#fallToHole,N,LESS,0,1,NORMAL,1play,3,,G,0,50207801
+AFTER_PLAY,Gather 9 Colorful Star Jelly Party,questIsFinished(50207801),502,9,2,1003,event_various_game.plist,event_game_goal_20.png,2,78,#jellyMagicStat_1003_GetCount,N,SET,0,1,NORMAL,1play,30,,L,0,50207802
+AFTER_PLAY,Gather 430 Frozen Bear Jellies,questIsFinished(50207802),502,430,1,506,event_various_game.plist,event_game_goal_86.png,3,78,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1000,,P,0,50207803
+AFTER_PLAY,"Gather 2,900 Jellies",,502,2900,0,6,event_various_game.plist,event_game_goal_09.png,1,79,#jellyCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50207901
+AFTER_PLAY,Gather 150 Jellies max,questIsFinished(50207901),502,150,0,6,event_various_game.plist,event_game_goal_65.png,2,79,#jellyCount,N,LESS,0,1,NORMAL,1play,1,80002,S,0,50207902
+AFTER_PLAY,Clear within 67 seconds,questIsFinished(50207902),502,67,0,19,event_various_game.plist,event_game_goal_64.png,3,79,#runningPlayTime,N,LESS,0,1,NORMAL,1play,5,,G,0,50207903
+AFTER_PLAY,Run into 5 obstacles max,,502,5,0,14,event_various_game.plist,event_game_goal_72.png,1,80,#collision,N,LESS,0,1,NORMAL,1play,1,80003,S,0,50208001
+AFTER_PLAY,Gather 19 Giant Bear Jellies,questIsFinished(50208001),502,19,0,10,event_various_game.plist,event_game_goal_12.png,2,80,#kingBearJelly,N,SET,0,1,NORMAL,1play,3,834,GPS,0,50208002
+AFTER_PLAY,Gather 610 Pink Bear Jellies,questIsFinished(50208002),502,610,0,9,event_various_game.plist,event_game_goal_11.png,3,80,#pinkBearJelly,N,SET,0,1,NORMAL,1play,5,,G,0,50208003
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,81,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,1700401,S,0,50208101
+AFTER_PLAY,Gather 490 Alphabet Jellies,questIsFinished(50208101),502,490,0,45,event_various_game.plist,event_game_goal_32.png,2,81,#alphabetJellyCount,N,SET,0,1,NORMAL,1play,10000,,C,0,50208102
+AFTER_PLAY,Jump 50 times max,questIsFinished(50208102),502,50,0,1,event_various_game.plist,event_game_goal_61.png,3,81,#totalJump,N,LESS,0,1,NORMAL,1play,30,,L,0,50208103
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,82,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,853,S,0,50208201
+AFTER_PLAY,Run into 1 obstacle max,questIsFinished(50208201),502,1,0,14,event_various_game.plist,event_game_goal_72.png,2,82,#collision,N,LESS,0,1,NORMAL,1play,1,80003,S,0,50208202
+AFTER_PLAY,Gather 34 Silver Coins max,questIsFinished(50208202),502,34,0,32,event_various_game.plist,event_game_goal_77.png,3,82,#silverCoinJelly,N,LESS,0,1,NORMAL,1play,1000,,P,0,50208203
+AFTER_PLAY,Gather 200 Yellow Bear Jellies max,,502,200,0,8,event_various_game.plist,event_game_goal_66.png,1,83,#yellowBearJelly,N,LESS,0,1,NORMAL,1play,5,,G,0,50208301
+AFTER_PLAY,"Gather 3,070 Coins",questIsFinished(50208301),502,3070,0,22,event_various_game.plist,event_game_goal_02.png,2,83,#pureCoin,N,SET,0,1,NORMAL,1play,5,,K,0,50208302
+AFTER_PLAY,"Gather 1,260 Yellow Bear Jellies",questIsFinished(50208302),502,1260,0,8,event_various_game.plist,event_game_goal_10.png,3,83,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,1700501,S,0,50208303
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,84,#PassedIceDoor,N,SET,0,1,NORMAL,1play,10000,,C,0,50208401
+AFTER_PLAY,Clear within 62 seconds,questIsFinished(50208401),502,62,0,19,event_various_game.plist,event_game_goal_64.png,2,84,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,1700401,S,0,50208402
+AFTER_PLAY,Gather 40 Yellow Bear Jellies max,questIsFinished(50208402),502,40,0,8,event_various_game.plist,event_game_goal_66.png,3,84,#yellowBearJelly,N,LESS,0,1,NORMAL,1play,1,853,S,0,50208403
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,85,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,80004,S,0,50208501
+AFTER_PLAY,Gather 30 Giant Bear Jellies,questIsFinished(50208501),502,30,0,10,event_various_game.plist,event_game_goal_12.png,2,85,#kingBearJelly,N,SET,0,1,NORMAL,1play,3,834,GPS,0,50208502
+AFTER_PLAY,Gather 600 Frozen Bear Jellies,questIsFinished(50208502),502,600,1,506,event_various_game.plist,event_game_goal_86.png,3,85,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,10,,G,0,50208503
+AFTER_PLAY,Gather 400 Yellow Bear Jellies,,502,400,0,8,event_various_game.plist,event_game_goal_10.png,1,86,#yellowBearJelly,N,SET,0,1,NORMAL,1play,5,,G,0,50208601
+AFTER_PLAY,Gather 165 Pink Bear Jellies,questIsFinished(50208601),502,165,0,9,event_various_game.plist,event_game_goal_11.png,2,86,#pinkBearJelly,N,SET,0,1,NORMAL,1play,3,,K,0,50208602
+AFTER_PLAY,Double Jump 66 times,questIsFinished(50208602),502,66,0,3,event_various_game.plist,event_game_goal_04.png,3,86,#doubleJump,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50208603
+AFTER_PLAY,"Gather 2,000 Jellies",,502,2000,0,6,event_various_game.plist,event_game_goal_09.png,1,87,#jellyCount,N,SET,0,1,NORMAL,1play,3,,K,0,50208701
+AFTER_PLAY,Gather 135 Colorful Star Jellies max,questIsFinished(50208701),502,135,2,1002,event_various_game.plist,event_game_goal_92.png,2,87,#jellyMagicStat_1002_GetCount,N,LESS,0,1,NORMAL,1play,12000,,C,0,50208702
+AFTER_PLAY,Gather 150 Coins max,questIsFinished(50208702),502,150,0,22,event_various_game.plist,event_game_goal_60.png,3,87,#pureCoin,N,LESS,0,1,NORMAL,1play,2,80002,S,0,50208703
+AFTER_PLAY,Crush 350 obstacles,,502,350,0,12,event_various_game.plist,event_game_goal_14.png,1,88,#destroyObstacle,N,SET,0,1,NORMAL,1play,1,1700301,S,0,50208801
+AFTER_PLAY,Gather 900 Jellies,questIsFinished(50208801),502,900,0,6,event_various_game.plist,event_game_goal_09.png,2,88,#jellyCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50208802
+AFTER_PLAY,Crush 25 obstacles max,questIsFinished(50208802),502,25,0,12,event_various_game.plist,event_game_goal_70.png,3,88,#destroyObstacle,N,LESS,0,1,NORMAL,1play,50,,L,0,50208803
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,89,#PassedIceDoor,N,SET,0,1,NORMAL,1play,3,,K,0,50208901
+AFTER_PLAY,Gather 440 Yellow Bear Jellies,questIsFinished(50208901),502,440,0,8,event_various_game.plist,event_game_goal_10.png,2,89,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,1700401,S,0,50208902
+AFTER_PLAY,Pass through 220 obstacles,questIsFinished(50208902),502,220,0,13,event_various_game.plist,event_game_goal_15.png,3,89,#passThroughObstacle,N,SET,0,1,NORMAL,1play,5,,G,0,50208903
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,90,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,853,S,0,50209001
+AFTER_PLAY,Gather 77 Winged Jellies,questIsFinished(50209001),502,77,2,1004,event_various_game.plist,event_game_goal_28.png,2,90,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,1,832,GPS,0,50209002
+AFTER_PLAY,Gather 500 Frozen Bear Jellies,questIsFinished(50209002),502,500,1,506,event_various_game.plist,event_game_goal_86.png,3,90,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,1,80003,S,0,50209003
+AFTER_PLAY,"Gather 1,350 Coins",,502,1350,0,22,event_various_game.plist,event_game_goal_02.png,1,91,#pureCoin,N,SET,0,1,NORMAL,1play,12000,,C,0,50209101
+AFTER_PLAY,Slide and get up 183 times,questIsFinished(50209101),502,183,0,31,event_various_game.plist,event_game_goal_21.png,2,91,#slideUpCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50209102
+AFTER_PLAY,Crush 20 obstacles max,questIsFinished(50209102),502,20,0,12,event_various_game.plist,event_game_goal_70.png,3,91,#destroyObstacle,N,LESS,0,1,NORMAL,1play,1,80002,S,0,50209103
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,92,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,1700401,S,0,50209201
+AFTER_PLAY,"Gather 1,800 Jellies",questIsFinished(50209201),502,1800,0,6,event_various_game.plist,event_game_goal_09.png,2,92,#jellyCount,N,SET,0,1,NORMAL,1play,13000,,C,0,50209202
+AFTER_PLAY,Run into no obstacles,questIsFinished(50209202),502,0,0,14,event_various_game.plist,event_game_goal_72.png,3,92,#collision,N,LESS,0,1,NORMAL,1play,1,80003,S,0,50209203
+AFTER_PLAY,Clear within 70 seconds,,502,70,0,19,event_various_game.plist,event_game_goal_64.png,1,93,#runningPlayTime,N,LESS,0,1,NORMAL,1play,1,1700501,S,0,50209301
+AFTER_PLAY,Gather 780 Colorful Star Jellies,questIsFinished(50209301),502,780,2,1002,event_various_game.plist,event_game_goal_57.png,2,93,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,14000,,C,0,50209302
+AFTER_PLAY,Gather 175 Bear Jellies,questIsFinished(50209302),502,175,0,7,event_various_game.plist,event_game_goal_48.png,3,93,#bearJelly,N,SET,0,1,NORMAL,1play,10,,K,0,50209303
+AFTER_PLAY,Gather 730 Colorful Star Jellies,,502,730,2,1002,event_various_game.plist,event_game_goal_57.png,1,94,#jellyMagicStat_1002_GetCount,N,SET,0,1,NORMAL,1play,1,853,S,0,50209401
+AFTER_PLAY,"Gather 1,830 Coins",questIsFinished(50209401),502,1830,0,22,event_various_game.plist,event_game_goal_02.png,2,94,#pureCoin,N,SET,0,1,NORMAL,1play,2,80002,S,0,50209402
+AFTER_PLAY,Gather 137 Jellies max,questIsFinished(50209402),502,137,0,6,event_various_game.plist,event_game_goal_65.png,3,94,#jellyCount,N,LESS,0,1,NORMAL,1play,15000,,C,0,50209403
+AFTER_PLAY,"Gather 1,120 Yellow Bear Jellies",,502,1120,0,8,event_various_game.plist,event_game_goal_10.png,1,95,#yellowBearJelly,N,SET,0,1,NORMAL,1play,3,,K,0,50209501
+AFTER_PLAY,Gather 30 Giant Bear Jellies,questIsFinished(50209501),502,30,0,10,event_various_game.plist,event_game_goal_12.png,2,95,#kingBearJelly,N,SET,0,1,NORMAL,1play,5,,G,0,50209502
+AFTER_PLAY,Gather 44 Yellow Bear Jellies max,questIsFinished(50209502),502,44,0,8,event_various_game.plist,event_game_goal_66.png,3,95,#yellowBearJelly,N,LESS,0,1,NORMAL,1play,3,80003,S,0,50209503
+AFTER_PLAY,Gather 380 Yellow Bear Jellies,,502,380,0,8,event_various_game.plist,event_game_goal_10.png,1,96,#yellowBearJelly,N,SET,0,1,NORMAL,1play,1,1700501,S,0,50209601
+AFTER_PLAY,Clear within 56 seconds,questIsFinished(50209601),502,56,0,19,event_various_game.plist,event_game_goal_64.png,2,96,#runningPlayTime,N,LESS,0,1,NORMAL,1play,15000,,C,0,50209602
+AFTER_PLAY,Gather 890 Coins,questIsFinished(50209602),502,890,0,22,event_various_game.plist,event_game_goal_02.png,3,96,#pureCoin,N,SET,0,1,NORMAL,1play,5,,G,0,50209603
+AFTER_PLAY,Fall into pits 5 times max,,502,5,0,16,event_various_game.plist,event_game_goal_74.png,1,97,#fallToHole,N,LESS,0,1,NORMAL,1play,3,,K,0,50209701
+AFTER_PLAY,Gather 130 Alphabet Jellies,questIsFinished(50209701),502,130,0,45,event_various_game.plist,event_game_goal_32.png,2,97,#alphabetJellyCount,N,SET,0,1,NORMAL,1play,15000,,C,0,50209702
+AFTER_PLAY,Gather 620 Pink Bear Jellies,questIsFinished(50209702),502,620,0,9,event_various_game.plist,event_game_goal_11.png,3,97,#pinkBearJelly,N,SET,0,1,NORMAL,1play,1,1700501,S,0,50209703
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,98,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,80003,S,0,50209801
+AFTER_PLAY,Gather 300 Yellow Bear Jellies,questIsFinished(50209801),502,300,0,8,event_various_game.plist,event_game_goal_10.png,2,98,#yellowBearJelly,N,SET,0,1,NORMAL,1play,3,834,GPS,0,50209802
+AFTER_PLAY,Gather 30 Giant Bear Jellies,questIsFinished(50209802),502,30,0,10,event_various_game.plist,event_game_goal_12.png,3,98,#kingBearJelly,N,SET,0,1,NORMAL,1play,10,,G,0,50209803
+AFTER_PLAY,Gather 135 Winged Jellies,,502,135,2,1004,event_various_game.plist,event_game_goal_28.png,1,99,#jellyMagicStat_1004_GetCount,N,SET,0,1,NORMAL,1play,7,,G,0,50209901
+AFTER_PLAY,Run into 2 obstacles max,questIsFinished(50209901),502,2,0,14,event_various_game.plist,event_game_goal_72.png,2,99,#collision,N,LESS,0,1,NORMAL,1play,3,834,GPS,0,50209902
+AFTER_PLAY,Gather 8 Winged Jellies max,questIsFinished(50209902),502,8,2,1004,event_various_game.plist,event_game_goal_81.png,3,99,#jellyMagicStat_1004_GetCount,N,LESS,0,1,NORMAL,1play,10,,G,0,50209903
+AFTER_PLAY,Reach the Frozen Gate,,502,1,0,61,event_various_game.plist,event_game_goal_58.png,1,100,#PassedIceDoor,N,SET,0,1,NORMAL,1play,1,1509101,S,0,50210001
+AFTER_PLAY,Gather 450 Pink Bear Jellies,questIsFinished(50210001),502,450,0,9,event_various_game.plist,event_game_goal_11.png,2,100,#pinkBearJelly,N,SET,0,1,NORMAL,1play,3,80004,S,0,50210002
+AFTER_PLAY,Gather 800 Frozen Bear Jellies,questIsFinished(50210002),502,800,1,506,event_various_game.plist,event_game_goal_86.png,3,100,#jelly_506_GetCount,N,SET,0,1,NORMAL,1play,7,838,GPS,0,50210003

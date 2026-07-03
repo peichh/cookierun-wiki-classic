@@ -1,0 +1,9 @@
+﻿ItemValue,JellyChar,JellyName,ReqLevel_0,ReqLevel_1,ReqLevel_2,ResourceKeyString,Score_0,Score_1,Score_2,StatisticsSetting,ToolImage,UnlockedDescription,_key
+77,,House Jelly,1,0,0,item00,26,0,0,0,,보통의 젤리,400
+0,1,Basic JellyBean,1,0,0,jellybean_01,0,0,0,1,jellybean_01.png,기본 젤리,500
+0,3,Yellow Bear Jelly,1,15,51,jelly_3,2600,2600,2600,1,jelly_30.png,노란곰젤리,503
+0,I,Pink Bear Jelly,1,20,51,jelly_4,4680,4680,4680,1,jelly_40.png,분홍곰젤리,504
+0,,Cocoa Jelly,1,0,0,ch45_jelly,6500,0,0,1,,코코아맛 쿠키가 만드는 젤리,505
+0,–,Ice Bear Jelly,1,0,0,jellybean_epS02_0,6500,0,0,1,jellybean_epS02_01,얼음곰젤리,506
+0,,Sprout Jelly,1,0,0,ch63_jelly_performance,5500,0,0,1,,허브맛 쿠키의 새싹젤리,507
+0,,Alphabet Jelly,1,0,0,jelly_alphabet,780,0,0,1,,알파벳젤리,551

@@ -1,0 +1,1032 @@
+[
+  {
+    "\ufeffresource_key": "ch34",
+    "value": "0",
+    "_key": "AlchemistBalanceOff"
+  },
+  {
+    "\ufeffresource_key": "ch34",
+    "value": "4257",
+    "_key": "AlchemistCenterEnergyType"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "8",
+    "_key": "Baduk_CoinCount"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "12",
+    "_key": "Baduk_CoinCountWithKingCoin"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "120",
+    "_key": "Baduk_MagnetSize"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "20,40",
+    "_key": "Baduk_ProjectileStartOffset"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "130",
+    "_key": "Baduk_StoneHeightLimit"
+  },
+  {
+    "\ufeffresource_key": "ch78,ch79",
+    "value": "350",
+    "_key": "Baduk_StoneSpeed"
+  },
+  {
+    "\ufeffresource_key": "ch68",
+    "value": "200",
+    "_key": "BananaCoinJellyCountMax"
+  },
+  {
+    "\ufeffresource_key": "ch68",
+    "value": "970",
+    "_key": "BananaGoldCoinRate"
+  },
+  {
+    "\ufeffresource_key": "ch29",
+    "value": "7",
+    "_key": "BardDoubleJumpCount"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "400",
+    "_key": "BariPrincess_AttackCooltime"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "0,0,180,180",
+    "_key": "BariPrincess_BariRunColArea"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "1500",
+    "_key": "BariPrincess_BariRunGiantSize"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "7",
+    "_key": "BariPrincess_BigSoulAttackCount"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect_ghost",
+    "value": "-100,-100,200,200",
+    "_key": "BariPrincess_BigSoulColArea"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect_ghost",
+    "value": "100,160",
+    "_key": "BariPrincess_BigSoulMovement"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "50",
+    "_key": "BariPrincess_MagnetSize"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "3",
+    "_key": "BariPrincess_MakeNormalSoulJellyAmount"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "15",
+    "_key": "BariPrincess_MakeSpecialSoulJellyAmount"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "2",
+    "_key": "BariPrincess_NormalSoulAttackCount"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect_ghost",
+    "value": "-50,-50,100,100",
+    "_key": "BariPrincess_NormalSoulColArea"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "3",
+    "_key": "BariPrincess_SpecialSoulAttackCount"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect_ghost",
+    "value": "-50,-50,100,100",
+    "_key": "BariPrincess_SpecialSoulColArea"
+  },
+  {
+    "\ufeffresource_key": "ch81",
+    "value": "3",
+    "_key": "BariPrincess_SpecialSoulIndex"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect",
+    "value": "-70,-80,100,120",
+    "_key": "BariPrincess_SwordColArea"
+  },
+  {
+    "\ufeffresource_key": "ch81_effect",
+    "value": "1200",
+    "_key": "BariPrincess_SwordSpeed"
+  },
+  {
+    "\ufeffresource_key": "ch80",
+    "value": "4",
+    "_key": "BoriGiantCount"
+  },
+  {
+    "\ufeffresource_key": "ch80",
+    "value": "1200,1600,2000,2500",
+    "_key": "BoriGiantSize"
+  },
+  {
+    "\ufeffresource_key": "ch80",
+    "value": "10",
+    "_key": "BoriRecovery"
+  },
+  {
+    "\ufeffresource_key": "ch25_effect",
+    "value": "15",
+    "_key": "ChainLightning_NumOfJelly"
+  },
+  {
+    "\ufeffresource_key": "ch20",
+    "value": "200",
+    "_key": "CheerleaderCookieGoldProbValue"
+  },
+  {
+    "\ufeffresource_key": "ch37",
+    "value": "200",
+    "_key": "CheeseCakeJellyProbValue"
+  },
+  {
+    "\ufeffresource_key": "ch28",
+    "value": "0",
+    "_key": "CherryBomb_Max_Additional_Number"
+  },
+  {
+    "\ufeffresource_key": "ch28",
+    "value": "0",
+    "_key": "CherryBomb_Recovery"
+  },
+  {
+    "\ufeffresource_key": "ch85",
+    "value": "3000,274,300",
+    "_key": "Chungmu_Cannon"
+  },
+  {
+    "\ufeffresource_key": "ch85",
+    "value": "300,1,450,90",
+    "_key": "Chungmu_Jellycho"
+  },
+  {
+    "\ufeffresource_key": "ch85",
+    "value": "0,70,80,540,270,130",
+    "_key": "Chungmu_Soldiers"
+  },
+  {
+    "\ufeffresource_key": "ch85",
+    "value": "0",
+    "_key": "Chungmu_TransformMagnetRange"
+  },
+  {
+    "\ufeffresource_key": "ch85",
+    "value": "1400",
+    "_key": "Chungmu_Transform_Speed"
+  },
+  {
+    "\ufeffresource_key": "ch45",
+    "value": "1600",
+    "_key": "CocoaColBoxRate"
+  },
+  {
+    "\ufeffresource_key": "ch77",
+    "value": "30",
+    "_key": "Cucumber_FishJellyCount"
+  },
+  {
+    "\ufeffresource_key": "ch90_effect_front",
+    "value": "9",
+    "_key": "DANDELION_JELLY_COUNT"
+  },
+  {
+    "\ufeffresource_key": "ch90",
+    "value": "1500",
+    "_key": "DANDELION_LAST_SEED_DELAY"
+  },
+  {
+    "\ufeffresource_key": "ch90_effect_front",
+    "value": "140",
+    "_key": "DANDELION_POMPOM_MAX_Y"
+  },
+  {
+    "\ufeffresource_key": "ch90_effect_front",
+    "value": "-20",
+    "_key": "DANDELION_POMPOM_MIN_Y"
+  },
+  {
+    "\ufeffresource_key": "ch90",
+    "value": "1300",
+    "_key": "DANDELION_TRANSFORM_SPEED"
+  },
+  {
+    "\ufeffresource_key": "ch89",
+    "value": "420",
+    "_key": "DUBAI_SPREAD_SPAWN_DISTANCE"
+  },
+  {
+    "\ufeffresource_key": "ch89",
+    "value": "120",
+    "_key": "DUBAI_SPREAD_SPAWN_INTERVAL"
+  },
+  {
+    "\ufeffresource_key": "ch89",
+    "value": "3",
+    "_key": "DUBAI_SPREAD_SPAWN_MAX_COUNT"
+  },
+  {
+    "\ufeffresource_key": "ch18",
+    "value": "1",
+    "_key": "ExercisesBlastBonus"
+  },
+  {
+    "\ufeffresource_key": "ch18",
+    "value": "5",
+    "_key": "ExercisesCriticalMulti"
+  },
+  {
+    "\ufeffresource_key": "ch18",
+    "value": "400",
+    "_key": "ExercisesCriticalProb"
+  },
+  {
+    "\ufeffresource_key": "ch41",
+    "value": "3500",
+    "_key": "FireSpiritSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch44",
+    "value": "0",
+    "_key": "FoolHoldRangeWithColBoxOn"
+  },
+  {
+    "\ufeffresource_key": "ch88",
+    "value": "50",
+    "_key": "GARAE_JELLY_AMOUNT"
+  },
+  {
+    "\ufeffresource_key": "ch88",
+    "value": "2",
+    "_key": "GARAE_OBSTACLE_JELLY_AMOUNT"
+  },
+  {
+    "\ufeffresource_key": "ch88",
+    "value": "70",
+    "_key": "GARAE_OBSTACLE_JELLY_LIMIT_AMOUNT"
+  },
+  {
+    "\ufeffresource_key": "ch88",
+    "value": "120",
+    "_key": "GARAE_TRANSFORM_MAGNET_SIZE"
+  },
+  {
+    "\ufeffresource_key": "ch88",
+    "value": "1800",
+    "_key": "GARAE_TRANSFORM_SPEED"
+  },
+  {
+    "\ufeffresource_key": "ch92",
+    "value": "120",
+    "_key": "GEUMGANG_GHOST_GENERATE_COOLTIME"
+  },
+  {
+    "\ufeffresource_key": "ch49",
+    "value": "4268",
+    "_key": "Guardian4JellyEP4"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "250",
+    "_key": "JujubeAttackColBoxOffsetX"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "-20",
+    "_key": "JujubeAttackColBoxOffsetY"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "550",
+    "_key": "JujubeAttackColBoxX"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "150",
+    "_key": "JujubeAttackColBoxY"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "0",
+    "_key": "JujubeDrawAttackColBox"
+  },
+  {
+    "\ufeffresource_key": "ch57",
+    "value": "180",
+    "_key": "JujubeObstacleSmallInterval"
+  },
+  {
+    "\ufeffresource_key": "ch40",
+    "value": "11",
+    "_key": "JungleWarriorHeartCount"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "100,250",
+    "_key": "KAYMAK_CLONE_COOLTIME"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "300",
+    "_key": "KAYMAK_CLONE_CRASH_DELAY"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "315,80,180",
+    "_key": "KAYMAK_CLONE_DEFAULT_POSITION"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "180,0,240,240,3,2",
+    "_key": "KAYMAK_CLONE_FAR_OBSTACLE_TEST_AREA"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "0,0,180,240,2,1",
+    "_key": "KAYMAK_CLONE_NEAR_OBSTACLE_TEST_AREA"
+  },
+  {
+    "\ufeffresource_key": "ch91",
+    "value": "1200",
+    "_key": "KAYMAK_TRANSFORM_SPEED"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "0.3",
+    "_key": "KajuKatli_CreationDelay"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "2.0",
+    "_key": "KajuKatli_DisappearenceDelay"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "1000",
+    "_key": "KajuKatli_DustEffectScale"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "1300",
+    "_key": "KajuKatli_JavelinAniScale"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "250",
+    "_key": "KajuKatli_JavelinColBoxHeight"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "10",
+    "_key": "KajuKatli_JavelinCrashMaxDistanceFromCookie"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "3.0",
+    "_key": "KajuKatli_JavelinSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "20",
+    "_key": "KajuKatli_JavelinSpinOffsetX"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "50",
+    "_key": "KajuKatli_JavelinSpinOffsetY"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "3000",
+    "_key": "KajuKatli_JavelinSpinScale"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "3600",
+    "_key": "KajuKatli_JavelinSpinScaleMax"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "300",
+    "_key": "KajuKatli_JavelinSpinWidth"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "20",
+    "_key": "KajuKatli_JavelinStartOffsetX"
+  },
+  {
+    "\ufeffresource_key": "ch74",
+    "value": "70",
+    "_key": "KajuKatli_JavelinStartOffsetY"
+  },
+  {
+    "\ufeffresource_key": "ch43",
+    "value": "300",
+    "_key": "KiwiFuelBoostDuration"
+  },
+  {
+    "\ufeffresource_key": "ch93_effect",
+    "value": "0",
+    "_key": "LOTUSROOT_SKELETON_JELLY_COUNT_OBSTACLE"
+  },
+  {
+    "\ufeffresource_key": "ch93_effect",
+    "value": "1700",
+    "_key": "LOTUSROOT_SMALL_WAVE_SPEED"
+  },
+  {
+    "\ufeffresource_key": "ch93",
+    "value": "1500",
+    "_key": "LOTUSROOT_WAVE_SPEED"
+  },
+  {
+    "\ufeffresource_key": "ch54",
+    "value": "14",
+    "_key": "LimeBigBoomDist"
+  },
+  {
+    "\ufeffresource_key": "ch54",
+    "value": "75",
+    "_key": "LimeBoomJellyCountBig"
+  },
+  {
+    "\ufeffresource_key": "ch54",
+    "value": "50",
+    "_key": "LimeBoomJellyCountNormal"
+  },
+  {
+    "\ufeffresource_key": "ch54",
+    "value": "30",
+    "_key": "LimeNormalBoomDist"
+  },
+  {
+    "\ufeffresource_key": "ch54",
+    "value": "1200",
+    "_key": "LimeTransformSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch86",
+    "value": "100",
+    "_key": "MANGGAE_TRANSFORM_MAGNET_RANGE"
+  },
+  {
+    "\ufeffresource_key": "ch86",
+    "value": "750",
+    "_key": "MANGGAE_TRANSFORM_SCALE_FACTOR"
+  },
+  {
+    "\ufeffresource_key": "ch31",
+    "value": "0",
+    "_key": "MagicalGirlCenterJelly"
+  },
+  {
+    "\ufeffresource_key": "ch31",
+    "value": "0",
+    "_key": "MagicalGirlCenterJellyPerCount"
+  },
+  {
+    "\ufeffresource_key": "ch25",
+    "value": "4339",
+    "_key": "MagicianJelly"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_CoinPortalExplosionCoinJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_CoinPortalExplosionGoldJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_CoinPortalExplosionKingCoinRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "100",
+    "_key": "MallowBunny_CoinPortalExplosionPosY"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "3",
+    "_key": "MallowBunny_CoinPortalKingCoinInterval"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "0.1",
+    "_key": "MallowBunny_CoinPortalRatio"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "10",
+    "_key": "MallowBunny_JellyPortalCoinJellyCount"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_JellyPortalExplosionCoinJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "20",
+    "_key": "MallowBunny_JellyPortalExplosionJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "100",
+    "_key": "MallowBunny_JellyPortalExplosionPosY"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "10,-100",
+    "_key": "MallowBunny_LargePortalColAreaOffset"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "20,200",
+    "_key": "MallowBunny_LargePortalColAreaSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "-130,-150",
+    "_key": "MallowBunny_LargePortalCrashAreaOffset"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "200,300",
+    "_key": "MallowBunny_LargePortalCrashAreaSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_LargePortalExplosionCoinJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_LargePortalExplosionGoldCoinRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "30",
+    "_key": "MallowBunny_LargePortalExplosionJellyRadius"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "-50",
+    "_key": "MallowBunny_LargePortalExplosionLowerEffectPosY"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "150",
+    "_key": "MallowBunny_LargePortalExplosionPosY"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "900",
+    "_key": "MallowBunny_LargePortalJellyMaxCount"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "0.2,0.05",
+    "_key": "MallowBunny_LargePortalRatio"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "7",
+    "_key": "MallowBunny_LargePortalRecovery"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "20",
+    "_key": "MallowBunny_MarshmallowBearJellyYRange"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "500",
+    "_key": "MallowBunny_PortalBuffLowerEffectFadeDuration"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "10",
+    "_key": "MallowBunny_PortalBuffLowerEffectInitCount"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "50",
+    "_key": "MallowBunny_PortalBuffLowerEffectInterval"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "120",
+    "_key": "MallowBunny_PortalBuffLowerEffectMoveSpeed"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "-50,-50",
+    "_key": "MallowBunny_PortalExplosionColAreaOffset"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "100,100",
+    "_key": "MallowBunny_PortalExplosionColAreaSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "80",
+    "_key": "MallowBunny_PortalMagnetSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "500,200",
+    "_key": "MallowBunny_SlowMotion"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "150",
+    "_key": "MallowBunny_SmallPortalCoinJellyMaxCount"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "10,-50",
+    "_key": "MallowBunny_SmallPortalColAreaOffset"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "20,80",
+    "_key": "MallowBunny_SmallPortalColAreaSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "-125,-150",
+    "_key": "MallowBunny_SmallPortalCrashAreaOffset"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "190,300",
+    "_key": "MallowBunny_SmallPortalCrashAreaSize"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "130",
+    "_key": "MallowBunny_SmallPortalJellyMaxCount"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "2",
+    "_key": "MallowBunny_SmallPortalRecovery"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "7",
+    "_key": "MallowBunny_SpecialBgFadeRate"
+  },
+  {
+    "\ufeffresource_key": "ch75",
+    "value": "80",
+    "_key": "MallowBunny_UpperPortalJudge"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "94000",
+    "_key": "OrangeBallBoostXDiff"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "39000",
+    "_key": "OrangeBallBoostYdiff"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "32000",
+    "_key": "OrangeBallXDiff"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "30000",
+    "_key": "OrangeBallYdiff"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "90",
+    "_key": "OrangeSmashJumpAniDelay"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "90",
+    "_key": "OrangeSmashRunAniDelay"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "90",
+    "_key": "OrangeSmashSlideAniDelay"
+  },
+  {
+    "\ufeffresource_key": "ch53",
+    "value": "145",
+    "_key": "OrangeSpikeAniDelay"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "200",
+    "_key": "PeachBamBooLeafJellyDist"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "1500",
+    "_key": "PeachEndGenObstacleBufferTime"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "40",
+    "_key": "PeachObstacleGenPhaseWeight1"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "30",
+    "_key": "PeachObstacleGenPhaseWeight2"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "20",
+    "_key": "PeachObstacleGenPhaseWeight3"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "2",
+    "_key": "PeachObstacleGenPlatformCount1"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "1",
+    "_key": "PeachObstacleGenPlatformCount2"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "1",
+    "_key": "PeachObstacleGenPlatformCount3"
+  },
+  {
+    "\ufeffresource_key": "ch56",
+    "value": "1500",
+    "_key": "PeachTransformSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch92",
+    "value": "3",
+    "_key": "PineMonkCookieSutraCoinForGold"
+  },
+  {
+    "\ufeffresource_key": "ch92",
+    "value": "1300",
+    "_key": "PineMonkCookieTransformSpeed"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "1.2",
+    "_key": "PotatoSalad_CarpetFadeOutTime"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "700",
+    "_key": "PotatoSalad_CarpetGravity"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "0.4",
+    "_key": "PotatoSalad_GoldCoinExplosionWeight"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "0.1",
+    "_key": "PotatoSalad_KingCoinExplosionWeight"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "0,50",
+    "_key": "PotatoSalad_MakeCoinAngle"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "40",
+    "_key": "PotatoSalad_MakeCoinLineDistance"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "20,40",
+    "_key": "PotatoSalad_MakeCoinOffset"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "4,5",
+    "_key": "PotatoSalad_MayoMakeCoinLine"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "3,4",
+    "_key": "PotatoSalad_PotatoMakeCoinLine"
+  },
+  {
+    "\ufeffresource_key": "ch82",
+    "value": "0.5",
+    "_key": "PotatoSalad_SilverCoinExplosionWeight"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "120",
+    "_key": "RollCakeHammerEffectOffsetX"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "-60",
+    "_key": "RollCakeHammerEffectOffsetY"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "4363",
+    "_key": "RollCakeMaterialFlyingJellyEnd"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "4359",
+    "_key": "RollCakeMaterialFlyingJellyStart"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "4358",
+    "_key": "RollCakeMaterialJellyEnd"
+  },
+  {
+    "\ufeffresource_key": "ch67",
+    "value": "4354",
+    "_key": "RollCakeMaterialJellyStart"
+  },
+  {
+    "\ufeffresource_key": "ch65",
+    "value": "4348",
+    "_key": "SeaFairyJelly"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "50",
+    "_key": "SnowSugarJellyCoolTime"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "6000",
+    "_key": "SnowSugarLifeCoolTime"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "5",
+    "_key": "SnowSugarLifeValue"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "1000",
+    "_key": "SnowSugarSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "1000",
+    "_key": "SnowSugarSummon1Distance"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "30",
+    "_key": "SnowSugarSummon1Jelly"
+  },
+  {
+    "\ufeffresource_key": "ch30",
+    "value": "500",
+    "_key": "SnowSugarSummon1Velocity"
+  },
+  {
+    "\ufeffresource_key": "ch39",
+    "value": "1800",
+    "_key": "SodaSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch39_effect",
+    "value": "720",
+    "_key": "Soda_WaveStart_Daration"
+  },
+  {
+    "\ufeffresource_key": "ch72",
+    "value": "170",
+    "_key": "StrawberryShortcakeRunMagnetSize"
+  },
+  {
+    "\ufeffresource_key": "ch72",
+    "value": "2",
+    "_key": "StrawberryShortcakeRunOffImmortal"
+  },
+  {
+    "\ufeffresource_key": "ch72",
+    "value": "150",
+    "_key": "StrawberryShortcakeTransformMagnetSize"
+  },
+  {
+    "\ufeffresource_key": "ch72",
+    "value": "1.3",
+    "_key": "StrawberryShortcakeTransformOffImmortal"
+  },
+  {
+    "\ufeffresource_key": "ch23",
+    "value": "2000",
+    "_key": "SuperDevilRate"
+  },
+  {
+    "\ufeffresource_key": "ch19",
+    "value": "3500",
+    "_key": "SuperHeroRate"
+  },
+  {
+    "\ufeffresource_key": "ch46",
+    "value": "90",
+    "_key": "ViolinistColBoxHeight"
+  },
+  {
+    "\ufeffresource_key": "ch46",
+    "value": "90",
+    "_key": "ViolinistColBoxWidth"
+  },
+  {
+    "\ufeffresource_key": "ch44",
+    "value": "1700",
+    "_key": "WerewolfColBoxRate"
+  },
+  {
+    "\ufeffresource_key": "ch44",
+    "value": "1350",
+    "_key": "WerewolfWorldSpeedRate"
+  },
+  {
+    "\ufeffresource_key": "ch44",
+    "value": "30",
+    "_key": "Werewolf_Effect_Claw_Offset_Y"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "350",
+    "_key": "WhiteChocolateIncompleteAuraEffectDuration"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "150",
+    "_key": "WhiteChocolateIncompleteRateMin"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "400",
+    "_key": "WhiteChocolateMaxAuraEffectDuration"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "320",
+    "_key": "WhiteChocolateSliceEffectDuration"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "10",
+    "_key": "WhiteChocolatemIncompleteJellyDiscount"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "ch62_effect2_gage1.png",
+    "_key": "WhiteChocolatemSubgaugeComplete"
+  },
+  {
+    "\ufeffresource_key": "ch62",
+    "value": "ch62_effect2_gage0.png",
+    "_key": "WhiteChocolatemSubgaugeIncomplete"
+  }
+]

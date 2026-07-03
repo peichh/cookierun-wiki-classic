@@ -1,0 +1,56 @@
+﻿celltype,challengeEpisodeId,img_check,img_check_plist,img_inGameImage,img_inGameImage_plist,img_mix1,img_mix1_plist,img_mix2,img_mix2_plist,img_reward,img_reward_plist,page,precond_seq,statisticsCategoryId,statisticsDataId,statisticsGoalCount,txt_cond1,txt_cond2,txt_mix1,txt_mix2,txt_reward,txt_reward_qty,_key
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch01.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,150만점,달성,용감한 쿠키군,,코인,3000,4869
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch01.png,main_character.plist,,,reward_icon_gift_small.png,bc_reward_icon.plist,,,,,,300만점,달성,용감한 쿠키군,,선물포인트,100,4870
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch01.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,"1,200코인",획득,용감한 쿠키군,,크리스탈,1,4871
+2,1,gift_check.png,-,,,event_mix_ch01.png,main_character.plist,,,reward_icon_life.png,bc_reward_icon.plist,0,,,,,Ep.1에서 스테이지 3,도달,용감한 쿠키군,,체력강화,3,4872
+2,2,gift_check.png,-,,,event_mix_ch01.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,Ep.2에서 스테이지 3,도달,용감한 쿠키군,,코인,5000,4873
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch03.png,main_character.plist,,,reward_icon_life.png,bc_reward_icon.plist,0,,,,,200만점,달성,명랑한 쿠키양,,체력강화,3,4874
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch03.png,main_character.plist,,,reward_icon_gift_small.png,bc_reward_icon.plist,0,,,,,"2,000코인",획득,명랑한 쿠키양,,선물포인트,150,4875
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch03.png,main_character.plist,,,reward_icon_dough01.png,bc_reward_icon.plist,0,,,,,"경험치 3,000",획득,명랑한 쿠키양,,갈색 행운반죽,1,4876
+2,1,gift_check.png,-,,,event_mix_ch03.png,main_character.plist,,,reward_icon_boost.png,bc_reward_icon.plist,0,,,,,Ep.1에서 스테이지 3,도달,명랑한 쿠키양,,빠른스타트,1,4877
+2,3,gift_check.png,-,,,event_mix_ch03.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.3에서 스테이지 2,도달,명랑한 쿠키양,,크리스탈,1,4878
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch02.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,400만점,달성,딸기맛 쿠키,,코인,3000,4879
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch02.png,main_character.plist,,,reward_icon_xp_x2.png,bc_reward_icon.plist,0,,,,,700만점,달성,딸기맛 쿠키,,경험치2배,3,4880
+2,1,gift_check.png,-,,,event_mix_ch02.png,main_character.plist,,,reward_icon_boost.png,bc_reward_icon.plist,0,,,,,Ep.1에서 스테이지 4,도달,딸기맛 쿠키,,빠른스타트,2,4881
+2,2,gift_check.png,-,,,event_mix_ch02.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.2에서 스테이지 3,도달,딸기맛 쿠키,,크리스탈,2,4882
+2,3,gift_check.png,-,,,event_mix_ch02.png,main_character.plist,,,reward_icon_dough01.png,bc_reward_icon.plist,0,,,,,Ep.3에서 스테이지 3,도달,딸기맛 쿠키,,갈색 행운반죽,1,4883
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch12.png,main_character.plist,,,reward_icon_boost.png,bc_reward_icon.plist,0,,,,,500만점,달성,천사맛 쿠키,,빠른스타트,2,4884
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch12.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,"1,000만점",달성,천사맛 쿠키,,코인,4000,4885
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch12.png,main_character.plist,,,reward_icon_xp_x2.png,bc_reward_icon.plist,0,,,,,"3,500코인",획득,천사맛 쿠키,,경험치2배,3,4886
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch12.png,main_character.plist,,,reward_icon_dough01.png,bc_reward_icon.plist,0,,,,,"6,000코인",획득,천사맛 쿠키,,갈색 행운반죽,1,4887
+2,4,gift_check.png,-,,,event_mix_ch12.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.4에서 스테이지 5,도달,천사맛 쿠키,,크리스탈,3,4888
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch25.png,main_character.plist,,,reward_icon_gift_small.png,bc_reward_icon.plist,0,,,,,"1,500만점",달성,마법사맛 쿠키,,선물포인트,200,4889
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch25.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,"2,000만점",달성,마법사맛 쿠키,,크리스탈,3,4890
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch25.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,"3,000만점",달성,마법사맛 쿠키,,코인,5000,4891
+2,2,gift_check.png,-,,,event_mix_ch25.png,main_character.plist,,,reward_icon_dough01.png,bc_reward_icon.plist,0,,,,,Ep.2에서 스테이지 7,도달,마법사맛 쿠키,,갈색 행운반죽,1,4892
+2,4,gift_check.png,-,,,event_mix_ch25.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,Ep.4에서 스테이지 7,도달,마법사맛 쿠키,,마법가루,200,4893
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch28.png,main_character.plist,,,reward_icon_boost.png,bc_reward_icon.plist,0,,,,,800만점,달성,체리맛 쿠키,,빠른스타트,2,4894
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch28.png,main_character.plist,,,reward_icon_xp_x2.png,bc_reward_icon.plist,0,,,,,"1,200만점",달성,체리맛 쿠키,,경험치2배,5,4895
+2,1,gift_check.png,-,,,event_mix_ch28.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,Ep.1에서 스테이지 6,도달,체리맛 쿠키,,코인,6000,4896
+2,2,gift_check.png,-,,,event_mix_ch28.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,Ep.2에서 스테이지 4,도달,체리맛 쿠키,,마법가루,100,4897
+2,3,gift_check.png,-,,,event_mix_ch28.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.3에서 스테이지 5,도달,체리맛 쿠키,,크리스탈,2,4898
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch30.png,main_character.plist,,,reward_icon_gift_small.png,bc_reward_icon.plist,0,,,,,600만점,달성,눈설탕맛 쿠키,,선물포인트,200,4899
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch30.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,"1,000만점",달성,눈설탕맛 쿠키,,코인,6000,4900
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch30.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,"1,500만점",달성,눈설탕맛 쿠키,,크리스탈,3,4901
+2,2,gift_check.png,-,,,event_mix_ch30.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,Ep.2에서 스테이지 5,도달,눈설탕맛 쿠키,,마법가루,100,4902
+2,3,gift_check.png,-,,,event_mix_ch30.png,main_character.plist,,,reward_icon_dough01.png,bc_reward_icon.plist,0,,,,,Ep.3에서 스테이지 5,도달,눈설탕맛 쿠키,,갈색 행운반죽,1,4903
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch36.png,main_character.plist,,,reward_icon_bonus.png,bc_reward_icon.plist,0,,,,,"1,700만점",달성,풋사과맛 쿠키,,아이템시간연장,3,4904
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch36.png,main_character.plist,,,reward_icon_life.png,bc_reward_icon.plist,0,,,,,"7,000코인",획득,풋사과맛 쿠키,,체력강화,4,4905
+2,2,gift_check.png,-,,,event_mix_ch36.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,Ep.2에서스테이지 6,도달,풋사과맛 쿠키,,코인,6000,4906
+2,4,gift_check.png,-,,,event_mix_ch36.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.4에서스테이지 6,도달,풋사과맛 쿠키,,크리스탈,3,4907
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch36.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,보너스타임가기 3회,달성,풋사과맛 쿠키,,마법가루,200,4908
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch39.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,"2,000만점",달성,소다맛 쿠키,,코인,5000,4909
+2,1,gift_check.png,-,,,event_mix_ch39.png,main_character.plist,,,reward_icon_life.png,bc_reward_icon.plist,0,,,,,Ep.1에서스테이지 9,도달,소다맛 쿠키,,체력강화,5,4910
+2,3,gift_check.png,-,,,event_mix_ch39.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,Ep.3에서스테이지 7,도달,소다맛 쿠키,,크리스탈,3,4911
+2,4,gift_check.png,-,,,event_mix_ch39.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,Ep.4에서스테이지 8,도달,소다맛 쿠키,,마법가루,200,4912
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch39.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,미스터리 박스 2개,획득,소다맛 쿠키,,코인,7000,4913
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch48.png,main_character.plist,,,reward_icon_bonus.png,bc_reward_icon.plist,0,,,,,"1,000만점",달성,슈크림맛 쿠키,,아이템시간연장,3,4914
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch48.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,"2,500만점",달성,슈크림맛 쿠키,,코인,4000,4915
+2,"1,2,3,4",gift_check.png,-,,,event_mix_ch48.png,main_character.plist,,,reward_icon_crystal.png,bc_reward_icon.plist,0,,,,,"3,500만점",달성,슈크림맛 쿠키,,크리스탈,3,4916
+2,3,gift_check.png,-,,,event_mix_ch48.png,main_character.plist,,,reward_icon_coin_small.png,bc_reward_icon.plist,0,,,,,Ep.3에서스테이지 6,도달,슈크림맛 쿠키,,코인,6000,4917
+2,4,gift_check.png,-,,,event_mix_ch48.png,main_character.plist,,,reward_icon_spell_small.png,bc_reward_icon.plist,0,,,,,Ep.4에서스테이지 8,도달,슈크림맛 쿠키,,마법가루,200,4918
+3,10,gift_check.png,-,,,,main_character.plist,,,reward_icon_dough02.png,bc_reward_icon.plist,0,,,,,도전 10개,달성,,,은빛 행운반죽,1,4919
+3,20,gift_check.png,-,,,,main_character.plist,,,reward_icon_dough02.png,bc_reward_icon.plist,0,,,,,도전 20개,달성,,,은빛 행운반죽,1,4920
+3,30,gift_check.png,-,,,,main_character.plist,,,reward_icon_dough02.png,bc_reward_icon.plist,0,,,,,도전 30개,달성,,,은빛 행운반죽,1,4921
+3,40,gift_check.png,-,,,,main_character.plist,,,reward_icon_dough03.png,bc_reward_icon.plist,0,,,,,도전 40개,달성,,,금빛 행운반죽,1,4922
+3,50,gift_check.png,-,,,,main_character.plist,,,reward_icon_dough04.png,bc_reward_icon.plist,0,,,,,도전 50개,달성,,,무지개빛 행운반죽,1,4923

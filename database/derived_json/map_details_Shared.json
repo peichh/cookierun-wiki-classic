@@ -1,0 +1,50 @@
+{
+  "episode": "Shared",
+  "total_jellies": 0,
+  "estimated_base_score": 0,
+  "jelly_breakdown": {},
+  "stages": [
+    {
+      "stage": "30000",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "30002",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "30001",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "30003",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "30004",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "20000",
+      "speed": "1100",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    }
+  ]
+}

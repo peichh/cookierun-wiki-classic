@@ -1,0 +1,11 @@
+﻿daily_max_count,name,parameter,template_id,type,_key
+20,heart,"""exampleKey1"":""value1"",""exampleKey2"":""value2""",100852,0,1
+10,ShareScorePartyRun,,122520,0,10
+10,bragWin,,100854,0,2
+10,brag_weekly,,0,0,3
+10,bragScore,,100853,0,4
+29,Invite,,100725,1,5
+50,giftSent,,101039,0,6
+50,giftReceived,,101040,0,7
+50,requestComeback,,3007,0,8
+10,invitePartyRun,,122266,0,9

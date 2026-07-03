@@ -1,0 +1,6 @@
+﻿event_seq,mission_order,mission_seq,need_coin,reward_image_file_name,reward_image_plist_file_name,reward_name,reward_qty,_key
+26,1,7785,3000,reward_icon_life.png,bc_reward_icon.plist,체력강화,2,1
+26,2,7786,7500,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,2
+26,3,7787,10000,reward_icon_dough01.png,bc_reward_icon.plist,갈색 행운반죽,1,3
+26,4,7788,30000,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,200,4
+26,5,7789,50000,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,5,5

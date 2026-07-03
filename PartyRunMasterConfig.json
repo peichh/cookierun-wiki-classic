@@ -1,0 +1,78 @@
+[
+  {
+    "\ufeffvalue": "70",
+    "_key": "BonusTimeUpgradeLevel"
+  },
+  {
+    "\ufeffvalue": "16",
+    "_key": "CustomRoomMaxPlayers"
+  },
+  {
+    "\ufeffvalue": "50",
+    "_key": "EnergyUpgradeLevel"
+  },
+  {
+    "\ufeffvalue": "1",
+    "_key": "GamePingInterval"
+  },
+  {
+    "\ufeffvalue": "20",
+    "_key": "GameServerMessageBufferSize"
+  },
+  {
+    "\ufeffvalue": "0.5",
+    "_key": "GameTempScoreSendInterval"
+  },
+  {
+    "\ufeffvalue": "40",
+    "_key": "IngameBotEntryDelaySec"
+  },
+  {
+    "\ufeffvalue": "17",
+    "_key": "IngameBotLoadingDelaySec"
+  },
+  {
+    "\ufeffvalue": "20",
+    "_key": "IngameStartCustomDelaySec"
+  },
+  {
+    "\ufeffvalue": "60",
+    "_key": "IngameStartDelaySec"
+  },
+  {
+    "\ufeffvalue": "70",
+    "_key": "JellyUpgradeLevel"
+  },
+  {
+    "\ufeffvalue": "40",
+    "_key": "MatchingMaxTimeSec"
+  },
+  {
+    "\ufeffvalue": "720",
+    "_key": "MaxEarnableLobbyCoin"
+  },
+  {
+    "\ufeffvalue": "3",
+    "_key": "PartyPingInterval"
+  },
+  {
+    "\ufeffvalue": "18000",
+    "_key": "PartyRunClosedDuration"
+  },
+  {
+    "\ufeffvalue": "1",
+    "_key": "PartyRunClosedFlag"
+  },
+  {
+    "\ufeffvalue": "02:00:00",
+    "_key": "PartyRunClosedTime"
+  },
+  {
+    "\ufeffvalue": "6",
+    "_key": "StateChangeDelay"
+  },
+  {
+    "\ufeffvalue": "0",
+    "_key": "isMaintenanceOngoing"
+  }
+]

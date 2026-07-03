@@ -1,0 +1,1927 @@
+[
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Pet_CandleActivated.m4a",
+    "Sound_ogg": "Pet_CandleActivated.ogg",
+    "Sound_test": "Pet_CandleActivated.m4a",
+    "_key": "CandlePet_FireToNewDimension"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_giantjump.m4a",
+    "Sound_ogg": "g_giantjump.ogg",
+    "Sound_test": "g_giantjump.m4a",
+    "_key": "Char_Jump_Gigantic"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch01jump.m4a",
+    "Sound_ogg": "ch01jump.ogg",
+    "Sound_test": "ch01jump.m4a",
+    "_key": "Char_Jump_ch01"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch02jump.m4a",
+    "Sound_ogg": "ch02jump.ogg",
+    "Sound_test": "ch02jump.m4a",
+    "_key": "Char_Jump_ch02"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch03jump.m4a",
+    "Sound_ogg": "ch03jump.ogg",
+    "Sound_test": "ch03jump.m4a",
+    "_key": "Char_Jump_ch03"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch04jump.m4a",
+    "Sound_ogg": "ch04jump.ogg",
+    "Sound_test": "ch04jump.m4a",
+    "_key": "Char_Jump_ch04"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch05jump.m4a",
+    "Sound_ogg": "ch05jump.ogg",
+    "Sound_test": "ch05jump.m4a",
+    "_key": "Char_Jump_ch05"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch06jump.m4a",
+    "Sound_ogg": "ch06jump.ogg",
+    "Sound_test": "ch06jump.m4a",
+    "_key": "Char_Jump_ch06"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch07jump.m4a",
+    "Sound_ogg": "ch07jump.ogg",
+    "Sound_test": "ch07jump.m4a",
+    "_key": "Char_Jump_ch07"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch08jump.m4a",
+    "Sound_ogg": "ch08jump.ogg",
+    "Sound_test": "ch8jump.m4a",
+    "_key": "Char_Jump_ch08"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch09jump.m4a",
+    "Sound_ogg": "ch09jump.ogg",
+    "Sound_test": "ch09jump.m4a",
+    "_key": "Char_Jump_ch09"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch10jump.m4a",
+    "Sound_ogg": "ch10jump.ogg",
+    "Sound_test": "ch10jump.m4a",
+    "_key": "Char_Jump_ch10"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch11jump.m4a",
+    "Sound_ogg": "ch11jump.ogg",
+    "Sound_test": "ch11jump.m4a",
+    "_key": "Char_Jump_ch11"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch12jump.m4a",
+    "Sound_ogg": "ch12jump.ogg",
+    "Sound_test": "ch12jump.m4a",
+    "_key": "Char_Jump_ch12"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch13jump.m4a",
+    "Sound_ogg": "ch13jump.ogg",
+    "Sound_test": "ch13jump.wav",
+    "_key": "Char_Jump_ch13"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch14jump.m4a",
+    "Sound_ogg": "ch14jump.ogg",
+    "Sound_test": "ch14jump.m4a",
+    "_key": "Char_Jump_ch14"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch15jump.m4a",
+    "Sound_ogg": "ch15jump.ogg",
+    "Sound_test": "ch15jump.m4a",
+    "_key": "Char_Jump_ch15"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch16jump.m4a",
+    "Sound_ogg": "ch16jump.ogg",
+    "Sound_test": "ch16jump.m4a",
+    "_key": "Char_Jump_ch16"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch02jump.m4a",
+    "Sound_ogg": "ch02jump.ogg",
+    "Sound_test": "ch02jump.m4a",
+    "_key": "Char_Jump_ch17"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch18jump.m4a",
+    "Sound_ogg": "ch18jump.ogg",
+    "Sound_test": "ch18jump.m4a",
+    "_key": "Char_Jump_ch18"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch19jump.m4a",
+    "Sound_ogg": "ch19jump.ogg",
+    "Sound_test": "ch19jump.m4a",
+    "_key": "Char_Jump_ch19"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch20jump.m4a",
+    "Sound_ogg": "ch20jump.ogg",
+    "Sound_test": "ch20jump.m4a",
+    "_key": "Char_Jump_ch20"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch21jump.m4a",
+    "Sound_ogg": "ch21jump.ogg",
+    "Sound_test": "ch21jump.m4a",
+    "_key": "Char_Jump_ch21"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch22jump.m4a",
+    "Sound_ogg": "ch22jump.ogg",
+    "Sound_test": "ch22jump.m4a",
+    "_key": "Char_Jump_ch22"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch23jump.m4a",
+    "Sound_ogg": "ch23jump.ogg",
+    "Sound_test": "ch23jump.m4a",
+    "_key": "Char_Jump_ch23"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch24jump.m4a",
+    "Sound_ogg": "ch24jump.ogg",
+    "Sound_test": "ch24jump.m4a",
+    "_key": "Char_Jump_ch24"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch24jump_woman.m4a",
+    "Sound_ogg": "ch24jump_woman.ogg",
+    "Sound_test": "ch24jump_woman.m4a",
+    "_key": "Char_Jump_ch24_Woman"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch25jump.m4a",
+    "Sound_ogg": "ch25jump.ogg",
+    "Sound_test": "ch25jump.m4a",
+    "_key": "Char_Jump_ch25"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch26jump.m4a",
+    "Sound_ogg": "ch26jump.ogg",
+    "Sound_test": "ch26jump.m4a",
+    "_key": "Char_Jump_ch26"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27jump.m4a",
+    "Sound_ogg": "ch27jump.ogg",
+    "Sound_test": "ch27jump.m4a",
+    "_key": "Char_Jump_ch27"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27jump_1.m4a",
+    "Sound_ogg": "ch27jump_1.ogg",
+    "Sound_test": "ch27jump_1.m4a",
+    "_key": "Char_Jump_ch27_1"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27jump_2.m4a",
+    "Sound_ogg": "ch27jump_2.ogg",
+    "Sound_test": "ch27jump_2.m4a",
+    "_key": "Char_Jump_ch27_2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch28jump.m4a",
+    "Sound_ogg": "ch28jump.ogg",
+    "Sound_test": "ch28jump.m4a",
+    "_key": "Char_Jump_ch28"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch29jump.m4a",
+    "Sound_ogg": "ch29jump.ogg",
+    "Sound_test": "ch29jump.m4a",
+    "_key": "Char_Jump_ch29"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch30jump.m4a",
+    "Sound_ogg": "ch30jump.ogg",
+    "Sound_test": "ch30jump.m4a",
+    "_key": "Char_Jump_ch30"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch31jump.m4a",
+    "Sound_ogg": "ch31jump.ogg",
+    "Sound_test": "ch31jump.m4a",
+    "_key": "Char_Jump_ch31"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch32jump.m4a",
+    "Sound_ogg": "ch32jump.ogg",
+    "Sound_test": "ch32jump.m4a",
+    "_key": "Char_Jump_ch32"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch33jump.m4a",
+    "Sound_ogg": "ch33jump.ogg",
+    "Sound_test": "ch33jump.m4a",
+    "_key": "Char_Jump_ch33"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch34jump.m4a",
+    "Sound_ogg": "ch34jump.ogg",
+    "Sound_test": "ch34jump.m4a",
+    "_key": "Char_Jump_ch34"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch35jump.m4a",
+    "Sound_ogg": "ch35jump.ogg",
+    "Sound_test": "ch35jump.m4a",
+    "_key": "Char_Jump_ch35"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch36jump.m4a",
+    "Sound_ogg": "ch36jump.ogg",
+    "Sound_test": "ch36jump.m4a",
+    "_key": "Char_Jump_ch36"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch37jump.m4a",
+    "Sound_ogg": "ch37jump.ogg",
+    "Sound_test": "ch37jump.m4a",
+    "_key": "Char_Jump_ch37"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch38jump.m4a",
+    "Sound_ogg": "ch38jump.ogg",
+    "Sound_test": "ch38jump.m4a",
+    "_key": "Char_Jump_ch38"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch39jump.m4a",
+    "Sound_ogg": "ch39jump.ogg",
+    "Sound_test": "ch39jump.m4a",
+    "_key": "Char_Jump_ch39"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40jump.m4a",
+    "Sound_ogg": "ch40jump.ogg",
+    "Sound_test": "ch40jump.m4a",
+    "_key": "Char_Jump_ch40"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a",
+    "_key": "Char_Jump_ch40_TigerForm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40jump.m4a",
+    "Sound_ogg": "ch40jump.ogg",
+    "Sound_test": "ch40jump.m4a",
+    "_key": "Char_Jump_ch40_lance"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a",
+    "_key": "Char_Jump_ch40_lance_TigerForm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch41jump.m4a",
+    "Sound_ogg": "ch41jump.ogg",
+    "Sound_test": "ch41jump.m4a",
+    "_key": "Char_Jump_ch41"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch42jump.m4a",
+    "Sound_ogg": "ch42jump.ogg",
+    "Sound_test": "ch42jump.m4a",
+    "_key": "Char_Jump_ch42"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_giantland.m4a",
+    "Sound_ogg": "g_giantland.ogg",
+    "Sound_test": "g_giantland.m4a",
+    "_key": "Char_Land_Gigantic"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch01slide.m4a",
+    "Sound_ogg": "ch01slide.ogg",
+    "Sound_test": "ch01slide.m4a",
+    "_key": "Char_Slide_ch01"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch02slide.m4a",
+    "Sound_ogg": "ch02slide.ogg",
+    "Sound_test": "ch02slide.m4a",
+    "_key": "Char_Slide_ch02"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch03slide.m4a",
+    "Sound_ogg": "ch03slide.ogg",
+    "Sound_test": "ch03slide.m4a",
+    "_key": "Char_Slide_ch03"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch04slide.m4a",
+    "Sound_ogg": "ch04slide.ogg",
+    "Sound_test": "ch04slide.m4a",
+    "_key": "Char_Slide_ch04"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch05slide.m4a",
+    "Sound_ogg": "ch05slide.ogg",
+    "Sound_test": "ch05slide.m4a",
+    "_key": "Char_Slide_ch05"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch06slide.m4a",
+    "Sound_ogg": "ch06slide.ogg",
+    "Sound_test": "ch06slide.m4a",
+    "_key": "Char_Slide_ch06"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch07slide.m4a",
+    "Sound_ogg": "ch07slide.ogg",
+    "Sound_test": "ch07slide.m4a",
+    "_key": "Char_Slide_ch07"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch08slide.m4a",
+    "Sound_ogg": "ch08slide.ogg",
+    "Sound_test": "ch08slide.m4a",
+    "_key": "Char_Slide_ch08"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch09slide.m4a",
+    "Sound_ogg": "ch09slide.ogg",
+    "Sound_test": "ch09slide.m4a",
+    "_key": "Char_Slide_ch09"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch10slide.m4a",
+    "Sound_ogg": "ch10slide.ogg",
+    "Sound_test": "ch10slide.m4a",
+    "_key": "Char_Slide_ch10"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch11slide.m4a",
+    "Sound_ogg": "ch11slide.ogg",
+    "Sound_test": "ch11slide.m4a",
+    "_key": "Char_Slide_ch11"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch12slide.m4a",
+    "Sound_ogg": "ch12slide.ogg",
+    "Sound_test": "ch12slide.m4a",
+    "_key": "Char_Slide_ch12"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch13slide.m4a",
+    "Sound_ogg": "ch13slide.ogg",
+    "Sound_test": "ch13slide.m4a",
+    "_key": "Char_Slide_ch13"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch14slide.m4a",
+    "Sound_ogg": "ch14slide.ogg",
+    "Sound_test": "ch14slide.m4a",
+    "_key": "Char_Slide_ch14"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch15slide.m4a",
+    "Sound_ogg": "ch15slide.ogg",
+    "Sound_test": "ch15slide.m4a",
+    "_key": "Char_Slide_ch15"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch16slide.m4a",
+    "Sound_ogg": "ch16slide.ogg",
+    "Sound_test": "ch16slide.m4a",
+    "_key": "Char_Slide_ch16"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch17slide.m4a",
+    "Sound_ogg": "ch02slide.ogg",
+    "Sound_test": "ch02slide.m4a",
+    "_key": "Char_Slide_ch17"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch18slide.m4a",
+    "Sound_ogg": "ch18slide.ogg",
+    "Sound_test": "ch18slide.m4a",
+    "_key": "Char_Slide_ch18"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch19slide.m4a",
+    "Sound_ogg": "ch19slide.ogg",
+    "Sound_test": "ch19slide.m4a",
+    "_key": "Char_Slide_ch19"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch20slide.m4a",
+    "Sound_ogg": "ch20slide.ogg",
+    "Sound_test": "ch20slide.m4a",
+    "_key": "Char_Slide_ch20"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch21slide.m4a",
+    "Sound_ogg": "ch21slide.ogg",
+    "Sound_test": "ch21slide.m4a",
+    "_key": "Char_Slide_ch21"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch22slide.m4a",
+    "Sound_ogg": "ch22slide.ogg",
+    "Sound_test": "ch22slide.m4a",
+    "_key": "Char_Slide_ch22"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch23slide.m4a",
+    "Sound_ogg": "ch23slide.ogg",
+    "Sound_test": "ch23slide.m4a",
+    "_key": "Char_Slide_ch23"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch24slide.m4a",
+    "Sound_ogg": "ch24slide.ogg",
+    "Sound_test": "ch24slide.m4a",
+    "_key": "Char_Slide_ch24"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch24slide_woman.m4a",
+    "Sound_ogg": "ch24slide_woman.ogg",
+    "Sound_test": "ch24slide_woman.m4a",
+    "_key": "Char_Slide_ch24_Woman"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch25slide.m4a",
+    "Sound_ogg": "ch25slide.ogg",
+    "Sound_test": "ch25slide.m4a",
+    "_key": "Char_Slide_ch25"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch26slide.m4a",
+    "Sound_ogg": "ch26slide.ogg",
+    "Sound_test": "ch26slide.m4a",
+    "_key": "Char_Slide_ch26"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27slide.m4a",
+    "Sound_ogg": "ch27slide.ogg",
+    "Sound_test": "ch27slide.m4a",
+    "_key": "Char_Slide_ch27"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27slide_1.m4a",
+    "Sound_ogg": "ch27slide_1.ogg",
+    "Sound_test": "ch27slide_1.m4a",
+    "_key": "Char_Slide_ch27_1"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch27slide_2.m4a",
+    "Sound_ogg": "ch27slide_2.ogg",
+    "Sound_test": "ch27slide_2.m4a",
+    "_key": "Char_Slide_ch27_2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch28slide.m4a",
+    "Sound_ogg": "ch28slide.ogg",
+    "Sound_test": "ch28slide.m4a",
+    "_key": "Char_Slide_ch28"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch29slide.m4a",
+    "Sound_ogg": "ch29slide.ogg",
+    "Sound_test": "ch29slide.m4a",
+    "_key": "Char_Slide_ch29"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch30slide.m4a",
+    "Sound_ogg": "ch30slide.ogg",
+    "Sound_test": "ch30slide.m4a",
+    "_key": "Char_Slide_ch30"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch31slide.m4a",
+    "Sound_ogg": "ch31slide.ogg",
+    "Sound_test": "ch31slide.m4a",
+    "_key": "Char_Slide_ch31"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch32slide.m4a",
+    "Sound_ogg": "ch32slide.ogg",
+    "Sound_test": "ch32slide.m4a",
+    "_key": "Char_Slide_ch32"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch33slide.m4a",
+    "Sound_ogg": "ch33slide.ogg",
+    "Sound_test": "ch33slide.m4a",
+    "_key": "Char_Slide_ch33"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch34slide.m4a",
+    "Sound_ogg": "ch34slide.ogg",
+    "Sound_test": "ch34slide.m4a",
+    "_key": "Char_Slide_ch34"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch35slide.m4a",
+    "Sound_ogg": "ch35slide.ogg",
+    "Sound_test": "ch35slide.m4a",
+    "_key": "Char_Slide_ch35"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch36slide.m4a",
+    "Sound_ogg": "ch36slide.ogg",
+    "Sound_test": "ch36slide.m4a",
+    "_key": "Char_Slide_ch36"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch37slide.m4a",
+    "Sound_ogg": "ch37slide.ogg",
+    "Sound_test": "ch37slide.m4a",
+    "_key": "Char_Slide_ch37"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch37slide.m4a",
+    "Sound_ogg": "ch37slide.ogg",
+    "Sound_test": "ch37slide.m4a",
+    "_key": "Char_Slide_ch38"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch39slide.m4a",
+    "Sound_ogg": "ch39slide.ogg",
+    "Sound_test": "ch39slide.m4a",
+    "_key": "Char_Slide_ch39"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40slide.m4a",
+    "Sound_ogg": "ch40slide.ogg",
+    "Sound_test": "ch40slide.m4a",
+    "_key": "Char_Slide_ch40"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40slide_tiger.m4a",
+    "Sound_ogg": "ch40slide_tiger.ogg",
+    "Sound_test": "ch40slide_tiger.m4a",
+    "_key": "Char_Slide_ch40_TigerForm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40slide.m4a",
+    "Sound_ogg": "ch40slide.ogg",
+    "Sound_test": "ch40slide.m4a",
+    "_key": "Char_Slide_ch40_lance"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40slide_tiger.m4a",
+    "Sound_ogg": "ch40slide_tiger.ogg",
+    "Sound_test": "ch40slide_tiger.m4a",
+    "_key": "Char_Slide_ch40_lance_TigerForm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch41slide.m4a",
+    "Sound_ogg": "ch41slide.ogg",
+    "Sound_test": "ch41slide.m4a",
+    "_key": "Char_Slide_ch41"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch42slide.m4a",
+    "Sound_ogg": "ch42slide.ogg",
+    "Sound_test": "ch42slide.m4a",
+    "_key": "Char_Slide_ch42"
+  },
+  {
+    "\ufeffCooltime": "1.5",
+    "Sound_m4a": "CheerLeader_CallFriends.m4a",
+    "Sound_ogg": "CheerLeader_CallFriends.ogg",
+    "Sound_test": "CheerLeader_CallFriends.m4a",
+    "_key": "CheerLeader_CallFriends"
+  },
+  {
+    "\ufeffCooltime": "1.5",
+    "Sound_m4a": "CheerLeader_Friends.m4a",
+    "Sound_ogg": "CheerLeader_Friends.ogg",
+    "Sound_test": "CheerLeader_Friends.m4a",
+    "_key": "CheerLeader_Friends"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Rescue_Blast_End.m4a",
+    "Sound_ogg": "Rescue_Blast_End.ogg",
+    "Sound_test": "Rescue_Blast_End.m4a",
+    "_key": "CheeseCakeFireworkExplosion"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Rescue_Blast_Start.m4a",
+    "Sound_ogg": "Rescue_Blast_Start.ogg",
+    "Sound_test": "Rescue_Blast_Start.m4a",
+    "_key": "CheeseCakeFireworkFire"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "ChocoKing_RedCarpet.m4a",
+    "Sound_ogg": "ChocoKing_RedCarpet.ogg",
+    "Sound_test": "ChocoKing_RedCarpet.m4a",
+    "_key": "ChocoKing_RedCarpet"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "CrusaderFlightEnd.m4a",
+    "Sound_ogg": "CrusaderFlightEnd.ogg",
+    "Sound_test": "CrusaderFlightEnd.m4a",
+    "_key": "CrusaderFlightEnd"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "CrusaderFlightRun.m4a",
+    "Sound_ogg": "CrusaderFlightRun.ogg",
+    "Sound_test": "CrusaderFlightRun.m4a",
+    "_key": "CrusaderFlightRun"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "CrusaderFlightStart.m4a",
+    "Sound_ogg": "CrusaderFlightStart.ogg",
+    "Sound_test": "CrusaderFlightStart.m4a",
+    "_key": "CrusaderFlightStart"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Figure_NormalScore.m4a",
+    "Sound_ogg": "Figure_NormalScore.ogg",
+    "Sound_test": "Figure_NormalScore.m4a",
+    "_key": "ExtraNormalScore"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Figure_CriticalScore.m4a",
+    "Sound_ogg": "Figure_CriticalScore.ogg",
+    "Sound_test": "Figure_CriticalScore.m4a",
+    "_key": "Figure_CriticalScore"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Figure_NormalScore.m4a",
+    "Sound_ogg": "Figure_NormalScore.ogg",
+    "Sound_test": "Figure_NormalScore.m4a",
+    "_key": "Figure_NormalScore"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "FireSpirit_ReviveStart.m4a",
+    "Sound_ogg": "FireSpirit_ReviveStart.ogg",
+    "Sound_test": "FireSpirit_ReviveStart.m4a",
+    "_key": "FireSpirit_ReviveStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformEnd.m4a",
+    "Sound_ogg": "FireSpirit_TransformEnd.ogg",
+    "Sound_test": "FireSpirit_TransformEnd.m4a",
+    "_key": "FireSpirit_TransformEnd"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformFlight.m4a",
+    "Sound_ogg": "FireSpirit_TransformFlight.ogg",
+    "Sound_test": "FireSpirit_TransformFlight.m4a",
+    "_key": "FireSpirit_TransformFlight"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformStart.m4a",
+    "Sound_ogg": "FireSpirit_TransformStart.ogg",
+    "Sound_test": "FireSpirit_TransformStart.m4a",
+    "_key": "FireSpirit_TransformStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch32skill.m4a",
+    "Sound_ogg": "ch32skill.ogg",
+    "Sound_test": "ch32skill.m4a",
+    "_key": "FortuneCookie_CastingSkill"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Gumiho_Trans.m4a",
+    "Sound_ogg": "Gumiho_Trans.ogg",
+    "Sound_test": "Gumiho_Trans.m4a",
+    "_key": "GumihoTransToFox"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Gumiho_Trans.m4a",
+    "Sound_ogg": "Gumiho_Trans.ogg",
+    "Sound_test": "Gumiho_Trans.m4a",
+    "_key": "GumihoTransToWoman"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "InviteNinja_Teleport.m4a",
+    "Sound_ogg": "InviteNinja_Teleport.ogg",
+    "Sound_test": "InviteNinja_Teleport.m4a",
+    "_key": "InviteNinja_TeleportSlide"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "JungleWarrior_JavelinCrash.m4a",
+    "Sound_ogg": "JungleWarrior_JavelinCrash.ogg",
+    "Sound_test": "JungleWarrior_JavelinCrash.m4a",
+    "_key": "JungleWarrior_JavelinCrash"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "JungleWarrior_ThrowingJavelin.m4a",
+    "Sound_ogg": "JungleWarrior_ThrowingJavelin.ogg",
+    "Sound_test": "JungleWarrior_ThrowingJavelin.m4a",
+    "_key": "JungleWarrior_ThrowingJavelin"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "JungleWarrior_TigerCrash.m4a",
+    "Sound_ogg": "JungleWarrior_TigerCrash.ogg",
+    "Sound_test": "JungleWarrior_TigerCrash.m4a",
+    "_key": "JungleWarrior_TigerCrash"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "JungleWarrior_TransformEnd.m4a",
+    "Sound_ogg": "JungleWarrior_TransformEnd.ogg",
+    "Sound_test": "JungleWarrior_TransformEnd.m4a",
+    "_key": "JungleWarrior_TransformEnd"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a",
+    "_key": "JungleWarrior_TransformFlight"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "JungleWarrior_TransformStart.m4a",
+    "Sound_ogg": "JungleWarrior_TransformStart.ogg",
+    "Sound_test": "JungleWarrior_TransformStart.m4a",
+    "_key": "JungleWarrior_TransformStart"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Magician_ChainLightning.m4a",
+    "Sound_ogg": "Magician_ChainLightning.ogg",
+    "Sound_test": "Magician_ChainLightning.m4a",
+    "_key": "MagicianChainLightning"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "Magician_ObsExplosion.m4a",
+    "Sound_ogg": "Magician_ObsExplosion.ogg",
+    "Sound_test": "Magician_ObsExplosion.m4a",
+    "_key": "MagicianObstacleExplosion"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "Magician_FlightEnd.m4a",
+    "Sound_ogg": "Magician_FlightEnd.ogg",
+    "Sound_test": "Magician_FlightEnd.m4a",
+    "_key": "MagicianSpecialSpellEnd"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "Magician_FlightStart.m4a",
+    "Sound_ogg": "Magician_FlightStart.ogg",
+    "Sound_test": "Magician_FlightStart.m4a",
+    "_key": "MagicianSpecialSpellFlightStart"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "Magician_ChangeStart.m4a",
+    "Sound_ogg": "Magician_ChangeStart.ogg",
+    "Sound_test": "Magician_ChangeStart.m4a",
+    "_key": "MagicianSpecialSpellStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch20passive.m4a",
+    "Sound_ogg": "ch20passive.ogg",
+    "Sound_test": "ch20passive.m4a",
+    "_key": "Passive_ch20"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch21passive.m4a",
+    "Sound_ogg": "ch21passive.ogg",
+    "Sound_test": "ch21passive.m4a",
+    "_key": "Passive_ch21"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch26passive.m4a",
+    "Sound_ogg": "ch26passive.ogg",
+    "Sound_test": "ch26passive.m4a",
+    "_key": "Passive_ch26"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch26passive.m4a",
+    "Sound_ogg": "ch26passive.ogg",
+    "Sound_test": "ch26passive.m4a",
+    "_key": "Passive_ch37"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch40passive.m4a",
+    "Sound_ogg": "ch40passive.ogg",
+    "Sound_test": "ch40passive.m4a",
+    "_key": "Passive_ch40"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch41passive.m4a",
+    "Sound_ogg": "ch41passive.ogg",
+    "Sound_test": "ch41passive.m4a",
+    "_key": "Passive_ch41"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "pet49passive.m4a",
+    "Sound_ogg": "pet49passive.ogg",
+    "Sound_test": "pet49passive.m4a",
+    "_key": "Passive_pet49"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "PinkCandyPet_AttractBearJellyMeteor.m4a",
+    "Sound_ogg": "PinkCandyPet_AttractBearJellyMeteor.ogg",
+    "Sound_test": "PinkCandyPet_AttractBearJellyMeteor.m4a",
+    "_key": "PinkCandyPet_AttractBearJellyMeteor"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "PinkCandyPet_BearMeteorCrash"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "PinkCandyPet_BearMeteorExplosion"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "PinkCandyPet_BearMeteorFall.m4a",
+    "Sound_ogg": "PinkCandyPet_BearMeteorFall.ogg",
+    "Sound_test": "PinkCandyPet_BearMeteorFall.m4a",
+    "_key": "PinkCandyPet_BearMeteorFall"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownFloor.m4a",
+    "Sound_ogg": "pf_MoveDownFloor.ogg",
+    "Sound_test": "pf_MoveDownFloor.m4a",
+    "_key": "Platform_MoveDownFloor"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownJump.m4a",
+    "Sound_ogg": "pf_MoveDownJump.ogg",
+    "Sound_test": "pf_MoveDownJump.m4a",
+    "_key": "Platform_MoveDownJump"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownSlide.m4a",
+    "Sound_ogg": "pf_MoveDownSlide.ogg",
+    "Sound_test": "pf_MoveDownSlide.m4a",
+    "_key": "Platform_MoveDownSlide"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_PillarOfFire.m4a",
+    "Sound_ogg": "pf_PillarOfFire.ogg",
+    "Sound_test": "pf_PillarOfFire.m4a",
+    "_key": "Platform_PillarOfFire"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_PopUpObstacle.m4a",
+    "Sound_ogg": "pf_PopUpObstacle.ogg",
+    "Sound_test": "pf_PopUpObstacle.m4a",
+    "_key": "Platform_PopUpObstacle"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "pf_SlowDownSlide.m4a",
+    "Sound_ogg": "pf_SlowDownSlide.ogg",
+    "Sound_test": "pf_SlowDownSlide.m4a",
+    "_key": "Platform_SlowDownSlide"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_page.m4a",
+    "Sound_ogg": "r_page.ogg",
+    "Sound_test": "r_page.m4a",
+    "_key": "RandomPet_Born"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_egg_crack2.m4a",
+    "Sound_ogg": "rp_egg_crack2.ogg",
+    "Sound_test": "rp_egg_crack2.m4a",
+    "_key": "RandomPet_Egg_Crack2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_a.m4a",
+    "Sound_ogg": "rp_result_a.ogg",
+    "Sound_test": "rp_result_a.m4a",
+    "_key": "RandomPet_Result_A"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_coin.m4a",
+    "Sound_ogg": "rp_result_coin.ogg",
+    "Sound_test": "rp_result_coin.m4a",
+    "_key": "RandomPet_Result_Coin"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_s.m4a",
+    "Sound_ogg": "rp_result_s.ogg",
+    "Sound_test": "rp_result_s.m4a",
+    "_key": "RandomPet_Result_S"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rt_loading.m4a",
+    "Sound_ogg": "rt_loading.ogg",
+    "Sound_test": "rt_loading.m4a",
+    "_key": "RandomTreasure_Loading"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rt_move_box.m4a",
+    "Sound_ogg": "rt_move_box.ogg",
+    "Sound_test": "rt_move_box.m4a",
+    "_key": "RandomTreasure_MoveBox"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rt_open_box.m4a",
+    "Sound_ogg": "rt_open_box.ogg",
+    "Sound_test": "rt_open_box.m4a",
+    "_key": "RandomTreasure_OpenBox"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_a.m4a",
+    "Sound_ogg": "rp_result_a.ogg",
+    "Sound_test": "rp_result_a.m4a",
+    "_key": "RandomTreasure_Result_A"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_coin.m4a",
+    "Sound_ogg": "rp_result_coin.ogg",
+    "Sound_test": "rp_result_coin.m4a",
+    "_key": "RandomTreasure_Result_BC"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "rp_result_s.m4a",
+    "Sound_ogg": "rp_result_s.ogg",
+    "Sound_test": "rp_result_s.m4a",
+    "_key": "RandomTreasure_Result_S"
+  },
+  {
+    "\ufeffCooltime": "0.05",
+    "Sound_m4a": "Ranger_ShotRifle.m4a",
+    "Sound_ogg": "Ranger_ShotRifle.ogg",
+    "Sound_test": "Ranger_ShotRifle.m4a",
+    "_key": "Ranger_ShotRifle"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "Ranger_StarCandyBomb"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_extrascore.m4a",
+    "Sound_ogg": "r_extrascore.ogg",
+    "Sound_test": "r_extrascore.m4a",
+    "_key": "Result_AdditionalScore"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_passed.m4a",
+    "Sound_ogg": "r_passed.ogg",
+    "Sound_test": "r_passed.m4a",
+    "_key": "Result_DefeatFriend"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a",
+    "_key": "Result_LevelReward"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a",
+    "_key": "Result_LevelUnlock"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_levelup.m4a",
+    "Sound_ogg": "r_levelup.ogg",
+    "Sound_test": "r_levelup.m4a",
+    "_key": "Result_LevelUp"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a",
+    "_key": "Result_Medal"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_score.m4a",
+    "Sound_ogg": "r_score.ogg",
+    "Sound_test": "r_score.m4a",
+    "_key": "Result_MyScore"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a",
+    "_key": "Result_NewRecord"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_page.m4a",
+    "Sound_ogg": "r_page.ogg",
+    "Sound_test": "r_page.m4a",
+    "_key": "Result_ScreenChange"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a",
+    "_key": "Result_Tip"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_01.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_01.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_01.m4a",
+    "_key": "RockStarMakeNoteJelly"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_01.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_01.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_01.m4a",
+    "_key": "RockStarMakeNoteJellyMaxSliding"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_02.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_02.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_02.m4a",
+    "_key": "RockStarMakeNoteJellyMaxSliding_1"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_03.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_03.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_03.m4a",
+    "_key": "RockStarMakeNoteJellyMaxSliding_2"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_02.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_02.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_02.m4a",
+    "_key": "RockStarMakeNoteJelly_1"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_03.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_03.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_03.m4a",
+    "_key": "RockStarMakeNoteJelly_2"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Rockstar_Gauge_Full_Notify.m4a",
+    "Sound_ogg": "Rockstar_Gauge_Full_Notify.ogg",
+    "Sound_test": "Rockstar_Gauge_Full_Notify.m4a",
+    "_key": "RockStarMaxSliding"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "",
+    "Sound_ogg": "",
+    "Sound_test": "",
+    "_key": "RockStarSliding"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a",
+    "_key": "Shop_Pet_Result_Pop"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "s_random_boost.m4a",
+    "Sound_ogg": "s_random_boost.ogg",
+    "Sound_test": "s_random_boost.m4a",
+    "_key": "Shop_Random_Boost"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "s_buy_success.m4a",
+    "Sound_ogg": "s_buy_success.ogg",
+    "Sound_test": "s_buy_success.m4a",
+    "_key": "Shop_buy_Success"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon1Start.m4a",
+    "Sound_ogg": "SnowSugar_Summon1Start.ogg",
+    "Sound_test": "SnowSugar_Summon1Start.m4a",
+    "_key": "SnowSugar_Summon1Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon2End.m4a",
+    "Sound_ogg": "SnowSugar_Summon2End.ogg",
+    "Sound_test": "SnowSugar_Summon2End.m4a",
+    "_key": "SnowSugar_Summon2End"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon2Start.m4a",
+    "Sound_ogg": "SnowSugar_Summon2Start.ogg",
+    "Sound_test": "SnowSugar_Summon2Start.m4a",
+    "_key": "SnowSugar_Summon2Start"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Soda_TransformEnd.m4a",
+    "Sound_ogg": "Soda_TransformEnd.ogg",
+    "Sound_test": "Soda_TransformEnd.m4a",
+    "_key": "Soda_TransformEnd"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Soda_TransformFlight.m4a",
+    "Sound_ogg": "Soda_TransformFlight.ogg",
+    "Sound_test": "Soda_TransformFlight.m4a",
+    "_key": "Soda_TransformFlight"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Soda_TransformStart.m4a",
+    "Sound_ogg": "Soda_TransformStart.ogg",
+    "Sound_test": "Soda_TransformStart.m4a",
+    "_key": "Soda_TransformStart"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "Soda_Wave_ObstacleBlowBack.m4a",
+    "Sound_ogg": "Soda_Wave_ObstacleBlowBack.ogg",
+    "Sound_test": "Soda_Wave_ObstacleBlowBack.m4a",
+    "_key": "Soda_Wave_ObstacleBlowBack"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever.m4a",
+    "Sound_ogg": "bgm_fever.ogg",
+    "Sound_test": "bgm_fever.m4a",
+    "_key": "SoundBgm_FeverModeBgm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever2.m4a",
+    "Sound_ogg": "bgm_fever2.ogg",
+    "Sound_test": "bgm_fever2.m4a",
+    "_key": "SoundBgm_FeverModeBgm2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever2_rockstar.m4a",
+    "Sound_ogg": "bgm_fever2_rockstar.ogg",
+    "Sound_test": "bgm_fever2_rockstar.m4a",
+    "_key": "SoundBgm_FeverModeBgm2_rockstar"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever3.m4a",
+    "Sound_ogg": "bgm_fever3.ogg",
+    "Sound_test": "bgm_fever3.m4a",
+    "_key": "SoundBgm_FeverModeBgm3"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever3_rockstar.m4a",
+    "Sound_ogg": "bgm_fever3_rockstar.ogg",
+    "Sound_test": "bgm_fever3_rockstar.m4a",
+    "_key": "SoundBgm_FeverModeBgm3_rockstar"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_fever_rockstar.m4a",
+    "Sound_ogg": "bgm_fever_rockstar.ogg",
+    "Sound_test": "bgm_fever_rockstar.m4a",
+    "_key": "SoundBgm_FeverModeBgm_rockstar"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_lobby.m4a",
+    "Sound_ogg": "bgm_lobby.ogg",
+    "Sound_test": "bgm_lobby.m4a",
+    "_key": "SoundBgm_LobbyBgm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_lobby.m4a",
+    "Sound_ogg": "bgm_lobby.ogg",
+    "Sound_test": "bgm_lobby.m4a",
+    "_key": "SoundBgm_LobbyBgm2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_main.m4a",
+    "Sound_ogg": "bgm_main.ogg",
+    "Sound_test": "bgm_main.m4a",
+    "_key": "SoundBgm_MainGameBgm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_main2.m4a",
+    "Sound_ogg": "bgm_main2.ogg",
+    "Sound_test": "bgm_main2.m4a",
+    "_key": "SoundBgm_MainGameBgm2"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_main3.m4a",
+    "Sound_ogg": "bgm_main3.ogg",
+    "Sound_test": "bgm_main3.m4a",
+    "_key": "SoundBgm_MainGameBgm3"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "bgm_main_rockstar.m4a",
+    "Sound_ogg": "bgm_main_rockstar.ogg",
+    "Sound_test": "bgm_main_rockstar.m4a",
+    "_key": "SoundBgm_RockStarBgm"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a",
+    "_key": "SoundEff_ActivityGiftPang"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "SoundEff_AlchemistChangeMagic.m4a",
+    "Sound_ogg": "SoundEff_AlchemistChangeMagic.ogg",
+    "Sound_test": "SoundEff_AlchemistChangeMagic.m4a",
+    "_key": "SoundEff_AlchemistChangeMagic"
+  },
+  {
+    "\ufeffCooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistExplosion.m4a",
+    "Sound_ogg": "SoundEff_AlchemistExplosion.ogg",
+    "Sound_test": "SoundEff_AlchemistExplosion.m4a",
+    "_key": "SoundEff_AlchemistExplosion"
+  },
+  {
+    "\ufeffCooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistReady.m4a",
+    "Sound_ogg": "SoundEff_AlchemistReady.ogg",
+    "Sound_test": "SoundEff_AlchemistReady.m4a",
+    "_key": "SoundEff_AlchemistReady"
+  },
+  {
+    "\ufeffCooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistThrowing.m4a",
+    "Sound_ogg": "SoundEff_AlchemistThrowing.ogg",
+    "Sound_test": "SoundEff_AlchemistThrowing.m4a",
+    "_key": "SoundEff_AlchemistThrowing"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Bard_Destruction.m4a",
+    "Sound_ogg": "Bard_Destruction.ogg",
+    "Sound_test": "Bard_Destruction.m4a",
+    "_key": "SoundEff_BardDestruction"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Bard_Life.m4a",
+    "Sound_ogg": "Bard_Life.ogg",
+    "Sound_test": "Bard_Life.m4a",
+    "_key": "SoundEff_BardLife"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Bard_Richness.m4a",
+    "Sound_ogg": "Bard_Richness.ogg",
+    "Sound_test": "Bard_Richness.m4a",
+    "_key": "SoundEff_BardRichness"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_combo.m4a",
+    "Sound_ogg": "g_combo.ogg",
+    "Sound_test": "g_combo.m4a",
+    "_key": "SoundEff_BonusCombo"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Cherry_Bomb.m4a",
+    "Sound_ogg": "Cherry_Bomb.ogg",
+    "Sound_test": "Cherry_Bomb.m4a",
+    "_key": "SoundEff_CherryBomb"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Cherry_Throwing_Mad.m4a",
+    "Sound_ogg": "Cherry_Throwing_Mad.ogg",
+    "Sound_test": "Cherry_Throwing_Mad.m4a",
+    "_key": "SoundEff_CherryBomb_Throwing_Mad"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Cherry_Throwing_Normal.m4a",
+    "Sound_ogg": "Cherry_Throwing_Normal.ogg",
+    "Sound_test": "Cherry_Throwing_Normal.m4a",
+    "_key": "SoundEff_CherryBomb_Throwing_Normal"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_obs3.m4a",
+    "Sound_ogg": "g_obs3.ogg",
+    "Sound_test": "g_obs3.m4a",
+    "_key": "SoundEff_CrashWithBody"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "SoundEff_CrashWithPower"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_obs1.m4a",
+    "Sound_ogg": "g_obs1.ogg",
+    "Sound_test": "g_obs1.m4a",
+    "_key": "SoundEff_CrashWithShield"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a",
+    "_key": "SoundEff_DailyBonus"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_feverin.m4a",
+    "Sound_ogg": "i_feverin.ogg",
+    "Sound_test": "i_feverin.m4a",
+    "_key": "SoundEff_FeverMode_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_end.m4a",
+    "Sound_ogg": "g_end.ogg",
+    "Sound_test": "g_end.m4a",
+    "_key": "SoundEff_GameEnd"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_start.m4a",
+    "Sound_ogg": "g_start.ogg",
+    "Sound_test": "g_start.m4a",
+    "_key": "SoundEff_GameStart"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_alphabet.m4a",
+    "Sound_ogg": "g_alphabet.ogg",
+    "Sound_test": "g_alphabet.m4a",
+    "_key": "SoundEff_GetAlphabetJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_alphabet.m4a",
+    "Sound_ogg": "g_alphabet.ogg",
+    "Sound_test": "g_alphabet.m4a",
+    "_key": "SoundEff_GetBearJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_BigBearJelly.m4a",
+    "Sound_ogg": "g_BigBearJelly.ogg",
+    "Sound_test": "g_BigBearJelly.m4a",
+    "_key": "SoundEff_GetBigBearJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_BigCoinJelly.m4a",
+    "Sound_ogg": "g_BigCoinJelly.ogg",
+    "Sound_test": "g_BigCoinJelly.m4a",
+    "_key": "SoundEff_GetBigCoinJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_coin.m4a",
+    "Sound_ogg": "g_coin.ogg",
+    "Sound_test": "g_coin.m4a",
+    "_key": "SoundEff_GetCoinJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_gold.m4a",
+    "Sound_ogg": "g_gold.ogg",
+    "Sound_test": "g_glod.m4a",
+    "_key": "SoundEff_GetGoldJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_GoldenBellJelly.m4a",
+    "Sound_ogg": "g_GoldenBellJelly.ogg",
+    "Sound_test": "g_GoldenBellJelly.m4a",
+    "_key": "SoundEff_GetGoldenBellJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_ijelly.m4a",
+    "Sound_ogg": "g_ijelly.ogg",
+    "Sound_test": "g_ijelly.m4a",
+    "_key": "SoundEff_GetItemJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_jelly.m4a",
+    "Sound_ogg": "g_jelly.ogg",
+    "Sound_test": "g_jelly.m4a",
+    "_key": "SoundEff_GetJelly"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_SoulJelly.m4a",
+    "Sound_ogg": "g_SoulJelly.ogg",
+    "Sound_test": "g_SoulJelly.m4a",
+    "_key": "SoundEff_GetSoulJelly"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_ghostmode_pass.m4a",
+    "Sound_ogg": "g_ghostmode_pass.ogg",
+    "Sound_test": "g_ghostmode_pass.m4a",
+    "_key": "SoundEff_GhostModeCrash"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_ghostmode_start.m4a",
+    "Sound_ogg": "g_ghostmode_start.ogg",
+    "Sound_test": "g_ghostmode_start.m4a",
+    "_key": "SoundEff_GhostMode_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_invincible.m4a",
+    "Sound_ogg": "i_invincible.ogg",
+    "Sound_test": "i_invincible.m4a",
+    "_key": "SoundEff_HeadBlast_Start"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "SoundEff_JellychoExplosion"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_large_energy.m4a",
+    "Sound_ogg": "i_large_energy.ogg",
+    "Sound_test": "i_large_energy.m4a",
+    "_key": "SoundEff_Large_Energy"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "SoundEff_ObstacleHeart.m4a",
+    "Sound_ogg": "SoundEff_ObstacleHeart.ogg",
+    "Sound_test": "SoundEff_ObstacleHeart.m4a",
+    "_key": "SoundEff_ObstacleHeart"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "SoundEff_ObstacleSoda.m4a",
+    "Sound_ogg": "SoundEff_ObstacleSoda.ogg",
+    "Sound_test": "SoundEff_ObstacleSoda.m4a",
+    "_key": "SoundEff_ObstacleSoda"
+  },
+  {
+    "\ufeffCooltime": "0.01",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "SoundEff_Pet_Bomb"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "SoundEff_Pet_Dragon_Crash"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_dragon_start.m4a",
+    "Sound_ogg": "g_dragon_start.ogg",
+    "Sound_test": "g_dragon_start.m4a",
+    "_key": "SoundEff_Pet_Dragon_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "pet_rescue.wav",
+    "Sound_ogg": "pet_rescue.wav",
+    "Sound_test": "pet_rescue.wav",
+    "_key": "SoundEff_Pet_Rescue"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Rescue_Blast_End.m4a",
+    "Sound_ogg": "Rescue_Blast_End.ogg",
+    "Sound_test": "Rescue_Blast_End.m4a",
+    "_key": "SoundEff_Pet_Rescue_Blast_End"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Rescue_Blast_Ready.m4a",
+    "Sound_ogg": "Rescue_Blast_Ready.ogg",
+    "Sound_test": "Rescue_Blast_Ready.m4a",
+    "_key": "SoundEff_Pet_Rescue_Blast_Ready"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "Rescue_Blast_Start.m4a",
+    "Sound_ogg": "Rescue_Blast_Start.ogg",
+    "Sound_test": "Rescue_Blast_Start.m4a",
+    "_key": "SoundEff_Pet_Rescue_Blast_Start"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SpotLight_Activated.m4a",
+    "Sound_ogg": "SpotLight_Activated.ogg",
+    "Sound_test": "SpotLight_Activated.m4a",
+    "_key": "SoundEff_Pet_Spotlight_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_relay.m4a",
+    "Sound_ogg": "g_relay.ogg",
+    "Sound_test": "g_relay.m4a",
+    "_key": "SoundEff_RelayRunning_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a",
+    "_key": "SoundEff_Revive_EffectStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_levelup.m4a",
+    "Sound_ogg": "r_levelup.ogg",
+    "Sound_test": "r_levelup.m4a",
+    "_key": "SoundEff_Revive_ReviveStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_small_energy.m4a",
+    "Sound_ogg": "i_small_energy.ogg",
+    "Sound_test": "i_small_energy.m4a",
+    "_key": "SoundEff_Small_Energy"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a",
+    "_key": "SoundEff_StarCandyExplosion"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a",
+    "_key": "SoundEff_TutorialPopup"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ui_1.m4a",
+    "Sound_ogg": "ui_1.ogg",
+    "Sound_test": "ui_1.m4a",
+    "_key": "SoundEff_UIButton"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ui_2.m4a",
+    "Sound_ogg": "ui_2.ogg",
+    "Sound_test": "ui_2.m4a",
+    "_key": "SoundEff_UIEquipmentButton"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "g_ijelly.m4a",
+    "Sound_ogg": "g_ijelly.ogg",
+    "Sound_test": "g_ijelly.m4a",
+    "_key": "SoundEff_item02_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_invincible.m4a",
+    "Sound_ogg": "i_invincible.ogg",
+    "Sound_test": "i_invincible.m4a",
+    "_key": "SoundEff_item03_Loop"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_giant.m4a",
+    "Sound_ogg": "i_giant.ogg",
+    "Sound_test": "i_giant.m4a",
+    "_key": "SoundEff_item04_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_magnet.m4a",
+    "Sound_ogg": "i_magnet.ogg",
+    "Sound_test": "i_magnet.m4a",
+    "_key": "SoundEff_item05_Loop"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_coin.m4a",
+    "Sound_ogg": "i_coin.ogg",
+    "Sound_test": "i_coin.m4a",
+    "_key": "SoundEff_item06_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "i_jelly.m4a",
+    "Sound_ogg": "i_jelly.ogg",
+    "Sound_test": "i_jelly.m4a",
+    "_key": "SoundEff_item07_Start"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "SoundEff_ObstacleHeart.m4a",
+    "Sound_ogg": "SoundEff_ObstacleHeart.ogg",
+    "Sound_test": "SoundEff_ObstacleHeart.m4a",
+    "_key": "SoundEffect_MagicalGirlMagicExplosion"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "SoundEffect_MagicalGirlMagicShot.m4a",
+    "Sound_ogg": "SoundEffect_MagicalGirlMagicShot.ogg",
+    "Sound_test": "SoundEffect_MagicalGirlMagicShot.m4a",
+    "_key": "SoundEffect_MagicalGirlMagicShot"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperDevil_ChangeStart.m4a",
+    "Sound_ogg": "SuperDevil_ChangeStart.ogg",
+    "Sound_test": "SuperDevil_ChangeStart.m4a",
+    "_key": "SuperDevil_ChangeStart"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperDevil_FlightEnd.m4a",
+    "Sound_ogg": "SuperDevil_FlightEnd.ogg",
+    "Sound_test": "SuperDevil_FlightEnd.m4a",
+    "_key": "SuperDevil_FlightEnd"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperDevil_FlightStart.m4a",
+    "Sound_ogg": "SuperDevil_FlightStart.ogg",
+    "Sound_test": "SuperDevil_FlightStart.m4a",
+    "_key": "SuperDevil_FlightStart"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperHero_ChangeStart.m4a",
+    "Sound_ogg": "SuperHero_ChangeStart.ogg",
+    "Sound_test": "SuperHero_ChangeStart.m4a",
+    "_key": "SuperHero_ChangeStart"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperHero_FlightEnd.m4a",
+    "Sound_ogg": "SuperHero_FlightEnd.ogg",
+    "Sound_test": "SuperHero_FlightEnd.m4a",
+    "_key": "SuperHero_FlightEnd"
+  },
+  {
+    "\ufeffCooltime": "1",
+    "Sound_m4a": "SuperHero_FlightStart.m4a",
+    "Sound_ogg": "SuperHero_FlightStart.ogg",
+    "Sound_test": "SuperHero_FlightStart.m4a",
+    "_key": "SuperHero_FlightStart"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ui_treasure_equip.m4a",
+    "Sound_ogg": "ui_treasure_equip.ogg",
+    "Sound_test": "ui_treasure_equip.m4a",
+    "_key": "Treasure_Equip"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ch36skill.m4a",
+    "Sound_ogg": "ch36skill.ogg",
+    "Sound_test": "ch36skill.m4a",
+    "_key": "UnripeSkillActivation"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ut_result_fail2.m4a",
+    "Sound_ogg": "ut_result_fail2.ogg",
+    "Sound_test": "ut_result_fail2.m4a",
+    "_key": "UpgradeTreasure_Fail"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ut_loading.m4a",
+    "Sound_ogg": "ut_loading.ogg",
+    "Sound_test": "ut_loading.m4a",
+    "_key": "UpgradeTreasure_Loading"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ut_loading_done.m4a",
+    "Sound_ogg": "ut_loading_done.ogg",
+    "Sound_test": "ut_loading_done.m4a",
+    "_key": "UpgradeTreasure_LoadingDone"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "ut_result_success.m4a",
+    "Sound_ogg": "ut_result_success.ogg",
+    "Sound_test": "ut_result_success.m4a",
+    "_key": "UpgradeTreasure_Success"
+  },
+  {
+    "\ufeffCooltime": "0.1",
+    "Sound_m4a": "VampireJumpAfterTransform.m4a",
+    "Sound_ogg": "VampireJumpAfterTransform.ogg",
+    "Sound_test": "VampireJumpAfterTransform.m4a",
+    "_key": "VampireJumpAfterTransform"
+  },
+  {
+    "\ufeffCooltime": "0",
+    "Sound_m4a": "VampireMakeJelly.m4a",
+    "Sound_ogg": "VampireMakeJelly.ogg",
+    "Sound_test": "VampireMakeJelly.m4a",
+    "_key": "VampireMakeJelly"
+  },
+  {
+    "\ufeffCooltime": "5",
+    "Sound_m4a": "VampireTransformEnd.m4a",
+    "Sound_ogg": "VampireTransformEnd.ogg",
+    "Sound_test": "VampireTransformEnd.m4a",
+    "_key": "VampireTransformEnd"
+  },
+  {
+    "\ufeffCooltime": "5",
+    "Sound_m4a": "VampireTransformStart.m4a",
+    "Sound_ogg": "VampireTransformStart.ogg",
+    "Sound_test": "VampireTransformStart.m4a",
+    "_key": "VampireTransformStart"
+  }
+]

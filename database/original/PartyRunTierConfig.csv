@@ -1,0 +1,11 @@
+﻿ingame_bot_entry_delay_sec,ingame_start_delay_sec,max_bot_party_count,max_party_count,min_human_party_count,mode,priority_start_delay_sec,tier_group_seq,_key
+35,50,8,16,2,SOLO,0,1,1
+0,999,0,3,3,DUO,1,5,10
+40,60,8,16,2,SOLO,0,2,2
+25,60,5,16,2,SOLO,0,3,3
+15,60,5,12,2,SOLO,0,4,4
+0,999,0,4,4,SOLO,1,5,5
+20,50,4,8,1,DUO,0,1,6
+20,60,4,8,1,DUO,0,2,7
+25,60,4,8,2,DUO,0,3,8
+10,60,2,6,2,DUO,0,4,9

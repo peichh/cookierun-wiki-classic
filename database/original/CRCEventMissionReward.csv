@@ -1,0 +1,451 @@
+﻿episode,event_seq,is_complete_reward,mission_description,mission_description_short,mission_order,mission_seq,need_count,page,reward_image_file_name,reward_image_plist_file_name,reward_name,reward_qty,reward_seq,reward_type,stat_category_id,stat_data_id,stat_goal_count,_key
+,28,0,,,1,7902,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,1
+,30,0,,,5,7916,50000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,5,0,G,,,,10
+,62,0,일반 에피소드 스테이지 4까지 3판,,1,8354,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,100
+,62,0,하루에 친구에게 3번 생명 보내기,,2,8355,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,101
+,62,0,파티런 솔로모드 2판하기,,3,8356,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,102
+,62,0,일반 에피소드 1판에 5000코인 획득하기,,4,8357,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,103
+,62,0,일일 미션 4개 전부 완료하기,,5,8358,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,104
+,63,0,일반 에피소드 스테이지 4까지 3판,,1,8359,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,105
+,63,0,하루에 친구에게 3번 생명 보내기,,2,8360,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,106
+,63,0,열쇠 2개 소모하기,,3,8361,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,107
+,63,0,일반 에피소드 1판에 5000코인 획득하기,,4,8362,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,108
+,63,0,일일 미션 4개 전부 완료하기,,5,8363,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,109
+,29,0,,,1,7907,5000000,1,reward_icon_gift_small.png,bc_reward_icon.plist,선물포인트,100,0,A,,,,11
+,64,0,일반 에피소드 스테이지 4까지 3판,,1,8364,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,110
+,64,0,하루에 친구에게 3번 생명 보내기,,2,8365,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,111
+,64,0,파티런 솔로모드 2판하기,,3,8366,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,112
+,64,0,일반 에피소드 1판에 5000코인 획득하기,,4,8367,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,113
+,64,0,일일 미션 4개 전부 완료하기,,5,8368,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,114
+,65,0,일반 에피소드 스테이지 4까지 3판,,1,8369,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,115
+,65,0,하루에 친구에게 3번 생명 보내기,,2,8370,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,116
+,65,0,열쇠 2개 소모하기,,3,8371,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,117
+,65,0,일반 에피소드 1판에 5000코인 획득하기,,4,8372,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,118
+,65,0,일일 미션 4개 전부 완료하기,,5,8373,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,119
+,29,0,,,2,7908,10000000,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,12
+,66,0,,,1,8374,1,1,reward_icon_dough03.png,bc_reward_icon.plist,금빛행운반죽,1,80003,S,,,,120
+,66,0,,,2,8375,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,121
+,66,0,,,3,8376,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,30000,,C,,,,122
+,66,0,,,4,8377,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,300,,P,,,,123
+,66,0,,,5,8378,1,1,reward_icon_boostset.png,bc_reward_icon.plist,부스트세트,3,2203,S,,,,124
+,66,0,,,6,8379,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,125
+,66,0,,,7,8380,1,1,reward_icon_dough02.png,bc_reward_icon.plist,은빛행운반죽,1,80002,S,,,,126
+,66,0,,,8,8381,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,127
+,66,0,,,9,8382,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,128
+,66,0,,,10,8383,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,129
+,29,0,,,3,7909,30000000,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,13
+,66,0,,,11,8384,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,300,,P,,,,130
+,66,0,,,12,8385,1,1,reward_icon_boostset.png,bc_reward_icon.plist,부스트세트,3,2203,S,,,,131
+,66,0,,,13,8386,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,132
+,66,0,,,14,8387,1,1,tr_event_95.png,bc_reward_icon.plist,보물,1,1520501,S,,,,133
+,69,0,10,,1,8440,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,1000,,C,,,,134
+,69,0,50,,2,8441,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,2000,,C,,,,135
+,69,0,100,,3,8442,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,,C,,,,136
+,69,0,150,,4,8443,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,4000,,C,,,,137
+,69,0,200,,5,8444,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,,C,,,,138
+,69,0,250,,6,8445,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,6000,,C,,,,139
+,29,0,,,4,7910,60000000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,5,0,G,,,,14
+,69,0,300,,7,8446,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,,C,,,,140
+,69,0,350,,8,8447,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,8000,,C,,,,141
+,69,0,400,,9,8448,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,9000,,C,,,,142
+,69,0,450,,10,8449,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,10000,,C,,,,143
+,69,0,500,,11,8450,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,11000,,C,,,,144
+,69,0,550,,12,8451,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,12000,,C,,,,145
+,69,0,600,,13,8452,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,13000,,C,,,,146
+,69,0,650,,14,8453,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,14000,,C,,,,147
+,69,0,700,,15,8454,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,15000,,C,,,,148
+,71,0,,,1,8470,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,149
+,29,0,,,5,7911,100000000,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,200,0,P,,,,15
+,71,0,,,2,8471,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,150
+,71,0,,,3,8472,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,151
+,71,0,,,4,8473,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,152
+,71,0,,,5,8474,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,153
+,72,0,,,1,8475,3000,1,reward_icon_life.png,bc_reward_icon.plist,체력강화,2,211,S,,,,154
+,72,0,,,2,8476,7500,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,155
+,72,0,,,3,8477,10000,1,reward_icon_dough01.png,bc_reward_icon.plist,갈색 행운반죽,1,80001,S,,,,156
+,72,0,,,4,8478,30000,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,200,0,P,,,,157
+,72,0,,,5,8479,50000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,5,0,G,,,,158
+,83,0,,,1,8552,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,159
+,34,0,Reach Stage 4 in Episode 1 (3 times),,1,7942,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,16
+,83,0,,,2,8553,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,160
+,83,0,,,3,8554,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,161
+,83,0,,,4,8555,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,162
+,83,0,,,5,8556,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,163
+,84,0,,,1,8557,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,164
+,84,0,,,2,8558,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,165
+,84,0,,,3,8559,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,166
+,84,0,,,4,8560,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,167
+,84,0,,,5,8561,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,168
+,98,0,10,,1,8807,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,169
+,34,0,Reach Lv.3,,2,7943,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,17
+,98,0,50,,2,8808,1,1,reward_icon_boostset.png,bc_reward_icon.plist,부스트세트,1,2201,S,,,,170
+,98,0,100,,3,8809,1,1,reward_icon_trTicketS_small.png,bc_reward_icon.plist,고급보물뽑기권,1,852,S,,,,171
+,98,0,150,,4,8810,1,1,reward_icon_dough01.png,bc_reward_icon.plist,갈색 행운반죽,1,80001,S,,,,172
+,98,0,200,,5,8811,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,0,G,,,,173
+,98,0,250,,6,8812,1,1,reward_icon_dough02.png,bc_reward_icon.plist,은빛 행운반죽,1,80002,S,,,,174
+,98,0,300,,7,8813,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,175
+,98,0,350,,8,8814,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,1000,0,P,,,,176
+,98,0,400,,9,8815,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,20,0,G,,,,177
+,98,0,450,,10,8816,1,1,reward_icon_dough03.png,bc_reward_icon.plist,금빛 행운반죽,1,80003,S,,,,178
+,98,0,500,,11,8817,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,2,853,S,,,,179
+,34,0,Use Random Boost 1 time,,3,7944,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,18
+,98,0,550,,12,8818,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,2000,0,P,,,,180
+,98,0,600,,13,8819,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,30,0,G,,,,181
+,98,0,650,,14,8820,1,1,reward_icon_dough03.png,bc_reward_icon.plist,금빛 행운반죽,1,80003,S,,,,182
+,98,0,700,,15,8821,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,2,853,S,,,,183
+,98,0,750,,16,8822,1,1,reward_icon_dough04.png,bc_reward_icon.plist,무지개빛 행운반죽,1,80004,S,,,,184
+,100,0,일반 에피소드 스테이지 4까지 3판,,1,9240,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,185
+,100,0,하루에 친구에게 3번 생명 보내기,,2,9241,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,186
+,100,0,파티런 솔로모드 2판하기,,3,9242,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,187
+,100,0,일반 에피소드 1판에 5000코인 획득하기,,4,9243,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,188
+,100,0,일일 미션 4개 전부 완료하기,,5,9244,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,189
+,34,0,"Earn 1,000 Coins (single run)",,4,7945,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,19
+,101,0,일반 에피소드 스테이지 4까지 3판,,1,9245,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,190
+,101,0,하루에 친구에게 3번 생명 보내기,,2,9246,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,191
+,101,0,열쇠 2개 소모하기,,3,9247,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,192
+,101,0,일반 에피소드 1판에 5000코인 획득하기,,4,9248,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,193
+,101,0,일일 미션 4개 전부 완료하기,,5,9249,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,194
+,102,0,일반 에피소드 스테이지 4까지 3판,,1,9250,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,195
+,102,0,하루에 친구에게 3번 생명 보내기,,2,9251,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,196
+,102,0,파티런 솔로모드 2판하기,,3,9252,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,197
+,102,0,일반 에피소드 1판에 5000코인 획득하기,,4,9253,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,198
+,102,0,일일 미션 4개 전부 완료하기,,5,9254,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,199
+,28,0,,,2,7903,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,2
+,34,0,Send Lives to friends 1 time,,5,7946,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,20
+,103,0,일반 에피소드 스테이지 4까지 3판,,1,9255,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,200
+,103,0,하루에 친구에게 3번 생명 보내기,,2,9256,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,201
+,103,0,열쇠 2개 소모하기,,3,9257,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,202
+,103,0,일반 에피소드 1판에 5000코인 획득하기,,4,9258,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,203
+,103,0,일일 미션 4개 전부 완료하기,,5,9259,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,204
+,104,0,Play 3 times in Normal Episode up to Stage 4,,1,9260,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,205
+,104,0,Send Lives to friends 3 times,,2,9261,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,206
+,104,0,Play Party Run (Solo) 2 times,,3,9262,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,207
+,104,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9263,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,208
+,104,0,Complete all 4 Daily Missions,,5,9264,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,209
+,34,1,Complete all the above missions,,6,7947,5,1,,,버터크림 초코쿠키,1,100601,S,,,,21
+,105,0,Play 3 times in Normal Episode up to Stage 4,,1,9265,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,210
+,105,0,Send Lives to friends 3 times,,2,9266,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,211
+,105,0,Use 2 Keys,,3,9267,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,212
+,105,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9268,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,213
+,105,0,Complete all 4 Daily Missions,,5,9269,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,214
+,106,0,Play 3 times in Normal Episode up to Stage 4,,1,9270,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,215
+,106,0,Send Lives to friends 3 times,,2,9271,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,216
+,106,0,Play Party Run (Solo) 2 times,,3,9272,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,217
+,106,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9273,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,218
+,106,0,Complete all 4 Daily Missions,,5,9274,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,219
+,34,1,Complete all the above missions,,7,7948,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,30000,0,C,,,,22
+,107,0,Play 3 times in Normal Episode up to Stage 4,,1,9275,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,220
+,107,0,Send Lives to friends 3 times,,2,9276,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,221
+,107,0,Use 2 Keys,,3,9277,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,222
+,107,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9278,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,223
+,107,0,Complete all 4 Daily Missions,,5,9279,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,224
+,108,0,Play 3 times in Normal Episode up to Stage 4,,1,9280,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,225
+,108,0,Send Lives to friends 3 times,,2,9281,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,226
+,108,0,Play Party Run (Solo) 2 times,,3,9282,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,227
+,108,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9283,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,228
+,108,0,Complete all 4 Daily Missions,,5,9284,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,229
+,35,0,Earn 10 million points in Episode 1,,1,7949,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,23
+,109,0,Play 3 times in Normal Episode up to Stage 4,,1,9285,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,230
+,109,0,Send Lives to friends 3 times,,2,9286,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,231
+,109,0,Use 2 Keys,,3,9287,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,232
+,109,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9288,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,233
+,109,0,Complete all 4 Daily Missions,,5,9289,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,234
+,110,0,Play 3 times in Normal Episode up to Stage 4,,1,9290,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,235
+,110,0,Send Lives to friends 3 times,,2,9291,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,236
+,110,0,Play Party Run (Solo) 2 times,,3,9292,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,237
+,110,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9293,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,238
+,110,0,Complete all 4 Daily Missions,,5,9294,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,239
+,35,0,Run in Ep. 1 with Buttercream Choco Cookie,,2,7950,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,24
+,111,0,Play 3 times in Normal Episode up to Stage 4,,1,9295,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,240
+,111,0,Send Lives to friends 3 times,,2,9296,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,241
+,111,0,Use 2 Keys,,3,9297,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,242
+,111,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9298,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,243
+,111,0,Complete all 4 Daily Missions,,5,9299,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,244
+,112,0,Play 3 times in Normal Episode up to Stage 4,,1,9300,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,245
+,112,0,Send Lives to friends 3 times,,2,9301,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,246
+,112,0,Play Party Run (Solo) 2 times,,3,9302,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,247
+,112,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9303,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,248
+,112,0,Complete all 4 Daily Missions,,5,9304,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,249
+,35,0,Use Random Boosts 5 times,,3,7951,5,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,25
+,113,0,Play 3 times in Normal Episode up to Stage 4,,1,9305,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,250
+,113,0,Send Lives to friends 3 times,,2,9306,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,251
+,113,0,Use 2 Keys,,3,9307,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,252
+,113,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9308,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,253
+,113,0,Complete all 4 Daily Missions,,5,9309,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,254
+,114,0,Play 3 times in Normal Episode up to Stage 4,,1,9310,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,255
+,114,0,Send Lives to friends 3 times,,2,9311,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,256
+,114,0,Play Party Run (Solo) 2 times,,3,9312,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,257
+,114,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9313,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,258
+,114,0,Complete all 4 Daily Missions,,5,9314,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,259
+,35,0,"Earn 3,000 Coins (single run)",,4,7952,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,26
+,115,0,Play 3 times in Normal Episode up to Stage 4,,1,9315,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,260
+,115,0,Send Lives to friends 3 times,,2,9316,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,261
+,115,0,Use 2 Keys,,3,9317,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,262
+,115,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9318,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,263
+,115,0,Complete all 4 Daily Missions,,5,9319,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,264
+,116,0,Play 3 times in Normal Episode up to Stage 4,,1,9320,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,265
+,116,0,Send Lives to friends 3 times,,2,9321,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,266
+,116,0,Play Party Run (Solo) 2 times,,3,9322,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,267
+,116,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9323,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,268
+,116,0,Complete all 4 Daily Missions,,5,9324,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,269
+,35,0,Send Lives to friends 10 times,,5,7953,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,27
+,117,0,Play 3 times in Normal Episode up to Stage 4,,1,9325,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,270
+,117,0,Send Lives to friends 3 times,,2,9326,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,271
+,117,0,Use 2 Keys,,3,9327,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,272
+,117,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9328,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,273
+,117,0,Complete all 4 Daily Missions,,5,9329,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,274
+,118,0,Play 3 times in Normal Episode up to Stage 4,,1,9330,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,275
+,118,0,Send Lives to friends 3 times,,2,9331,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,276
+,118,0,Play Party Run (Solo) 2 times,,3,9332,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,277
+,118,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9333,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,278
+,118,0,Complete all 4 Daily Missions,,5,9334,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,279
+,35,1,Complete all the above missions,,6,7954,5,1,,,용사맛 쿠키,1,100901,S,,,,28
+,119,0,Play 3 times in Normal Episode up to Stage 4,,1,9335,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,280
+,119,0,Send Lives to friends 3 times,,2,9336,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,281
+,119,0,Use 2 Keys,,3,9337,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,1,0,G,,,,282
+,119,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9338,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,283
+,119,0,Complete all 4 Daily Missions,,5,9339,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,284
+,123,0,파티런 패스 13단계 달성하기(유/무료 무관),,1,9407,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,13,0,G,,,,285
+,123,0,파티런 13회 플레이 하기,,2,9408,13,1,reward_icon_key_small.png,bc_reward_icon.plist,열쇠,13,0,K,,,,286
+,123,0,파티런 3라운드 이상 진출하기 13회,,3,9409,13,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,1313,0,P,,,,287
+,123,0,민들레요정맛 쿠키로 파티런 플레이 하기 13회,,4,9410,13,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,131313,0,C,,,,288
+,123,0,모든 미션 완료하기 (완료보상 : 젤리스킨),,5,9411,4,1,reward_icon_jelly_skin.png,bc_reward_icon.plist,13주년 기념 주화 젤리스킨,1,8200010,S,,,,289
+,35,1,Complete all the above missions,,7,7955,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,50000,,C,,,,29
+,127,0,파티런 패스 10단계 달성하기(유/무료 무관),,1,9419,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Treasure Ticket,2,853,S,,,,290
+,127,0,파티런 10회 플레이 하기,,2,9420,10,1,reward_icon_key_small.png,bc_reward_icon.plist,Keys,15,0,K,,,,291
+,127,0,파티런 3라운드 이상 진출하기 10회,,3,9421,10,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,100000,0,C,,,,292
+,127,0,파티런 2라운드 이상 진출하기 15회,,4,9422,15,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,1500,0,P,,,,293
+,127,0,모든 미션 완료하기,,5,9423,4,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,20,0,G,,,,294
+,130,0,,,1,9427,1,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,295
+,130,0,,,2,9428,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,296
+,130,0,,,3,9429,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,297
+,130,0,,,4,9430,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,298
+,130,0,,,5,9431,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,299
+,28,0,,,3,7904,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,3
+,36,0,Beat your high score in Ep. 1,,1,7956,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,30
+,131,0,,,1,9432,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,300
+,131,0,,,2,9433,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,301
+,131,0,,,3,9434,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,302
+,131,0,,,4,9435,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,303
+,131,0,,,5,9436,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,304
+,133,0,Play 3 times in Normal Episode up to Stage 4,,1,9455,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,3000,0,C,,,,305
+,133,0,Send Lives to friends 3 times,,2,9456,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,306
+,133,0,Play Party Run (Solo) 2 times,,3,9457,2,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,2,0,G,,,,307
+,133,0,"Earn 5,000 Coins in Normal Episode (single run)",,4,9458,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,50,0,P,,,,308
+,133,0,Complete all 4 Daily Missions,,5,9459,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,Soulstone Choice Chest (3 options),3,42002,S,,,,309
+,36,0,Reach Stage 3 in Episode 2,,2,7957,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,31
+,134,0,,,1,9473,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,310
+,134,0,,,2,9474,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,311
+,134,0,,,3,9475,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,300,,P,,,,312
+,134,0,,,4,9476,1,1,reward_icon_dough03.png,bc_reward_icon.plist,금빛행운반죽,1,80003,S,,,,313
+,134,0,,,5,9477,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,314
+,134,0,,,6,9478,1,1,reward_icon_dough02.png,bc_reward_icon.plist,은빛행운반죽,1,80002,S,,,,315
+,134,0,,,7,9479,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,300,,P,,,,316
+,134,0,,,8,9480,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,317
+,134,0,,,9,9481,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,10,,G,,,,318
+,134,0,,,10,9482,1,1,reward_icon_boostset.png,bc_reward_icon.plist,부스트세트,3,2203,S,,,,319
+,36,0,Buy Angel Cookie,,3,7958,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,32
+,134,0,,,11,9483,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,300,,P,,,,320
+,134,0,,,12,9484,1,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,30000,,C,,,,321
+,134,0,,,13,9485,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,최고급보물뽑기권,1,853,S,,,,322
+,134,0,,,14,9486,1,1,tr_event_119.png,bc_reward_icon.plist,보물,1,1522701,S,,,,323
+"1,2,3,4,5,6,503",135,0,거대생명물약 7개 획득하기,거대생명물약획득하기,1,9487,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,11,7,324
+"1,2,3,4,5,6,503",135,0,점프 많이하기 500회,점프 많이하기,2,9488,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,1,500,325
+"1,2,3,4,5,6,503",135,0,"은화 4,000개 획득하기",은화획득하기,3,9489,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,32,4000,326
+"1,2,3,4,5,6,503",135,0,보너스타임 5회 가기,보너스타임가기,4,9490,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,18,5,327
+"1,2,3,4,5,6,503",135,0,"젤리 많이 획득하기 16,000개",젤리많이획득하기,5,9491,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,6,16000,328
+"1,2,3,4,5,6,503",135,0,왕곰젤리 50개 획득하기,왕곰젤리 획득하기,6,9492,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,10,50,329
+,36,0,Send Lives to friends 15 times,,4,7959,15,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,33
+"1,2,3,4,5,6,503",135,0,색동별젤리파티 23개 획득하기,색동별젤리파티 획득,7,9493,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,30,23,330
+"1,2,3,4,5,6,503",135,0,게임중 점수 획득하기 1억점 이상,게임중점수획득하기,8,9494,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,21,10000,331
+"1,2,3,4,5,6,503",135,0,"노란곰젤리 4,000개 획득하기",노란곰젤리획득하기,9,9495,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,8,4000,332
+"1,2,3,4,5,6,503",135,0,오래달리기 480초 이상,오래달리기(초),10,9496,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,19,480,333
+"1,2,3,4,5,6,503",135,0,장애물 파괴하기 550개,장애물 파괴하기,11,9497,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,12,550,334
+"1,2,3,4,5,6,503",135,0,"게임중 35,000코인 획득하기",게임중코인획득하기,12,9498,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,22,35000,335
+"1,2,3,4,5,6,503",135,0,부활 22회 하기,부활많이하기,13,9499,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,15,22,336
+"1,2,3,4,5,6,503",135,0,슬라이드 오래하기 200초 이상,슬라이드 오래하기,14,9500,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,5,200,337
+"1,2,3,4,5,6,503",135,0,구멍에 16회 빠지기,구멍에빠지기,15,9501,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,16,16,338
+"1,2,3,4,5,6,503",135,0,"분홍곰젤리 3,000개 획득하기",분홍곰젤리 획득하기,16,9502,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,9,3000,339
+,36,0,Reach Lv.10,,5,7960,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,34
+"1,2,3,4,5,6,503",135,0,"슬라이드 했다 일어나기 1,700회",슬라이드했다일어나기,17,9503,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,31,1700,340
+"1,2,3,4,5,6,503",135,0,왕코인 160개 획득하기,왕코인획득하기,18,9504,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,34,160,341
+"1,2,3,4,5,6,503",135,0,한번도 피해입지않고 500초 버티기,한번도피해안입기(초),19,9505,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,36,500,342
+"1,2,3,4,5,6,503",135,0,"곰젤리파티로 곰젤리 4,500개 변화시키기",곰젤리파티로곰젤리변화시키기,20,9506,1,1,cookie_stone_ch92.png,crc_cookie_stone.plist,금강법사맛 쿠키 영혼석,1,500007,S,0,39,4500,343
+,138,0,,,1,9468,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,344
+,138,0,,,2,9469,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,345
+,138,0,,,3,9470,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,346
+,138,0,,,4,9471,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,347
+,138,0,,,5,9472,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,348
+,146,0,Reach Stage 4 in Episode 1 (3 times),,1,9548,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,349
+,36,1,Complete all the above missions,,6,7961,5,1,,,해적맛 쿠키,1,101601,S,,,,35
+,146,0,Reach Lv.3,,2,9549,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,350
+,146,0,Use Random Boost 1 time,,3,9550,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,351
+,146,0,"Earn 1,000 Coins (single run)",,4,9551,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,352
+,146,0,Send Lives to friends 1 time,,5,9552,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,353
+,146,1,Complete all the above missions,,6,9553,5,1,,,버터크림 초코쿠키,1,100601,S,,,,354
+,146,1,Complete all the above missions,,7,9554,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,30000,0,C,,,,355
+,147,0,Earn 10 million points in Episode 1,,1,9556,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,356
+,147,0,Run in Ep. 1 with Buttercream Choco Cookie,,2,9557,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,357
+,147,0,Use Random Boosts 5 times,,3,9558,5,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,358
+,147,0,"Earn 5,000 Coins (single run)",,4,9559,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,359
+,36,1,Complete all the above missions,,7,7962,5,1,,,커피맛 쿠키,1,101001,S,,,,36
+,147,0,Send Lives to friends 10 times,,5,9560,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,360
+,147,1,Complete all the above missions,,6,9561,5,1,,,용사맛 쿠키,1,100901,S,,,,361
+,147,1,Complete all the above missions,,7,9562,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,50000,0,C,,,,362
+,148,0,Beat your high score in Episode 1,,1,9564,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,363
+,148,0,Reach Stage 3 in Episode 2,,2,9565,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,364
+,148,0,Earn 10 million points with Knight Cookie,,3,9566,10000000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,365
+,148,0,Send Lives to friends 15 times,,4,9567,15,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,366
+,148,0,Reach Lv.10,,5,9568,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,367
+,148,1,Complete all the above missions,,6,9569,5,1,,,해적맛 쿠키,1,101601,S,,,,368
+,148,1,Complete all the above missions,,7,9570,5,1,,,커피맛 쿠키,1,101001,S,,,,369
+,37,0,일반 에피소드 스테이지 4까지 3판,,1,8314,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,37
+,149,0,Reach Stage 6 with Coffee Cookie,,1,9572,6,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,370
+,149,0,Revive with Pirate Cookie 1 time,,2,9573,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,371
+,149,0,Beat your high score in Episode 2,,3,9574,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,372
+,149,0,Run 60 seconds without collision,,4,9575,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,373
+,149,0,Reach Lv.15,,5,9576,15,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,374
+,149,1,Complete all the above missions,,6,9577,5,1,,,마법사맛 쿠키,1,102501,S,,,,375
+,149,1,Complete all the above missions,,7,9578,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,50000,0,C,,,,376
+,150,0,Play XP-Elixir Workshop,,1,9579,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,377
+,150,0,"Earn 3,000 XP in the XP-Elixir Workshop",,2,9580,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,378
+,150,0,Play Episode 2 with Wizard Cookie,,3,9581,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,379
+,37,0,하루에 친구에게 3번 생명 보내기,,2,8315,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,38
+,150,0,Reach 15 million points with Wizard Cookie,,4,9582,15000000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,380
+,150,0,Reach 20 million points (single run),,5,9583,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,381
+,150,1,Complete all the above missions,,6,9584,5,1,,,히어로맛 쿠키,1,101901,S,,,,382
+,150,1,Complete all the above missions,,7,9585,5,1,,,젤리코 큐브,1,202401,S,,,,383
+,151,0,Play Island of Coins,,1,9586,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,384
+,151,0,"Earn 5,000 Coins on the Island of Coins",,2,9587,5000,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,385
+,151,0,Run 70 seconds without collision,,3,9588,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,386
+,151,0,"Earn 7,000 Coins (single run)",,4,9589,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,387
+,151,0,Play Episode 3 with Hero Cookie,,5,9590,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,388
+,151,1,Complete all the above missions,,6,9591,5,1,,,민트초코 쿠키,1,104601,S,,,,389
+,,0,파티런 1판하기,,3,7938,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,39
+,151,1,Complete all the above missions,,7,9592,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,100000,0,C,,,,390
+,152,0,Earn 3 Stars in the Tower of Frozen Waves,,1,9593,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,391
+,152,0,Play Tower of Frozen Waves 3 times,,2,9594,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,392
+,152,0,Beat your high score in Episode 3,,3,9595,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,393
+,152,0,"Earn 10,000 Coins (single run)",,4,9596,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,394
+,152,0,Reach Stage 4 in Episode 5 3 times,,5,9597,3,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,395
+,152,1,Complete all the above missions,,6,9598,5,1,,,다이노사워 쿠키,1,106401,S,,,,396
+,152,1,Complete all the above missions,,7,9599,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,150000,0,C,,,,397
+,153,0,Reach 40 million points (single run),,1,9600,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,398
+,153,0,Earn 20 Stars in the Tower of Frozen Waves,,2,9601,20,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,399
+,28,0,,,4,7905,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,4
+,37,0,일반 에피소드 1판에 5000코인 획득하기,,4,8316,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,40
+,153,0,Beat your high score in Episode 5,,3,9602,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,400
+,153,0,Run 180 seconds without collision,,4,9603,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,401
+,153,0,Reach Lv.15,,5,9604,25,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,402
+,153,1,Complete all the above missions,,6,9605,5,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키의 영혼석,4,500005,S,,,,403
+,153,1,Complete all the above missions,,7,9606,5,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,30,0,G,,,,404
+,154,0,Reach 60 million points (single run),,1,9607,1,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,405
+,154,0,Earn 30 Stars in the Tower of Frozen Waves,,2,9608,30,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,406
+,154,0,Beat your high score in Episode 6,,3,9609,1,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,407
+,154,0,Run 200 seconds without collision,,4,9610,1,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,408
+,154,0,Reach Lv.30,,5,9611,30,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,409
+,37,0,일일 미션 4개 전부 완료하기,,6,8318,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,41
+,154,1,Complete all the above missions,,6,9612,5,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키의 영혼석,4,500004,S,,,,410
+,154,1,Complete all the above missions,,7,9613,5,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,30,0,G,,,,411
+,155,0,,,1,9615,1,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,412
+,155,0,,,2,9616,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,5000,0,C,,,,413
+,155,0,,,3,9617,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,7000,0,C,,,,414
+,155,0,,,4,9618,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,415
+,155,0,,,5,9619,10,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,3,0,G,,,,416
+,156,0,,,1,9620,3000,1,reward_icon_life.png,bc_reward_icon.plist,HP Extension,2,211,S,,,,417
+,156,0,,,2,9621,7500,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,418
+,156,0,,,3,9622,10000,1,reward_icon_dough01.png,bc_reward_icon.plist,Brown Dough,1,80001,S,,,,419
+,156,0,,,4,9623,30000,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,200,0,P,,,,420
+,156,0,,,5,9624,50000,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,5,0,G,,,,421
+,157,0,,,1,9625,1,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,422
+,157,0,,,2,9626,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,5000,0,C,,,,423
+,157,0,,,3,9627,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,7000,0,C,,,,424
+,157,0,,,4,9628,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,425
+,157,0,,,5,9629,10,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,3,0,G,,,,426
+,158,0,,,1,9630,3000,1,reward_icon_life.png,bc_reward_icon.plist,HP Extension,2,211,S,,,,427
+,158,0,,,2,9631,7500,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,428
+,158,0,,,3,9632,10000,1,reward_icon_dough01.png,bc_reward_icon.plist,Brown Dough,1,80001,S,,,,429
+"1,2,3,4,5,503",38,0,점프 많이하기 500회,점프 많이 하기,1,7983,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,1,500,43
+,158,0,,,4,9633,30000,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,200,0,P,,,,430
+,158,0,,,5,9634,50000,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,5,0,G,,,,431
+,159,0,,,1,9635,1,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,432
+,159,0,,,2,9636,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,5000,0,C,,,,433
+,159,0,,,3,9637,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,7000,0,C,,,,434
+,159,0,,,4,9638,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,435
+,159,0,,,5,9639,10,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,3,0,G,,,,436
+,160,0,,,1,9640,3000,1,reward_icon_life.png,bc_reward_icon.plist,HP Extension,2,211,S,,,,437
+,160,0,,,2,9641,7500,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,438
+,160,0,,,3,9642,10000,1,reward_icon_dough01.png,bc_reward_icon.plist,Brown Dough,1,80001,S,,,,439
+"1,2,3,4,5,503",38,0,장애물충돌해서피해입기 40회,장애물 충돌하기,2,7984,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,14,40,44
+,160,0,,,4,9643,30000,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,200,0,P,,,,440
+,160,0,,,5,9644,50000,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,5,0,G,,,,441
+,161,0,,,1,9645,1,1,reward_icon_relay.png,bc_reward_icon.plist,Cookie Relay,1,215,S,,,,442
+,161,0,,,2,9646,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,5000,0,C,,,,443
+,161,0,,,3,9647,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,7000,0,C,,,,444
+,161,0,,,4,9648,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,100,0,P,,,,445
+,161,0,,,5,9649,10,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,3,0,G,,,,446
+,162,0,Reach Party Run Pass Level 10 (Free/Premium),,1,9650,1,1,reward_icon_trTicketSS_small.png,bc_reward_icon.plist,Supreme Treasure Ticket,2,853,S,,,,447
+,162,0,Play Party Run 10 times,,2,9651,10,1,reward_icon_key_small.png,bc_reward_icon.plist,Keys,15,0,K,,,,448
+,162,0,Reach Round 3 in Party Run 10 times,,3,9652,10,1,reward_icon_coin_small.png,bc_reward_icon.plist,Coins,100000,0,C,,,,449
+"1,2,3,4,5,503",38,0,슬라이드 오래하기 200초 이상,슬라이드 오래하기,3,7985,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,5,200,45
+,162,0,Reach Round 2 in Party Run 15 times,,4,9653,15,1,reward_icon_spell_small.png,bc_reward_icon.plist,Magic Powder,1500,0,P,,,,450
+,162,0,Complete all Missions,,5,9654,4,1,reward_icon_crystal.png,bc_reward_icon.plist,Crystals,20,0,G,,,,451
+"1,2,3,4,5,503",38,0,장애물 파괴하기 500개,장애물 파괴하기,4,7986,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,12,500,46
+"1,2,3,4,5,503",38,0,2단 점프 많이하기 1200회,2단점프 하기,5,7987,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,3,1200,47
+"1,2,3,4,5,503",38,0,오래달리기 500초 이상,오래달리기(초),6,7988,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,19,500,48
+"1,2,3,4,5,503",38,0,슬라이드 했다 일어나기 2000회,슬라이드했다일어나기,7,7989,1,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,0,31,2000,49
+,28,0,,,5,7906,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,5
+,38,1,뼈살이꽃 미션 모두 완료하기	,,8,7990,7,1,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키 영혼석,7,500004,S,,,,50
+"1,2,3,4,5,503",38,0,"은화 3,000개 획득하기",은화 획득하기,1,7991,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,32,3000,51
+"1,2,3,4,5,503",38,0,왕곰젤리 55개 획득하기,왕곰젤리 획득하기,2,7992,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,10,55,52
+"1,2,3,4,5,503",38,0,"노란곰젤리 5,500개 획득하기",노란곰젤리 획득하기,3,7993,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,8,5500,53
+"1,2,3,4,5,503",38,0,색동별젤리파티 25개 획득하기,색동별젤리파티 획득,4,7994,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,30,25,54
+"1,2,3,4,5,503",38,0,"분홍곰젤리 3,000개 획득하기",분홍곰젤리 획득하기,5,7995,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,9,3000,55
+"1,2,3,4,5,503",38,0,"모든젤리 25,000개 획득하기",모든 젤리 획득하기,6,7996,1,2,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,0,6,25000,56
+,38,1,살살이꽃 미션 모두 완료하기,,7,7997,6,2,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키 영혼석,7,500004,S,,,,57
+"1,2,3,4,5,503",38,0,보너스타임 8회가기,보너스타임횟수,1,7998,1,3,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,500,0,P,0,18,8,58
+"1,2,3,4,5,503",38,0,거대생명물약 10개 획득하기,거대생명물약획득하기,2,7999,1,3,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,500,0,P,0,11,10,59
+,30,0,,,1,7912,3000,1,reward_icon_life.png,bc_reward_icon.plist,체력강화,2,211,S,,,,6
+"1,2,3,4,5,503",38,0,구출 17회 하기,구멍에서 구출하기,3,8000,1,3,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,500,0,P,0,17,17,60
+"1,2,3,4,5,503",38,0,부활 25회 하기,부활 많이 하기,4,8001,1,3,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,500,0,P,0,15,25,61
+"1,2,3,4,5,503",38,0,한번도 피해입지않고 500초 버티기,한번도피해안입기(초),5,8002,1,3,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,500,0,P,0,36,500,62
+,38,1,숨살이꽃 미션 모두 완료하기,,6,8003,5,3,cookie_stone_ch81.png,crc_cookie_stone.plist,바리공주맛 쿠키 영혼석,6,500004,S,,,,63
+,43,0,,,1,8081,1,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,64
+,43,0,,,2,8082,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,5000,0,C,,,,65
+,43,0,,,3,8083,5,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,7000,0,C,,,,66
+,43,0,,,4,8084,7,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,67
+,43,0,,,5,8085,10,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,3,0,G,,,,68
+,37,0,열쇠 2개 소모하기,,5,8317,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,69
+,30,0,,,2,7913,7500,1,reward_icon_relay.png,bc_reward_icon.plist,이어달리기,1,215,S,,,,7
+"1,2,3,4,5,503",57,0,"젤리 많이 획득하기 18,000개",젤리많이획득하기,1,8294,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,6,18000,70
+"1,2,3,4,5,503",57,0,보너스타임 5회 가기,보너스타임가기,2,8295,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,18,5,71
+"1,2,3,4,5,503",57,0,"은화 4,000개 획득하기",은화획득하기,3,8296,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,32,4000,72
+"1,2,3,4,5,503",57,0,점프 많이하기 600회,점프 많이하기,4,8297,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,1,600,73
+"1,2,3,4,5,503",57,0,거대생명물약 8개 획득하기,거대생명물약획득하기,5,8298,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,11,8,74
+"1,2,3,4,5,503",57,0,오래달리기 450초 이상,오래달리기(초),6,8299,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,19,450,75
+"1,2,3,4,5,503",57,0,슬라이드 오래하기 200초 이상,슬라이드 오래하기,7,8300,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,5,200,76
+"1,2,3,4,5,503",57,0,"게임중 점수 획득하기 100,000,000점 이상",게임중점수획득하기,8,8301,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,21,10000,77
+"1,2,3,4,5,503",57,0,장애물 파괴하기 400개,장애물 파괴하기,9,8302,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,12,400,78
+"1,2,3,4,5,503",57,0,부활 20회 하기,부활많이하기,10,8303,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,15,20,79
+,30,0,,,3,7914,10000,1,reward_icon_dough01.png,bc_reward_icon.plist,갈색 행운반죽,1,80001,S,,,,8
+"1,2,3,4,5,503",57,0,"노란곰젤리 5,000개 획득하기",노란곰젤리획득하기,11,8304,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,8,5000,80
+"1,2,3,4,5,503",57,0,색동별젤리파티 25개 획득하기,색동별젤리파티 획득,12,8305,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,30,25,81
+"1,2,3,4,5,503",57,0,"게임중 코인 40,000개 획득하기",게임중코인획득하기,13,8306,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,22,40000,82
+"1,2,3,4,5,503",57,0,왕코인 150개 획득하기,왕코인획득하기,14,8307,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,34,150,83
+"1,2,3,4,5,503",57,0,구멍에 16회 빠지기,구멍에빠지기,15,8308,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,16,16,84
+"1,2,3,4,5,503",57,0,알파벳젤리 300개 획득하기,알파벳젤리 획득하기,16,8309,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,45,300,85
+"1,2,3,4,5,503",57,0,"보너스타임점수 11,000,000점 이상",보너스타임점수,17,8310,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,43,1100,86
+"1,2,3,4,5,503",57,0,한번도 피해입지않고 500초 버티기,한번도피해안입기(초),18,8311,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,36,500,87
+"1,2,3,4,5,503",57,0,"곰젤리파티로 곰젤리 4,000개 변화시키기",곰젤리파티로곰젤리변화시키기,19,8312,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,39,4000,88
+"1,2,3,4,5,503",57,0,"슬라이드 했다 일어나기 2,000회",슬라이드했다일어나기,20,8313,1,1,cookie_stone_ch85.png,crc_cookie_stone.plist,충무김밥맛 쿠키 영혼석,1,500005,S,0,31,2000,89
+,30,0,,,4,7915,30000,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,200,0,P,,,,9
+,60,0,일반 에피소드 스테이지 4까지 3판,,1,8344,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,90
+,60,0,하루에 친구에게 3번 생명 보내기,,2,8345,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,91
+,60,0,파티런 2판하기,,3,8346,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,2,0,G,,,,92
+,60,0,일반 에피소드 1판에 5000코인 획득하기,,4,8347,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,93
+,60,0,일일 미션 4개 전부 완료하기,,5,8348,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,94
+,61,0,일반 에피소드 스테이지 4까지 3판,,1,8349,3,1,reward_icon_coin_small.png,bc_reward_icon.plist,코인,3000,0,C,,,,95
+,61,0,하루에 친구에게 3번 생명 보내기,,2,8350,3,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,100,0,P,,,,96
+,61,0,열쇠 2개 소모하기,,3,8351,2,1,reward_icon_crystal.png,bc_reward_icon.plist,크리스탈,1,0,G,,,,97
+,61,0,일반 에피소드 1판에 5000코인 획득하기,,4,8352,1,1,reward_icon_spell_small.png,bc_reward_icon.plist,마법가루,50,0,P,,,,98
+,61,0,일일 미션 4개 전부 완료하기,,5,8353,4,1,reward_icon_cookie_stone_box_ss.png,bc_reward_icon.plist,영혼석 선택상자 (쿠키2종),3,42001,S,,,,99

@@ -1,0 +1,106 @@
+{
+  "episode": "epS01",
+  "total_jellies": 0,
+  "estimated_base_score": 0,
+  "jelly_breakdown": {},
+  "stages": [
+    {
+      "stage": "9001",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9002",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "10001",
+      "speed": "1300",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "1",
+      "speed": "850",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1050",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1050",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1050",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1100",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "1200",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    }
+  ]
+}

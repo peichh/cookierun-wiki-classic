@@ -1,0 +1,6 @@
+﻿CcbLayerTag,CcbiFileName,EpisodeId,VisibleEndTime,VisibleStartTime,type,_key
+10001,map_crowShop.ccbi,,2000-10-02 17:00:01,2000-10-02 17:00:01,blackMarket,10001
+10001,map_xmasShop.ccbi,,2016-09-19 23:59:59,2016-09-09 00:00:01,squirrelShop,10002
+10001,map_xmasShop.ccbi,,2016-09-19 23:59:59,2016-09-09 00:00:01,squirrelShop,10003
+10001,map_xmasShop.ccbi,,2026-05-06 23:59:59,2026-03-31 10:30:01,squirrelShop,10004
+10002,map_epEV01_info.ccbi,601,2025-03-27 10:10:59,2024-01-24 11:00:01,episode,10005

@@ -1,0 +1,2 @@
+﻿EpisodeId_1,EpisodeId_2,EpisodeId_3,EpisodeId_4,EpisodeId_5,EventEndTime,EventStartTime,IsShowComplete,IsShowOnMap,IsShowRankCell,IsShowWithMyCell,MaxScore_1,MaxScore_2,MaxScore_3,MaxScore_4,MaxScore_501,MinScore_1,MinScore_2,MinScore_3,MinScore_4,MinScore_501,MissionId_1,MissionId_2,MissionId_3,MissionId_4,MissionId_501,noticeId,_key
+1,2,3,4,501,2015-03-31 23:59:59,2015-03-31 00:00:01,1,1,1,1,300000000,300000000,300000000,300000000,50000,1000000,1000000,1000000,1000000,2000,2356,2357,2358,2359,2360,335,1

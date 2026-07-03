@@ -1,0 +1,220 @@
+﻿AmbienceKeyString,BackgroundResourceString,Bg1_Hide,Bg1_Loop,Bg1_MoveRate,Bg1_MoveRateY,Bg1_MustShow,Bg2_Hide,Bg2_Loop,Bg2_MoveRate,Bg2_MoveRateY,Bg2_MustShow,Bg3_Hide,Bg3_Loop,Bg3_MoveRate,Bg3_MoveRateY,Bg3_MustShow,Bg4_Hide,Bg4_Loop,Bg4_MoveRate,Bg4_MoveRateY,Bg4_MustShow,Bg5_Hide,Bg5_Loop,Bg5_MoveRate,Bg5_MoveRateY,Bg5_MustShow,FloorOffsetY,LinkedEquipmentGroupSeq,MoveType,NumOfExtraPlatformTexture,PlatformResourceString,SecondaryBackgroundResourceString,SnowEffectTexture,SnowOffsetY,SnowSize,SnowSpeedY,SnowTotalParticles,SoundKeyString,ThemeLoadType,ThemeName,ThemeType,_key
+,epN01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm01,,,,,,,,0,1. The Witch's Oven,Normal,101
+,epN01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm02,,,,,,,,0,2. The Witch's Kitchen,Normal,102
+,epN01_tm03_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN01_tm03,,,,,,,,0,3. Dark Forest Path,Normal,103
+,epN01_tm04_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm04,,,,,,,,0,4. Underground Tunnel,Normal,104
+,epN01_tm05_bg,0,1,0.1,0,1,0,1,0.4,0,1,0,1,0.8,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm05,,,,,,,,0,5. Sunflower Forest,Normal,105
+,epN01_tm06_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm06,,,,,,,,0,6. Sunlit Beach,Normal,106
+,epN01_tm07_bg,0,1,0.006,0,1,0,1,0.05,0,1,0,1,0.2,0,0,0,1,0.15,0,0,0,0,0,0,0,,0,0,,epN01_tm07,,,,,,,,0,7. Moonlit Beach,Normal,107
+,epN01_tm08_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm08,,,,,,,,0,8. Sprinkled Ice Cream Hills,Normal,108
+,epN01_tm09_bg,0,1,0.03,0,1,0,1,0.06,0,1,0,1,0.1,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm09,,,,,,,,0,9. Cream Puff Canyon,Normal,109
+,epN01_tm10_bg,0,1,0.3,0,1,0,1,0.6,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm10,,,,,,,,0,10. Crystal Jelly Cave,Normal,110
+,epN01_tm11_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm11,,,,,,,,0,11. Cookie Castle Ruins,Normal,111
+,epN01_tm11_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm11,,,,,,,,0,,Normal,112
+,epN01_tm11_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm11,,,,,,,,0,,Normal,113
+,epN01_tm11_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm11,,,,,,,,0,,Normal,114
+,ch38_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,103800,0,,ch38_tm01,,,,,,,SoundBgm_ExplorerBgm,2,Lost City,Normal,14
+,ch49_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,104900,0,,,,,,,,,,2,Incarnation of Dreams,Bonus1,15
+,ch56_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,105600,0,,ch56_tm01,,,,,,,,2,Bamboo Forest,Normal,16
+,,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,105700,0,,ch57_effect,,,,,,,,2,General Jujube Cookie's Obstacles,Normal,17
+,ch58_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,105800,0,,ch58_tm01,,,,,,,,2,Onion Cookie's Haunted House,Normal,18
+,epN01_tm81_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm81,,,,,,,SoundBgm_BonusTime_Day_epN01,1,Day Bonus Time,Bonus1,181
+,epN01_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm82,,,,,,,SoundBgm_BonusTime_Night_epN01,1,Night Bonus Time,Bonus2,182
+,ch65_tm01_bg,0,0,0,0,1,0,0,0.03,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,106500,0,,,,,,,,,,2,Sea Fairy Cookie's Frozen Sea,Bonus1,19
+,ch66_tm81_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,106600,0,,,,,,,,,CandyflossSoundBGM_BonusTime_Day,2,Cotton Cookie's Day Bonus Time,Bonus1,20
+,epN02_tm01_bg,0,1,0.1,0,1,0,1,0.5,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm01,,,,,,,,0,1. Cookie Castle Ruins,Normal,201
+,epN02_tm02_bg,0,1,0.6,0,1,0,1,0.8,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm02,,,,,,,,0,2. Cookie Castle Secret Passage,Normal,202
+,epN02_tm03_bg,0,1,0.3,0,1,0,1,0.5,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN02_tm03,,,,,,,,0,3. Cookie Castle Bridge,Normal,203
+,epN02_tm04_bg,0,0,0,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN02_tm04,,,,,,,,0,4. Green Tea Cake Hills,Normal,204
+,epN02_tm05_bg,0,1,0.3,0,1,0,1,0.6,0,1,0,1,0.8,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm05,,,,,,,,0,5. The Jungle,Normal,205
+,epN02_tm06_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,1,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm06,,,,,,,,0,6. Crocodile Swamp,Normal,206
+,epN02_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm07,,,,,,,,0,7. Monkey Den,Normal,207
+,epN02_tm08_bg,0,1,0.3,0,1,0,1,0.2,0,1,0,1,0.1,0,1,0,1,0.5,0,1,0,0,0,0,0,,0,0,,epN02_tm08,,,,,,,,0,8. Pineapple River,Normal,208
+,epN02_tm09_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0.8,0,1,0,0,0,0,0,,0,0,,epN02_tm09,,,,,,,,0,9. Pineapple Village Entrance,Normal,209
+,ch66_tm82_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,106600,0,,,,,,,,,CandyflossSoundBGM_BonusTime_Night,2,Cotton Cookie's Night Bonus Time,Bonus2,21
+,epN02_tm10_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0.5,0,1,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm10,,,,,,,,0,10. Pineapple Village Altar,Normal,210
+,epN02_tm10_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0.5,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm10,,,,,,,,0,,Normal,211
+,epN02_tm10_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0.5,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm10,,,,,,,,0,,Normal,212
+,epN02_tm10_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0.5,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm10,,,,,,,,0,,Normal,213
+,ch66_tm83_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,106600,0,,,,,,,,,SoundBgm_BonusTime_King,2,Cotton Cookie's Royal Bonus Time,Bonus3,22
+,,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,106700,0,,ch67_tm01,,,,,,,,2,Roll Cake Cookie's Obstacles,Normal,23
+,ch75_tm01_bg,0,1,0.2,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,107500,0,,,,,,,,,,2,Marshmallow Bunny Cookie's Big Tunnel,Bonus1,24
+,,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epS03_tm03,,,,,,,,1,Special Episode 3 Cave,Normal,25
+,ch81_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,1,0.7,0,0,,108100,0,,ch81_tm01,,,,,,,,2,Princess Bari Cookie's Soul,Normal,26
+,ch82_tm01_bg,0,1,0,0,1,0,1,0.1,0,0,0,1,0.2,0,1,0,1,0.5,0,0,0,1,0.7,0,0,,108200,0,,ch82_tm01,,,,,,,,2,Potato Salad Cookie's Garden,Normal,27
+,,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,108400,0,,ch84_tm01,,,,,,,,2,White Kimchi Cookie's Cabbage Soul,Normal,28
+,epN02_tm81_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm81,,,,,,,SoundBgm_BonusTime_Day_epN02,1,Day Bonus Time,Bonus1,281
+,epN02_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm82,,,,,,,SoundBgm_BonusTime_Night_epN02,1,Night Bonus Time,Bonus2,282
+,ch81_skin01_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,1,0.7,0,0,,108100,0,,ch81_tm01,,,,,,,,2,Princess Bari Cookie's Chuseok,Normal,29
+,ch82_tm01_bg,0,1,0,0,1,0,1,0.1,0,0,0,1,0.2,0,1,0,1,0.5,0,0,0,1,0.7,0,0,,108200,0,,ch82_skin01_tm01,,,,,,,,2,Potato Salad Cookie's Chuseok,Normal,30
+,epN03_tm01_bg,0,1,0.08,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN03_tm01,,,,,,,,0,1. Crackling Lightning Cliff,Normal,301
+,epN03_tm02_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0,0,0,0,1,0.4,0,0,0,0,0,0,0,,0,0,,epN03_tm02,,,,,,,,0,2. Takoyaki Volcano,Normal,302
+,epN03_tm03_bg,0,1,0.6,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1.3,0,0,0,0,0,0,0,,0,0,,epN03_tm03,,,,,,,,0,3. Jelly Worm Tunnel,Normal,303
+,epN03_tm04_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.7,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN03_tm04,,,,,,,,0,4. Marshmallow Magma Fondue,Normal,304
+,epN03_tm05_bg,0,1,0.07,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN03_tm05,,,,,,,,0,6. Gushing Magma Marsh,Normal,305
+,epN03_tm06_bg,0,1,0.07,0,1,0,1,0.4,0,1,0,1,0.8,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,,epN03_tm06,,,,,,,,0,6. Dragon Hatchling's Cradle,Normal,306
+,epN03_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN03_tm07,,,,,,,,0,7. Dragon Seal Shrine,Normal,307
+,epN03_tm08_bg,0,0,0,0,1,0,0,0,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm08,,,,,,,,0,8. The Red Dragon's Valley,Normal,308
+,epN03_tm08_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm08,,,,,,,,0,,Normal,309
+,,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,209900,0,,pet99_tme,,,,,,,,2,Sotdae Flock Obstacles,Normal,31
+,epN03_tm08_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm08,,,,,,,,0,,Normal,310
+,epN03_tm08_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm08,,,,,,,,0,,Normal,311
+,ch92_tm01_bg,0,0,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,1,0.7,0,0,,109200,0,,ch92_tm01,,,,,,,,2,$MapStageThemeData.32ThemeName,Normal,32
+,epN03_tm21_bg,0,1,0.08,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN03_tm21,,,,,,,,0,1. Burning Pineapple Forest,Normal,321
+,epN03_tm22_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0,0,1,0,1,0.4,0,0,0,0,0,0,0,,0,0,,epN03_tm22,,,,,,,,0,2. Lightning Volcano,Normal,322
+,epN03_tm23_bg,0,1,0.6,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1.3,0,1,0,0,0,0,0,,0,0,,epN03_tm23,,,,,,,,0,3. Sulfur Gas Zone,Normal,323
+,epN03_tm24_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.7,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN03_tm24,,,,,,,,0,4. Molten Strawberry Fondue,Normal,324
+,epN03_tm25_bg,0,1,0.07,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,0,0,1,0,0,0,0,0,,0,0,,epN03_tm25,,,,,,,,0,5. Lava Crater,Normal,325
+,epN03_tm26_bg,0,1,0.07,0,1,0,1,0.4,0,1,0,1,0.8,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,,epN03_tm26,,,,,,,,0,6. Dragon Egg Cavern,Normal,326
+,epN03_tm27_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN03_tm27,,,,,,,,0,7. Dragon's Treasure Hoard,Normal,327
+,epN03_tm28_bg,0,0,0,0,1,0,0,0,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm28,,,,,,,,0,8. Flaming Dragon's Nest,Normal,328
+,epN03_tm81_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0.2,0,0,0,0,0,0,0,,0,0,,epN03_tm81,,,,,,,SoundBgm_BonusTime_Day_epN03,1,Day Bonus Time,Bonus1,381
+,epN03_tm82_bg,0,1,0.03,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0.2,0,0,0,0,0,0,0,,0,0,,epN03_tm82,,,,,,,SoundBgm_BonusTime_Night_epN03,1,Night Bonus Time,Bonus2,382
+,epN04_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN04_tm01,,,,,,,,0,1. Moonlight Valley,Normal,401
+,epN04_tm02_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN04_tm02,,,,,,,,0,2. Gates to the City of Wizards,Normal,402
+,epN04_tm03_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm03,,,,,,,,0,3. Deserted Village,Normal,403
+,epN04_tm04_bg,0,1,0.5,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN04_tm04,,,,,,,,0,4. Dangerous Magic Shop,Normal,404
+,epN04_tm05_bg,0,0,0,0,1,0,1,0.6,0,1,0,1,0.9,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm05,,,,,,,,0,5. Eerie Greenhouse,Normal,405
+,epN04_tm06_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm06,,,,,,,,0,6. Dining Table,Normal,406
+,epN04_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm07,,,,,,,,0,7. Old Library,Normal,407
+,epN04_tm08_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm08,,,,,,,,0,8. Clock Tower Exterior,Normal,408
+,epN04_tm09_bg,0,1,0,0.03,1,0,1,0,0.02,1,0,1,0.2,0.2,0,0,1,0.3,0.3,0,0,0,0,0,0,,0,3,,epN04_tm09,,,,,,,,0,9. Clock Tower's Spiral Staircase,Normal,409
+,epN04_tm10_bg,0,1,0.6,0,1,0,0,0.001,0,1,0,1,0.8,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm10,,,,,,,,0,10. Clock Tower Top,Normal,410
+,epN04_tm10_bg,0,1,0.6,0,1,0,0,0.001,0,1,0,1,0.8,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm10,,,,,,,,0,,Normal,411
+,epN04_tm81_bg,0,1,0.01,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm81,,,,,,,SoundBgm_BonusTime_Day_epN04,1,Day Bonus Time,Bonus1,481
+,epN04_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm82,,,,,,,SoundBgm_BonusTime_Night_epN04,1,Night Bonus Time,Bonus2,482
+,epN05_tm01_bg,0,0,0,0.01,1,0,1,0.07,0,1,0,1,0.04,0.037,0,0,1,0.12,0,0,0,0,0,0,0,,0,3,,epN05_tm01,,,,,,,,0,1. To the Island in the Sky,Normal,501
+,epS01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epS01_tm01,,,,,,,,0,Island Shore,Normal,50101
+,epS01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epS01_tm02,,,,,,,,0,Island of Coins,Normal,50102
+,epN05_tm02_bg,0,1,0.1,0,1,0,1,0.25,0,1,0,1,0.3,0,0,0,1,0.4,0,0,0,0,0,0,0,,0,0,,epN05_tm02,,,,,,,,0,2. Cookiemal Milk Paradise,Normal,502
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_1,,,,,,,0,,Normal,502001
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_2,,,,,,,0,,Normal,502002
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_3,,,,,,,0,,Normal,502003
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_4,,,,,,,0,,Normal,502004
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,,0,,Normal,502005
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502030
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_1,,,,,,,0,,Normal,502031
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_2,,,,,,,0,,Normal,502032
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_3,,,,,,,0,,Normal,502033
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_4,,,,,,,0,,Normal,502034
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,,0,,Normal,502035
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502050
+,epS02_tm02_bg,0,1,0.3,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502060
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_1,,,,,,,0,,Normal,502061
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_2,,,,,,,0,,Normal,502062
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_3,,,,,,,0,,Normal,502063
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_4,,,,,,,0,,Normal,502064
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,,0,,Normal,502065
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502070
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502080
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502085
+,epS02_tm03_bg,0,1,0.4,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502090
+,epS02_tm04_bg,0,1,0.001,0,1,0,1,0.15,0,1,0,1,0.5,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_1,,,,,,,0,,Normal,502091
+,epS02_tm04_bg,0,1,0.001,0,1,0,1,0.15,0,1,0,1,0.5,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_2,,,,,,,0,,Normal,502092
+,epS02_tm04_bg,0,1,0.001,0,1,0,1,0.15,0,1,0,1,0.5,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_3,,,,,,,0,,Normal,502093
+,epS02_tm04_bg,0,1,0.001,0,1,0,1,0.15,0,1,0,1,0.5,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_4,,,,,,,0,,Normal,502094
+,epS02_tm04_bg,0,1,0.001,0,1,0,1,0.15,0,1,0,1,0.5,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502095
+,epS02_tm05_bg,0,1,0.001,0,1,0,1,0.08,0,1,0,1,0.002,0,0,0,1,0.4,0,0,0,0,0.8,0,0,,0,0,4,epS02_tm01,epS02_tm80_3,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502098
+,epS02_tm06_bg,0,1,0.001,0,1,0,1,0.08,0,1,0,1,0.002,0,0,0,1,0.4,0,0,0,0,0.8,0,0,,0,0,4,epS02_tm01,epS02_tm80_4,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502099
+,epS02_tm07_bg,0,1,0.001,0,1,0,1,0.08,0,1,0,1,0.002,0,0,0,1,0.4,0,0,0,0,0.8,0,0,,0,0,4,epS02_tm01,epS02_tm80_5,,,,,,SoundBgm_Game_epS02_2,0,,Normal,502100
+,epS02_tm81_bg,0,1,0.01,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epS02_tm81,,,,,,,SoundBgm_BonusTime_Day_epS02,1,Day Bonus Time,Bonus1,50281
+,epS02_tm82_bg,0,1,0.01,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epS02_tm82,,,,,,,SoundBgm_BonusTime_Night_epS02,1,Night Bonus Time,Bonus2,50282
+,epN05_tm03_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,10,0,0,,epN05_tm03,,,,,,,,0,3. Jelly Pudding Frog Pond,Normal,503
+,epS03_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,1,,0,0,,epS03_tm01,,,,,,,,0,Mysterious Marshmallow Meadow,Normal,50301
+,epS03_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,0,,0,0,,epS03_tm02,,,,,,,,0,Starlight Marshmallow Grove,Normal,50302
+,epN04_tm10_bg,0,1,0.6,0,1,0,0,0.001,0,1,0,1,0.8,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm10,,,,,,,SoundBgm_Game_epS03_2,0,10. Clock Tower Top,Normal,50303
+,epS03_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,0,,0,0,,epS03_tm02,,,,,,,SoundBgm_Game_epS03_2,0,Starlight Marshmallow Grove,Normal,50304
+,epN05_tm04_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm04,,,,,,,,0,4. Honey Butter Waffle Garden,Normal,504
+ambEPN05-5,epN05_tm05_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,10,0,0,,epN05_tm05,,,,,,,,0,5. Tropical Cocktail Soda Falls,Normal,505
+,epN05_tm06_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,1,0,0,0,0,,0,0,,epN05_tm06,,,,,,,,0,6. Roll Cake Squirrel Shop,Normal,506
+,epN05_tm06_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,1,0.4,0,0,,0,0,,epN05_tm06_inside,,,,,,,SoundBgm_Game_epN05_6,0,,Normal,507
+,epN05_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,7,0,0,,epN05_tm07,,,,,,,,0,7. Raspberry Choco Mushroom Party,Normal,508
+,epN05_tm08_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm08,,,,,,,,0,8. Sugar Cane Coral Cave,Normal,509
+,epN05_tm09_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,1,epN05_tm09,,,,,,,,0,9. Sour Jelly Dino Zone,Normal,510
+,epN05_tm10_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm10,,,,,,,,0,10. Sugar Swan's Galaxy Lake,Normal,511
+,epN05_tm10_night_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm10_night,,,,,,,,0,,Normal,512
+,epN05_tm81_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN05_tm81,,,,,,,SoundBgm_BonusTime_Day_epN05,1,Day Bonus Time,Bonus1,581
+,epN05_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN05_tm82,,,,,,,SoundBgm_BonusTime_Night_epN05,1,Night Bonus Time,Bonus2,582
+,epN06_tm01_bg,0,1,0.05,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm01,,,,,,,,0,1. Breathing Forest,Normal,601
+,epEV01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,1,0,0,0,0,,0,0,,epEV01_tm01,,,,,,,,0,Coin Palace Hallway,Normal,60101
+,epEV01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,1,0,0,0,0,,0,0,,epEV01_tm02,,,,,,,,0,Coin Palace Treasury,Normal,60102
+,epN06_tm02_bg,0,1,0.05,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm02,,,,,,,,0,2. Gloomy Gimbugak River,Normal,602
+,epEV02_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,1,0,0,0,0,,0,0,,epEV02_tm01,,,,,,,,0,XP-Elixir Workshop,Normal,60201
+,epN06_tm03_bg,0,1,0.05,0,1,0,1,0.1,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm03,,,,,,,,0,3. Boiling Gochujang Hell,Normal,603
+,epN06_tm04_bg,0,1,0.05,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm04,,,,,,,,0,4. Cauldron of Judgement,Normal,604
+,epN06_tm05_bg,0,1,0.05,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm05,,,,,,,,0,5. Eternal Yanggaeng Pasture,Normal,605
+,epN06_tm06_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm06,,,,,,,,0,6. Persimmon Lantern Street,Normal,606
+,epN06_tm07_bg,0,1,0.05,0,1,0,1,0.08,0,1,0,1,0.25,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm07,,,,,,,,0,7. Heavenly Peach Garden,Normal,607
+,epN06_tm08_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm08,,,,,,,,0,8. Plum Blossom Dessert Hall,Normal,608
+,epN06_tm09_bg,0,1,0.02,0,1,0,1,0.03,0,1,0,1,0.5,0,0,0,1,0.3,0,0,0,0,0,0,0,,0,0,,epN06_tm09,,,,,,,,0,9. World Tree Garden,Normal,609
+,epN06_tm81_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm81,,,,,,,SoundBgm_BonusTime_Day_epN06,1,Day Bonus Time,Bonus1,681
+,epN06_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN06_tm82,,,,,,,SoundBgm_BonusTime_Night_epN06,1,Night Bonus Time,Bonus2,682
+,epN01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm01,,,,,,,SoundBgm_Game_epN01_1,0,The Witch's Oven,Normal,701001
+,epN01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm02,,,,,,,SoundBgm_Game_epN01_1,0,The Witch's Kitchen,Normal,701002
+,epN01_tm03_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN01_tm03,,,,,,,SoundBgm_Game_epN01_1,0,Dark Forest Path,Normal,701003
+,epN01_tm04_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm04,,,,,,,SoundBgm_Game_epN01_1,0,Underground Tunnel,Normal,701004
+,epN01_tm05_bg,0,1,0.1,0,1,0,1,0.4,0,1,0,1,0.8,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm05,,,,,,,SoundBgm_Game_epN01_1,0,Sunflower Forest,Normal,701005
+,epN01_tm06_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm06,,,,,,,SoundBgm_Game_epN01_1,0,Daytime Beach,Normal,701006
+,epN01_tm07_bg,0,1,0.006,0,1,0,1,0.05,0,1,0,1,0.2,0,0,0,1,0.15,0,0,0,0,0,0,0,,0,0,,epN01_tm07,,,,,,,SoundBgm_Game_epN01_1,0,Nighttime Beach,Normal,701007
+,epN01_tm08_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm08,,,,,,,SoundBgm_Game_epN01_1,0,Sprinkled Ice Cream Hills,Normal,701008
+,epN01_tm09_bg,0,1,0.03,0,1,0,1,0.06,0,1,0,1,0.1,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN01_tm09,,,,,,,SoundBgm_Game_epN01_1,0,Cream Puff Canyon,Normal,701009
+,epN01_tm10_bg,0,1,0.3,0,1,0,1,0.6,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN01_tm10,,,,,,,SoundBgm_Game_epN01_1,0,Crystal Jelly Cave,Normal,701010
+,epN01_tm11_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN01_tm11,,,,,,,SoundBgm_Game_epN01_2,0,Cookie Castle Ruins,Normal,701011
+,epN02_tm01_bg,0,1,0.1,0,1,0,1,0.5,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm01,,,,,,,SoundBgm_Game_epN02_1,0,Cookie Castle Ruins,Normal,701012
+,epN02_tm02_bg,0,1,0.6,0,1,0,1,0.8,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm02,,,,,,,SoundBgm_Game_epN02_1,0,Cookie Castle's Secret Hallway,Normal,701013
+,epN02_tm03_bg,0,1,0.3,0,1,0,1,0.5,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN02_tm03,,,,,,,SoundBgm_Game_epN02_1,0,Cookie Castle Bridge,Normal,701014
+,epN02_tm04_bg,0,0,0,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN02_tm04,,,,,,,SoundBgm_Game_epN02_1,0,Matcha Cake Hill,Normal,701015
+,epN02_tm05_bg,0,1,0.3,0,1,0,1,0.6,0,1,0,1,0.8,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm05,,,,,,,SoundBgm_Game_epN02_1,0,The Jungle,Normal,701016
+,epN02_tm06_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,1,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm06,,,,,,,SoundBgm_Game_epN02_1,0,Crocodile Swamp,Normal,701017
+,epN02_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN02_tm07,,,,,,,SoundBgm_Game_epN02_1,0,Monkey Den,Normal,701018
+,epN02_tm08_bg,0,1,0.3,0,1,0,1,0.2,0,1,0,1,0.1,0,1,0,1,0.5,0,1,0,0,0,0,0,,0,0,,epN02_tm08,,,,,,,SoundBgm_Game_epN02_1,0,Pineapple Lake,Normal,701019
+,epN02_tm09_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0.8,0,1,0,0,0,0,0,,0,0,,epN02_tm09,,,,,,,SoundBgm_Game_epN02_1,0,Pineapple Village Entrance,Normal,701020
+,epN02_tm10_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0.5,0,1,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN02_tm10,,,,,,,SoundBgm_Game_epN02_2,0,Pineapple Tribe Altar,Normal,701021
+,epN03_tm01_bg,0,1,0.08,0,1,0,1,0.2,0,1,0,1,0.5,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epN03_tm01,,,,,,,SoundBgm_Game_epN03_1,0,Crackling Lightning Cliff,Normal,701022
+,epN03_tm02_bg,0,1,0,0,1,0,1,0.2,0,1,0,1,0,0,0,0,1,0.4,0,0,0,0,0,0,0,,0,0,,epN03_tm02,,,,,,,SoundBgm_Game_epN03_1,0,Takoyaki Volcano,Normal,701023
+,epN03_tm03_bg,0,1,0.6,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1.3,0,0,0,0,0,0,0,,0,0,,epN03_tm03,,,,,,,SoundBgm_Game_epN03_1,0,Jelly Worm Tunnel,Normal,701024
+,epN03_tm04_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.7,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN03_tm04,,,,,,,SoundBgm_Game_epN03_1,0,Marshmallow Magma Fondue,Normal,701025
+,epN03_tm05_bg,0,1,0.07,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN03_tm05,,,,,,,SoundBgm_Game_epN03_1,0,Gushing Magma Marsh,Normal,701026
+,epN03_tm06_bg,0,1,0.07,0,1,0,1,0.4,0,1,0,1,0.8,0,0,0,1,0.9,0,0,0,0,0,0,0,,0,0,,epN03_tm06,,,,,,,SoundBgm_Game_epN03_1,0,Dragon Hatchling's Cradle,Normal,701027
+,epN03_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0.8,0,0,0,0,0,0,0,,0,0,,epN03_tm07,,,,,,,SoundBgm_Game_epN03_1,0,Dragon Seal Shrine,Normal,701028
+,epN03_tm08_bg,0,0,0,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN03_tm08,,,,,,,SoundBgm_Game_epN03_2,0,The Red Dragon's Valley,Normal,701029
+,epN04_tm01_bg,0,1,0.03,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN04_tm01,,,,,,,SoundBgm_Game_epN04_1,0,Moonlight Valley,Normal,701030
+,epN04_tm02_bg,0,1,0.1,0,1,0,1,0.2,0,1,0,1,0.4,0,0,0,1,0.6,0,0,0,0,0,0,0,,0,0,,epN04_tm02,,,,,,,SoundBgm_Game_epN04_1,0,Gates to the City of Wizards,Normal,701031
+,epN04_tm03_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm03,,,,,,,SoundBgm_Game_epN04_1,0,Deserted Village,Normal,701032
+,epN04_tm04_bg,0,1,0.5,0,1,0,1,0.1,0,1,0,1,0.2,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN04_tm04,,,,,,,SoundBgm_Game_epN04_1,0,Perilous Apothecary,Normal,701033
+,epN04_tm05_bg,0,0,0,0,1,0,1,0.6,0,1,0,1,0.9,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm05,,,,,,,SoundBgm_Game_epN04_1,0,Eerie Greenhouse,Normal,701034
+,epN04_tm06_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm06,,,,,,,SoundBgm_Game_epN04_1,0,Dining Table,Normal,701035
+,epN04_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm07,,,,,,,SoundBgm_Game_epN04_1,0,Old Library,Normal,701036
+,epN04_tm08_bg,0,1,0.1,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN04_tm08,,,,,,,SoundBgm_Game_epN04_1,0,Clock Tower,Normal,701037
+,epN04_tm09_bg,0,1,0,0.03,1,0,1,0,0.02,1,0,1,0.2,0.2,0,0,1,0.3,0.3,0,0,0,0,0,0,,0,3,,epN04_tm09,,,,,,,SoundBgm_Game_epN04_9,0,Clock Tower Stairs,Normal,701038
+,epN04_tm10_bg,0,1,0.6,0,1,0,0,0.001,0,1,0,1,0.8,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm10,,,,,,,SoundBgm_Game_epN04_2,0,Clock Tower Roof,Normal,701039
+,epN05_tm01_bg,0,0,0,0.01,1,0,1,0.07,0,1,0,1,0.04,0.037,0,0,1,0.12,0,0,0,0,0,0,0,,0,3,,epN05_tm01,,,,,,,SoundBgm_Game_epN05_1,0,To the Island in the Sky,Normal,701040
+,epN05_tm02_bg,0,1,0.1,0,1,0,1,0.25,0,1,0,1,0.3,0,0,0,1,0.4,0,0,0,0,0,0,0,,0,0,,epN05_tm02,,,,,,,SoundBgm_Game_epN05_1,0,Cookiemal Milk Paradise,Normal,701041
+,epN05_tm03_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,10,0,0,,epN05_tm03,,,,,,,SoundBgm_Game_epN05_1,0,Jelly Pudding Frog Pond,Normal,701042
+,epN05_tm04_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm04,,,,,,,SoundBgm_Game_epN05_1,0,Honey Butter Waffle Hill,Normal,701043
+ambEPN05-5,epN05_tm05_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,10,0,0,,epN05_tm05,,,,,,,SoundBgm_Game_epN05_1,0,Tropical Soda Falls,Normal,701044
+,epN05_tm06_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,1,0,0,0,0,,0,0,,epN05_tm06,,,,,,,SoundBgm_Game_epN05_1,0,Roll Cake Squirrel Shop,Normal,701045
+,epN05_tm06_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,1,0.4,0,0,,0,0,,epN05_tm06_inside,,,,,,,SoundBgm_Game_epN05_6,0,Roll Cake Squirrel Shop,Normal,701046
+,epN05_tm07_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,7,0,0,,epN05_tm07,,,,,,,SoundBgm_Game_epN05_1,0,Raspberry Choco Mushroom Party,Normal,701047
+,epN05_tm08_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm08,,,,,,,SoundBgm_Game_epN05_1,0,Sugar Cane Coral Cave,Normal,701048
+,epN05_tm09_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,1,epN05_tm09,,,,,,,SoundBgm_Game_epN05_1,0,Sour Jelly Dino Zone,Normal,701049
+,epN05_tm10_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm10,,,,,,,SoundBgm_Game_epN05_10,0,Sugar Swan's Galaxy Lake,Normal,701050
+,epN05_tm10_night_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.4,0,0,0,1,0.5,0,0,0,0,0,0,0,,0,0,,epN05_tm10_night,,,,,,,SoundBgm_Game_epN05_10,0,Sugar Swan's Galaxy Lake,Normal,701051
+,epS01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epS01_tm01,,,,,,,SoundBgm_Game_epS01,0,Island Shore,Normal,701052
+,epS01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,,epS01_tm02,,,,,,,SoundBgm_Game_epS01,0,Island of Coins,Normal,701053
+,epEV01_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,1,0,0,0,0,,0,0,,epEV01_tm01,,,,,,,SoundBgm_Game_epEV01_1,0,Coin Palace Hallway,Normal,701054
+,epEV01_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,0,0,1,1,0,0,1,0,0,0,0,,0,0,,epEV01_tm02,,,,,,,SoundBgm_Game_epEV01_1,0,Coin Palace Treasury,Normal,701055
+,epS03_tm01_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,1,,0,0,,epS03_tm01,,,,,,,SoundBgm_Game_epS03,0,Mysterious Marshmallow Meadow,Normal,701056
+,epS03_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,0,,0,0,,epS03_tm02,,,,,,,SoundBgm_Game_epS03_2,0,Starlight Marshmallow Grove,Normal,701057
+,epN04_tm10_bg,0,1,0.6,0,1,0,0,0.001,0,1,0,1,0.8,0,0,0,1,0.7,0,0,0,0,0,0,0,,0,0,,epN04_tm10,,,,,,,SoundBgm_Game_epS03_2,0,Clock Tower Roof,Normal,701058
+,epS03_tm02_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.6,0,1,0,1,1,0,1,0,1,1,0,0,,0,0,,epS03_tm02,,,,,,,SoundBgm_Game_epS03_2,0,Starlight Marshmallow Grove,Normal,701059
+,epS02_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,4,epS02_tm01,epS02_tm80_1,,,,,,SoundBgm_Game_epS02_1,0,Tower of Frozen Waves,Normal,701060
+,epS701_tm01_bg,0,1,0.2,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epS701_tm01,,,,,,,13th_PartyRunMap,0,13th Anniversary Party,Normal,701061
+,epBR_tm01_bg,0,1,0.2,0.4,1,0,1,0.3,0.6,1,0,1,0.6,0.8,1,0,1,1,1,1,0,1,1,1,1,,0,4,,epBR_tm01,,,,,,,Partyrun_WaitingRoom_BGM,1,Party Run Waiting Room,Normal,701998
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,epBR_tme,,,,,,,,1,Party Run Platform,Normal,701999
+,epN00_tm81_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN00_tm81,,,,,,,SoundBgm_BonusTime_Day_epN01,1,Day Bonus Time,Bonus1,81
+,epN00_tm82_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN00_tm82,,,,,,,SoundBgm_BonusTime_Night_epN01,1,Night Bonus Time,Bonus2,82
+,epN00_tm83_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,,epN00_tm83,,,,,,,SoundBgm_BonusTime_King,1,Royal Bonus Time,Bonus3,83
+,tm81_ch36_bg,0,1,0.1,0,1,0,1,0.6,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,103600,0,,tm81_ch36,,,,,,,SoundBgm_BonusTime_Day_epN01,2,Apple Cookie's Day Bonus Time,Bonus1,84
+,tm82_ch36_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,103600,0,,tm82_ch36,,,,,,,SoundBgm_BonusTime_Night_epN01,2,Apple Cookie's Night Bonus Time,Bonus2,85
+,tm83_ch36_bg,0,1,0.1,0,1,0,1,0.3,0,1,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,,103600,0,,tm83_ch36,,,,,,,SoundBgm_BonusTime_King,2,Apple Cookie's Royal Bonus Time,Bonus3,86

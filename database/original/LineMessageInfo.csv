@@ -1,0 +1,6 @@
+﻿messageParam,templateId,_key
+"{""title"":""%s""}",lgcookie_present,1
+"{""title"":""%s"", ""score"":%d }",lgcookie_ranking,2
+"{""title"":""%s""}",lgcookie_weeklyrank,3
+"{""title"":""%s"", ""score"":%d }",lgcookie_score,4
+"{""title"":""%s""}",lgcookie_invite,5

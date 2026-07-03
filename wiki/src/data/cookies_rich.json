@@ -1,0 +1,7373 @@
+[
+  {
+    "id": "100100",
+    "name": "GingerBrave",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": "100",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "500",
+        "price_crystal": "0",
+        "hp": "102",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "700",
+        "price_crystal": "0",
+        "hp": "104",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "1000",
+        "price_crystal": "0",
+        "hp": "106",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "1300",
+        "price_crystal": "0",
+        "hp": "108",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "1600",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "1900",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "2200",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100200",
+    "name": "Strawberry Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "13500",
+        "price_crystal": "15",
+        "hp": "100",
+        "skill_value_1": "1000",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "0",
+        "hp": "105",
+        "skill_value_1": "1400",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "1800",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "0",
+        "hp": "115",
+        "skill_value_1": "2200",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "0",
+        "hp": "120",
+        "skill_value_1": "2600",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "125",
+        "skill_value_1": "3000",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "0",
+        "hp": "130",
+        "skill_value_1": "4000",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "135",
+        "skill_value_1": "5000",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100300",
+    "name": "GingerBright",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "2700",
+        "price_crystal": "3",
+        "hp": "100",
+        "skill_value_1": "1050",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "700",
+        "price_crystal": "0",
+        "hp": "102",
+        "skill_value_1": "1060",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "1200",
+        "price_crystal": "0",
+        "hp": "104",
+        "skill_value_1": "1070",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "1700",
+        "price_crystal": "0",
+        "hp": "106",
+        "skill_value_1": "1080",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "2200",
+        "price_crystal": "0",
+        "hp": "108",
+        "skill_value_1": "1090",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "2700",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "1100",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "3200",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "1110",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "3700",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "1120",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100400",
+    "name": "GingerBrave",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "110",
+        "skill_value_1": "1130",
+        "skill_value_2": "1030"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "120",
+        "skill_value_1": "1140",
+        "skill_value_2": "1040"
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "130",
+        "skill_value_1": "1150",
+        "skill_value_2": "1050"
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "140",
+        "skill_value_1": "1160",
+        "skill_value_2": "1060"
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1170",
+        "skill_value_2": "1070"
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1180",
+        "skill_value_2": "1080"
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1190",
+        "skill_value_2": "1090"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1200",
+        "skill_value_2": "1100"
+      }
+    ]
+  },
+  {
+    "id": "100500",
+    "name": "Cloud Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "13500",
+        "price_crystal": "15",
+        "hp": "100",
+        "skill_value_1": "150",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "0",
+        "hp": "105",
+        "skill_value_1": "170",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "190",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "0",
+        "hp": "115",
+        "skill_value_1": "210",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "0",
+        "hp": "120",
+        "skill_value_1": "230",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "125",
+        "skill_value_1": "250",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "0",
+        "hp": "130",
+        "skill_value_1": "300",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "135",
+        "skill_value_1": "350",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100600",
+    "name": "Buttercream Choco Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "13500",
+        "price_crystal": "15",
+        "hp": "100",
+        "skill_value_1": "1050",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "0",
+        "hp": "105",
+        "skill_value_1": "1080",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "1110",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "0",
+        "hp": "115",
+        "skill_value_1": "1140",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "0",
+        "hp": "120",
+        "skill_value_1": "1170",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "125",
+        "skill_value_1": "1200",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "22000",
+        "price_crystal": "0",
+        "hp": "130",
+        "skill_value_1": "1220",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "135",
+        "skill_value_1": "1250",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100700",
+    "name": "Ninja Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "89000",
+        "price_crystal": "99",
+        "hp": "150",
+        "skill_value_1": "1",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "2",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "154",
+        "skill_value_1": "3",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "4",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "0",
+        "hp": "158",
+        "skill_value_1": "5",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100800",
+    "name": "Princess Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "700",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "670",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "640",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "610",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "580",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "550",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "530",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "500",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "100900",
+    "name": "Knight Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "1200",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "1230",
+        "skill_value_2": "1230"
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "1260",
+        "skill_value_2": "1260"
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "1290",
+        "skill_value_2": "1290"
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "1320",
+        "skill_value_2": "1320"
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1350",
+        "skill_value_2": "1350"
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1380",
+        "skill_value_2": "1380"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1400",
+        "skill_value_2": "1400"
+      }
+    ]
+  },
+  {
+    "id": "101000",
+    "name": "Coffee Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "1200",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "1210",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "1220",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "1230",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "1240",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1250",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1270",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1290",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101100",
+    "name": "Skater Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "1150",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "1180",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "1210",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "1240",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "1270",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1300",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1320",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "1350",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101200",
+    "name": "Angel Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "89000",
+        "price_crystal": "99",
+        "hp": "140",
+        "skill_value_1": "72",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "78",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "84",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "90",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "96",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "120",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "125",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "130",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101300",
+    "name": "Zombie Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "30",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "25",
+        "skill_value_2": "2"
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "22",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "20",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "20",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "20",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "18",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "17",
+        "skill_value_2": "8"
+      }
+    ]
+  },
+  {
+    "id": "101400",
+    "name": "Cream Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "13500",
+        "price_crystal": "15",
+        "hp": "100",
+        "skill_value_1": "900",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "7000",
+        "price_crystal": "0",
+        "hp": "105",
+        "skill_value_1": "890",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "10000",
+        "price_crystal": "0",
+        "hp": "110",
+        "skill_value_1": "880",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "13000",
+        "price_crystal": "0",
+        "hp": "115",
+        "skill_value_1": "870",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "16000",
+        "price_crystal": "0",
+        "hp": "120",
+        "skill_value_1": "860",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "125",
+        "skill_value_1": "850",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "27000",
+        "price_crystal": "0",
+        "hp": "130",
+        "skill_value_1": "840",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "135",
+        "skill_value_1": "830",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101500",
+    "name": "Muscle Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "45000",
+        "price_crystal": "50",
+        "hp": "130",
+        "skill_value_1": "500",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "17000",
+        "price_crystal": "0",
+        "hp": "134",
+        "skill_value_1": "540",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "19000",
+        "price_crystal": "0",
+        "hp": "138",
+        "skill_value_1": "580",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "21000",
+        "price_crystal": "0",
+        "hp": "142",
+        "skill_value_1": "620",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "23000",
+        "price_crystal": "0",
+        "hp": "146",
+        "skill_value_1": "660",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "25000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "700",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "720",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "150",
+        "skill_value_1": "750",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101600",
+    "name": "Pirate Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "89000",
+        "price_crystal": "99",
+        "hp": "140",
+        "skill_value_1": "90",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "27000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "100",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "29000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "110",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "120",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "34000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "130",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "36000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "140",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "150",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "54000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "160",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "101800",
+    "name": "Skating Queen Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "500"
+      }
+    ]
+  },
+  {
+    "id": "101900",
+    "name": "Hero Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "22400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "21400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "20400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "19400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "18400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "16400",
+        "skill_value_2": "5000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "15400",
+        "skill_value_2": "5000"
+      }
+    ]
+  },
+  {
+    "id": "102000",
+    "name": "Cheerleader Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "135000",
+        "price_crystal": "149",
+        "hp": "140",
+        "skill_value_1": "32",
+        "skill_value_2": "3000"
+      },
+      {
+        "level": "2",
+        "price_coin": "41000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "30",
+        "skill_value_2": "3300"
+      },
+      {
+        "level": "3",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "28",
+        "skill_value_2": "3600"
+      },
+      {
+        "level": "4",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "26",
+        "skill_value_2": "3900"
+      },
+      {
+        "level": "5",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "24",
+        "skill_value_2": "4200"
+      },
+      {
+        "level": "6",
+        "price_coin": "55000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "22",
+        "skill_value_2": "4500"
+      },
+      {
+        "level": "7",
+        "price_coin": "66000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "20",
+        "skill_value_2": "4800"
+      },
+      {
+        "level": "8",
+        "price_coin": "76000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18",
+        "skill_value_2": "5500"
+      }
+    ]
+  },
+  {
+    "id": "102100",
+    "name": "Special Force Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "135000",
+        "price_crystal": "149",
+        "hp": "140",
+        "skill_value_1": "180",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "2",
+        "price_coin": "41000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "190",
+        "skill_value_2": "6500"
+      },
+      {
+        "level": "3",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "200",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "210",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "5",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "220",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "55000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "230",
+        "skill_value_2": "8500"
+      },
+      {
+        "level": "7",
+        "price_coin": "66000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "240",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "8",
+        "price_coin": "76000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "250",
+        "skill_value_2": "8000"
+      }
+    ]
+  },
+  {
+    "id": "102200",
+    "name": "Rebel Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "127000",
+        "price_crystal": "129",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "2",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "163",
+        "skill_value_1": "2",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "3",
+        "price_coin": "42000",
+        "price_crystal": "0",
+        "hp": "166",
+        "skill_value_1": "3",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "4",
+        "price_coin": "46000",
+        "price_crystal": "0",
+        "hp": "169",
+        "skill_value_1": "4",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "5",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "172",
+        "skill_value_1": "5",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "6",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "175",
+        "skill_value_1": "6",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "7",
+        "price_coin": "62000",
+        "price_crystal": "0",
+        "hp": "178",
+        "skill_value_1": "7",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "8",
+        "price_coin": "72000",
+        "price_crystal": "0",
+        "hp": "180",
+        "skill_value_1": "8",
+        "skill_value_2": "1"
+      }
+    ]
+  },
+  {
+    "id": "102300",
+    "name": "Devil Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "150",
+        "skill_value_1": "22",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "21",
+        "skill_value_2": "3800"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "154",
+        "skill_value_1": "20",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "19",
+        "skill_value_2": "4200"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "158",
+        "skill_value_1": "18",
+        "skill_value_2": "4400"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17",
+        "skill_value_2": "4600"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "16",
+        "skill_value_2": "4800"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "15",
+        "skill_value_2": "5000"
+      }
+    ]
+  },
+  {
+    "id": "102400",
+    "name": "Kumiho Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "127000",
+        "price_crystal": "129",
+        "hp": "150",
+        "skill_value_1": "9",
+        "skill_value_2": "3000"
+      },
+      {
+        "level": "2",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "9",
+        "skill_value_2": "3300"
+      },
+      {
+        "level": "3",
+        "price_coin": "42000",
+        "price_crystal": "0",
+        "hp": "154",
+        "skill_value_1": "9",
+        "skill_value_2": "3600"
+      },
+      {
+        "level": "4",
+        "price_coin": "46000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "9",
+        "skill_value_2": "3900"
+      },
+      {
+        "level": "5",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "158",
+        "skill_value_1": "9",
+        "skill_value_2": "4200"
+      },
+      {
+        "level": "6",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "9",
+        "skill_value_2": "4500"
+      },
+      {
+        "level": "7",
+        "price_coin": "62000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "9",
+        "skill_value_2": "4800"
+      },
+      {
+        "level": "8",
+        "price_coin": "72000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "9",
+        "skill_value_2": "5000"
+      }
+    ]
+  },
+  {
+    "id": "102500",
+    "name": "Wizard Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "150",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "154",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "158",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "4"
+      }
+    ]
+  },
+  {
+    "id": "102600",
+    "name": "Fairy Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "135000",
+        "price_crystal": "149",
+        "hp": "160",
+        "skill_value_1": "38",
+        "skill_value_2": "80"
+      },
+      {
+        "level": "2",
+        "price_coin": "41000",
+        "price_crystal": "0",
+        "hp": "163",
+        "skill_value_1": "35",
+        "skill_value_2": "84"
+      },
+      {
+        "level": "3",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "166",
+        "skill_value_1": "32",
+        "skill_value_2": "88"
+      },
+      {
+        "level": "4",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "169",
+        "skill_value_1": "29",
+        "skill_value_2": "92"
+      },
+      {
+        "level": "5",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "172",
+        "skill_value_1": "26",
+        "skill_value_2": "96"
+      },
+      {
+        "level": "6",
+        "price_coin": "55000",
+        "price_crystal": "0",
+        "hp": "175",
+        "skill_value_1": "23",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "7",
+        "price_coin": "66000",
+        "price_crystal": "0",
+        "hp": "178",
+        "skill_value_1": "20",
+        "skill_value_2": "104"
+      },
+      {
+        "level": "8",
+        "price_coin": "76000",
+        "price_crystal": "0",
+        "hp": "180",
+        "skill_value_1": "17",
+        "skill_value_2": "110"
+      }
+    ]
+  },
+  {
+    "id": "102700",
+    "name": "Rockstar Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "2100",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "2000",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1900",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1800",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1700",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1600",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1400",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "102800",
+    "name": "Cherry Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "2010",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1930",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1850",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1770",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1690",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1610",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1530",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1450",
+        "skill_value_2": "7"
+      }
+    ]
+  },
+  {
+    "id": "102900",
+    "name": "Carol Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5",
+        "skill_value_2": "1000"
+      }
+    ]
+  },
+  {
+    "id": "103000",
+    "name": "Snow Sugar Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "9100",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "8800",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "8500",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "8200",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "7900",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7600",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7300",
+        "skill_value_2": "55"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "55"
+      }
+    ]
+  },
+  {
+    "id": "103100",
+    "name": "Pink Coco Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "8100",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "7800",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "7500",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "7200",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6900",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6600",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6300",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "30"
+      }
+    ]
+  },
+  {
+    "id": "103200",
+    "name": "Prophet Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "3200",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "3100",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "3000",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "2900",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "2800",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2700",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2600",
+        "skill_value_2": "1300"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2500",
+        "skill_value_2": "1300"
+      }
+    ]
+  },
+  {
+    "id": "103300",
+    "name": "Pistachio Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "19600",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "19000",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "18400",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "17800",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "17200",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "16600",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "16000",
+        "skill_value_2": "5500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "15400",
+        "skill_value_2": "5500"
+      }
+    ]
+  },
+  {
+    "id": "103400",
+    "name": "Alchemist Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "18000",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "17500",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "17000",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "16500",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "16000",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "15500",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "15000",
+        "skill_value_2": "160"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "14500",
+        "skill_value_2": "160"
+      }
+    ]
+  },
+  {
+    "id": "103500",
+    "name": "Vampire Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "21000",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "20600",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "20200",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "19800",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "19400",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "19000",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18600",
+        "skill_value_2": "1500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18200",
+        "skill_value_2": "1500"
+      }
+    ]
+  },
+  {
+    "id": "103600",
+    "name": "Apple Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1100",
+        "skill_value_2": "3"
+      }
+    ]
+  },
+  {
+    "id": "103700",
+    "name": "Cheesecake Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "135000",
+        "price_crystal": "149",
+        "hp": "140",
+        "skill_value_1": "18",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "41000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "17",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "45000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "16",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "49000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "15",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "52000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "14",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "55000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "13",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "66000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "12",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "76000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11",
+        "skill_value_2": "1000"
+      }
+    ]
+  },
+  {
+    "id": "103800",
+    "name": "Adventurer Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "6",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6",
+        "skill_value_2": "9400"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6",
+        "skill_value_2": "9800"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6",
+        "skill_value_2": "10200"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6",
+        "skill_value_2": "10600"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6",
+        "skill_value_2": "11500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6",
+        "skill_value_2": "12000"
+      }
+    ]
+  },
+  {
+    "id": "103900",
+    "name": "Soda Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "75",
+        "skill_value_2": "1200"
+      }
+    ]
+  },
+  {
+    "id": "104000",
+    "name": "Tiger Lily Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "999999",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "34500",
+        "skill_value_2": "8000"
+      }
+    ]
+  },
+  {
+    "id": "104100",
+    "name": "Fire Spirit Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "999999",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "1",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "1",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "2",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "2",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "3",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "4",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "5",
+        "skill_value_2": "4000"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "6",
+        "skill_value_2": "4000"
+      }
+    ]
+  },
+  {
+    "id": "104200",
+    "name": "Blackberry Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4215",
+        "skill_value_2": "406"
+      }
+    ]
+  },
+  {
+    "id": "104300",
+    "name": "Kiwi Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4000",
+        "skill_value_2": "700"
+      }
+    ]
+  },
+  {
+    "id": "104400",
+    "name": "Werewolf Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "1000"
+      }
+    ]
+  },
+  {
+    "id": "104500",
+    "name": "Cocoa Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "64",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "71",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "78",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "85",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "92",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "100",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "108",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "116",
+        "skill_value_2": "1"
+      }
+    ]
+  },
+  {
+    "id": "104600",
+    "name": "Mint Choco Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "130",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "120",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "110",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "100",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "90",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "80",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "70",
+        "skill_value_2": "50"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "60",
+        "skill_value_2": "50"
+      }
+    ]
+  },
+  {
+    "id": "104700",
+    "name": "Red Pepper Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11000",
+        "skill_value_2": "1"
+      }
+    ]
+  },
+  {
+    "id": "104800",
+    "name": "Cream Puff Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "4600",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "4800",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "5000",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5200",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5400",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5600",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5800",
+        "skill_value_2": "30"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "30"
+      }
+    ]
+  },
+  {
+    "id": "104900",
+    "name": "Moonlight Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "999999",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "5000",
+        "skill_value_2": "4270"
+      }
+    ]
+  },
+  {
+    "id": "105000",
+    "name": "Gumball Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "44900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "46900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "48900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "50900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "52900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "54900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "56900",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "58900",
+        "skill_value_2": "100"
+      }
+    ]
+  },
+  {
+    "id": "105100",
+    "name": "Cherry Blossom Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "100"
+      }
+    ]
+  },
+  {
+    "id": "105200",
+    "name": "Lemon Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "310",
+        "skill_value_2": "34000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "330",
+        "skill_value_2": "32000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "350",
+        "skill_value_2": "30000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "370",
+        "skill_value_2": "28000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "390",
+        "skill_value_2": "26000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "410",
+        "skill_value_2": "24000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "430",
+        "skill_value_2": "22000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "450",
+        "skill_value_2": "20000"
+      }
+    ]
+  },
+  {
+    "id": "105300",
+    "name": "Orange Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "10",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "10",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "10",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "10",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "10",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "10",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "10",
+        "skill_value_2": "9"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "10",
+        "skill_value_2": "10"
+      }
+    ]
+  },
+  {
+    "id": "105400",
+    "name": "Lime Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "2200",
+        "skill_value_2": "28400"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "2200",
+        "skill_value_2": "27200"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "2200",
+        "skill_value_2": "26000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "2200",
+        "skill_value_2": "24800"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "2200",
+        "skill_value_2": "23600"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2200",
+        "skill_value_2": "22400"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2200",
+        "skill_value_2": "21200"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2200",
+        "skill_value_2": "20000"
+      }
+    ]
+  },
+  {
+    "id": "105500",
+    "name": "Peppermint Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "28400",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "27200",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "26000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "24800",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "23600",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "22400",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "21200",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "20000",
+        "skill_value_2": "7000"
+      }
+    ]
+  },
+  {
+    "id": "105600",
+    "name": "Peach Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "25000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "24000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "23000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "22000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "21000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "20000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "19000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18000",
+        "skill_value_2": "8000"
+      }
+    ]
+  },
+  {
+    "id": "105700",
+    "name": "General Jujube Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6000",
+        "skill_value_2": "3"
+      }
+    ]
+  },
+  {
+    "id": "105800",
+    "name": "Onion Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "11000"
+      }
+    ]
+  },
+  {
+    "id": "105900",
+    "name": "Macaron Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "30500",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "29000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "27500",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "26000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "24500",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "23000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "21500",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "20000",
+        "skill_value_2": "7000"
+      }
+    ]
+  },
+  {
+    "id": "106000",
+    "name": "Cinnamon Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "10500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "10000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "9500",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "9000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "8500",
+        "skill_value_2": "7"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7500",
+        "skill_value_2": "9"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "10"
+      }
+    ]
+  },
+  {
+    "id": "106100",
+    "name": "Red Bean Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "26500",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "26000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "25500",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "25000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "24500",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "24000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "23500",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "23000",
+        "skill_value_2": "7500"
+      }
+    ]
+  },
+  {
+    "id": "106200",
+    "name": "White Choco Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "700"
+      }
+    ]
+  },
+  {
+    "id": "106300",
+    "name": "Herb Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "11000",
+        "skill_value_2": "9800"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "11150",
+        "skill_value_2": "9650"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "11300",
+        "skill_value_2": "9500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "11450",
+        "skill_value_2": "9350"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "11600",
+        "skill_value_2": "9200"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11750",
+        "skill_value_2": "9050"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "11900",
+        "skill_value_2": "8900"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "12000",
+        "skill_value_2": "8800"
+      }
+    ]
+  },
+  {
+    "id": "106400",
+    "name": "Dino-Sour Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "4700",
+        "skill_value_2": "14"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "4700",
+        "skill_value_2": "15"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "4700",
+        "skill_value_2": "16"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "4700",
+        "skill_value_2": "17"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "4700",
+        "skill_value_2": "18"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4700",
+        "skill_value_2": "19"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4700",
+        "skill_value_2": "20"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4700",
+        "skill_value_2": "20"
+      }
+    ]
+  },
+  {
+    "id": "106500",
+    "name": "Sea Fairy Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "100",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "6000",
+        "skill_value_2": "8"
+      }
+    ]
+  },
+  {
+    "id": "106600",
+    "name": "Cotton Candy Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "2500",
+        "skill_value_2": "76"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "2500",
+        "skill_value_2": "78"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "2500",
+        "skill_value_2": "80"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "2500",
+        "skill_value_2": "82"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "2500",
+        "skill_value_2": "84"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2500",
+        "skill_value_2": "86"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2500",
+        "skill_value_2": "88"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2500",
+        "skill_value_2": "90"
+      }
+    ]
+  },
+  {
+    "id": "106700",
+    "name": "Roll Cake Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "4700",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "4600",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "4500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "4400",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "4300",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4200",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4100",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "4000",
+        "skill_value_2": "8000"
+      }
+    ]
+  },
+  {
+    "id": "106800",
+    "name": "Banana Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "11500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "11000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "10500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "10000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "9500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "9000",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8500",
+        "skill_value_2": "8000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "8000"
+      }
+    ]
+  },
+  {
+    "id": "106900",
+    "name": "Pancake Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "20500",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "20000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "19500",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "19000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "18500",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17500",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17000",
+        "skill_value_2": "6000"
+      }
+    ]
+  },
+  {
+    "id": "107000",
+    "name": "Wind Archer Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "999999",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "7",
+        "skill_value_2": "18300"
+      }
+    ]
+  },
+  {
+    "id": "107100",
+    "name": "Moon Rabbit Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "24000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "23000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "22000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "21000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "20000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "19000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "18000",
+        "skill_value_2": "7500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17000",
+        "skill_value_2": "7500"
+      }
+    ]
+  },
+  {
+    "id": "107200",
+    "name": "Strawberry Shortcake Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "140",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "2",
+        "price_coin": "300",
+        "price_crystal": "99999",
+        "hp": "144",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "3",
+        "price_coin": "350",
+        "price_crystal": "99999",
+        "hp": "148",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "4",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "152",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "5",
+        "price_coin": "450",
+        "price_crystal": "99999",
+        "hp": "156",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "6",
+        "price_coin": "500",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "7",
+        "price_coin": "550",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      },
+      {
+        "level": "8",
+        "price_coin": "600",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "2100"
+      }
+    ]
+  },
+  {
+    "id": "107300",
+    "name": "Gulab Jamun Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "17000",
+        "skill_value_2": "7000"
+      }
+    ]
+  },
+  {
+    "id": "107400",
+    "name": "Kaju Katli Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "2000",
+        "skill_value_2": "2500"
+      }
+    ]
+  },
+  {
+    "id": "107500",
+    "name": "Marshmallow Bunny Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "140",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "2",
+        "price_coin": "300",
+        "price_crystal": "99999",
+        "hp": "144",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "3",
+        "price_coin": "350",
+        "price_crystal": "99999",
+        "hp": "148",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "4",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "152",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "5",
+        "price_coin": "450",
+        "price_crystal": "99999",
+        "hp": "156",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "6",
+        "price_coin": "500",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "7",
+        "price_coin": "550",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      },
+      {
+        "level": "8",
+        "price_coin": "600",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "2500"
+      }
+    ]
+  },
+  {
+    "id": "107700",
+    "name": "Cucumber Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "6500",
+        "skill_value_2": "1"
+      }
+    ]
+  },
+  {
+    "id": "107800",
+    "name": "Sikhye Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      }
+    ]
+  },
+  {
+    "id": "107900",
+    "name": "Sujeonggwa Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1",
+        "skill_value_2": "9000"
+      }
+    ]
+  },
+  {
+    "id": "108000",
+    "name": "Barley Sentry Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "30000",
+        "skill_value_2": "6000"
+      }
+    ]
+  },
+  {
+    "id": "108100",
+    "name": "Princess Bari Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "20",
+        "price_crystal": "99999",
+        "hp": "150",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "2",
+        "price_coin": "25",
+        "price_crystal": "99999",
+        "hp": "154",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "3",
+        "price_coin": "30",
+        "price_crystal": "99999",
+        "hp": "158",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "4",
+        "price_coin": "35",
+        "price_crystal": "99999",
+        "hp": "162",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "5",
+        "price_coin": "45",
+        "price_crystal": "99999",
+        "hp": "166",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "6",
+        "price_coin": "50",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "7",
+        "price_coin": "55",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      },
+      {
+        "level": "8",
+        "price_coin": "60",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "4000",
+        "skill_value_2": "3500"
+      }
+    ]
+  },
+  {
+    "id": "108200",
+    "name": "Potato Salad Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "7100",
+        "skill_value_2": ""
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "6800",
+        "skill_value_2": ""
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "6500",
+        "skill_value_2": ""
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "6200",
+        "skill_value_2": ""
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5900",
+        "skill_value_2": ""
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5600",
+        "skill_value_2": ""
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5300",
+        "skill_value_2": ""
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": ""
+      }
+    ]
+  },
+  {
+    "id": "108300",
+    "name": "Scallion Kimchi Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "7000",
+        "skill_value_2": "4"
+      }
+    ]
+  },
+  {
+    "id": "108400",
+    "name": "White Kimchi Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      }
+    ]
+  },
+  {
+    "id": "108500",
+    "name": "Admiral Gimbap Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "20",
+        "price_crystal": "99999",
+        "hp": "150",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "2",
+        "price_coin": "25",
+        "price_crystal": "99999",
+        "hp": "154",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "3",
+        "price_coin": "30",
+        "price_crystal": "99999",
+        "hp": "158",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "4",
+        "price_coin": "35",
+        "price_crystal": "99999",
+        "hp": "162",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "5",
+        "price_coin": "45",
+        "price_crystal": "99999",
+        "hp": "166",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "6",
+        "price_coin": "50",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "7",
+        "price_coin": "55",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      },
+      {
+        "level": "8",
+        "price_coin": "60",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "5000",
+        "skill_value_2": "300"
+      }
+    ]
+  },
+  {
+    "id": "108600",
+    "name": "Manggaetteok Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "28000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "27000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "26000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "25000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "24000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "23000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "22000",
+        "skill_value_2": "800"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "21000",
+        "skill_value_2": "800"
+      }
+    ]
+  },
+  {
+    "id": "108700",
+    "name": "Blooming Dancheong Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "999999",
+        "price_crystal": "99999",
+        "hp": "165",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "2",
+        "price_coin": "53000",
+        "price_crystal": "99999",
+        "hp": "168",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "3",
+        "price_coin": "64000",
+        "price_crystal": "99999",
+        "hp": "171",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "4",
+        "price_coin": "73000",
+        "price_crystal": "99999",
+        "hp": "174",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "5",
+        "price_coin": "88000",
+        "price_crystal": "99999",
+        "hp": "177",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "6",
+        "price_coin": "93000",
+        "price_crystal": "99999",
+        "hp": "180",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "7",
+        "price_coin": "100600",
+        "price_crystal": "99999",
+        "hp": "183",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      },
+      {
+        "level": "8",
+        "price_coin": "114000",
+        "price_crystal": "99999",
+        "hp": "185",
+        "skill_value_1": "6000",
+        "skill_value_2": "1700"
+      }
+    ]
+  },
+  {
+    "id": "108800",
+    "name": "Garaetteok Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "4"
+      }
+    ]
+  },
+  {
+    "id": "108900",
+    "name": "Choco Pistachio Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "5"
+      }
+    ]
+  },
+  {
+    "id": "109000",
+    "name": "Dandelion Fairy Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "140",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "2",
+        "price_coin": "300",
+        "price_crystal": "99999",
+        "hp": "144",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "3",
+        "price_coin": "350",
+        "price_crystal": "99999",
+        "hp": "148",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "4",
+        "price_coin": "400",
+        "price_crystal": "99999",
+        "hp": "152",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "5",
+        "price_coin": "450",
+        "price_crystal": "99999",
+        "hp": "156",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "6",
+        "price_coin": "500",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "7",
+        "price_coin": "550",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      },
+      {
+        "level": "8",
+        "price_coin": "600",
+        "price_crystal": "99999",
+        "hp": "160",
+        "skill_value_1": "8000",
+        "skill_value_2": "4"
+      }
+    ]
+  },
+  {
+    "id": "109100",
+    "name": "Kaymak Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "1500",
+        "skill_value_2": "3"
+      }
+    ]
+  },
+  {
+    "id": "109200",
+    "name": "Pine Monk Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "20",
+        "price_crystal": "99999",
+        "hp": "150",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "2",
+        "price_coin": "25",
+        "price_crystal": "99999",
+        "hp": "154",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "3",
+        "price_coin": "30",
+        "price_crystal": "99999",
+        "hp": "158",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "4",
+        "price_coin": "35",
+        "price_crystal": "99999",
+        "hp": "162",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "5",
+        "price_coin": "45",
+        "price_crystal": "99999",
+        "hp": "166",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "6",
+        "price_coin": "50",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "7",
+        "price_coin": "55",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      },
+      {
+        "level": "8",
+        "price_coin": "60",
+        "price_crystal": "99999",
+        "hp": "170",
+        "skill_value_1": "7000",
+        "skill_value_2": "60"
+      }
+    ]
+  },
+  {
+    "id": "109300",
+    "name": "Lotus Root Phantom Cookie",
+    "grade": "0",
+    "unlock_condition": "Default",
+    "image": "/assets/None.png",
+    "levels": [
+      {
+        "level": "0",
+        "price_coin": "0",
+        "price_crystal": "0",
+        "hp": null,
+        "skill_value_1": null,
+        "skill_value_2": null
+      },
+      {
+        "level": "1",
+        "price_coin": "108000",
+        "price_crystal": "119",
+        "hp": "140",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "2",
+        "price_coin": "32000",
+        "price_crystal": "0",
+        "hp": "144",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "3",
+        "price_coin": "35000",
+        "price_crystal": "0",
+        "hp": "148",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "4",
+        "price_coin": "38000",
+        "price_crystal": "0",
+        "hp": "152",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "5",
+        "price_coin": "40000",
+        "price_crystal": "0",
+        "hp": "156",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "6",
+        "price_coin": "43000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "7",
+        "price_coin": "51000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      },
+      {
+        "level": "8",
+        "price_coin": "59000",
+        "price_crystal": "0",
+        "hp": "160",
+        "skill_value_1": "5000",
+        "skill_value_2": "6"
+      }
+    ]
+  }
+]

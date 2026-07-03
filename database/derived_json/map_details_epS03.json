@@ -1,0 +1,281 @@
+{
+  "episode": "epS03",
+  "total_jellies": 5796,
+  "estimated_base_score": 7008680,
+  "jelly_breakdown": {
+    "Small Health": 2422,
+    "Bonus Time": 490,
+    "ID_4215": 1680,
+    "ID_4234": 952,
+    "Blast Jelly": 140,
+    "ID_4119": 112
+  },
+  "stages": [
+    {
+      "stage": "9001",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9003",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9005",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9007",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9002",
+      "speed": "1150",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9004",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9006",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "9008",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "10001",
+      "speed": "1250",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "1",
+      "speed": "850",
+      "total_jellies": 0,
+      "base_score": 0,
+      "jelly_breakdown": {}
+    },
+    {
+      "stage": "2",
+      "speed": "870",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "2",
+      "speed": "870",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "3",
+      "speed": "1000",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "3",
+      "speed": "1000",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "4",
+      "speed": "1050",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "4",
+      "speed": "1050",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "5",
+      "speed": "1100",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "5",
+      "speed": "1100",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "6",
+      "speed": "1150",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "6",
+      "speed": "1150",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "7",
+      "speed": "1200",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "7",
+      "speed": "1200",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "8",
+      "speed": "1300",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    },
+    {
+      "stage": "8",
+      "speed": "1300",
+      "total_jellies": 414,
+      "base_score": 500620,
+      "jelly_breakdown": {
+        "Small Health": 173,
+        "Bonus Time": 35,
+        "ID_4215": 120,
+        "ID_4234": 68,
+        "Blast Jelly": 10,
+        "ID_4119": 8
+      }
+    }
+  ]
+}
