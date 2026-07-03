@@ -124,6 +124,7 @@ export default function App() {
                   <div>
                     <span className="text-[10px] font-mono text-slate-500 uppercase tracking-widest">#{cookie.id}</span>
                     <h3 className="text-lg font-bold group-hover:text-rose-400 transition-colors">{cookie.name}</h3>
+                    <p className="text-xs text-slate-400 mt-1 italic">{(cookie as any).description_th}</p>
                   </div>
                   <div className="bg-slate-800 px-3 py-1 rounded-lg text-xs font-bold text-emerald-400">
                     {maxLevel.hp} HP
@@ -148,6 +149,7 @@ export default function App() {
                   <div>
                     <span className="text-[10px] font-mono text-slate-500 uppercase tracking-widest">#{pet.id}</span>
                     <h3 className="text-lg font-bold group-hover:text-orange-400 transition-colors">{pet.name}</h3>
+                    <p className="text-xs text-slate-400 mt-1 italic">{(pet as any).description_th}</p>
                   </div>
                   <div className="bg-slate-800 px-3 py-1 rounded-lg text-xs font-bold text-sky-400">
                     {maxLevel.cooldown} CD
