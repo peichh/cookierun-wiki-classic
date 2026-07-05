@@ -6,15 +6,17 @@ import IceTowerPage from './IceTowerPage';
 interface CookieLevel {
   level: string;
   hp: string | null;
-  skill_value_1: string;
-  skill_value_2: string;
+  skill_value_1: string | null;
+  skill_value_2: string | null;
 }
 
 interface Cookie {
   id: string;
   name: string;
-  skill_description_en: string;
-  skill_description_th: string;
+  skill_name_en?: string;
+  skill_name_th?: string;
+  skill_description_en?: string;
+  skill_description_th?: string;
   levels: CookieLevel[];
 }
 
@@ -26,13 +28,13 @@ interface PetLevel {
 interface Pet {
   id: string;
   name: string;
-  skill_description_en: string;
-  skill_description_th: string;
+  skill_description_en?: string;
+  skill_description_th?: string;
   levels: PetLevel[];
 }
 
-const cookiesData = (cookiesDataRaw as Cookie[]).filter(c => c.name !== 'GingerBrave' || c.id === '100100');
-const petsData = petsDataRaw as Pet[];
+const cookiesData = (cookiesDataRaw as unknown as Cookie[]).filter(c => c.name !== 'GingerBrave' || c.id === '100100');
+const petsData = petsDataRaw as unknown as Pet[];
 
 const CATEGORIES: Record<string, string[]> = {
   'ทำลายสิ่งกีดขวาง': ['GingerBrave', 'Muscle Cookie', 'Ninja Cookie', 'Knight Cookie', 'Pirate Cookie', 'Werewolf', 'Tiger Lily', 'Fire Spirit'],
@@ -46,7 +48,8 @@ function formatCooldown(raw: string | null): string {
   return (val / 100).toFixed(1) + 's';
 }
 
-function interpolateSkill(template: string, v1: string, v2: string): string {
+function interpolateSkill(template: string | undefined, v1: string | null, v2: string | null): string {
+  if (!template) return 'No skill description available.';
   return template
     .replace(/{V1}/g, v1 || '0')
     .replace(/{V2}/g, v2 || '0')
@@ -62,7 +65,8 @@ export default function App() {
   const filteredCookies = useMemo(() => {
     return cookiesData.filter(c => {
       const matchesSearch = c.name.toLowerCase().includes(search.toLowerCase()) || 
-                           (c.skill_description_th && c.skill_description_th.includes(search));
+                           (c.skill_description_th && c.skill_description_th.includes(search)) ||
+                           (c.skill_name_th && c.skill_name_th.includes(search));
       const matchesPlaystyle = !playstyle || CATEGORIES[playstyle]?.some(name => c.name.includes(name));
       return matchesSearch && matchesPlaystyle;
     });
@@ -110,7 +114,6 @@ export default function App() {
       </header>
 
       <main className="max-w-7xl mx-auto space-y-12">
-        {/* Filter Section */}
         <section className="bg-slate-900/30 p-8 border-2 border-slate-900 space-y-6">
           <div className="flex flex-col md:flex-row gap-6 items-center">
             <div className="relative flex-1 w-full">
@@ -148,18 +151,22 @@ export default function App() {
           </div>
         </section>
 
-        {/* Technical Data Grid */}
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {tab === 'cookies' ? filteredCookies.map(cookie => {
             const maxLevel = cookie.levels[cookie.levels.length - 1];
             return (
               <div key={cookie.id} className="bg-slate-950 border-2 border-slate-900 hover:border-rose-500/50 transition-all flex flex-col overflow-hidden group shadow-xl">
                 <div className="p-6 bg-slate-900/40 border-b-2 border-slate-900 flex justify-between items-center">
-                  <h3 className="text-3xl font-black italic tracking-tighter text-slate-100 uppercase group-hover:text-rose-500 transition-colors">
-                    {cookie.name}
-                  </h3>
+                  <div>
+                    <h3 className="text-3xl font-black italic tracking-tighter text-slate-100 uppercase group-hover:text-rose-500 transition-colors">
+                      {cookie.name}
+                    </h3>
+                    <div className="text-rose-400 text-xs font-black uppercase tracking-widest mt-1">
+                      {cookie.skill_name_th || 'N/A'} ({cookie.skill_name_en || 'Unique Skill'})
+                    </div>
+                  </div>
                   <div className="bg-slate-950 border-2 border-slate-800 px-4 py-2 font-black text-emerald-400">
-                    {maxLevel.hp} HP
+                    {maxLevel.hp || '—'} HP
                   </div>
                 </div>
                 
@@ -205,7 +212,7 @@ export default function App() {
                 <div className="p-8 flex-1">
                   <span className="text-[10px] font-black text-blue-500 uppercase tracking-[0.2em] mb-4 block border-b-2 border-blue-500/20 pb-2">ความสามารถสัตว์เลี้ยง (Pet Skill)</span>
                   <p className="text-lg text-slate-200 font-bold leading-relaxed indent-8">
-                    {pet.skill_description_th}
+                    {pet.skill_description_th || 'No description available.'}
                   </p>
                 </div>
 
@@ -224,7 +231,7 @@ export default function App() {
           &copy; 2026 COOKIERUN TECHNICAL WIKI &bull; POWERED BY POKE
         </div>
         <div className="text-slate-800 text-[8px] font-black uppercase">
-          Authorized for collector use only &bull; data source: derived_json_v3
+          Authorized for collector use only &bull; data source: derived_json_v4
         </div>
       </footer>
     </div>
