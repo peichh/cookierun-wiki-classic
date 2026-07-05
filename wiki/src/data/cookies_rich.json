@@ -1063,7 +1063,7 @@
         "skill_value_2": "8"
       }
     ],
-    "skill_description": "Revives after running out of HP (up to 8 times with 17 HP)"
+    "skill_description": "Revives after running out of HP (up to 8 times with {V1} HP) Revives after running out of HP (up to {V2} times with 17 HP)"
   },
   {
     "id": "101400",
@@ -1309,7 +1309,7 @@
         "skill_value_2": ""
       }
     ],
-    "skill_description": "Revives as Ghost Pirate (with up to 160 HP)"
+    "skill_description": "Revives as Ghost Pirate (with up to {V1} HP)"
   },
   {
     "id": "101800",
@@ -1555,7 +1555,7 @@
         "skill_value_2": "5500"
       }
     ],
-    "skill_description": "A cheerleader squad comes to help after every 32 jumps, crushing obstacles and spreading Coins and Jellies. Leveling up reduces the number of jumps needed and increases the time for the squad. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "A cheerleader squad comes to help after every 32 jumps, crushing obstacles and spreading Coins and Jellies. Leveling up reduces the number of jumps needed and increases the time for the squad."
   },
   {
     "id": "102100",
@@ -1719,7 +1719,7 @@
         "skill_value_2": "1"
       }
     ],
-    "skill_description": "Multi Jump (up to 10) Can perform 3 Multi Jumps and instantly land when tapping Slide in the air. Earns extra points for multi jumps. Revives as Cloud Decoy. Cloud Decoy does not collide with obstacles but cannot pick up HP potions, either. (Leveling up increases number of multi jumps and HP of Cloud Decoy) Revives as Ghost Pirate (with up to 160 HP)"
+    "skill_description": "Multi Jump (up to 10) Can perform 3 Multi Jumps and instantly land when tapping Slide in the air. Earns extra points for multi jumps. Revives as Cloud Decoy. Cloud Decoy does not collide with obstacles but cannot pick up HP potions, either. (Leveling up increases number of multi jumps and HP of Cloud Decoy)"
   },
   {
     "id": "102300",
@@ -1883,7 +1883,7 @@
         "skill_value_2": "5000"
       }
     ],
-    "skill_description": "Slows HP drain. Changes forms every 9 multi jumps. In Cookie form, seduces Bear Jellies to grant extra points. Slows HP drain (up to 17%)."
+    "skill_description": "Slows HP drain. Changes forms every {V1} multi jumps. In Cookie form, seduces Bear Jellies to grant extra points. Slows HP drain. Changes forms every 9 multi jumps. In Cookie form, seduces Bear Jellies to grant extra points."
   },
   {
     "id": "102500",
@@ -1965,7 +1965,7 @@
         "skill_value_2": "4"
       }
     ],
-    "skill_description": "Casts Magic Spells that can crush obstacles and create Jellies. Leveling up reduces the time between spells. Slows HP drain (up to 17%)."
+    "skill_description": "Casts Magic Spells that can crush obstacles and create Jellies. Leveling up reduces the time between spells."
   },
   {
     "id": "102600",
@@ -2047,7 +2047,7 @@
         "skill_value_2": "110"
       }
     ],
-    "skill_description": "Creates magnetic aura which also serves as a shield Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "Creates magnetic aura which also serves as a shield"
   },
   {
     "id": "102700",
@@ -2211,7 +2211,7 @@
         "skill_value_2": "7"
       }
     ],
-    "skill_description": "Throws Cherry Bombs that crush obstacles and create Cherry Jellies. Speeds up over time, but hitting an obstacle sets her back to normal speed. Leveling up grants more frequent bombs. Slows HP drain (up to 17%)."
+    "skill_description": "Throws Cherry Bombs that crush obstacles and create Cherry Jellies. Speeds up over time, but hitting an obstacle sets her back to normal speed. Leveling up grants more frequent bombs."
   },
   {
     "id": "102900",
@@ -2621,7 +2621,7 @@
         "skill_value_2": "5500"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Pistachio Cookie performs a long Blast. At the end of the Blast, a small amount of HP is restored. Receives minimal damage from collisions thanks to her tough shell armor, but as a result HP drain is a little faster. (Leveling up causes the gauge to fill faster.) Slows HP drain (up to 17%). Less HP loss when colliding with an obstacle (up to 50%)"
+    "skill_description": "The green gauge charges over time. When it is full, Pistachio Cookie performs a long Blast. At the end of the Blast, a small amount of HP is restored. Receives minimal damage from collisions thanks to her tough shell armor, but as a result HP drain is a little faster. (Leveling up causes the gauge to fill faster.)"
   },
   {
     "id": "103400",
@@ -2785,7 +2785,7 @@
         "skill_value_2": "1500"
       }
     ],
-    "skill_description": "Transforms into a swift Grape Bat when the green bar is full. As a bat, Vampire Cookie can pass through obstacles, earning Evasion Points, but must keep flapping his wings to stay above the ground. Occasionally extracts Grape Juice Drops from obstacles to restore HP, but HP drain is faster. (Leveling up makes the gauge fill faster.) Slows HP drain (up to 17%)."
+    "skill_description": "Transforms into a swift Grape Bat when the green bar is full. As a bat, Vampire Cookie can pass through obstacles, earning Evasion Points, but must keep flapping his wings to stay above the ground. Occasionally extracts Grape Juice Drops from obstacles to restore HP, but HP drain is faster. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "103600",
@@ -2949,7 +2949,7 @@
         "skill_value_2": "1000"
       }
     ],
-    "skill_description": "Gathering 18 Invitation Jellies triggers a Coin Fireworks Party. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade. Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.)"
+    "skill_description": "Gathering 18 Invitation Jellies triggers a Coin Fireworks Party."
   },
   {
     "id": "103800",
@@ -3195,7 +3195,7 @@
         "skill_value_2": "8000"
       }
     ],
-    "skill_description": "The small blue gauge charges over time. When it is full, Tiger Lily Cookie throws her spear, turning obstacles into grass. Jellies or HP Potions grow where the spear hits the ground. Throws the spear again immediately when picking it up from the ground. Each spear throw fills the green gauge a bit. Summons the Butter Tiger for a fast ride when the green gauge is full. (Butter Tiger counts as a riding skill.) Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "The small blue gauge charges over time. When it is full, Tiger Lily Cookie throws her spear, turning obstacles into grass. Jellies or HP Potions grow where the spear hits the ground. Throws the spear again immediately when picking it up from the ground. Each spear throw fills the green gauge a bit. Summons the Butter Tiger for a fast ride when the green gauge is full. (Butter Tiger counts as a riding skill.)"
   },
   {
     "id": "104100",
@@ -3277,7 +3277,7 @@
         "skill_value_2": "4000"
       }
     ],
-    "skill_description": "Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.) inferred effect 1196 Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade. inferred effect 1198 The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.) inferred effect 1196"
   },
   {
     "id": "104200",
@@ -3359,7 +3359,7 @@
         "skill_value_2": "406"
       }
     ],
-    "skill_description": "Spirits surrounding her eat Jellies and periodically create Blackberry Jellies. (Leveling up increases the number of Blackberry Jellies.) Slows HP drain (up to 17%)."
+    "skill_description": "Spirits surrounding her eat Jellies and periodically create Blackberry Jellies. (Leveling up increases the number of Blackberry Jellies.)"
   },
   {
     "id": "104300",
@@ -3441,7 +3441,7 @@
         "skill_value_2": "700"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Kiwi Cookie blasts ahead on his bike. Picking up Kiwi Fuel Jellies boosts bike speed for a short time and prolongs the duration of the ride. (Leveling up makes the gauge fill faster.) Slows HP drain (up to 17%)."
+    "skill_description": "The green gauge charges over time. When it is full, Kiwi Cookie blasts ahead on his bike. Picking up Kiwi Fuel Jellies boosts bike speed for a short time and prolongs the duration of the ride. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "104400",
@@ -3523,7 +3523,7 @@
         "skill_value_2": "1000"
       }
     ],
-    "skill_description": "The green gauge charges over time (the lower the HP, the faster). When it is full, Werewolf Cookie changes into wolf form to crush obstacles, earning Crush Points. Careful: Werewolf Cookie can still fall into pits while in wolf form. (Leveling up makes the gauge fill faster and increases the amount of Crush Points.) Slows HP drain (up to 17%)."
+    "skill_description": "The green gauge charges over time (the lower the HP, the faster). When it is full, Werewolf Cookie changes into wolf form to crush obstacles, earning Crush Points. Careful: Werewolf Cookie can still fall into pits while in wolf form. (Leveling up makes the gauge fill faster and increases the amount of Crush Points.)"
   },
   {
     "id": "104500",
@@ -3605,7 +3605,7 @@
         "skill_value_2": "1"
       }
     ],
-    "skill_description": "Gathering HP Potions summons a flying Cocoa Mug to ride in. While flying, regular Jellies turn into Cocoa Marshmallow Jellies awarding more points. Recovers more HP from Potions. (Leveling up increases flight duration and recovery amount. The Cocoa Mug counts as a riding skill.) Increases HP recovery from potions (up to 29%)."
+    "skill_description": "Gathering HP Potions summons a flying Cocoa Mug to ride in. While flying, regular Jellies turn into Cocoa Marshmallow Jellies awarding more points. Recovers more HP from Potions. (Leveling up increases flight duration and recovery amount. The Cocoa Mug counts as a riding skill.)"
   },
   {
     "id": "104600",
@@ -3687,7 +3687,7 @@
         "skill_value_2": "50"
       }
     ],
-    "skill_description": "Throws Cherry Bombs that crush obstacles and create Cherry Jellies. Speeds up over time, but hitting an obstacle sets her back to normal speed. Leveling up grants more frequent bombs. Plays the violin to create Coins. Avoiding collisions with obstacles for a given time increases running speed and generates more Coins. Colliding with an obstacle resets to the default speed and causes greater damage. (Leveling up increases the amount of Coins generated.) (Special music plays when running with Mint Choco Cookie.) Less HP loss when colliding with an obstacle (up to 50%)"
+    "skill_description": "Throws Cherry Bombs that crush obstacles and create Cherry Jellies. Speeds up over time, but hitting an obstacle sets her back to normal speed. Leveling up grants more frequent bombs. Plays the violin to create Coins. Avoiding collisions with obstacles for a given time increases running speed and generates more Coins. Colliding with an obstacle resets to the default speed and causes greater damage. (Leveling up increases the amount of Coins generated.) (Special music plays when running with Mint Choco Cookie.)"
   },
   {
     "id": "104700",
@@ -3769,7 +3769,7 @@
         "skill_value_2": "1"
       }
     ],
-    "skill_description": "Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.) Chance to crush obstacles on collision (up to 75%) The green gauge charges over time (the lower the HP, the faster). When it is full, Werewolf Cookie changes into wolf form to crush obstacles, earning Crush Points. Careful: Werewolf Cookie can still fall into pits while in wolf form. (Leveling up makes the gauge fill faster and increases the amount of Crush Points.)"
+    "skill_description": "Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.)"
   },
   {
     "id": "104800",
@@ -3851,7 +3851,7 @@
         "skill_value_2": "30"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "104900",
@@ -3933,7 +3933,7 @@
         "skill_value_2": "4270"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.) Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "105000",
@@ -4015,7 +4015,7 @@
         "skill_value_2": "100"
       }
     ],
-    "skill_description": "Loads gumballs while jumping and shoots while sliding. The shots crush obstacles and earn shot points. Consecutive shots increase shot points. Up to 20 gumballs can be loaded at a time. (Leveling up increases the amount of shot points earned.) Slows HP drain (up to 17%)."
+    "skill_description": "Loads gumballs while jumping and shoots while sliding. The shots crush obstacles and earn shot points. Consecutive shots increase shot points. Up to 20 gumballs can be loaded at a time. (Leveling up increases the amount of shot points earned.)"
   },
   {
     "id": "105100",
@@ -4097,7 +4097,7 @@
         "skill_value_2": "100"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Cherry Blossom Cookie takes flight, creating Cherry Blossom Jellies along the way. Creates Cherry Blossom Jelly Party in Bonus Time. (Leveling up makes the gauge fill faster.) Throws Cherry Bombs that crush obstacles and create Cherry Jellies. Speeds up over time, but hitting an obstacle sets her back to normal speed. Leveling up grants more frequent bombs."
+    "skill_description": "The green gauge charges over time. When it is full, Cherry Blossom Cookie takes flight, creating Cherry Blossom Jellies along the way. Creates Cherry Blossom Jelly Party in Bonus Time. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "105200",
@@ -4179,7 +4179,7 @@
         "skill_value_2": "20000"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Lemon Cookie generates an Electro Shield, increasing Jelly points and slightly slowing HP drain. The shield's magnetic field attracts all Jellies, including Dark Moon Jellies. During Blast, Lemon Cookie crushes obstacles around him. (Leveling up makes the gauge fill faster.) Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Lemon Cookie generates an Electro Shield, increasing Jelly points and slightly slowing HP drain. The shield's magnetic field attracts all Jellies, including Dark Moon Jellies. During Blast, Lemon Cookie crushes obstacles around him. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "105300",
@@ -4261,7 +4261,7 @@
         "skill_value_2": "10"
       }
     ],
-    "skill_description": "Periodically creates a Tennis Ball Jelly that can be picked up to smash using a double jump. The ball then bounces around crushing obstacles and creating Orange Citrus Jellies. While in the air, the Slide button turns into a Smash button. Tapping it triggers an even stronger bounce. Frantically smashes tennis balls while in Blast Mode. (Leveling up increases the frequency of tennis balls appearing.) Slows HP drain (up to 17%)."
+    "skill_description": "Periodically creates a Tennis Ball Jelly that can be picked up to smash using a double jump. The ball then bounces around crushing obstacles and creating Orange Citrus Jellies. While in the air, the Slide button turns into a Smash button. Tapping it triggers an even stronger bounce. Frantically smashes tennis balls while in Blast Mode. (Leveling up increases the frequency of tennis balls appearing.)"
   },
   {
     "id": "105400",
@@ -4343,7 +4343,7 @@
         "skill_value_2": "20000"
       }
     ],
-    "skill_description": "Catches beach balls and strikes them when Double Jumping, crushing obstacles and creating Lime Citrus Jellies. Striking a ball in Giant form creates more Lime Citrus Jellies. The green gauge charges over time. When it is full, Lime Cookie rides a giant beach ball in Blast Mode, crushing obstacles and earning Crush Points. (Leveling up makes the gauge fill faster.) Slows HP drain (up to 17%). The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "Catches beach balls and strikes them when Double Jumping, crushing obstacles and creating Lime Citrus Jellies. Striking a ball in Giant form creates more Lime Citrus Jellies. The green gauge charges over time. When it is full, Lime Cookie rides a giant beach ball in Blast Mode, crushing obstacles and earning Crush Points. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "105500",
@@ -4753,7 +4753,7 @@
         "skill_value_2": "7000"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Macaron Cookie leads the Macaron Parade. During the parade, the Macaron Animals run along creating Macaron Jellies and crushing obstacles, earning Crush Points and extra Jelly Points. (Leveling up makes the gauge fill faster.) The green gauge charges over time (the lower the HP, the faster). When it is full, Werewolf Cookie changes into wolf form to crush obstacles, earning Crush Points. Careful: Werewolf Cookie can still fall into pits while in wolf form. (Leveling up makes the gauge fill faster and increases the amount of Crush Points.) The green gauge charges over time. When it is full, Cream Puff Cookie casts a Minor Jelly Spell to create a small amount of Jellies. Sometimes this triggers a Jelly Storm, generating a large amount of Jellies. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "The green gauge charges over time. When it is full, Macaron Cookie leads the Macaron Parade. During the parade, the Macaron Animals run along creating Macaron Jellies and crushing obstacles, earning Crush Points and extra Jelly Points. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "106000",
@@ -4835,7 +4835,7 @@
         "skill_value_2": "10"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Cinnamon Cookie performs various card tricks. Dazzles with Revival Magic when running out of HP once. (Leveling up makes the gauge fill faster.) Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.)"
+    "skill_description": "The green gauge charges over time. When it is full, Cinnamon Cookie performs various card tricks. Dazzles with Revival Magic when running out of HP once. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "106100",
@@ -4917,7 +4917,7 @@
         "skill_value_2": "7500"
       }
     ],
-    "skill_description": "Treat Fish Jelly appear while running. The green gauge charges over time. When it is full, Red Bean Cookie rides his Penguin Sled. The speed of the sled depends on the number of gathered Fish Treat Jellies. (Penguin Sled counts as a riding skill.) Slows HP drain (up to 17%)."
+    "skill_description": "Treat Fish Jelly appear while running. The green gauge charges over time. When it is full, Red Bean Cookie rides his Penguin Sled. The speed of the sled depends on the number of gathered Fish Treat Jellies. (Penguin Sled counts as a riding skill.)"
   },
   {
     "id": "106200",
@@ -4999,7 +4999,7 @@
         "skill_value_2": "700"
       }
     ],
-    "skill_description": "Sliding charges two gauges. Standing up when the small gauge is full crushes nearby obstacles. Standing up when the big gauge is full triggers Blast Mode for a short distance. At the end of Blast Mode, obstacles in a large area are crushed. All obstacles crushed by White Choco Cookie's skill turn into White Choco Jelly. The small gauge fills faster at higher running speed. Slows HP drain (up to 17%)."
+    "skill_description": "Sliding charges two gauges. Standing up when the small gauge is full crushes nearby obstacles. Standing up when the big gauge is full triggers Blast Mode for a short distance. At the end of Blast Mode, obstacles in a large area are crushed. All obstacles crushed by White Choco Cookie's skill turn into White Choco Jelly. The small gauge fills faster at higher running speed."
   },
   {
     "id": "106300",
@@ -5081,7 +5081,7 @@
         "skill_value_2": "8800"
       }
     ],
-    "skill_description": "A water gauge appears above Herb Cookie's head. Rain and Sun Jellies appear periodically. Picking up Rain Jellies causes rain, filling up the water gauge. When the gauge is full, picking up a Sun Jelly brings out the sun to turn regular Jellies into Sprout Jellies. Slower HP drain. (Leveling up makes Rain and Sun Jellies appear more frequently.) Increases HP recovery from potions (up to 29%). Slows HP drain (up to 17%)."
+    "skill_description": "A water gauge appears above Herb Cookie's head. Rain and Sun Jellies appear periodically. Picking up Rain Jellies causes rain, filling up the water gauge. When the gauge is full, picking up a Sun Jelly brings out the sun to turn regular Jellies into Sprout Jellies. Slower HP drain. (Leveling up makes Rain and Sun Jellies appear more frequently.)"
   },
   {
     "id": "106400",
@@ -5163,7 +5163,7 @@
         "skill_value_2": "20"
       }
     ],
-    "skill_description": "Picking up a Giant Jelly enlarges the Jellysaur companion instead, letting Dino-Sour Cookie ride fast atop the Jellysaur for a short time. Landing from the air while riding the Jellysaur creates Dino Paw Jellies on the ground. Landing from greater heights creates more Jellies. (Jellysaur Ride counts as a riding skill.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "Picking up a Giant Jelly enlarges the Jellysaur companion instead, letting Dino-Sour Cookie ride fast atop the Jellysaur for a short time. Landing from the air while riding the Jellysaur creates Dino Paw Jellies on the ground. Landing from greater heights creates more Jellies. (Jellysaur Ride counts as a riding skill.)"
   },
   {
     "id": "106500",
@@ -5245,7 +5245,7 @@
         "skill_value_2": "8"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Sea Fairy Cookie launches a powerful Wave Blast. During Wave Blast, Wave Beads crush obstacles, creating Sea Crystal Jellies. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "The green gauge charges over time. When it is full, Sea Fairy Cookie launches a powerful Wave Blast. During Wave Blast, Wave Beads crush obstacles, creating Sea Crystal Jellies."
   },
   {
     "id": "106600",
@@ -5409,7 +5409,7 @@
         "skill_value_2": "8000"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Double Jumping causes Roll Cake Cookie to slam down his hammer, crushing obstacles and creating Spare Part Jellies. Collecting 34 Spare Part Jellies summons the Road Roller for riding in Blast Mode (Road Roller counts as a riding skill.) Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The green gauge charges over time. When it is full, Double Jumping causes Roll Cake Cookie to slam down his hammer, crushing obstacles and creating Spare Part Jellies. Collecting 34 Spare Part Jellies summons the Road Roller for riding in Blast Mode (Road Roller counts as a riding skill.)"
   },
   {
     "id": "106800",
@@ -5491,7 +5491,7 @@
         "skill_value_2": "8000"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Banana Cookie leaves the stage to Choco the Monkey. The more hoops the monkey jumps through, the more Coins are dropped to the ground at the end of his performance. The green gauge charges over time. When it is full, Peach Cookie enters a bamboo forest to fight the Bamboo Bandits. Each downed Bandit grants points, with consecutive hits offering even more points. The mysterious aura of the bamboo forest allows Peach Cookie to perform up to 6 Multi Jumps. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The green gauge charges over time. When it is full, Banana Cookie leaves the stage to Choco the Monkey. The more hoops the monkey jumps through, the more Coins are dropped to the ground at the end of his performance."
   },
   {
     "id": "106900",
@@ -5655,7 +5655,7 @@
         "skill_value_2": "18300"
       }
     ],
-    "skill_description": "Pulls his bowstring while the Slide button is held and shoots at the fallen souls when it is released. Hitting a certain number of fallen souls will trigger Wind Dash. (Leveling up reduces the number of fallen souls needed to trigger Wind Dash) Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade. Increases HP recovery from potions (up to 29%)."
+    "skill_description": "Pulls his bowstring while the Slide button is held and shoots at the fallen souls when it is released. Hitting a certain number of fallen souls will trigger Wind Dash. (Leveling up reduces the number of fallen souls needed to trigger Wind Dash)"
   },
   {
     "id": "107100",
@@ -5737,7 +5737,7 @@
         "skill_value_2": "7500"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Moon Rabbit Cookie transforms into a giant Rice Cake Bunny. In this form, landing from a Jump stomps up Honey Rice Cake Jellies. Giant Rice Cake Bunny gets bigger and jumps become higher as time goes by. The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The green gauge charges over time. When it is full, Moon Rabbit Cookie transforms into a giant Rice Cake Bunny. In this form, landing from a Jump stomps up Honey Rice Cake Jellies. Giant Rice Cake Bunny gets bigger and jumps become higher as time goes by."
   },
   {
     "id": "107200",
@@ -5819,7 +5819,7 @@
         "skill_value_2": "2100"
       }
     ],
-    "skill_description": "Periodically creates Dog Chew Jellies that trigger Blast on all fours. Each Dog Chew Jelly fills the green gauge a little. When it is full, Strawberry Shortcake Cookie rides a Giant Cake Hound and turns nearby Jellies into Cake Slice Jellies. (Giant Cake Hound counts as a riding skill.) The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Periodically creates Dog Chew Jellies that trigger Blast on all fours. Each Dog Chew Jelly fills the green gauge a little. When it is full, Strawberry Shortcake Cookie rides a Giant Cake Hound and turns nearby Jellies into Cake Slice Jellies. (Giant Cake Hound counts as a riding skill.)"
   },
   {
     "id": "107300",
@@ -5901,7 +5901,7 @@
         "skill_value_2": "7000"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Gulab Jamun Cookie starts a festival, dancing to the music, setting off color splashes, and creating Gulab Jamun Jellies and Coins. The more Gulab Jamun Jellies are collected, the greater the color splash. (Leveling up increases Gulab Jamun Jelly Points.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "The green gauge charges over time. When it is full, Gulab Jamun Cookie starts a festival, dancing to the music, setting off color splashes, and creating Gulab Jamun Jellies and Coins. The more Gulab Jamun Jellies are collected, the greater the color splash. (Leveling up increases Gulab Jamun Jelly Points.)"
   },
   {
     "id": "107400",
@@ -5983,7 +5983,7 @@
         "skill_value_2": "2500"
       }
     ],
-    "skill_description": "The green gauge charges over time. When it is full, Kaju Katli Cookie throws his spear, crushing obstacles and creating Kaju Katli Jellies in their place. Picking up the spear triggers Blast Mode while flinging it around. (Leveling up increases Kaju Katli Jelly Points.) The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "The green gauge charges over time. When it is full, Kaju Katli Cookie throws his spear, crushing obstacles and creating Kaju Katli Jellies in their place. Picking up the spear triggers Blast Mode while flinging it around. (Leveling up increases Kaju Katli Jelly Points.)"
   },
   {
     "id": "107500",
@@ -6065,7 +6065,7 @@
         "skill_value_2": "2500"
       }
     ],
-    "skill_description": "inferred effect 1007501 inferred effect 1007502 inferred effect 1007503 inferred effect 1007504 inferred effect 1007505 inferred effect 1007506 inferred effect 1007507 inferred effect 1007508 inferred effect 1007509 Periodically transforms Jellies into three types of Flower Jellies that fill the flower gauge. When the gauge is full, Princess Bari Cookie enters the forest of the Sacred Tree to banish spirits to the afterlife, leaving behind Spirit Jellies. Banishing a giant spirit yields a Healing Water Jelly that restores HP and triggers Blast Mode. Healing Water Jellies do not count as HP Potions. (Leveling up increases Flower Jelly Points.)"
+    "skill_description": "inferred effect 1007501 inferred effect 1007502"
   },
   {
     "id": "107700",
@@ -6147,7 +6147,7 @@
         "skill_value_2": "1"
       }
     ],
-    "skill_description": "Periodically casts his fishing rod to crush obstacles and collect Fish Jellies. Occasionally sits down on a lotus leaf to fish for a Big Fish Jelly. Tapping both buttons rapidly fills the green gauge, resulting in a more valuable catch. Big Fish Jellies restore a small amount of HP and create a large amount of Fish Jellies. Slower HP drain while sitting on the lotus leaf. The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Periodically casts his fishing rod to crush obstacles and collect Fish Jellies. Occasionally sits down on a lotus leaf to fish for a Big Fish Jelly. Tapping both buttons rapidly fills the green gauge, resulting in a more valuable catch. Big Fish Jellies restore a small amount of HP and create a large amount of Fish Jellies. Slower HP drain while sitting on the lotus leaf."
   },
   {
     "id": "107800",
@@ -6393,7 +6393,7 @@
         "skill_value_2": "6000"
       }
     ],
-    "skill_description": "Gains Magnetic Aura and points for all Jellies while shielded. Grows larger and faster with each gathered Barley Jelly. Catching a Barley Jelly fills the green gauge a little. When it is full, Barley Sentry Cookie assumes his sentry form, triggering Blast while creating Jellies and crushing obstacles. Partially restores HP at the end of the transformation. Creates magnetic aura which also serves as a shield The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Gains Magnetic Aura and points for all Jellies while shielded. Grows larger and faster with each gathered Barley Jelly. Catching a Barley Jelly fills the green gauge a little. When it is full, Barley Sentry Cookie assumes his sentry form, triggering Blast while creating Jellies and crushing obstacles. Partially restores HP at the end of the transformation."
   },
   {
     "id": "108100",
@@ -6475,7 +6475,7 @@
         "skill_value_2": "3500"
       }
     ],
-    "skill_description": "Periodically transforms Jellies into three types of Flower Jellies that fill the flower gauge. When the gauge is full, Princess Bari Cookie enters the forest of the Sacred Tree to banish spirits to the afterlife, leaving behind Spirit Jellies. Banishing a giant spirit yields a Healing Water Jelly that restores HP and triggers Blast Mode. Healing Water Jellies do not count as HP Potions. (Leveling up increases Flower Jelly Points.) Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.)"
+    "skill_description": "Periodically transforms Jellies into three types of Flower Jellies that fill the flower gauge. When the gauge is full, Princess Bari Cookie enters the forest of the Sacred Tree to banish spirits to the afterlife, leaving behind Spirit Jellies. Banishing a giant spirit yields a Healing Water Jelly that restores HP and triggers Blast Mode. Healing Water Jellies do not count as HP Potions. (Leveling up increases Flower Jelly Points.)"
   },
   {
     "id": "108200",
@@ -6639,7 +6639,7 @@
         "skill_value_2": "4"
       }
     ],
-    "skill_description": "Periodically performs sword slashes to crush obstacles and fill the green gauge. When the gauge is full, Scallion Kimchi Cookie charges forward while slashing obstacles in her way. Scallion Kimchi Bear Jellies spawn wherever Scallion Kimchi Cookie crushes obstacles. (Leveling up increases Crush Points.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain. Small chance of crushing obstacles on collision instead of taking damage. When his rage gauge is filled, he's on fire and crushes all obstacles. Revives out of sheer willpower after running out of HP once. Earns extra Crush Points. (Leveling up increases the amount of HP on Revive.)"
+    "skill_description": "Periodically performs sword slashes to crush obstacles and fill the green gauge. When the gauge is full, Scallion Kimchi Cookie charges forward while slashing obstacles in her way. Scallion Kimchi Bear Jellies spawn wherever Scallion Kimchi Cookie crushes obstacles. (Leveling up increases Crush Points.)"
   },
   {
     "id": "108400",
@@ -6721,7 +6721,7 @@
         "skill_value_2": "4"
       }
     ],
-    "skill_description": "Catching flying White Kimchi Rolls attaches talismans to surrounding obstacles to make it possible to pass them for Evasion Points. Collecting a certain number of White Kimchi Rolls summons Cabbage Spirits that can be passed through for Evasion Points. (Leveling up increases Evasion Points.) Transforms into a swift Grape Bat when the green bar is full. As a bat, Vampire Cookie can pass through obstacles, earning Evasion Points, but must keep flapping his wings to stay above the ground. Occasionally extracts Grape Juice Drops from obstacles to restore HP, but HP drain is faster. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "Catching flying White Kimchi Rolls attaches talismans to surrounding obstacles to make it possible to pass them for Evasion Points. Collecting a certain number of White Kimchi Rolls summons Cabbage Spirits that can be passed through for Evasion Points. (Leveling up increases Evasion Points.)"
   },
   {
     "id": "108500",
@@ -6803,7 +6803,7 @@
         "skill_value_2": "300"
       }
     ],
-    "skill_description": "inferred effect 1008501 inferred effect 1008502 inferred effect 1008503 inferred effect 1008504 inferred effect 1008505 The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "inferred effect 1008501 inferred effect 1008502"
   },
   {
     "id": "108600",
@@ -6885,7 +6885,7 @@
         "skill_value_2": "800"
       }
     ],
-    "skill_description": "inferred effect 1008601 inferred effect 1008602 inferred effect 1008603 The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "inferred effect 1008601 inferred effect 1008602"
   },
   {
     "id": "108700",
@@ -6967,7 +6967,7 @@
         "skill_value_2": "1700"
       }
     ],
-    "skill_description": "The small blue gauge charges over time. When it is full, Plum Blossom Jellies grow, charging the green gauge a little. When the green gauge is full, Plum Blossom Dragons fly by, turning basic Jellies into Plum Blossom Jellies and Coins. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.) Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "The small blue gauge charges over time. When it is full, Plum Blossom Jellies grow, charging the green gauge a little. When the green gauge is full, Plum Blossom Dragons fly by, turning basic Jellies into Plum Blossom Jellies and Coins."
   },
   {
     "id": "108800",
@@ -7049,7 +7049,7 @@
         "skill_value_2": "4"
       }
     ],
-    "skill_description": "The small blue gauge charges over time. When it is full, Double Jumping causes Garaetteok Cookie to strike the ground, destroying obstacles, creating Garaetteok Jellies and filling the green gauge a little. When the green gauge is full, Garaetteok Cookie flies ahead surrounded by totem underlings, passing through obstacles to earn Evasion Points. Transforms into a swift Grape Bat when the green bar is full. As a bat, Vampire Cookie can pass through obstacles, earning Evasion Points, but must keep flapping his wings to stay above the ground. Occasionally extracts Grape Juice Drops from obstacles to restore HP, but HP drain is faster. (Leveling up makes the gauge fill faster.) The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "The small blue gauge charges over time. When it is full, Double Jumping causes Garaetteok Cookie to strike the ground, destroying obstacles, creating Garaetteok Jellies and filling the green gauge a little. When the green gauge is full, Garaetteok Cookie flies ahead surrounded by totem underlings, passing through obstacles to earn Evasion Points."
   },
   {
     "id": "108900",
@@ -7131,7 +7131,7 @@
         "skill_value_2": "5"
       }
     ],
-    "skill_description": "inferred effect 1008901 inferred effect 1008902 inferred effect 1008903 inferred effect 1008904 inferred effect 1008905 inferred effect 1008906 inferred effect 1399 The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "inferred effect 1008901 inferred effect 1008902"
   },
   {
     "id": "109000",
@@ -7213,7 +7213,7 @@
         "skill_value_2": "4"
       }
     ],
-    "skill_description": "Swings her Pom-pom Flower Stalk to create Dandelion Jelly and Pom-Pom Jelly. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Swings her Pom-pom Flower Stalk to create Dandelion Jelly and Pom-Pom Jelly."
   },
   {
     "id": "109100",
@@ -7295,7 +7295,7 @@
         "skill_value_2": "3"
       }
     ],
-    "skill_description": "Swings his Golden Honey Staff to crush obstacles during Blast. The green gauge charges over time. When it is full, Kaymak Cookie rides on his Milk Cloud, summoning decoys that crush obstacles and create Kaymak Jellies. The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain. The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Swings his Golden Honey Staff to crush obstacles during Blast. The green gauge charges over time. When it is full, Kaymak Cookie rides on his Milk Cloud, summoning decoys that crush obstacles and create Kaymak Jellies."
   },
   {
     "id": "109200",
@@ -7377,7 +7377,7 @@
         "skill_value_2": "60"
       }
     ],
-    "skill_description": "Upon eating Sutra Jelly, unfolds the Sutra to create Pine Leaf Jellies and Coins. After eating a certain amount of Sutra Jellies, expels phantoms with a Giant Buddha Statue. The green gauge charges over time. When it is full, Hero Cookie puts on his Caramel Syrup Suit for a flying Blast with magnetic effect and slower HP drain."
+    "skill_description": "Upon eating Sutra Jelly, unfolds the Sutra to create Pine Leaf Jellies and Coins. After eating a certain amount of Sutra Jellies, expels phantoms with a Giant Buddha Statue."
   },
   {
     "id": "109300",
@@ -7459,6 +7459,6 @@
         "skill_value_2": "6"
       }
     ],
-    "skill_description": "Swings the crescent moon spade to make obstacles passable and create Skull Lotus Jellies when the small blue gauge is full. Each swing slightly charges the green gauge. When the green gauge is full, Lotus Root Phantom Cookie transforms into a Lotus Phantom and rushes ahead quickly while passing through obstacles. Transforms into a swift Grape Bat when the green bar is full. As a bat, Vampire Cookie can pass through obstacles, earning Evasion Points, but must keep flapping his wings to stay above the ground. Occasionally extracts Grape Juice Drops from obstacles to restore HP, but HP drain is faster. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Swings the crescent moon spade to make obstacles passable and create Skull Lotus Jellies when the small blue gauge is full. Each swing slightly charges the green gauge. When the green gauge is full, Lotus Root Phantom Cookie transforms into a Lotus Phantom and rushes ahead quickly while passing through obstacles."
   }
 ]

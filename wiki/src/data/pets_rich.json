@@ -727,7 +727,7 @@
         "duration": "19600"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.)"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201100",
@@ -2625,7 +2625,7 @@
         "duration": "15000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates flying HP Potions accompanied by Snow Flower Jellies."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203900",
@@ -2917,7 +2917,7 @@
         "duration": "16000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.)"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204300",
@@ -3209,7 +3209,7 @@
         "duration": "1000"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Slows HP drain (up to 17%)."
+    "skill_description": "Grants Speed Points based on running speed."
   },
   {
     "id": "204700",
@@ -3282,7 +3282,7 @@
         "duration": "2500"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Cat Coin worth 20 Coins. The frequency gradually increases over time."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204800",
@@ -3428,7 +3428,7 @@
         "duration": "4000"
       }
     ],
-    "skill_description": "Periodically charges ahead to crush obstacles and scatter various Jellies and items. Lays down a red carpet for the Cookie, allowing pits to be crossed safely. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "Periodically charges ahead to crush obstacles and scatter various Jellies and items. Lays down a red carpet for the Cookie, allowing pits to be crossed safely."
   },
   {
     "id": "205000",
@@ -3720,7 +3720,7 @@
         "duration": "4"
       }
     ],
-    "skill_description": "Brings an HP Potion upon collapse to grant up to 4 Revives for each Cookie."
+    "skill_description": "Brings an HP Potion upon collapse to grant up to {V1} Revives for each Cookie. Brings an HP Potion upon collapse to grant up to {V2} Revives for each Cookie."
   },
   {
     "id": "205400",
@@ -3939,7 +3939,7 @@
         "duration": "330"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Star Fireworks Potion for 330 Coins (only when enough Coins are available). Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Star Fireworks Potion for {V2} Coins (only when enough Coins are available)."
   },
   {
     "id": "205800",
@@ -4012,7 +4012,7 @@
         "duration": "15000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Royal Blast Coin. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "205900",
@@ -4158,7 +4158,7 @@
         "duration": "5000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically shoots Coloring Laser to create Mini Gumball Jellies. Slows HP drain (up to 17%)."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically shoots Coloring Laser to create Mini Gumball Jellies."
   },
   {
     "id": "206100",
@@ -4304,7 +4304,7 @@
         "duration": "4612"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates 2 Bean Jellies. Grants 2 Pit Lifts and 2 Revives with 22 HP to each Cookie. Brings an HP Potion upon collapse to grant up to 4 Revives for each Cookie. Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates 2 Bean Jellies. Grants 2 Pit Lifts and 2 Revives with 22 HP to each Cookie."
   },
   {
     "id": "206300",
@@ -4450,7 +4450,7 @@
         "duration": "1000"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Periodically creates a Silver Coin worth 5 regular Coins."
+    "skill_description": "Grants Speed Points based on running speed."
   },
   {
     "id": "206500",
@@ -4523,7 +4523,7 @@
         "duration": "5000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206600",
@@ -4596,7 +4596,7 @@
         "duration": "3"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Grants 3 Pit Lifts or Revives with 38 HP to each Cookie. Grants 3 Pit Lifts or Revives with 28 HP to each Cookie. Provides +100 HP for Cookie Relay."
+    "skill_description": "Grants Speed Points based on running speed. Grants {V1} Pit Lifts or Revives with 38 HP to each Cookie. Grants Speed Points based on running speed. Grants {V2} Pit Lifts or Revives with 38 HP to each Cookie."
   },
   {
     "id": "206700",
@@ -4888,7 +4888,7 @@
         "duration": "1000"
       }
     ],
-    "skill_description": "Grants Crush Points when crushing obstacles. Slows HP drain. Slows HP drain (up to 17%)."
+    "skill_description": "Grants Crush Points when crushing obstacles. Slows HP drain."
   },
   {
     "id": "207100",
@@ -5545,7 +5545,7 @@
         "duration": "3000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically triggers Blast. Slows HP drain the rest of the time. Slows HP drain (up to 17%)."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically triggers Blast. Slows HP drain the rest of the time."
   },
   {
     "id": "208000",
@@ -5764,7 +5764,7 @@
         "duration": "4370"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to gather Jellies for the Cookie. Then pounds the collected Jellies into a giant Full Moon Rice Cake Jelly that restores a small amount of HP. (Full Moon Rice Cake Jellies are not affected by magnetic effects.) The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to gather Jellies for the Cookie. Then pounds the collected Jellies into a giant Full Moon Rice Cake Jelly that restores a small amount of HP. (Full Moon Rice Cake Jellies are not affected by magnetic effects.)"
   },
   {
     "id": "208300",
@@ -5837,7 +5837,7 @@
         "duration": "760"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Periodically creates a Silver Coin worth 5 regular Coins. Grants Speed Points based on running speed and periodically creates a Strawberry Potion."
+    "skill_description": "Grants Speed Points based on running speed."
   },
   {
     "id": "208400",
@@ -5910,7 +5910,7 @@
         "duration": "5000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to crush obstacles and turn nearby Jellies into Honey Bun Jellies. Slows HP drain while the skill is active. Periodically shines a spotlight over the Cookie that grants Magnet, crushes obstacles on collision, and slows HP drain. (The Magnet does not stack with other magnetic effects.)"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to crush obstacles and turn nearby Jellies into Honey Bun Jellies. Slows HP drain while the skill is active."
   },
   {
     "id": "208500",
@@ -5983,7 +5983,7 @@
         "duration": "760"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Grants Speed Points based on running speed and periodically creates a Strawberry Potion. Periodically creates a Silver Coin worth 5 regular Coins."
+    "skill_description": "Grants Speed Points based on running speed."
   },
   {
     "id": "208700",
@@ -6348,7 +6348,7 @@
         "duration": "3"
       }
     ],
-    "skill_description": "Grants Speed Points based on running speed. Grants 3 Pit Lifts or Revives with 38 HP to each Cookie. Grants Speed Points based on running speed. Grants Speed Points based on running speed and periodically creates a Strawberry Potion."
+    "skill_description": "Grants Speed Points based on running speed. Grants {V1} Pit Lifts or Revives with 38 HP to each Cookie. Grants Speed Points based on running speed. Grants {V2} Pit Lifts or Revives with 38 HP to each Cookie."
   },
   {
     "id": "209300",
@@ -6567,7 +6567,7 @@
         "duration": "30000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically flies up and rams into the ground, crushing obstacles to earn Crush Points. Leaves behind Scallion Kimchi Bear Jellies in place of crushed obstacles and an HP potion at its impact. Sprinkles seasoning to grant 1 Revive upon collapse. Revives the Cookie upon collapse."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically flies up and rams into the ground, crushing obstacles to earn Crush Points. Leaves behind Scallion Kimchi Bear Jellies in place of crushed obstacles and an HP potion at its impact. Sprinkles seasoning to grant 1 Revive upon collapse."
   },
   {
     "id": "209600",
@@ -6640,7 +6640,7 @@
         "duration": "40000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead, pickling obstacles with salt to make them passable. Slows HP drain while the skill is active. Sprinkles salt to revive the Cookie once upon collapse. Revives the Cookie upon collapse. Periodically shines a spotlight over the Cookie that grants Magnet, crushes obstacles on collision, and slows HP drain. (The Magnet does not stack with other magnetic effects.)"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead, pickling obstacles with salt to make them passable. Slows HP drain while the skill is active. Sprinkles salt to revive the Cookie once upon collapse."
   },
   {
     "id": "209700",
@@ -6786,7 +6786,7 @@
         "duration": "1000"
       }
     ],
-    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Snail Slime Jelly that grants Giant and Magnet for a short time, and creates Dew Jellies that crush obstacles."
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "209900",
