@@ -50,8 +50,8 @@ function interpolateSkill(template: string, v1: string, v2: string): string {
   return template
     .replace(/{V1}/g, v1 || '0')
     .replace(/{V2}/g, v2 || '0')
-    .replace(/{0}/g, v1 || '0')
-    .replace(/{1}/g, v2 || '0');
+    .replace(/\{0\}/g, v1 || '0')
+    .replace(/\{1\}/g, v2 || '0');
 }
 
 export default function App() {
