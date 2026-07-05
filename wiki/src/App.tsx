@@ -14,7 +14,7 @@ interface Cookie {
   id: string;
   name: string;
   skill_description: string;
-  description_th: string;
+  description_th?: string;
   levels: CookieLevel[];
 }
 
@@ -27,7 +27,7 @@ interface Pet {
   id: string;
   name: string;
   skill_description: string;
-  description_th: string;
+  description_th?: string;
   levels: PetLevel[];
 }
 
@@ -152,7 +152,7 @@ export default function App() {
                   <div>
                     <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest bg-slate-800/50 px-2 py-0.5 rounded-md">ID {cookie.id}</span>
                     <h3 className="text-xl font-black mt-2 group-hover:text-rose-400 transition-colors tracking-tight">{cookie.name}</h3>
-                    <p className="text-xs text-slate-400 mt-1 line-clamp-1">{cookie.description_th}</p>
+                    {cookie.description_th && <p className="text-xs text-slate-400 mt-1 line-clamp-1">{cookie.description_th}</p>}
                   </div>
                   <div className="bg-slate-800/80 border border-slate-700/50 px-3 py-1 rounded-xl text-xs font-black text-emerald-400">
                     {maxLevel.hp} HP
@@ -190,7 +190,7 @@ export default function App() {
                   <div>
                     <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest bg-slate-800/50 px-2 py-0.5 rounded-md">ID {pet.id}</span>
                     <h3 className="text-xl font-black mt-2 group-hover:text-sky-400 transition-colors tracking-tight">{pet.name}</h3>
-                    <p className="text-xs text-slate-400 mt-1 line-clamp-1">{pet.description_th}</p>
+                    {pet.description_th && <p className="text-xs text-slate-400 mt-1 line-clamp-1">{pet.description_th}</p>}
                   </div>
                   <div className="bg-slate-800/80 border border-slate-700/50 px-3 py-1 rounded-xl text-xs font-black text-sky-400">
                     {formatCooldown(maxLevel.cooldown)} CD
