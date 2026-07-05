@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import cookiesDataRaw from './data/cookies_rich.json';
 import petsDataRaw from './data/pets_rich.json';
+import IceTowerPage from './IceTowerPage';
 
 // Simple types for Classic CookieRun
 interface Cookie {
@@ -27,7 +28,7 @@ const CATEGORIES: Record<string, string[]> = {
 
 export default function App() {
   const [search, setSearch] = useState('');
-  const [tab, setTab] = useState<'cookies' | 'pets'>('cookies');
+  const [tab, setTab] = useState<'cookies' | 'pets' | 'icetower'>('cookies');
   const [playstyle, setPlaystyle] = useState<string | null>(null);
 
   const filteredCookies = useMemo(() => {
@@ -42,13 +43,34 @@ export default function App() {
     return petsData.filter(p => p.name.toLowerCase().includes(search.toLowerCase()) || p.id.includes(search));
   }, [search]);
 
+  if (tab === 'icetower') {
+    return (
+      <>
+        <nav className="bg-slate-900 border-b border-slate-800 p-4">
+          <div className="max-w-6xl mx-auto flex gap-4">
+            <button onClick={() => setTab('cookies')} className="text-slate-400 hover:text-white text-sm font-medium transition-colors">← Back to Wiki</button>
+          </div>
+        </nav>
+        <IceTowerPage />
+      </>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 font-sans">
-      <header className="max-w-6xl mx-auto mb-12">
-        <h1 className="text-4xl font-bold bg-gradient-to-r from-orange-400 to-rose-500 bg-clip-text text-transparent mb-2">
-          CookieRun Technical Wiki
-        </h1>
-        <p className="text-slate-400">Authentic technical data for CookieRun Classic</p>
+      <header className="max-w-6xl mx-auto mb-12 flex justify-between items-start">
+        <div>
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-orange-400 to-rose-500 bg-clip-text text-transparent mb-2">
+            CookieRun Technical Wiki
+          </h1>
+          <p className="text-slate-400">Authentic technical data for CookieRun Classic</p>
+        </div>
+        <button 
+          onClick={() => setTab('icetower')}
+          className="bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-xl text-sm font-bold shadow-lg shadow-blue-900/20 transition-all"
+        >
+          ❄️ Ice Tower Data
+        </button>
       </header>
 
       <main className="max-w-6xl mx-auto space-y-8">

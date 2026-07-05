@@ -1,0 +1,2402 @@
+[
+  {
+    "stage": 1,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Crystal",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "보너스타임 1회 이상 가기",
+      "desc_en": "Go to Bonus Time once",
+      "reward": "2 Key",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 830개 이상 획득 하기",
+      "desc_en": "Gather 83 Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "830",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 2,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 270개 이상 획득 하기",
+      "desc_en": "Gather 270 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 80001)",
+      "target": "270",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕코인 5개 이상 획득 하기",
+      "desc_en": "Gather 5 Giant Coins",
+      "reward": "5000 Coin",
+      "target": "5",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1145코인 이상 획득 하기",
+      "desc_en": "Gather 1,145 Coins",
+      "reward": "500 Gift Point",
+      "target": "1145",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 3,
+    "mission1": {
+      "desc_ko": "왕코인 24개 이상 획득 하기",
+      "desc_en": "Gather 24 Giant Coins",
+      "reward": "2 Key",
+      "target": "24",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 100개 이상 획득 하기",
+      "desc_en": "Gather 100 Gold Coins",
+      "reward": "2 Crystal",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 630개 이상 획득 하기",
+      "desc_en": "Gather 630 Silver Coins",
+      "reward": "1 Material (ID: 853)",
+      "target": "630",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 4,
+    "mission1": {
+      "desc_ko": "79초 이하 달리기",
+      "desc_en": "Clear within 79 seconds",
+      "reward": "5000 Coin",
+      "target": "79",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 파괴 125개 이상 하기",
+      "desc_en": "Crush 125 obstacles",
+      "reward": "600 Gift Point",
+      "target": "125",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "금화 153개 이상 획득 하기",
+      "desc_en": "Gather 153 Gold Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "153",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 5,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "2 Key",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 충돌 0회 이하 하기",
+      "desc_en": "Run into no obstacles",
+      "reward": "1 Material (ID: 80001)",
+      "target": "0",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "47초 이하 달리기",
+      "desc_en": "Clear within 47 seconds",
+      "reward": "3 Crystal",
+      "target": "47",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 6,
+    "mission1": {
+      "desc_ko": "색동별 폭죽 파티 10개 이상 획득 하기",
+      "desc_en": "Gather 10 Colorful Star Jelly Parties",
+      "reward": "1 Material (ID: 853)",
+      "target": "10",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 210개 이상 획득 하기",
+      "desc_en": "Gather 210 Silver Coins",
+      "reward": "2 Key",
+      "target": "210",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 1150개 이상 획득 하기",
+      "desc_en": "Gather 1,150 Jellies",
+      "reward": "6000 Coin",
+      "target": "1150",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 7,
+    "mission1": {
+      "desc_ko": "장애물 충돌 1회 이하 하기",
+      "desc_en": "Run into 1 obstacle max",
+      "reward": "100 Experience",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 110개 이상 획득 하기",
+      "desc_en": "Gather 110 Giant Bear Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "110",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "3300코인 이상 획득 하기",
+      "desc_en": "Gather 3,300 Coins",
+      "reward": "3 Crystal",
+      "target": "3300",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 8,
+    "mission1": {
+      "desc_ko": "장애물 충돌 4회 이하 하기",
+      "desc_en": "Run into 4 obstacles max",
+      "reward": "5000 Coin",
+      "target": "4",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 곰젤리 320개 이상 획득 하기",
+      "desc_en": "Gather 320 Bear Jellies",
+      "reward": "1 Material (ID: 2201)",
+      "target": "320",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 340개 이상 획득 하기",
+      "desc_en": "Gather 340 Yellow Bear Jellies",
+      "reward": "600 Gift Point",
+      "target": "340",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 9,
+    "mission1": {
+      "desc_ko": "왕코인 24개 이상 획득 하기",
+      "desc_en": "Gather 24 Giant Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "24",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 270개 이상 획득 하기",
+      "desc_en": "Gather 270 Gold Coins",
+      "reward": "110 Experience",
+      "target": "270",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 480개 이상 획득 하기",
+      "desc_en": "Gather 480 Silver Coins",
+      "reward": "6000 Coin",
+      "target": "480",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 10,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "5 Crystal",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 100개 이상 획득 하기",
+      "desc_en": "Gather 100 Gold Coins",
+      "reward": "1000 Gift Point",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "알파벳젤리 20개 이상 획득 하기",
+      "desc_en": "Gather 20 Alphabet Jellies",
+      "reward": "1 Material (ID: 80003)",
+      "target": "20",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 11,
+    "mission1": {
+      "desc_ko": "얼음 곰젤리 160개 이상 획득 하기",
+      "desc_en": "Gather 160 Frozen Bear Jellies",
+      "reward": "6000 Coin",
+      "target": "160",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "일반 젤리 333개 이상 획득 하기",
+      "desc_en": "Gather 333 basic Jellies",
+      "reward": "1 Material (ID: 2201)",
+      "target": "333",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 50회 이상 하기",
+      "desc_en": "Double Jump 50 times",
+      "reward": "800 Gift Point",
+      "target": "50",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 12,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 80001)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "점프 70회 이상 하기",
+      "desc_en": "Jump 70 times",
+      "reward": "120 Experience",
+      "target": "70",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 300개 이상 획득 하기",
+      "desc_en": "Gather 300 Frozen Bear Jellies",
+      "reward": "8000 Coin",
+      "target": "300",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 13,
+    "mission1": {
+      "desc_ko": "분홍 곰젤리 285개 이상 획득 하기",
+      "desc_en": "Gather 285 Pink Bear Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "285",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 100개 이상 획득 하기",
+      "desc_en": "Gather 100 Yellow Bear Jellies",
+      "reward": "600 Gift Point",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "분홍 곰젤리 295개 이상 획득 하기",
+      "desc_en": "Gather 295 Pink Bear Jellies",
+      "reward": "3 Crystal",
+      "target": "295",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 14,
+    "mission1": {
+      "desc_ko": "슬라이드 45초 이상 하기",
+      "desc_en": "Slide for 45 seconds",
+      "reward": "2 Key",
+      "target": "45",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕코인 20개 이상 획득 하기",
+      "desc_en": "Gather 20 Giant Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "20",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "슬라이드 58초 이상 하기",
+      "desc_en": "Slide for 58 seconds",
+      "reward": "1 Material (ID: 80002)",
+      "target": "58",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 15,
+    "mission1": {
+      "desc_ko": "95초 이하 달리기",
+      "desc_en": "Clear within 95 seconds",
+      "reward": "2 Crystal",
+      "target": "95",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "103초 이상 달리기",
+      "desc_en": "Run at least 103 seconds",
+      "reward": "1 Material (ID: 80001)",
+      "target": "103",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 560개 이상 획득 하기",
+      "desc_en": "Gather 560 Frozen Bear Jellies",
+      "reward": "800 Gift Point",
+      "target": "560",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 16,
+    "mission1": {
+      "desc_ko": "색동별젤리 800개 이상 획득 하기",
+      "desc_en": "Gather 800 Colorful Star Jellies",
+      "reward": "6000 Coin",
+      "target": "800",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 115개 이상 획득 하기",
+      "desc_en": "Gather 115 Gold Coins",
+      "reward": "20 L",
+      "target": "115",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 1050개 이상 획득 하기",
+      "desc_en": "Gather 1,050 Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "1050",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 17,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 20개 이상 획득 하기",
+      "desc_en": "Gather 20 Yellow Bear Jellies",
+      "reward": "600 Gift Point",
+      "target": "20",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "날개 달린 젤리 45개 이상 획득 하기",
+      "desc_en": "Gather 45 Winged Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "45",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 500개 이상 획득 하기",
+      "desc_en": "Gather 500 Jellies",
+      "reward": "3 Crystal",
+      "target": "500",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 18,
+    "mission1": {
+      "desc_ko": "펫이 젤리 800개 이상 획득 하기",
+      "desc_en": "Let the Pet Gather 800 Jellies",
+      "reward": "120 Experience",
+      "target": "800",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 1500개 이상 획득 하기",
+      "desc_en": "Gather 1,500 Jellies",
+      "reward": "7000 Coin",
+      "target": "1500",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 75회 이상 하기",
+      "desc_en": "Double Jump 75 times",
+      "reward": "3 Crystal",
+      "target": "75",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 19,
+    "mission1": {
+      "desc_ko": "장애물 파괴 237개 이상 하기",
+      "desc_en": "Crush 237 obstacles",
+      "reward": "1 Material (ID: 80001)",
+      "target": "237",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 12개 이상 획득 하기",
+      "desc_en": "Gather 12 Giant Bear Jellies",
+      "reward": "800 Gift Point",
+      "target": "12",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 450개 이상 획득 하기",
+      "desc_en": "Gather 450 Silver Coins",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "450",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 20,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 290개 이상 획득 하기",
+      "desc_en": "Gather 290 Yellow Bear Jellies",
+      "reward": "5 Crystal",
+      "target": "290",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "날개 달린 젤리 153개 이상 획득 하기",
+      "desc_en": "Gather 153 Winged Jellies",
+      "reward": "1 Material (ID: 1508201)",
+      "target": "153",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "60초 이하 달리기",
+      "desc_en": "Clear within 60 seconds",
+      "reward": "1 Material (ID: 80003)",
+      "target": "60",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 21,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 85개 이상 획득 하기",
+      "desc_en": "Gather 85 Yellow Bear Jellies",
+      "reward": "7000 Coin",
+      "target": "85",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 10개 이하 획득 하기",
+      "desc_en": "Gather 10 Jellies max",
+      "reward": "1 Material (ID: 853)",
+      "target": "10",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1단 점프 80회 이상 하기",
+      "desc_en": "Single Jump 80 times",
+      "reward": "800 Gift Point",
+      "target": "80",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 22,
+    "mission1": {
+      "desc_ko": "금화 170개 이상 획득 하기",
+      "desc_en": "Gather 170 Gold Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "170",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 파괴 80개 이상 하기",
+      "desc_en": "Crush 80 obstacles",
+      "reward": "120 Experience",
+      "target": "80",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 372개 이상 획득 하기",
+      "desc_en": "Gather 372 Silver Coins",
+      "reward": "2 Key",
+      "target": "372",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 23,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 1회 이하 하기",
+      "desc_en": "Fall into pits 1 time max",
+      "reward": "600 Gift Point",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "구멍에 빠지기 4회 이상 하기",
+      "desc_en": "Fall into pits 4 times max",
+      "reward": "2 Crystal",
+      "target": "4",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "점프 40회 이하 하기",
+      "desc_en": "Jump 40 times max",
+      "reward": "10000 Coin",
+      "target": "40",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 24,
+    "mission1": {
+      "desc_ko": "모든 젤리 850개 이상 획득 하기",
+      "desc_en": "Gather 850 Jellies",
+      "reward": "120 Experience",
+      "target": "850",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 370개 이상 획득 하기",
+      "desc_en": "Gather 370 Frozen Bear Jellies",
+      "reward": "1 Material (ID: 80001)",
+      "target": "370",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 1040개 이상 획득 하기",
+      "desc_en": "Gather 1,040 Jellies",
+      "reward": "800 Gift Point",
+      "target": "1040",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 25,
+    "mission1": {
+      "desc_ko": "충돌하지 않고 45초 이상 버티기",
+      "desc_en": "Run 45 seconds without colliding",
+      "reward": "20 L",
+      "target": "45",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 137개 이상 획득 하기",
+      "desc_en": "Gather 137 Silver Coins",
+      "reward": "8000 Coin",
+      "target": "137",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 390개 이상 획득 하기",
+      "desc_en": "Gather 390 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "390",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 26,
+    "mission1": {
+      "desc_ko": "날개 달린 젤리 8개 이상 획득 하기",
+      "desc_en": "Gather 8 Winged Jellies",
+      "reward": "7000 Coin",
+      "target": "8",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "80초 이상 달리기",
+      "desc_en": "Run at least 80 seconds",
+      "reward": "120 Experience",
+      "target": "80",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "날개 달린 젤리 0개 이하 획득 하기",
+      "desc_en": "Gather no Winged Jellies",
+      "reward": "1000 Gift Point",
+      "target": "0",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 27,
+    "mission1": {
+      "desc_ko": "80초 이하 달리기",
+      "desc_en": "Clear within 80 seconds",
+      "reward": "1 Crystal",
+      "target": "80",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 파괴 80개 이상 하기",
+      "desc_en": "Crush 80 obstacles",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "80",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 120개 이상 하기",
+      "desc_en": "Crush 120 obstacles",
+      "reward": "1 Material (ID: 80002)",
+      "target": "120",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 28,
+    "mission1": {
+      "desc_ko": "모든 젤리 1220개 이상 획득 하기",
+      "desc_en": "Gather 1,220 Jellies",
+      "reward": "700 Gift Point",
+      "target": "1220",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 4개 이하 획득 하기",
+      "desc_en": "Gather 4 Silver Coins max",
+      "reward": "1 Material (ID: 2201)",
+      "target": "4",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 4개 이하 하기",
+      "desc_en": "Crush 4 obstacles max",
+      "reward": "10000 Coin",
+      "target": "4",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 29,
+    "mission1": {
+      "desc_ko": "65초 이하 달리기",
+      "desc_en": "Clear within 65 seconds",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "65",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 380개 이상 획득 하기",
+      "desc_en": "Gather 380 Silver Coins",
+      "reward": "2 Key",
+      "target": "380",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 165개 이상 하기",
+      "desc_en": "Crush 165 obstacles",
+      "reward": "1000 Gift Point",
+      "target": "165",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 30,
+    "mission1": {
+      "desc_ko": "100초 이하 달리기",
+      "desc_en": "Clear within 100 seconds",
+      "reward": "1 Mystery Box (ID: 832)",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕코인 20개 이상 획득 하기",
+      "desc_en": "Gather 20 Giant Coins",
+      "reward": "10 Crystal",
+      "target": "20",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "점프 42회 이하 하기",
+      "desc_en": "Jump 42 times max",
+      "reward": "1 Material (ID: 1508201)",
+      "target": "42",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 31,
+    "mission1": {
+      "desc_ko": "은화 7개 이하 획득 하기",
+      "desc_en": "Gather 7 Silver Coins max",
+      "reward": "2 Key",
+      "target": "7",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "3660코인 이상 획득 하기",
+      "desc_en": "Gather 3,660 Coins",
+      "reward": "900 Gift Point",
+      "target": "3660",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "550코인 이하 획득 하기",
+      "desc_en": "Gather 550 Coins max",
+      "reward": "8000 Coin",
+      "target": "550",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 32,
+    "mission1": {
+      "desc_ko": "장애물 파괴 170개 이상 하기",
+      "desc_en": "Crush 170 obstacles",
+      "reward": "8000 Coin",
+      "target": "170",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "50초 이상 달리기",
+      "desc_en": "Run at least 50 seconds",
+      "reward": "1 Material (ID: 80001)",
+      "target": "50",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 135개 이상 획득 하기",
+      "desc_en": "Gather 135 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "135",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 33,
+    "mission1": {
+      "desc_ko": "보너스타임에서 젤리 1300개 이상 획득 하기",
+      "desc_en": "Gather 1,300 Jellies in Bonus Time",
+      "reward": "20 L",
+      "target": "1300",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "보너스타임에서 젤리 1600개 이상 획득 하기",
+      "desc_en": "Gather 1,600 Jellies in Bonus Time",
+      "reward": "2 Crystal",
+      "target": "1600",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1300코인 이상 획득 하기",
+      "desc_en": "Gather 1,300 Coins",
+      "reward": "1000 Gift Point",
+      "target": "1300",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 34,
+    "mission1": {
+      "desc_ko": "2단 점프 34회 이상 하기",
+      "desc_en": "Double Jump 34 times",
+      "reward": "1 Material (ID: 80001)",
+      "target": "34",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 18개 이상 획득 하기",
+      "desc_en": "Gather 18 Gold Coins",
+      "reward": "9000 Coin",
+      "target": "18",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1단 점프 105회 이상 하기",
+      "desc_en": "Single Jump 105 times",
+      "reward": "3 Crystal",
+      "target": "105",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 35,
+    "mission1": {
+      "desc_ko": "색동별젤리 1500개 이상 획득 하기",
+      "desc_en": "Gather 1,500 Colorful Star Jellies",
+      "reward": "130 Experience",
+      "target": "1500",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "색동별젤리 1650개 이상 획득 하기",
+      "desc_en": "Gather 1650 Colorful Star Jellies",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "1650",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 42개 이상 획득 하기",
+      "desc_en": "Gather 42 Silver Coins",
+      "reward": "1000 Gift Point",
+      "target": "42",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 36,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "700 Gift Point",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 900개 이상 획득 하기",
+      "desc_en": "Gather 900 Frozen Bear Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "900",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "일반 젤리 945개 이상 획득 하기",
+      "desc_en": "Gather 945 basic Jellies",
+      "reward": "3 Crystal",
+      "target": "945",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 37,
+    "mission1": {
+      "desc_ko": "장애물 파괴 175개 이상 하기",
+      "desc_en": "Crush 175 obstacles",
+      "reward": "8000 Coin",
+      "target": "175",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 580개 이상 획득 하기",
+      "desc_en": "Gather 580 Frozen Bear Jellies",
+      "reward": "2 Key",
+      "target": "580",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1단 점프 120회 이상 하기",
+      "desc_en": "Single Jump 120 times",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "120",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 38,
+    "mission1": {
+      "desc_ko": "은화 150개 이상 획득 하기",
+      "desc_en": "Gather 150 Silver Coins",
+      "reward": "1 Crystal",
+      "target": "150",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "56초 이상 달리기",
+      "desc_en": "Run at least 56 seconds",
+      "reward": "9000 Coin",
+      "target": "56",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 2개 이하 하기",
+      "desc_en": "Crush 2 obstacles max",
+      "reward": "1 Material (ID: 853)",
+      "target": "2",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 39,
+    "mission1": {
+      "desc_ko": "장애물 충돌 1회 이하 하기",
+      "desc_en": "Run into 1 obstacle max",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 160개 이상 획득 하기",
+      "desc_en": "Gather 160 Frozen Bear Jellies",
+      "reward": "130 Experience",
+      "target": "160",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 897개 이상 획득 하기",
+      "desc_en": "Gather 897 Jellies",
+      "reward": "3 Crystal",
+      "target": "897",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 40,
+    "mission1": {
+      "desc_ko": "보너스타임 0회 이하 가기",
+      "desc_en": "Don't go to Bonus Time",
+      "reward": "10 Crystal",
+      "target": "0",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "알파벳젤리 400개 이상 획득 하기",
+      "desc_en": "Gather 400 Alphabet Jellies",
+      "reward": "1 Material (ID: 80003)",
+      "target": "400",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "4400코인 이상 획득 하기",
+      "desc_en": "Gather 4,400 Coins",
+      "reward": "1 Material (ID: 1508401)",
+      "target": "4400",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 41,
+    "mission1": {
+      "desc_ko": "은화 777개 이상 획득 하기",
+      "desc_en": "Gather 777 Silver Coins",
+      "reward": "700 Gift Point",
+      "target": "777",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "슬라이드 65초 이상 하기",
+      "desc_en": "Slide for 65 seconds",
+      "reward": "1 Material (ID: 2201)",
+      "target": "65",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "금화 290개 이상 획득 하기",
+      "desc_en": "Gather 290 Gold Coins",
+      "reward": "10000 Coin",
+      "target": "290",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 42,
+    "mission1": {
+      "desc_ko": "1단 점프 110회 이상 하기",
+      "desc_en": "Single Jump 110 times",
+      "reward": "8000 Coin",
+      "target": "110",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "2단 점프 72회 이상 하기",
+      "desc_en": "Double Jump 72 times",
+      "reward": "20 L",
+      "target": "72",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "73초 이하 달리기",
+      "desc_en": "Clear within 73 seconds",
+      "reward": "3 Crystal",
+      "target": "73",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 43,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 1회 이하 하기",
+      "desc_en": "Fall into pits 1 time max",
+      "reward": "140 Experience",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 123개 이상 획득 하기",
+      "desc_en": "Gather 123 Frozen Bear Jellies",
+      "reward": "2 Key",
+      "target": "123",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 61회 이상 하기",
+      "desc_en": "Double Jump 61 times",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "61",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 44,
+    "mission1": {
+      "desc_ko": "날개 달린 젤리 1200개 이상 획득 하기",
+      "desc_en": "Gather 1,200 Winged Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "1200",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 1500개 이상 획득 하기",
+      "desc_en": "Gather 1,500 Jellies",
+      "reward": "1000 Gift Point",
+      "target": "1500",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 1000개 이상 획득 하기",
+      "desc_en": "Gather 1,000 Yellow Bear Jellies",
+      "reward": "3 Crystal",
+      "target": "1000",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 45,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 700개 이상 획득 하기",
+      "desc_en": "Gather 700 Yellow Bear Jellies",
+      "reward": "1 Mystery Box (ID: 832)",
+      "target": "700",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "56초 이하 달리기",
+      "desc_en": "Clear within 56 seconds",
+      "reward": "2 Crystal",
+      "target": "56",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 70회 이상 하기",
+      "desc_en": "Double Jump 70 times",
+      "reward": "1 Material (ID: 80003)",
+      "target": "70",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 46,
+    "mission1": {
+      "desc_ko": "구멍에서 구출 1회 이상 하기",
+      "desc_en": "Get 1 Pit Lift",
+      "reward": "140 Experience",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 40개 이상 획득 하기",
+      "desc_en": "Gather 40 Pink Bear Jellies",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "40",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "구멍에서 구출 3회 이상 하기",
+      "desc_en": "Get 3 Pit Lifts",
+      "reward": "1000 Gift Point",
+      "target": "3",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 47,
+    "mission1": {
+      "desc_ko": "장애물 충돌 2회 이하 하기",
+      "desc_en": "Run into 2 obstacles max",
+      "reward": "1 Material (ID: 80001)",
+      "target": "2",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 112개 이상 획득 하기",
+      "desc_en": "Gather 112 Pink Bear Jellies",
+      "reward": "9000 Coin",
+      "target": "112",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 1회 이하 하기",
+      "desc_en": "Double Jump 1 time max",
+      "reward": "3 Crystal",
+      "target": "1",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 48,
+    "mission1": {
+      "desc_ko": "장애물 파괴 90개 이상 하기",
+      "desc_en": "Crush 90 obstacles",
+      "reward": "1 Crystal",
+      "target": "90",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "2000코인 이상 획득 하기",
+      "desc_en": "Gather 2,000 Coins",
+      "reward": "1000 Gift Point",
+      "target": "2000",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 216개 이상 하기",
+      "desc_en": "Crush 216 obstacles",
+      "reward": "1 Mystery Box (ID: 832)",
+      "target": "216",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 49,
+    "mission1": {
+      "desc_ko": "거대 생명물약 0개 이하 획득 하기",
+      "desc_en": "Gather no Giant HP Potions",
+      "reward": "800 Gift Point",
+      "target": "0",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 충돌 7회 이상 하기",
+      "desc_en": "Run into 7 obstacles max",
+      "reward": "1 Material (ID: 80002)",
+      "target": "7",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1770코인 이상 획득 하기",
+      "desc_en": "Gather 1,770 Coins",
+      "reward": "3 Crystal",
+      "target": "1770",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 50,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "10 Crystal",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 35개 이상 획득 하기",
+      "desc_en": "Gather 35 Giant Bear Jellies",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "35",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 800개 이상 획득 하기",
+      "desc_en": "Gather 800 Frozen Bear Jellies",
+      "reward": "1 Material (ID: 80004)",
+      "target": "800",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 51,
+    "mission1": {
+      "desc_ko": "장애물 파괴 173개 이상 하기",
+      "desc_en": "Crush 173 obstacles",
+      "reward": "2 Crystal",
+      "target": "173",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 815개 이상 획득 하기",
+      "desc_en": "Gather 815 Jellies",
+      "reward": "2 Key",
+      "target": "815",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "왕곰젤리 25개 이상 획득 하기",
+      "desc_en": "Gather 25 Giant Bear Jellies",
+      "reward": "5000 Coin",
+      "target": "25",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 52,
+    "mission1": {
+      "desc_ko": "3900코인 이상 획득 하기",
+      "desc_en": "Gather 3,900 Coins",
+      "reward": "1 Material (ID: 80002)",
+      "target": "3900",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 340개 이상 획득 하기",
+      "desc_en": "Gather 340 Silver Coins",
+      "reward": "1 Material (ID: 853)",
+      "target": "340",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 70개 이하 획득 하기",
+      "desc_en": "Gather 70 Jellies max",
+      "reward": "500 Gift Point",
+      "target": "70",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 53,
+    "mission1": {
+      "desc_ko": "50초 이상 달리기",
+      "desc_en": "Run at least 50 seconds",
+      "reward": "6000 Coin",
+      "target": "50",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 파괴 100개 이상 하기",
+      "desc_en": "Crush 100 obstacles",
+      "reward": "2 Key",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 146개 이상 획득 하기",
+      "desc_en": "Gather 146 Frozen Bear Jellies",
+      "reward": "3 Crystal",
+      "target": "146",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 54,
+    "mission1": {
+      "desc_ko": "장애물 충돌 0회 이하 하기",
+      "desc_en": "Run into no obstacles",
+      "reward": "9000 Coin",
+      "target": "0",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 600개 이상 획득 하기",
+      "desc_en": "Gather 600 Yellow Bear Jellies",
+      "reward": "600 Gift Point",
+      "target": "600",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2100코인 이상 획득 하기",
+      "desc_en": "Gather 2,100 Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "2100",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 55,
+    "mission1": {
+      "desc_ko": "분홍 곰젤리 200개 이상 획득 하기",
+      "desc_en": "Gather 200 Pink Bear Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "200",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 230개 이상 획득 하기",
+      "desc_en": "Gather 230 Yellow Bear Jellies",
+      "reward": "9000 Coin",
+      "target": "230",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "날개 달린 젤리 24개 이상 획득 하기",
+      "desc_en": "Gather 24 Winged Jellies",
+      "reward": "200 Experience",
+      "target": "24",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 56,
+    "mission1": {
+      "desc_ko": "모든 곰젤리 1330개 이상 획득 하기",
+      "desc_en": "Gather 1,330 Bear Jellies",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "1330",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "1단 점프 100회 이상 하기",
+      "desc_en": "Single Jump 100 times",
+      "reward": "700 Gift Point",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 1100개 이상 획득 하기",
+      "desc_en": "Gather 1,100 Yellow Bear Jellies",
+      "reward": "9000 Coin",
+      "target": "1100",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 57,
+    "mission1": {
+      "desc_ko": "장애물 충돌 1회 이하 하기",
+      "desc_en": "Run into 1 obstacle max",
+      "reward": "2 Crystal",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "금화 82개 이상 획득 하기",
+      "desc_en": "Gather 82 Gold Coins",
+      "reward": "700 Gift Point",
+      "target": "82",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 400개 이하 획득 하기",
+      "desc_en": "Gather 400 Jellies max",
+      "reward": "200 Experience",
+      "target": "400",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 58,
+    "mission1": {
+      "desc_ko": "모든 젤리 2000개 이상 획득 하기",
+      "desc_en": "Gather 2,000 Jellies",
+      "reward": "3 Crystal",
+      "target": "2000",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "보너스타임 13초 이상 하기",
+      "desc_en": "Spend 13 seconds in Bonus Time",
+      "reward": "1 Material (ID: 80002)",
+      "target": "13",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 충돌 8회 이상 하기",
+      "desc_en": "Run into 8 obstacles max",
+      "reward": "700 Gift Point",
+      "target": "8",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 59,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 1회 이하 하기",
+      "desc_en": "Fall into pits 1 time max",
+      "reward": "1 Material (ID: 853)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 1600개 이상 획득 하기",
+      "desc_en": "Gather 1,600 Jellies",
+      "reward": "8000 Coin",
+      "target": "1600",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "슬라이드 45초 이상 하기",
+      "desc_en": "Slide for 45 seconds",
+      "reward": "3 Key",
+      "target": "45",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 60,
+    "mission1": {
+      "desc_ko": "모든 코인 300개 이상 획득 하기",
+      "desc_en": "Gather 300 Coins",
+      "reward": "1 Material (ID: 80003)",
+      "target": "300",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 30개 이상 획득 하기",
+      "desc_en": "Gather 30 Giant Bear Jellies",
+      "reward": "1 Mystery Box (ID: 832)",
+      "target": "30",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 260개 이상 획득 하기",
+      "desc_en": "Gather 260 Yellow Bear Jellies",
+      "reward": "7 Crystal",
+      "target": "260",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 61,
+    "mission1": {
+      "desc_ko": "1350코인 이상 획득 하기",
+      "desc_en": "Gather 1,350 Coins",
+      "reward": "1 Material (ID: 80001)",
+      "target": "1350",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 250개 이상 획득 하기",
+      "desc_en": "Gather 250 Pink Bear Jellies",
+      "reward": "7000 Coin",
+      "target": "250",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 370개 이상 획득 하기",
+      "desc_en": "Gather 370 Yellow Bear Jellies",
+      "reward": "100 Experience",
+      "target": "370",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 62,
+    "mission1": {
+      "desc_ko": "장애물 충돌 3회 이하 하기",
+      "desc_en": "Run into 3 obstacles max",
+      "reward": "3 Crystal",
+      "target": "3",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 499개 이상 획득 하기",
+      "desc_en": "Gather 499 Frozen Bear Jellies",
+      "reward": "1 Material (ID: 80001)",
+      "target": "499",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "1단 점프 83회 이상 하기",
+      "desc_en": "Single Jump 83 times",
+      "reward": "700 Gift Point",
+      "target": "83",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 63,
+    "mission1": {
+      "desc_ko": "날개 달린 젤리 77개 이상 획득 하기",
+      "desc_en": "Gather 77 Winged Jellies",
+      "reward": "1 Material (ID: 80002)",
+      "target": "77",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 110개 이상 획득 하기",
+      "desc_en": "Gather 110 Pink Bear Jellies",
+      "reward": "3 Crystal",
+      "target": "110",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 380개 이상 획득 하기",
+      "desc_en": "Gather 380 Frozen Bear Jellies",
+      "reward": "700 Gift Point",
+      "target": "380",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 64,
+    "mission1": {
+      "desc_ko": "장애물 파괴 250개 이상 하기",
+      "desc_en": "Crush 250 obstacles",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "250",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 100개 이상 획득 하기",
+      "desc_en": "Gather 100 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "100",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "금화 42개 이상 획득 하기",
+      "desc_en": "Gather 42 Gold Coins",
+      "reward": "200 Experience",
+      "target": "42",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 65,
+    "mission1": {
+      "desc_ko": "1900코인 이상 획득 하기",
+      "desc_en": "Gather 1,900 Coins",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "1900",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 200개 이상 획득 하기",
+      "desc_en": "Gather 200 Yellow Bear Jellies",
+      "reward": "9000 Coin",
+      "target": "200",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "분홍 곰젤리 160개 이상 획득 하기",
+      "desc_en": "Gather 160 Pink Bear Jellies",
+      "reward": "700 Gift Point",
+      "target": "160",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 66,
+    "mission1": {
+      "desc_ko": "장애물 통과 105개 이상 하기",
+      "desc_en": "Pass through 105 obstacles",
+      "reward": "1 Material (ID: 80003)",
+      "target": "105",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "색동별젤리 12개 이상 획득 하기",
+      "desc_en": "Gather 12 Colorful Star Jellies",
+      "reward": "3 Crystal",
+      "target": "12",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "60초 이하 달리기",
+      "desc_en": "Clear within 60 seconds",
+      "reward": "700 Gift Point",
+      "target": "60",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 67,
+    "mission1": {
+      "desc_ko": "날개 달린 젤리 240개 이상 획득 하기",
+      "desc_en": "Gather 240 Winged Jellies",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "240",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "2단 점프 95회 이상 하기",
+      "desc_en": "Double Jump 95 times",
+      "reward": "10000 Coin",
+      "target": "95",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "분홍 곰젤리 7개 이하 획득 하기",
+      "desc_en": "Gather 7 Pink Bear Jellies max",
+      "reward": "1 Material (ID: 853)",
+      "target": "7",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 68,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 125개 이상 획득 하기",
+      "desc_en": "Gather 125 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 80001)",
+      "target": "125",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 140개 이상 획득 하기",
+      "desc_en": "Gather 140 Pink Bear Jellies",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "140",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "3200코인 이상 획득 하기",
+      "desc_en": "Gather 3,200 Coins",
+      "reward": "700 Gift Point",
+      "target": "3200",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 69,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "2 Crystal",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 670개 이상 획득 하기",
+      "desc_en": "Gather 670 Yellow Bear Jellies",
+      "reward": "3 Key",
+      "target": "670",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "구멍에서 구출 6회 이상 하기",
+      "desc_en": "Get 6 Pit Lifts",
+      "reward": "800 Gift Point",
+      "target": "6",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 70,
+    "mission1": {
+      "desc_ko": "장애물 충돌 5회 이하 하기",
+      "desc_en": "Run into 5 obstacles max",
+      "reward": "1 Material (ID: 80004)",
+      "target": "5",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "얼음 곰젤리 830개 이상 획득 하기",
+      "desc_en": "Gather 830 Frozen Bear Jellies",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "830",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "왕곰젤리 45개 이상 획득 하기",
+      "desc_en": "Gather 45 Giant Bear Jellies",
+      "reward": "10 Crystal",
+      "target": "45",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 71,
+    "mission1": {
+      "desc_ko": "펫이 젤리 1050개 이상 획득 하기",
+      "desc_en": "Let the Pet Gather 1050 Jellies",
+      "reward": "3 Crystal",
+      "target": "1050",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "슬라이드했다가 일어나기 260회 이상 하기",
+      "desc_en": "Slide and get up 260 times",
+      "reward": "2 Key",
+      "target": "260",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "3000코인 이상 획득 하기",
+      "desc_en": "Gather 3,000 Coins",
+      "reward": "1 Material (ID: 80002)",
+      "target": "3000",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 72,
+    "mission1": {
+      "desc_ko": "55초 이상 달리기",
+      "desc_en": "Run at least 55 seconds",
+      "reward": "1 Material (ID: 1508301)",
+      "target": "55",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "2단 점프 55회 이상 하기",
+      "desc_en": "Double Jump 55 times",
+      "reward": "1 Material (ID: 80001)",
+      "target": "55",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "색동별젤리 107개 이상 획득 하기",
+      "desc_en": "Gather 107 Colorful Star Jellies",
+      "reward": "10000 Coin",
+      "target": "107",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 73,
+    "mission1": {
+      "desc_ko": "58초 이하 달리기",
+      "desc_en": "Clear within 58 seconds",
+      "reward": "200 Experience",
+      "target": "58",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "은화 183개 이상 획득 하기",
+      "desc_en": "Gather 183 Silver Coins",
+      "reward": "1 Material (ID: 80001)",
+      "target": "183",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 7개 이하 하기",
+      "desc_en": "Crush 7 obstacles max",
+      "reward": "800 Gift Point",
+      "target": "7",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 74,
+    "mission1": {
+      "desc_ko": "금화 65개 이상 획득 하기",
+      "desc_en": "Gather 65 Gold Coins",
+      "reward": "1 Material (ID: 853)",
+      "target": "65",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "50코인 이하 획득 하기",
+      "desc_en": "Gather 50 Coins max",
+      "reward": "10000 Coin",
+      "target": "50",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 1000개 이상 획득 하기",
+      "desc_en": "Gather 1,000 Jellies",
+      "reward": "5 Crystal",
+      "target": "1000",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 75,
+    "mission1": {
+      "desc_ko": "장애물 파괴 90개 이상 하기",
+      "desc_en": "Crush 90 obstacles",
+      "reward": "2 Material (ID: 80002)",
+      "target": "90",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "슬라이드했다가 일어나기 180회 이상 하기",
+      "desc_en": "Slide and get up 180 times",
+      "reward": "1 Material (ID: 80002)",
+      "target": "180",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 420개 이상 획득 하기",
+      "desc_en": "Gather 420 Yellow Bear Jellies",
+      "reward": "900 Gift Point",
+      "target": "420",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 76,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 3회 이하 하기",
+      "desc_en": "Fall into pits 3 times max",
+      "reward": "2 Key",
+      "target": "3",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 317개 이상 획득 하기",
+      "desc_en": "Gather 317 Pink Bear Jellies",
+      "reward": "1 Material (ID: 1700201)",
+      "target": "317",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2000코인 이상 획득 하기",
+      "desc_en": "Gather 2,000 Coins",
+      "reward": "1000 Gift Point",
+      "target": "2000",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 77,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 80001)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "구멍에 빠지기 1회 이하 하기",
+      "desc_en": "Fall into pits 1 time max",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "4000코인 이상 획득 하기",
+      "desc_en": "Gather 4,000 Coins",
+      "reward": "10000 Coin",
+      "target": "4000",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 78,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 2회 이하 하기",
+      "desc_en": "Fall into pits 2 times max",
+      "reward": "3 Crystal",
+      "target": "2",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "색동별 폭죽 파티 9개 이상 획득 하기",
+      "desc_en": "Gather 9 Colorful Star Jelly Party",
+      "reward": "30 L",
+      "target": "9",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 430개 이상 획득 하기",
+      "desc_en": "Gather 430 Frozen Bear Jellies",
+      "reward": "1000 Gift Point",
+      "target": "430",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 79,
+    "mission1": {
+      "desc_ko": "모든 젤리 2900개 이상 획득 하기",
+      "desc_en": "Gather 2,900 Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "2900",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 150개 이하 획득 하기",
+      "desc_en": "Gather 150 Jellies max",
+      "reward": "1 Material (ID: 80002)",
+      "target": "150",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "67초 이하 달리기",
+      "desc_en": "Clear within 67 seconds",
+      "reward": "5 Crystal",
+      "target": "67",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 80,
+    "mission1": {
+      "desc_ko": "장애물 충돌 5회 이하 하기",
+      "desc_en": "Run into 5 obstacles max",
+      "reward": "1 Material (ID: 80003)",
+      "target": "5",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 19개 이상 획득 하기",
+      "desc_en": "Gather 19 Giant Bear Jellies",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "19",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "분홍 곰젤리 610개 이상 획득 하기",
+      "desc_en": "Gather 610 Pink Bear Jellies",
+      "reward": "5 Crystal",
+      "target": "610",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 81,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 1700401)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "알파벳젤리 490개 이상 획득 하기",
+      "desc_en": "Gather 490 Alphabet Jellies",
+      "reward": "10000 Coin",
+      "target": "490",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "점프 50회 이하 하기",
+      "desc_en": "Jump 50 times max",
+      "reward": "30 L",
+      "target": "50",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 82,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 853)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 충돌 1회 이하 하기",
+      "desc_en": "Run into 1 obstacle max",
+      "reward": "1 Material (ID: 80003)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "은화 34개 이하 획득 하기",
+      "desc_en": "Gather 34 Silver Coins max",
+      "reward": "1000 Gift Point",
+      "target": "34",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 83,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 200개 이하 획득 하기",
+      "desc_en": "Gather 200 Yellow Bear Jellies max",
+      "reward": "5 Crystal",
+      "target": "200",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "3070코인 이상 획득 하기",
+      "desc_en": "Gather 3,070 Coins",
+      "reward": "5 Key",
+      "target": "3070",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 1260개 이상 획득 하기",
+      "desc_en": "Gather 1,260 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 1700501)",
+      "target": "1260",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 84,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "10000 Coin",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "62초 이하 달리기",
+      "desc_en": "Clear within 62 seconds",
+      "reward": "1 Material (ID: 1700401)",
+      "target": "62",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 40개 이하 획득 하기",
+      "desc_en": "Gather 40 Yellow Bear Jellies max",
+      "reward": "1 Material (ID: 853)",
+      "target": "40",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 85,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 80004)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 30개 이상 획득 하기",
+      "desc_en": "Gather 30 Giant Bear Jellies",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "30",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 600개 이상 획득 하기",
+      "desc_en": "Gather 600 Frozen Bear Jellies",
+      "reward": "10 Crystal",
+      "target": "600",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 86,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 400개 이상 획득 하기",
+      "desc_en": "Gather 400 Yellow Bear Jellies",
+      "reward": "5 Crystal",
+      "target": "400",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 165개 이상 획득 하기",
+      "desc_en": "Gather 165 Pink Bear Jellies",
+      "reward": "3 Key",
+      "target": "165",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "2단 점프 66회 이상 하기",
+      "desc_en": "Double Jump 66 times",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "66",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 87,
+    "mission1": {
+      "desc_ko": "모든 젤리 2000개 이상 획득 하기",
+      "desc_en": "Gather 2,000 Jellies",
+      "reward": "3 Key",
+      "target": "2000",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "색동별젤리 135개 이하 획득 하기",
+      "desc_en": "Gather 135 Colorful Star Jellies max",
+      "reward": "12000 Coin",
+      "target": "135",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "150코인 이하 획득 하기",
+      "desc_en": "Gather 150 Coins max",
+      "reward": "2 Material (ID: 80002)",
+      "target": "150",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 88,
+    "mission1": {
+      "desc_ko": "장애물 파괴 350개 이상 하기",
+      "desc_en": "Crush 350 obstacles",
+      "reward": "1 Material (ID: 1700301)",
+      "target": "350",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 900개 이상 획득 하기",
+      "desc_en": "Gather 900 Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "900",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 25개 이하 하기",
+      "desc_en": "Crush 25 obstacles max",
+      "reward": "50 L",
+      "target": "25",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 89,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "3 Key",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 440개 이상 획득 하기",
+      "desc_en": "Gather 440 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 1700401)",
+      "target": "440",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 통과 220개 이상 하기",
+      "desc_en": "Pass through 220 obstacles",
+      "reward": "5 Crystal",
+      "target": "220",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 90,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 853)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "날개 달린 젤리 77개 이상 획득 하기",
+      "desc_en": "Gather 77 Winged Jellies",
+      "reward": "1 Mystery Box (ID: 832)",
+      "target": "77",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 500개 이상 획득 하기",
+      "desc_en": "Gather 500 Frozen Bear Jellies",
+      "reward": "1 Material (ID: 80003)",
+      "target": "500",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 91,
+    "mission1": {
+      "desc_ko": "1350코인 이상 획득 하기",
+      "desc_en": "Gather 1,350 Coins",
+      "reward": "12000 Coin",
+      "target": "1350",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "슬라이드했다가 일어나기 183회 이상 하기",
+      "desc_en": "Slide and get up 183 times",
+      "reward": "1 Material (ID: 853)",
+      "target": "183",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 파괴 20개 이하 하기",
+      "desc_en": "Crush 20 obstacles max",
+      "reward": "1 Material (ID: 80002)",
+      "target": "20",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 92,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 1700401)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "모든 젤리 1800개 이상 획득 하기",
+      "desc_en": "Gather 1,800 Jellies",
+      "reward": "13000 Coin",
+      "target": "1800",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "장애물 충돌 0회 이하 하기",
+      "desc_en": "Run into no obstacles",
+      "reward": "1 Material (ID: 80003)",
+      "target": "0",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 93,
+    "mission1": {
+      "desc_ko": "70초 이하 달리기",
+      "desc_en": "Clear within 70 seconds",
+      "reward": "1 Material (ID: 1700501)",
+      "target": "70",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "색동별젤리 780개 이상 획득 하기",
+      "desc_en": "Gather 780 Colorful Star Jellies",
+      "reward": "14000 Coin",
+      "target": "780",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 곰젤리 175개 이상 획득 하기",
+      "desc_en": "Gather 175 Bear Jellies",
+      "reward": "10 Key",
+      "target": "175",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 94,
+    "mission1": {
+      "desc_ko": "색동별젤리 730개 이상 획득 하기",
+      "desc_en": "Gather 730 Colorful Star Jellies",
+      "reward": "1 Material (ID: 853)",
+      "target": "730",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "1830코인 이상 획득 하기",
+      "desc_en": "Gather 1,830 Coins",
+      "reward": "2 Material (ID: 80002)",
+      "target": "1830",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "모든 젤리 137개 이하 획득 하기",
+      "desc_en": "Gather 137 Jellies max",
+      "reward": "15000 Coin",
+      "target": "137",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 95,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 1120개 이상 획득 하기",
+      "desc_en": "Gather 1,120 Yellow Bear Jellies",
+      "reward": "3 Key",
+      "target": "1120",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "왕곰젤리 30개 이상 획득 하기",
+      "desc_en": "Gather 30 Giant Bear Jellies",
+      "reward": "5 Crystal",
+      "target": "30",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "노란 곰젤리 44개 이하 획득 하기",
+      "desc_en": "Gather 44 Yellow Bear Jellies max",
+      "reward": "3 Material (ID: 80003)",
+      "target": "44",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 96,
+    "mission1": {
+      "desc_ko": "노란 곰젤리 380개 이상 획득 하기",
+      "desc_en": "Gather 380 Yellow Bear Jellies",
+      "reward": "1 Material (ID: 1700501)",
+      "target": "380",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "56초 이하 달리기",
+      "desc_en": "Clear within 56 seconds",
+      "reward": "15000 Coin",
+      "target": "56",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "890코인 이상 획득 하기",
+      "desc_en": "Gather 890 Coins",
+      "reward": "5 Crystal",
+      "target": "890",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 97,
+    "mission1": {
+      "desc_ko": "구멍에 빠지기 5회 이하 하기",
+      "desc_en": "Fall into pits 5 times max",
+      "reward": "3 Key",
+      "target": "5",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "알파벳젤리 130개 이상 획득 하기",
+      "desc_en": "Gather 130 Alphabet Jellies",
+      "reward": "15000 Coin",
+      "target": "130",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "분홍 곰젤리 620개 이상 획득 하기",
+      "desc_en": "Gather 620 Pink Bear Jellies",
+      "reward": "1 Material (ID: 1700501)",
+      "target": "620",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 98,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 80003)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "노란 곰젤리 300개 이상 획득 하기",
+      "desc_en": "Gather 300 Yellow Bear Jellies",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "300",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "왕곰젤리 30개 이상 획득 하기",
+      "desc_en": "Gather 30 Giant Bear Jellies",
+      "reward": "10 Crystal",
+      "target": "30",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 99,
+    "mission1": {
+      "desc_ko": "날개 달린 젤리 135개 이상 획득 하기",
+      "desc_en": "Gather 135 Winged Jellies",
+      "reward": "7 Crystal",
+      "target": "135",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "장애물 충돌 2회 이하 하기",
+      "desc_en": "Run into 2 obstacles max",
+      "reward": "3 Mystery Box (ID: 834)",
+      "target": "2",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "날개 달린 젤리 8개 이하 획득 하기",
+      "desc_en": "Gather 8 Winged Jellies max",
+      "reward": "10 Crystal",
+      "target": "8",
+      "key": "1play"
+    }
+  },
+  {
+    "stage": 100,
+    "mission1": {
+      "desc_ko": "얼음문까지 달리기",
+      "desc_en": "Reach the Frozen Gate",
+      "reward": "1 Material (ID: 1509101)",
+      "target": "1",
+      "key": "1play"
+    },
+    "mission2": {
+      "desc_ko": "분홍 곰젤리 450개 이상 획득 하기",
+      "desc_en": "Gather 450 Pink Bear Jellies",
+      "reward": "3 Material (ID: 80004)",
+      "target": "450",
+      "key": "1play"
+    },
+    "mission3": {
+      "desc_ko": "얼음 곰젤리 800개 이상 획득 하기",
+      "desc_en": "Gather 800 Frozen Bear Jellies",
+      "reward": "7 Mystery Box (ID: 838)",
+      "target": "800",
+      "key": "1play"
+    }
+  }
+]
