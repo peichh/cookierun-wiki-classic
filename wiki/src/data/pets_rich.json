@@ -70,7 +70,7 @@
         "duration": "3000"
       }
     ],
-    "description_th": "เสกเยลลี่หมีชมพู"
+    "skill_description": "Periodically charges ahead to turn Jellies into Bear Jellies. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200200",
@@ -143,7 +143,7 @@
         "duration": "300"
       }
     ],
-    "description_th": "เสกเยลลี่หมีเหลือง"
+    "skill_description": "Picks up missed Jellies. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200300",
@@ -216,7 +216,7 @@
         "duration": "2000"
       }
     ],
-    "description_th": "เก็บเยลลี่และไอเทมแทนคุกกี้"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200400",
@@ -289,7 +289,7 @@
         "duration": "8000"
       }
     ],
-    "description_th": "เสกไอเทมเพิ่มคะแนน"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200500",
@@ -362,7 +362,7 @@
         "duration": "3000"
       }
     ],
-    "description_th": "เสกไอเทมขยายร่าง"
+    "skill_description": "Periodically creates a Gold Coin worth 10 regular Coins. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200600",
@@ -435,7 +435,7 @@
         "duration": "2000"
       }
     ],
-    "description_th": "เสกไอเทมสายฟ้า"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "200700",
@@ -508,7 +508,7 @@
         "duration": "0"
       }
     ],
-    "description_th": "เสกเหรียญทองและเงิน"
+    "skill_description": "Grows larger in Bonus Time."
   },
   {
     "id": "200800",
@@ -581,7 +581,7 @@
         "duration": ""
       }
     ],
-    "description_th": "เสกเหรียญจำนวนมาก"
+    "skill_description": "Faster base speed (up to 35%)"
   },
   {
     "id": "200900",
@@ -654,7 +654,7 @@
         "duration": "13000"
       }
     ],
-    "description_th": "ทำลายสิ่งกีดขวางด้วยไฟฟ้า"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201000",
@@ -727,7 +727,7 @@
         "duration": "19600"
       }
     ],
-    "description_th": "เสกไอเทมความเร็วสูงและอมตะชั่วคราว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.)"
   },
   {
     "id": "201100",
@@ -800,7 +800,7 @@
         "duration": ""
       }
     ],
-    "description_th": "ช่วยพยุงคุกกี้เมื่อตกเหว"
+    "skill_description": "Increases flying speed in Bonus Time."
   },
   {
     "id": "201200",
@@ -873,7 +873,7 @@
         "duration": ""
       }
     ],
-    "description_th": "ช่วยดึงคุกกี้ขึ้นจากเหว"
+    "skill_description": "Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
   },
   {
     "id": "201300",
@@ -946,7 +946,7 @@
         "duration": "14000"
       }
     ],
-    "description_th": "ระเบิดสิ่งกีดขวางเป็นเหรียญ"
+    "skill_description": "Periodically charges ahead to cause explosions that turn obstacles into Coins. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201400",
@@ -1019,7 +1019,7 @@
         "duration": "75000"
       }
     ],
-    "description_th": "เสกไอเทมโบนัสไทม์"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201500",
@@ -1092,7 +1092,7 @@
         "duration": "8000"
       }
     ],
-    "description_th": "สุ่มเสกไอเทมทุกชนิด"
+    "skill_description": "Periodically creates a random item. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201600",
@@ -1165,7 +1165,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "เสกไอเทมขยายร่างความเร็วสูง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201700",
@@ -1238,7 +1238,7 @@
         "duration": "13000"
       }
     ],
-    "description_th": "เรียกมังกรมาทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically summons Guardian Dragon, destroying obstacles in its way. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "201800",
@@ -1311,7 +1311,7 @@
         "duration": ""
       }
     ],
-    "description_th": "ลดอัตราการลดลงของพลังชีวิต"
+    "skill_description": "Slows HP drain (up to 17%)."
   },
   {
     "id": "201900",
@@ -1384,7 +1384,7 @@
         "duration": "4000"
       }
     ],
-    "description_th": "เสกเยลลี่กาแฟเพิ่มคะแนน"
+    "skill_description": "Periodically creates an Alphabet Jelly. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202000",
@@ -1457,7 +1457,7 @@
         "duration": ""
       }
     ],
-    "description_th": "เสกเยลลี่ดาวเพิ่มคะแนน"
+    "skill_description": "Revives the Cookie upon collapse."
   },
   {
     "id": "202100",
@@ -1530,7 +1530,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "เสกไอเทมขยายร่างและทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202300",
@@ -1603,7 +1603,7 @@
         "duration": ""
       }
     ],
-    "description_th": "เสกเยลลี่ดอกไม้หิมะ"
+    "skill_description": "Chance to create ice bridges over pits."
   },
   {
     "id": "202400",
@@ -1676,7 +1676,7 @@
         "duration": "20000"
       }
     ],
-    "description_th": "ยิงกระสุนเยลลี่ทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically launches Jellyco missiles Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202600",
@@ -1749,7 +1749,7 @@
         "duration": "10000"
       }
     ],
-    "description_th": "เสกเยลลี่สีรุ้ง"
+    "skill_description": "Periodically charges ahead to sprinkle Colorful Star Jellies. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202700",
@@ -1822,7 +1822,7 @@
         "duration": "18000"
       }
     ],
-    "description_th": "เสกไอเทมทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202800",
@@ -1895,7 +1895,7 @@
         "duration": "9000"
       }
     ],
-    "description_th": "เสกเยลลี่ไฟเพิ่มคะแนน"
+    "skill_description": "Absorbs Spirit Jellies one by one, restoring a small amount of HP with each absorbed. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "202900",
@@ -1968,7 +1968,7 @@
         "duration": "11000"
       }
     ],
-    "description_th": "เสกเหรียญทองขนาดใหญ่"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203000",
@@ -2041,7 +2041,7 @@
         "duration": "600"
       }
     ],
-    "description_th": "ช่วยพัดพาคุกกี้ไปข้างหน้า"
+    "skill_description": "Moves ahead to gather Jellies. (Cannot gather Jellies unaffected by magnetic effects.) Random Coins"
   },
   {
     "id": "203100",
@@ -2114,7 +2114,7 @@
         "duration": "16000"
       }
     ],
-    "description_th": "เสกไอเทมอมตะความเร็วสูง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203200",
@@ -2187,7 +2187,7 @@
         "duration": "10000"
       }
     ],
-    "description_th": "สุ่มเสกไอเทมฟื้นเลือดหรือเหรียญ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203300",
@@ -2260,7 +2260,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่หนังสือเพิ่มคะแนน"
+    "skill_description": "Grants Speed Points based on running speed."
   },
   {
     "id": "203400",
@@ -2333,7 +2333,7 @@
         "duration": "70000"
       }
     ],
-    "description_th": "เสกเยลลี่ดอกไม้ฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203500",
@@ -2406,7 +2406,7 @@
         "duration": "13000"
       }
     ],
-    "description_th": "ส่องไฟสปอร์ตไลท์ให้อมตะและแม่เหล็ก"
+    "skill_description": "Periodically shines a spotlight over the Cookie that grants Magnet, crushes obstacles on collision, and slows HP drain. (The Magnet does not stack with other magnetic effects.) Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203600",
@@ -2479,7 +2479,7 @@
         "duration": "18000"
       }
     ],
-    "description_th": "ช่วยพุ่งทะยานเมื่อตกเหว"
+    "skill_description": "Performs Pit Lift when the Cookie falls into a pit. Recharges after a time. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203700",
@@ -2552,7 +2552,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "เสกเยลลี่เค้กฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "203800",
@@ -2625,7 +2625,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "เสกหิมะทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates flying HP Potions accompanied by Snow Flower Jellies."
   },
   {
     "id": "203900",
@@ -2698,7 +2698,7 @@
         "duration": "2000"
       }
     ],
-    "description_th": "เสกเหรียญและเยลลี่นำโชค"
+    "skill_description": "Periodically creates a Gold Coin, with a small chance for a Giant Gold Coin. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204000",
@@ -2771,7 +2771,7 @@
         "duration": "1700"
       }
     ],
-    "description_th": "เสกเยลลี่ลูกกวาดชมพู"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically calls a Royal Bear Jelly Meteor from the sky, which creates Pink Candy Jellies when it hits the ground."
   },
   {
     "id": "204100",
@@ -2844,7 +2844,7 @@
         "duration": "4000"
       }
     ],
-    "description_th": "เสกเยลลี่เปลวไฟม่วง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically brightens its flame to reveal hidden Jellies. Obstacles set on fire become passable."
   },
   {
     "id": "204200",
@@ -2917,7 +2917,7 @@
         "duration": "16000"
       }
     ],
-    "description_th": "เสกไอเทมฟื้นเลือดและพุ่งตัว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Runs faster and longer after collecting Blast Jellies. (Counts as a riding skill.)"
   },
   {
     "id": "204300",
@@ -2990,7 +2990,7 @@
         "duration": "3000"
       }
     ],
-    "description_th": "เปลี่ยนเยลลี่เป็นคะแนนมหาศาล"
+    "skill_description": "Periodically converts Coins into points. (Amount converted at once is limited.) Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204400",
@@ -3063,7 +3063,7 @@
         "duration": "3000"
       }
     ],
-    "description_th": "เปลี่ยนคะแนนเป็นเหรียญ"
+    "skill_description": "Periodically converts points into Coins. (Amount converted at once is limited.) Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204500",
@@ -3136,7 +3136,7 @@
         "duration": "34000"
       }
     ],
-    "description_th": "เสกไอเทมพุ่งตัวและฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "204600",
@@ -3209,7 +3209,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่แอปเปิ้ล"
+    "skill_description": "Grants Speed Points based on running speed. Slows HP drain (up to 17%)."
   },
   {
     "id": "204700",
@@ -3282,7 +3282,7 @@
         "duration": "2500"
       }
     ],
-    "description_th": "เก็บเหรียญและเยลลี่ให้อัตโนมัติ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Cat Coin worth 20 Coins. The frequency gradually increases over time."
   },
   {
     "id": "204800",
@@ -3355,7 +3355,7 @@
         "duration": "7"
       }
     ],
-    "description_th": "สุ่มเสกไอเทมช่วยเหลือ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically performs a Power Burp, ejecting various Jellies in a cone formation."
   },
   {
     "id": "204900",
@@ -3428,7 +3428,7 @@
         "duration": "4000"
       }
     ],
-    "description_th": "เสกเยลลี่หมีราชา"
+    "skill_description": "Periodically charges ahead to crush obstacles and scatter various Jellies and items. Lays down a red carpet for the Cookie, allowing pits to be crossed safely. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
   },
   {
     "id": "205000",
@@ -3501,7 +3501,7 @@
         "duration": "19000"
       }
     ],
-    "description_th": "เสกไอเทมความเร็วสูงไฟฟ้า"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "205100",
@@ -3574,7 +3574,7 @@
         "duration": "10000"
       }
     ],
-    "description_th": "เสกขวดเลือดวิญญาณ"
+    "skill_description": "Periodically creates a Power Jelly, following a strict order. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "205200",
@@ -3647,7 +3647,7 @@
         "duration": "13000"
       }
     ],
-    "description_th": "เสกเยลลี่กีวี่พุ่งตัว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "205300",
@@ -3720,7 +3720,7 @@
         "duration": "4"
       }
     ],
-    "description_th": "สร้างเกราะป้องกันการชน"
+    "skill_description": "Brings an HP Potion upon collapse to grant up to 4 Revives for each Cookie."
   },
   {
     "id": "205400",
@@ -3793,7 +3793,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "ระเบิดสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "205600",
@@ -3866,7 +3866,7 @@
         "duration": "4266"
       }
     ],
-    "description_th": "เสกเยลลี่มาร์ชเมลโล่"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically charges ahead to absorb Jellies, then spits out Cocoa Marshmallow Jellies and an HP Potion."
   },
   {
     "id": "205700",
@@ -3939,7 +3939,7 @@
         "duration": "330"
       }
     ],
-    "description_th": "เสกเยลลี่ตัวโน้ตสีแดง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Star Fireworks Potion for 330 Coins (only when enough Coins are available). Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
   },
   {
     "id": "205800",
@@ -4012,7 +4012,7 @@
         "duration": "15000"
       }
     ],
-    "description_th": "เสกเยลลี่ตัวโน้ตสีฟ้า"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Royal Blast Coin. Shoots star candies that crush some obstacles and, when collected, earn points. More obstacles can be crushed with each upgrade."
   },
   {
     "id": "205900",
@@ -4085,7 +4085,7 @@
         "duration": "17000"
       }
     ],
-    "description_th": "เสกเยลลี่ขนมปัง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206000",
@@ -4158,7 +4158,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "ยิงกระสุนสีรุ้งทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically shoots Coloring Laser to create Mini Gumball Jellies. Slows HP drain (up to 17%)."
   },
   {
     "id": "206100",
@@ -4231,7 +4231,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกขวดเลือดน้ำชา"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206200",
@@ -4304,7 +4304,7 @@
         "duration": "4612"
       }
     ],
-    "description_th": "เสกเยลลี่ถั่วคู่"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates 2 Bean Jellies. Grants 2 Pit Lifts and 2 Revives with 22 HP to each Cookie. Brings an HP Potion upon collapse to grant up to 4 Revives for each Cookie. Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
   },
   {
     "id": "206300",
@@ -4377,7 +4377,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "ปล่อยกระแสไฟฟ้าทำลายสิ่งกีดขวาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206400",
@@ -4450,7 +4450,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่ส้ม"
+    "skill_description": "Grants Speed Points based on running speed. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206500",
@@ -4523,7 +4523,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกเหรียญแพลตตินั่ม"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
   },
   {
     "id": "206600",
@@ -4596,7 +4596,7 @@
         "duration": "3"
       }
     ],
-    "description_th": "เสกฟองสบู่อมตะ"
+    "skill_description": "Grants Speed Points based on running speed. Grants 3 Pit Lifts or Revives with 38 HP to each Cookie. Grants 3 Pit Lifts or Revives with 28 HP to each Cookie. Provides +100 HP for Cookie Relay."
   },
   {
     "id": "206700",
@@ -4669,7 +4669,7 @@
         "duration": "7"
       }
     ],
-    "description_th": "เสกเยลลี่เรือกระดาษ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically shoots Sea Bubble Jellies to crush obstacles. The first shot each time creates an HP Potion."
   },
   {
     "id": "206800",
@@ -4742,7 +4742,7 @@
         "duration": "18000"
       }
     ],
-    "description_th": "เสกไอเทมพุ่งตัวพลังน้ำ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "206900",
@@ -4815,7 +4815,7 @@
         "duration": "8"
       }
     ],
-    "description_th": "เสกเยลลี่ซาลาเปาฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically throws Dumpling Jellies, earning extra Coins with each throw. Obstacles hit by Dumpling Jellies are crushed."
   },
   {
     "id": "207000",
@@ -4888,7 +4888,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกไอเทมรักษาความเย็น"
+    "skill_description": "Grants Crush Points when crushing obstacles. Slows HP drain. Slows HP drain (up to 17%)."
   },
   {
     "id": "207100",
@@ -4961,7 +4961,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกขวดเลือดหัวหอม"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically sprays Onion Juice and creates Tear Jellies and Tear Jelly Potions. Obstacles touched by Onion Juice turn transparent and can be passed through."
   },
   {
     "id": "207200",
@@ -5034,7 +5034,7 @@
         "duration": "5"
       }
     ],
-    "description_th": "เสกเยลลี่เครื่องดนตรี"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically starts a performance to create Christmas Macaron Jellies, with an additional Power Jelly among them."
   },
   {
     "id": "207300",
@@ -5107,7 +5107,7 @@
         "duration": "25"
       }
     ],
-    "description_th": "เสกเยลลี่กระต่ายมายากล"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically throws Cinnamon Bombs, crushing obstacles and creating Cinnamon Bun Jellies. Strawberry Cinnamon Bun Jellies slightly restore HP."
   },
   {
     "id": "207400",
@@ -5180,7 +5180,7 @@
         "duration": "50000"
       }
     ],
-    "description_th": "เสกเยลลี่ต๊อกแมวน้ำ"
+    "skill_description": "Rolls around and earns points after collecting a certain number of Jellies."
   },
   {
     "id": "207500",
@@ -5253,7 +5253,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "หยุดเวลาชั่วคราว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "207600",
@@ -5326,7 +5326,7 @@
         "duration": "4"
       }
     ],
-    "description_th": "รดน้ำต้นไม้เสกเยลลี่"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically sprinkles water and grows Jelly Flowers, crushing obstacles."
   },
   {
     "id": "207700",
@@ -5399,7 +5399,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่ไข่ไดโนเสาร์"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "207800",
@@ -5472,7 +5472,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่จดหมายหัวใจ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "207900",
@@ -5545,7 +5545,7 @@
         "duration": "3000"
       }
     ],
-    "description_th": "เสกไอเทมส่องสว่างพุ่งตัว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically triggers Blast. Slows HP drain the rest of the time. Slows HP drain (up to 17%)."
   },
   {
     "id": "208000",
@@ -5618,7 +5618,7 @@
         "duration": "4"
       }
     ],
-    "description_th": "เสกเหรียญสิงโต"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically fires a Banana Face to destroy obstacles and create Coins along its trajectory."
   },
   {
     "id": "208100",
@@ -5691,7 +5691,7 @@
         "duration": "127"
       }
     ],
-    "description_th": "เสกเยลลี่แพนเค้กบิน"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically throws a Pancake Frisbee that crushes obstacles and creates Maple Syrup Jellies in its path."
   },
   {
     "id": "208200",
@@ -5764,7 +5764,7 @@
         "duration": "4370"
       }
     ],
-    "description_th": "ตำต๊อกเสกเยลลี่พระจันทร์"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to gather Jellies for the Cookie. Then pounds the collected Jellies into a giant Full Moon Rice Cake Jelly that restores a small amount of HP. (Full Moon Rice Cake Jellies are not affected by magnetic effects.) The green gauge charges over time. When it is full, Moonlight Cookie falls asleep and dreams. While dreaming, Moonlight Cookie attracts Dark Moon Jellies, while Star Powder Jellies appear and crush obstacles. When waking up, a small amount of HP is restored. (Leveling up makes the gauge fill faster.)"
   },
   {
     "id": "208300",
@@ -5837,7 +5837,7 @@
         "duration": "760"
       }
     ],
-    "description_th": "เสกเยลลี่เค้กสุนัข"
+    "skill_description": "Grants Speed Points based on running speed. Periodically creates a Silver Coin worth 5 regular Coins. Grants Speed Points based on running speed and periodically creates a Strawberry Potion."
   },
   {
     "id": "208400",
@@ -5910,7 +5910,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกเยลลี่กลองอินเดีย"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead to crush obstacles and turn nearby Jellies into Honey Bun Jellies. Slows HP drain while the skill is active. Periodically shines a spotlight over the Cookie that grants Magnet, crushes obstacles on collision, and slows HP drain. (The Magnet does not stack with other magnetic effects.)"
   },
   {
     "id": "208500",
@@ -5983,7 +5983,7 @@
         "duration": "760"
       }
     ],
-    "description_th": "เสกเยลลี่นกแก้ว"
+    "skill_description": "Grants Speed Points based on running speed. Grants Speed Points based on running speed and periodically creates a Strawberry Potion. Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "208700",
@@ -6056,7 +6056,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกเยลลี่ไข่กระต่าย"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically charges ahead, crushing obstacles and creating Egg Jellies and HP Egg Jellies."
   },
   {
     "id": "208900",
@@ -6129,7 +6129,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกเยลลี่พุดดิ้งแตงกวา"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically sings to summon the Frog Family. The Frog Family crushes obstacles and creates Duckweed Jellies."
   },
   {
     "id": "209000",
@@ -6202,7 +6202,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่ข้าวสีนิลฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "209100",
@@ -6275,7 +6275,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่ข้าวสีขาวพุ่งตัว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "209200",
@@ -6348,7 +6348,7 @@
         "duration": "3"
       }
     ],
-    "description_th": "เสกเยลลี่ม้าบินอมตะ"
+    "skill_description": "Grants Speed Points based on running speed. Grants 3 Pit Lifts or Revives with 38 HP to each Cookie. Grants Speed Points based on running speed. Grants Speed Points based on running speed and periodically creates a Strawberry Potion."
   },
   {
     "id": "209300",
@@ -6421,7 +6421,7 @@
         "duration": "5000"
       }
     ],
-    "description_th": "เสกเยลลี่เค้กวิญญาณ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically sheds tears, causing Tear Jellies and Honey Tear Jellies to rain from the sky. Collecting Honey Tear Jellies restores HP. Honey Tear Jellies do not count as HP Potions."
   },
   {
     "id": "209400",
@@ -6494,7 +6494,7 @@
         "duration": "35"
       }
     ],
-    "description_th": "เสกเยลลี่มันฝรั่ง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Giant Jelly surrounded by Coins. Grants bonus Coins depending on speed."
   },
   {
     "id": "209500",
@@ -6567,7 +6567,7 @@
         "duration": "30000"
       }
     ],
-    "description_th": "เสกเยลลี่เครื่องรางนำโชค"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically flies up and rams into the ground, crushing obstacles to earn Crush Points. Leaves behind Scallion Kimchi Bear Jellies in place of crushed obstacles and an HP potion at its impact. Sprinkles seasoning to grant 1 Revive upon collapse. Revives the Cookie upon collapse."
   },
   {
     "id": "209600",
@@ -6640,7 +6640,7 @@
         "duration": "40000"
       }
     ],
-    "description_th": "เสกเยลลี่กิมจิ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically moves ahead, pickling obstacles with salt to make them passable. Slows HP drain while the skill is active. Sprinkles salt to revive the Cookie once upon collapse. Revives the Cookie upon collapse. Periodically shines a spotlight over the Cookie that grants Magnet, crushes obstacles on collision, and slows HP drain. (The Magnet does not stack with other magnetic effects.)"
   },
   {
     "id": "209700",
@@ -6713,7 +6713,7 @@
         "duration": "20"
       }
     ],
-    "description_th": "เสกเยลลี่บันทึกโบราณ"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically records a journal and grants bonus points based on the number of points earned. Then creates a Yellow Bear Jelly Party and restores HP. Grants one more score when the Cookie collapses and reveals the top 5 records of the run."
   },
   {
     "id": "209800",
@@ -6786,7 +6786,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกเยลลี่หอยทากขนม"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Snail Slime Jelly that grants Giant and Magnet for a short time, and creates Dew Jellies that crush obstacles."
   },
   {
     "id": "209900",
@@ -6859,7 +6859,7 @@
         "duration": "50"
       }
     ],
-    "description_th": "เสกเยลลี่นกไม้นำทาง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable."
   },
   {
     "id": "210000",
@@ -6932,7 +6932,7 @@
         "duration": "200"
       }
     ],
-    "description_th": "เสกเยลลี่เม่นช็อกโกแลต"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically dashes ahead, bouncing off obstacles and scattering Cocoa Powder. Areas covered in Cocoa Powder turn into Cocoa Ground and generate Chewy Choco Jellies. While on Cocoa Ground, HP drains more slowly."
   },
   {
     "id": "210100",
@@ -7005,7 +7005,7 @@
         "duration": "200"
       }
     ],
-    "description_th": "เสกเยลลี่สปอร์เห็ด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically flies ahead on a flower petal, creating Spring Flower Jellies and a winged HP Potion on the path."
   },
   {
     "id": "210200",
@@ -7078,7 +7078,7 @@
         "duration": "1000"
       }
     ],
-    "description_th": "เสกขวดเลือดน้ำผึ้ง"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins."
   },
   {
     "id": "210300",
@@ -7151,7 +7151,7 @@
         "duration": "11"
       }
     ],
-    "description_th": "เสกเยลลี่มังกรขาวพุ่งตัว"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically changes into dragon form and charges ahead to turn Jellies into Pine Powder Jellies and restore HP."
   },
   {
     "id": "210400",
@@ -7224,7 +7224,7 @@
         "duration": "7"
       }
     ],
-    "description_th": "เสกเยลลี่ใบบัวฟื้นเลือด"
+    "skill_description": "Periodically creates a Silver Coin worth 5 regular Coins. Periodically creates a Lotus Drop Jelly that bursts, making nearby obstacles passable."
   },
   {
     "id": "290100",
@@ -7297,7 +7297,7 @@
         "duration": "1150"
       }
     ],
-    "description_th": "-"
+    "skill_description": "Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable. 100 Medals"
   },
   {
     "id": "290200",
@@ -7370,6 +7370,6 @@
         "duration": "1250"
       }
     ],
-    "description_th": "-"
+    "skill_description": "Periodically drops Sotdae poles from the sky to create Almond Slice Jellies. Obstacles hit by the poles become transparent and passable. 50 Medals"
   }
 ]

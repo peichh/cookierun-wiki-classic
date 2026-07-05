@@ -3,28 +3,50 @@ import cookiesDataRaw from './data/cookies_rich.json';
 import petsDataRaw from './data/pets_rich.json';
 import IceTowerPage from './IceTowerPage';
 
-// Simple types for Classic CookieRun
+interface CookieLevel {
+  level: string;
+  hp: string | null;
+  skill_value_1: string;
+  skill_value_2: string;
+}
+
 interface Cookie {
   id: string;
   name: string;
-  levels: { hp: string | null; skill_value_1: string; skill_value_2: string }[];
+  skill_description: string;
+  description_th: string;
+  levels: CookieLevel[];
+}
+
+interface PetLevel {
+  level: string;
+  cooldown: string | null;
 }
 
 interface Pet {
   id: string;
   name: string;
-  levels: { cooldown: string | null }[];
+  skill_description: string;
+  description_th: string;
+  levels: PetLevel[];
 }
 
 const cookiesData = cookiesDataRaw as Cookie[];
 const petsData = petsDataRaw as Pet[];
 
-// Utility mapping based on known archetypes for filtering
 const CATEGORIES: Record<string, string[]> = {
-  'Obstacle Destruction': ['GingerBrave', 'Muscle Cookie', 'Ninja Cookie', 'Knight Cookie', 'Pirate Cookie', 'Muscle', 'Ninja', 'Knight', 'Pirate', 'Werewolf', 'Tiger Lily', 'Fire Spirit'],
-  'Coin Farming': ['Buttercream Choco', 'Banana Cookie', 'Cheesecake Cookie', 'Mint Choco Cookie', 'Alchemist Cookie', 'Buttercream', 'Banana', 'Cheesecake', 'Mint Choco', 'Alchemist'],
-  'High Score': ['Strawberry Cookie', 'Skating Queen Cookie', 'Moonlight Cookie', 'Sea Fairy Cookie', 'Wind Archer Cookie', 'Skating Queen', 'Moonlight', 'Sea Fairy', 'Wind Archer'],
+  'Obstacle Destruction': ['GingerBrave', 'Muscle Cookie', 'Ninja Cookie', 'Knight Cookie', 'Pirate Cookie', 'Werewolf', 'Tiger Lily', 'Fire Spirit'],
+  'Coin Farming': ['Buttercream Choco', 'Banana Cookie', 'Cheesecake Cookie', 'Mint Choco Cookie', 'Alchemist Cookie'],
+  'High Score': ['Strawberry Cookie', 'Skating Queen Cookie', 'Moonlight Cookie', 'Sea Fairy Cookie', 'Wind Archer Cookie'],
 };
+
+function formatCooldown(raw: string | null): string {
+  if (!raw) return 'N/A';
+  const val = parseFloat(raw);
+  // Rule: Cooldown 1000 -> 10.0s (deciseconds/100 or frames/60, based on Choco Drop 1000)
+  // Standardizing on /100 for now which matches most common data dumps
+  return (val / 100).toFixed(1) + 's';
+}
 
 export default function App() {
   const [search, setSearch] = useState('');
@@ -46,9 +68,11 @@ export default function App() {
   if (tab === 'icetower') {
     return (
       <>
-        <nav className="bg-slate-900 border-b border-slate-800 p-4">
+        <nav className="bg-slate-900 border-b border-slate-800 p-4 sticky top-0 z-50">
           <div className="max-w-6xl mx-auto flex gap-4">
-            <button onClick={() => setTab('cookies')} className="text-slate-400 hover:text-white text-sm font-medium transition-colors">← Back to Wiki</button>
+            <button onClick={() => setTab('cookies')} className="text-slate-400 hover:text-white text-sm font-medium transition-colors flex items-center gap-2">
+              <span>←</span> Back to Wiki
+            </button>
           </div>
         </nav>
         <IceTowerPage />
@@ -57,66 +81,45 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 font-sans">
-      <header className="max-w-6xl mx-auto mb-12 flex justify-between items-start">
+    <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 font-sans selection:bg-rose-500/30">
+      <header className="max-w-6xl mx-auto mb-12 flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
         <div>
-          <h1 className="text-4xl font-bold bg-gradient-to-r from-orange-400 to-rose-500 bg-clip-text text-transparent mb-2">
-            CookieRun Technical Wiki
+          <h1 className="text-5xl font-black bg-gradient-to-r from-orange-400 via-rose-500 to-fuchsia-600 bg-clip-text text-transparent mb-3 tracking-tight">
+            CookieRun Wiki
           </h1>
-          <p className="text-slate-400">Authentic technical data for CookieRun Classic</p>
+          <p className="text-slate-400 font-medium">Professional grade technical database</p>
         </div>
         <button 
           onClick={() => setTab('icetower')}
-          className="bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-xl text-sm font-bold shadow-lg shadow-blue-900/20 transition-all"
+          className="group relative px-6 py-3 bg-blue-600 hover:bg-blue-500 text-white rounded-2xl text-sm font-bold shadow-xl shadow-blue-900/40 transition-all hover:-translate-y-0.5 active:translate-y-0"
         >
-          ❄️ Ice Tower Data
+          <span className="flex items-center gap-2">
+            <span className="text-lg">❄️</span> Ice Tower Data
+          </span>
         </button>
       </header>
 
-      <main className="max-w-6xl mx-auto space-y-8">
-        {/* Core Physics Card */}
-        <section className="bg-slate-900/50 border border-slate-800 rounded-2xl p-6 backdrop-blur-sm">
-          <h2 className="text-xl font-semibold mb-4 text-orange-400 flex items-center gap-2">
-            ⚙️ Core Physics Reference
-          </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-sm">
-            <div className="space-y-1">
-              <span className="text-slate-500 block uppercase tracking-wider text-xs">Gravity</span>
-              <span className="text-xl font-mono">0.8</span>
+      <main className="max-w-6xl mx-auto space-y-12">
+        {/* Search & Tabs */}
+        <section className="space-y-6">
+          <div className="flex flex-col md:flex-row gap-4 items-center">
+            <div className="relative flex-1 w-full">
+              <input 
+                type="text" 
+                placeholder="Search by name or ID..."
+                className="w-full bg-slate-900/80 border border-slate-700/50 rounded-2xl px-6 py-4 focus:outline-none focus:ring-2 focus:ring-rose-500/50 transition-all backdrop-blur-xl"
+                value={search}
+                onChange={(e) => setSearch(e.target.value)}
+              />
             </div>
-            <div className="space-y-1">
-              <span className="text-slate-500 block uppercase tracking-wider text-xs">Jump Velocity</span>
-              <span className="text-xl font-mono">14.5</span>
-            </div>
-            <div className="space-y-1">
-              <span className="text-slate-500 block uppercase tracking-wider text-xs">Double Jump</span>
-              <span className="text-xl font-mono">12.0</span>
-            </div>
-            <div className="space-y-1">
-              <span className="text-slate-500 block uppercase tracking-wider text-xs">Health Drain</span>
-              <span className="text-xl font-mono">1 HP/s</span>
-            </div>
-          </div>
-        </section>
-
-        {/* Search & Filters */}
-        <section className="space-y-4">
-          <div className="flex flex-col md:flex-row gap-4">
-            <input 
-              type="text" 
-              placeholder="Search by name or ID..."
-              className="flex-1 bg-slate-900 border border-slate-700 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-rose-500/50 transition-all"
-              value={search}
-              onChange={(e) => setSearch(e.target.value)}
-            />
-            <div className="flex bg-slate-900 rounded-xl p-1 border border-slate-800">
+            <div className="flex bg-slate-900/80 rounded-2xl p-1.5 border border-slate-800 shadow-inner">
               <button 
                 onClick={() => setTab('cookies')}
-                className={`px-6 py-2 rounded-lg transition-all ${tab === 'cookies' ? 'bg-slate-800 text-white shadow-lg' : 'text-slate-500 hover:text-slate-300'}`}
+                className={`px-8 py-2.5 rounded-xl font-bold transition-all ${tab === 'cookies' ? 'bg-slate-800 text-white shadow-lg' : 'text-slate-500 hover:text-slate-300'}`}
               >Cookies</button>
               <button 
                 onClick={() => setTab('pets')}
-                className={`px-6 py-2 rounded-lg transition-all ${tab === 'pets' ? 'bg-slate-800 text-white shadow-lg' : 'text-slate-500 hover:text-slate-300'}`}
+                className={`px-8 py-2.5 rounded-xl font-bold transition-all ${tab === 'pets' ? 'bg-slate-800 text-white shadow-lg' : 'text-slate-500 hover:text-slate-300'}`}
               >Pets</button>
             </div>
           </div>
@@ -124,40 +127,53 @@ export default function App() {
           <div className="flex flex-wrap gap-2">
             <button 
               onClick={() => setPlaystyle(null)}
-              className={`px-4 py-1.5 rounded-full text-xs font-medium border transition-all ${!playstyle ? 'bg-rose-500 border-rose-500 text-white' : 'border-slate-800 text-slate-400 hover:border-slate-600'}`}
+              className={`px-5 py-2 rounded-xl text-xs font-bold border transition-all ${!playstyle ? 'bg-rose-500 border-rose-500 text-white' : 'border-slate-800 text-slate-400 hover:border-slate-600'}`}
             >All</button>
             {Object.keys(CATEGORIES).map(cat => (
               <button 
                 key={cat}
                 onClick={() => setPlaystyle(cat)}
-                className={`px-4 py-1.5 rounded-full text-xs font-medium border transition-all ${playstyle === cat ? 'bg-orange-500 border-orange-500 text-white' : 'border-slate-800 text-slate-400 hover:border-slate-600'}`}
+                className={`px-5 py-2 rounded-xl text-xs font-bold border transition-all ${playstyle === cat ? 'bg-orange-500 border-orange-500 text-white' : 'border-slate-800 text-slate-400 hover:border-slate-600'}`}
               >{cat}</button>
             ))}
           </div>
         </section>
 
-        {/* Data List */}
-        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {/* Data Grid */}
+        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {tab === 'cookies' ? filteredCookies.map(cookie => {
             const maxLevel = cookie.levels[cookie.levels.length - 1];
             return (
-              <div key={cookie.id} className="bg-slate-900/40 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition-all group">
-                <div className="flex justify-between items-start mb-4">
+              <div key={cookie.id} className="bg-slate-900/40 border border-slate-800/80 rounded-3xl p-6 hover:border-rose-500/30 transition-all group relative overflow-hidden">
+                <div className="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+                  <span className="text-4xl font-black">🍪</span>
+                </div>
+                <div className="flex justify-between items-start mb-6">
                   <div>
-                    <span className="text-[10px] font-mono text-slate-500 uppercase tracking-widest">#{cookie.id}</span>
-                    <h3 className="text-lg font-bold group-hover:text-rose-400 transition-colors">{cookie.name}</h3>
-                    <p className="text-xs text-slate-400 mt-1 italic">{(cookie as any).description_th}</p>
+                    <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest bg-slate-800/50 px-2 py-0.5 rounded-md">ID {cookie.id}</span>
+                    <h3 className="text-xl font-black mt-2 group-hover:text-rose-400 transition-colors tracking-tight">{cookie.name}</h3>
+                    <p className="text-xs text-slate-400 mt-1 line-clamp-1">{cookie.description_th}</p>
                   </div>
-                  <div className="bg-slate-800 px-3 py-1 rounded-lg text-xs font-bold text-emerald-400">
+                  <div className="bg-slate-800/80 border border-slate-700/50 px-3 py-1 rounded-xl text-xs font-black text-emerald-400">
                     {maxLevel.hp} HP
                   </div>
                 </div>
-                <div className="space-y-3">
-                  <div className="p-3 bg-slate-950/50 rounded-xl border border-slate-800/50 text-sm text-slate-300">
-                    <span className="text-[10px] text-slate-500 block mb-1 uppercase">Max Skill Values</span>
-                    <div className="flex gap-4 font-mono text-xs">
-                      <span>V1: {maxLevel.skill_value_1 || '0'}</span>
-                      <span>V2: {maxLevel.skill_value_2 || '0'}</span>
+                
+                <div className="space-y-4">
+                  <div className="p-4 bg-slate-950/80 rounded-2xl border border-slate-800/50">
+                    <span className="text-[10px] font-bold text-slate-500 block mb-2 uppercase tracking-wider">Passive Skill (Max Level)</span>
+                    <p className="text-sm text-slate-200 font-medium leading-relaxed">
+                      {cookie.skill_description.replace('{V1}', maxLevel.skill_value_1 || '0').replace('{V2}', maxLevel.skill_value_2 || '0')}
+                    </p>
+                  </div>
+                  <div className="flex gap-4 px-2">
+                    <div className="flex-1">
+                      <span className="text-[9px] font-bold text-slate-600 uppercase">Var 1</span>
+                      <div className="text-sm font-mono font-bold text-rose-400">{maxLevel.skill_value_1 || '—'}</div>
+                    </div>
+                    <div className="flex-1">
+                      <span className="text-[9px] font-bold text-slate-600 uppercase">Var 2</span>
+                      <div className="text-sm font-mono font-bold text-orange-400">{maxLevel.skill_value_2 || '—'}</div>
                     </div>
                   </div>
                 </div>
@@ -166,22 +182,35 @@ export default function App() {
           }) : filteredPets.map(pet => {
             const maxLevel = pet.levels[pet.levels.length - 1];
             return (
-              <div key={pet.id} className="bg-slate-900/40 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition-all group">
-                <div className="flex justify-between items-start mb-4">
+              <div key={pet.id} className="bg-slate-900/40 border border-slate-800/80 rounded-3xl p-6 hover:border-sky-500/30 transition-all group relative overflow-hidden">
+                <div className="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+                  <span className="text-4xl font-black">🐾</span>
+                </div>
+                <div className="flex justify-between items-start mb-6">
                   <div>
-                    <span className="text-[10px] font-mono text-slate-500 uppercase tracking-widest">#{pet.id}</span>
-                    <h3 className="text-lg font-bold group-hover:text-orange-400 transition-colors">{pet.name}</h3>
-                    <p className="text-xs text-slate-400 mt-1 italic">{(pet as any).description_th}</p>
+                    <span className="text-[10px] font-black text-slate-500 uppercase tracking-widest bg-slate-800/50 px-2 py-0.5 rounded-md">ID {pet.id}</span>
+                    <h3 className="text-xl font-black mt-2 group-hover:text-sky-400 transition-colors tracking-tight">{pet.name}</h3>
+                    <p className="text-xs text-slate-400 mt-1 line-clamp-1">{pet.description_th}</p>
                   </div>
-                  <div className="bg-slate-800 px-3 py-1 rounded-lg text-xs font-bold text-sky-400">
-                    {maxLevel.cooldown} CD
+                  <div className="bg-slate-800/80 border border-slate-700/50 px-3 py-1 rounded-xl text-xs font-black text-sky-400">
+                    {formatCooldown(maxLevel.cooldown)} CD
                   </div>
+                </div>
+                <div className="p-4 bg-slate-950/80 rounded-2xl border border-slate-800/50">
+                  <span className="text-[10px] font-bold text-slate-500 block mb-2 uppercase tracking-wider">Active Ability</span>
+                  <p className="text-sm text-slate-200 font-medium leading-relaxed">
+                    {pet.skill_description}
+                  </p>
                 </div>
               </div>
             )
           })}
         </section>
       </main>
+
+      <footer className="max-w-6xl mx-auto mt-20 pt-8 border-t border-slate-900 text-center text-slate-600 text-xs font-medium">
+        &copy; 2026 CookieRun Technical Wiki &bull; Processed by Poke
+      </footer>
     </div>
   );
 }
